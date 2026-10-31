@@ -9,4 +9,13 @@ window.LIO_CONFIG = {
     iac: "6950741",
     whatsapp: "",            // e.g. "60123456789" (country code, no + or spaces). Empty = no WhatsApp button
   },
+  // 「关注狮爷」buttons: fill what you have, leave the rest empty (an empty one is simply not shown)
+  SOCIAL: {
+    facebook: "",            // Facebook page address, e.g. "https://www.facebook.com/datoliotalk"
+    messenger: "",           // the page's username for Messenger, e.g. "datoliotalk"  -> m.me/datoliotalk
+    instagram: "",           // Instagram username without @, e.g. "datoliotalk"
+  },
+  // Meta (Facebook / Instagram) Pixel: shows your ads to people who visited the site. Empty = off.
+  // Only loads after the visitor accepts cookies.
+  META_PIXEL_ID: "",         // Events Manager → Data sources → your Pixel → the long number
 };

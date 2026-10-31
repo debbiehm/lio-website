@@ -64,6 +64,28 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
 想要写得更好可以换 Claude Opus 5.5（约 US$0.02 / 则，每月约 US$75–110）：同一个页面加一个 **Variables**（不是 Secret）：`LIO_SUMMARY_MODEL` = `claude-opus-5-5`。
 没有设 key 也没关系：网站会显示媒体自己的简短摘要。
 
+## 3c. 社交媒体：「关注狮爷」按钮 + Meta Pixel
+
+打开 `config.js`，填你有的就好（没填的按钮不会出现）：
+
+```js
+AGENT: { ..., whatsapp: "60123456789" },          // WhatsApp 号码，国家码开头，不要 + 和空格
+SOCIAL: {
+  facebook: "https://www.facebook.com/你的专页",
+  messenger: "你的专页用户名",                    // m.me/后面那段
+  instagram: "你的IG用户名",                      // 不用 @
+},
+META_PIXEL_ID: "1234567890",                      // 下面第 2 步拿
+```
+
+**Meta Pixel（在 FB / IG 再接触看过网站的人）**
+1. 到 Meta Business Suite → **Events Manager** → Connect data sources → **Web** → 取名（例如 Dato Lio Talk）→ 选 **Meta Pixel**。
+2. 不用照它的「安装代码」步骤，只要复制 **Pixel ID**（一串数字）填进 `config.js` 的 `META_PIXEL_ID`。
+3. 网站会先问访客同意 cookie，按「接受」的人才会加载 Pixel（PDPA）。只记录行为，不传名字、电邮、电话：
+   - `PageView` 看了哪一页 · `ViewContent` 看了哪类新闻 · `QuickCheck` 用了「算一算」· `Lead` 注册 · `Contact` 按了私讯 / WhatsApp
+4. 之后在 Ads Manager → Audiences → **Custom audience → Website**，例如「过去 30 天看过保险新闻的人」，就可以投广告给他们。
+5. 网址换成 datoliotalk.com 后，到 Business Settings → **Domains** 验证网域（Meta 会给一行 DNS 记录）。
+
 ## 4. Lio 设定
 
 Lio → ⚙ 设定 → **网站同步**：填 Supabase 网址、anon key、第 1 步的顾问电邮和密码 → 保存（密码用 Windows 加密存在这台电脑）。

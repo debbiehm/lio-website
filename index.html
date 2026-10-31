@@ -45,6 +45,7 @@
           <div id="quick-out" hidden></div>
         </div>
         <a class="side-me need-login" href="#me"><b data-t="hero_cta_in"></b><span>→</span></a>
+        <div class="follow" id="follow" hidden></div>
       </aside></div>
       <div class="list" id="news"></div>
     </div>
@@ -115,7 +116,7 @@
 
 <footer>
   <span><b>狮爷谈金融</b> Dato Lio Talk · <span data-t="foot_about"></span><span id="foot-demo"></span></span>
-  <span class="small" data-t="foot_privacy"></span>
+  <span class="small"><span data-t="foot_privacy"></span> <button class="link small" id="cookie-open" hidden data-t="cookie_link"></button></span>
 </footer>
 
 <!-- ---------------------------------------------------------------- login / register -->
@@ -134,6 +135,11 @@
     <button type="button" class="link log" id="forgot" data-t="forgot"></button>
   </form>
 </dialog>
+
+<div class="cookie" id="cookie" hidden>
+  <p data-t="cookie_text"></p>
+  <div><button class="ghost" id="cookie-no" data-t="cookie_no"></button><button class="primary" id="cookie-ok" data-t="cookie_ok"></button></div>
+</div>
 
 <div id="toast"></div>
 <script src="config.js"></script>

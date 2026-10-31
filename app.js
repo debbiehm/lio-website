@@ -78,6 +78,7 @@
     $("#foot-demo").textContent = live ? "" : " " + t("demo");
     $("#today").textContent = new Date().toLocaleDateString(lang === "zh" ? "zh-CN" : "en-MY", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
     if (!$("#quick-out").hidden) quickCheck();
+    drawFollow();
     drawArticle();
     const st = $("#state"), cur = st.value;
     st.innerHTML = `<option value="">${t("state_pick")}</option>` + window.LIO_STATES.map(s => `<option>${s}</option>`).join("");
@@ -137,17 +138,19 @@
   }
 
   function metaOf(x) {
-    return `<span class="meta">${x.site ? `<img src="https://www.google.com/s2/favicons?domain=${esc(x.site)}&sz=32" alt="" loading="lazy">` : ""}
+    return `<span class="meta">${x.site ? `<img src="https://www.google.com/s2/favicons?domain=${esc(x.site)}&sz=32" alt="" loading="lazy" onerror="this.remove()">` : ""}
       ${esc(x.source)}${x.date ? " · " + ago(x.date) : ""}</span>`;
   }
 
   // ---------------------------------------------------------------- one story on this site: summary first, the original link at the bottom
+  let viewed = null;
   function drawArticle() {
     const m = (location.hash || "").match(/^#a\/(\w+)/);
     if (!m || !news) return;
     const x = byId[m[1]], box = $("#article");
     if (!x) { box.innerHTML = `<p class="muted">${t("story_gone")}</p><a class="btn primary" href="#home">${t("back_home")}</a>`; return; }
     document.title = x.title + " · 狮爷谈金融 Dato Lio Talk";
+    if (viewed !== x.id) { viewed = x.id; track("ViewContent", { content_category: x.cat }); }
     const more = (news.categories[x.cat] || []).filter(y => y.id !== x.id && (y.lang === x.lang)).slice(0, 6)
       .map(y => `<a class="news" style="--c:${CAT_COLOR[x.cat]}" href="#a/${y.id}"><b>${esc(y.title)}</b>${metaOf(y)}</a>`).join("");
     box.style.setProperty("--c", CAT_COLOR[x.cat]);
@@ -170,6 +173,52 @@
     $$("[data-cat]", box).forEach(b => b.onclick = e => { e.preventDefault(); cat = b.dataset.cat; location.hash = "#home"; drawNews(); });
   }
 
+  // ---------------------------------------------------------------- 关注狮爷: follow / message on social media (only what's filled in config.js)
+  function drawFollow() {
+    const s = cfg.SOCIAL || {}, wa = cfg.AGENT.whatsapp, ig = (s.instagram || "").replace(/^@/, "");
+    const links = [
+      s.facebook && ["fb", s.facebook, "Facebook"],
+      ig && ["ig", "https://www.instagram.com/" + ig, "Instagram"],
+      s.messenger && ["msg", "https://m.me/" + s.messenger, t("btn_messenger")],
+      ig && ["igdm", "https://ig.me/m/" + ig, t("btn_igdm")],
+      wa && ["wa", `https://wa.me/${wa}?text=${encodeURIComponent(t("wa_hello"))}`, "WhatsApp"],
+    ].filter(Boolean);
+    const box = $("#follow");
+    box.hidden = !links.length;
+    box.innerHTML = `<h3>${t("follow_title")}</h3><p class="small">${t("follow_text")}</p><div class="soc">${links.map(([k, href, label]) =>
+      `<a class="s-${k}" href="${esc(href)}" target="_blank" rel="noopener" data-soc="${k}">${label}</a>`).join("")}</div>`;
+    $$("[data-soc]", box).forEach(a => a.onclick = () => track("Contact", { content_name: a.dataset.soc }));
+  }
+
+  // ---------------------------------------------------------------- Meta Pixel, only with the visitor's consent (PDPA)
+  const PIXEL = (cfg.META_PIXEL_ID || "").trim();
+  function consent() { try { return localStorage.getItem("lio_cookie"); } catch { return null; } }
+  function loadPixel() {
+    if (!PIXEL || window.fbq || consent() !== "yes") return;
+    /* Meta's standard loader */
+    !function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = "2.0"; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v;
+      s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); }(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+    fbq("init", PIXEL);
+    fbq("track", "PageView");
+  }
+  // what people do, never who they are: no names, emails or numbers are sent
+  function track(ev, data = {}, custom = false) { if (window.fbq) fbq(custom ? "trackCustom" : "track", ev, data); }
+  function cookieBar(show) { $("#cookie").hidden = !show; }
+  if (PIXEL) {
+    $("#cookie-open").hidden = false;
+    $("#cookie-open").onclick = () => cookieBar(true);
+    $("#cookie-ok").onclick = () => { try { localStorage.setItem("lio_cookie", "yes"); } catch {} cookieBar(false); loadPixel(); };
+    $("#cookie-no").onclick = () => {
+      const was = consent() === "yes";
+      try { localStorage.setItem("lio_cookie", "no"); } catch {}
+      cookieBar(false);
+      if (was) location.reload();             // stop the pixel that is already running
+    };
+    if (!consent()) setTimeout(() => cookieBar(true), 1500);
+    loadPixel();
+  }
+
   // ---------------------------------------------------------------- quick check: no sign-up needed (same formulas as the review)
   function quickCheck() {
     const f = $("#quick"), n = k => Number(String(f[k].value).replace(/[,\sRM]/gi, "")) || 0, out = $("#quick-out");
@@ -178,6 +227,7 @@
     if (!age || !income) { out.innerHTML = `<p class="err">${t("q_need")}</p>`; return; }
     const rm = v => "RM " + Math.max(0, Math.round(v)).toLocaleString("en-MY");
     try { sessionStorage.setItem("lio_quick", JSON.stringify({ income, debts })); } catch {}
+    track("QuickCheck", {}, true);
     out.innerHTML = `<div class="q-row"><span>${t("q_tpd")}</span><b>${rm(income * Math.max(0, 60 - age) + debts)}</b></div>
       <div class="q-row"><span>${t("q_ci")}</span><b>${rm(income * 3)}</b></div>
       <p class="small">${t("q_after")}</p>
@@ -205,6 +255,7 @@
         if (!f.consent) { err.textContent = t("need_consent"); return; }
         const meta = { name: f.name.trim(), phone: f.phone.trim(), consent_at: new Date().toISOString() };
         const inNow = await api.signUp(f.email.trim(), f.password, meta);
+        track("Lead");
         if (!inNow) { $("#auth").close(); toast(t("check_email")); return; }
       } else {
         await api.signIn(f.email.trim(), f.password);
@@ -321,6 +372,7 @@
   }
 
   // ---------------------------------------------------------------- pages
+  let routed = false;
   function route() {
     let page = (location.hash || "#home").slice(1);
     if (page === "me" && !me) { page = "home"; setAuthMode("login"); $("#auth").showModal(); }
@@ -331,6 +383,8 @@
     const slot = $("#page-" + page + " .side-slot");
     if (slot) slot.appendChild($("#side"));   // the quick check follows the reader onto the story page
     if (page === "article") drawArticle();
+    if (routed) track("PageView");             // the site is one page: count each screen
+    routed = true;
     window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", route);
