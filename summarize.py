@@ -120,14 +120,18 @@ def add_summaries(items, client=None):
             cache = json.load(f)
     except (OSError, ValueError):
         cache = {}
+    import anthropic
     if client is None and os.environ.get("ANTHROPIC_API_KEY"):
-        import anthropic
         client = anthropic.Anthropic()
     made = 0
     for it in items:
         if it["id"] not in cache and client is not None and made < MAX_NEW:
             try:
                 cache[it["id"]] = summarise(client, it)
+            except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as e:
+                print("  API key not accepted, no summaries this run:", type(e).__name__)
+                client = None                # the key is wrong: no point trying every story
+                continue
             except Exception as e:          # network / rate limit: try again next run
                 print("  summary failed:", type(e).__name__, str(e)[:120])
                 continue
