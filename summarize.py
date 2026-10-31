@@ -113,6 +113,15 @@ def summarise(client, item):
             "why": data["why"].strip()}
 
 
+def key_shape():
+    """What the key looks like, never the key: its type prefix, length and stray characters (for fixing a bad paste)."""
+    k = os.environ.get("ANTHROPIC_API_KEY") or ""
+    kind = next((p for p in ("sk-ant-api", "sk-ant-oat", "sk-ant-admin", "sk-ant-") if k.strip().startswith(p)), "unknown prefix")
+    spaces = any(c.isspace() for c in k)
+    quoted = k.strip()[:1] in ("'", '"') and bool(k.strip())
+    return f"type={kind} length={len(k)} spaces_or_newlines={spaces} quotes={quoted}"
+
+
 def add_summaries(items, client=None):
     """Put item["ai"] on every story that has (or now gets) a summary. Returns how many were written this run."""
     try:
@@ -129,7 +138,7 @@ def add_summaries(items, client=None):
             try:
                 cache[it["id"]] = summarise(client, it)
             except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as e:
-                print("  API key not accepted, no summaries this run:", type(e).__name__)
+                print("  API key not accepted, no summaries this run:", type(e).__name__, "|", key_shape())
                 client = None                # the key is wrong: no point trying every story
                 continue
             except Exception as e:          # network / rate limit: try again next run
