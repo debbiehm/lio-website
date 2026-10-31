@@ -1,0 +1,26 @@
+# Refresh news.json every 3 hours and publish it with the site.
+name: news
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic
+      - run: python fetch_news.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LIO_SUMMARY_MODEL: ${{ vars.LIO_SUMMARY_MODEL }}
+      - run: |
+          git config user.name "lio-news-bot"
+          git config user.email "lio-news-bot@users.noreply.github.com"
+          git add news.json summaries.json
+          git diff --cached --quiet || (git commit -m "Update news" && git push)
