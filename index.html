@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#163A2D">
+<title>Lio｜狮小智</title>
+<meta name="description" content="保险、马来西亚政策、国际金融、医疗最新新闻 · 每天更新">
+<link rel="icon" type="image/png" href="assets/lio_head.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-row">
+    <a class="brand" href="#home"><img src="assets/lio_head.png" alt=""><span><b>Lio</b> 狮小智<small data-t="tagline"></small></span></a>
+    <nav>
+      <button class="ghost lang" id="lang">EN</button>
+      <a href="#me" class="need-login" data-t="nav_me"></a>
+      <button class="ghost logged-out" data-open="login" data-t="login"></button>
+      <button class="gold logged-out" data-open="register" data-t="nav_check"></button>
+      <button class="ghost logged-in" id="logout" data-t="logout"></button>
+    </nav>
+  </div>
+  <div class="catbar" id="news-tabs"></div>
+</header>
+
+<main>
+  <!-- ---------------------------------------------------------------- home: news first -->
+  <section id="page-home" class="page">
+    <p class="dateline"><b id="today"></b><span id="news-updated"></span></p>
+    <div class="home">
+      <div class="feat" id="feat"></div>
+      <div class="side-slot"><aside class="side" id="side">
+        <div class="quick">
+          <h3 data-t="q_title"></h3>
+          <p class="small" data-t="q_sub"></p>
+          <form id="quick">
+            <label><span data-t="q_age"></span><input name="age" inputmode="numeric" maxlength="2" placeholder="35"></label>
+            <label><span data-t="f_income"></span><input name="income" inputmode="decimal" placeholder="RM 60,000"></label>
+            <label><span data-t="q_debts"></span><input name="debts" inputmode="decimal" placeholder="RM 0"></label>
+            <button class="gold" data-t="q_go"></button>
+          </form>
+          <div id="quick-out" hidden></div>
+        </div>
+        <a class="side-me need-login" href="#me"><b data-t="hero_cta_in"></b><span>→</span></a>
+      </aside></div>
+      <div class="list" id="news"></div>
+    </div>
+  </section>
+
+  <!-- ---------------------------------------------------------------- one story: summary, then the original link -->
+  <section id="page-article" class="page" hidden>
+    <div class="home art"><article id="article"></article><div class="side-slot"></div></div>
+  </section>
+
+  <!-- ---------------------------------------------------------------- my page -->
+  <section id="page-me" class="page" hidden>
+    <h1 data-t="me_title"></h1>
+    <p class="muted" data-t="me_sub"></p>
+    <div class="steps" id="steps">
+      <button data-step="basic" class="on"><b>1</b><span data-t="step_basic"></span></button>
+      <button data-step="money"><b>2</b><span data-t="step_money"></span></button>
+      <button data-step="upload"><b>3</b><span data-t="step_upload"></span></button>
+      <button data-step="result"><b>4</b><span data-t="step_result"></span></button>
+    </div>
+
+    <form class="card step" id="step-basic">
+      <div class="grid2">
+        <label><span data-t="f_name"></span><input name="name" required autocomplete="name"></label>
+        <label><span data-t="f_phone"></span><input name="phone" required inputmode="tel" autocomplete="tel" placeholder="012-345 6789"></label>
+        <label><span data-t="f_ic"></span><input name="ic" inputmode="numeric" placeholder="900101-07-1234"></label>
+        <label><span data-t="f_state"></span><select name="state" required id="state"></select></label>
+        <label><span data-t="f_city"></span><input name="city" placeholder="Bayan Lepas"></label>
+        <label><span data-t="f_postcode"></span><input name="postcode" inputmode="numeric" maxlength="5" placeholder="11900"></label>
+      </div>
+      <div class="row-end"><span class="saved" data-t="saved"></span><button class="primary" data-t="save_next"></button></div>
+    </form>
+
+    <form class="card step" id="step-money" hidden>
+      <p class="muted" data-t="money_hint"></p>
+      <div class="grid2">
+        <label><span data-t="f_occupation"></span><input name="occupation"></label>
+        <label><span data-t="f_employer"></span><input name="employer"></label>
+        <label><span data-t="f_income"></span><input name="income" inputmode="decimal" placeholder="RM"></label>
+        <label><span data-t="f_living"></span><input name="living" inputmode="decimal" placeholder="RM"></label>
+        <label><span data-t="f_support_years"></span><input name="support_years" inputmode="numeric"></label>
+        <label><span data-t="f_dependants"></span><input name="dependants" inputmode="numeric"></label>
+        <label><span data-t="f_debts"></span><input name="debts" inputmode="decimal" placeholder="RM"></label>
+        <label><span data-t="f_education"></span><input name="education" inputmode="decimal" placeholder="RM"></label>
+        <label><span data-t="f_assets"></span><input name="assets" inputmode="decimal" placeholder="RM"></label>
+        <label><span data-t="f_med_room"></span><input name="med_room" inputmode="decimal" placeholder="RM"></label>
+        <label><span data-t="f_med_annual"></span><input name="med_annual" inputmode="decimal" placeholder="RM"></label>
+        <label class="wide"><span data-t="f_notes"></span><textarea name="notes" rows="2"></textarea></label>
+      </div>
+      <div class="row-end"><span class="saved" data-t="saved"></span><button class="primary" data-t="save_next"></button></div>
+    </form>
+
+    <div class="card step" id="step-upload" hidden>
+      <p class="muted" data-t="upload_hint"></p>
+      <label class="drop" id="drop">
+        <input type="file" id="file" accept="application/pdf,image/jpeg,image/png" multiple hidden>
+        <b data-t="upload_pick"></b><span class="muted small" data-t="upload_types"></span>
+      </label>
+      <ul class="files" id="files"></ul>
+      <div class="row-end"><button class="primary" data-goto="result" data-t="next"></button></div>
+    </div>
+
+    <div class="card step" id="step-result" hidden>
+      <div id="result"></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <span><b>Lio</b> 狮小智 · <span data-t="foot_about"></span><span id="foot-demo"></span></span>
+  <span class="small" data-t="foot_privacy"></span>
+</footer>
+
+<!-- ---------------------------------------------------------------- login / register -->
+<dialog id="auth">
+  <form method="dialog" class="close-row"><button class="ghost" aria-label="close">✕</button></form>
+  <p class="auth-pitch reg" data-t="auth_pitch"></p>
+  <div class="auth-tabs"><button data-auth="login" data-t="login"></button><button data-auth="register" data-t="register"></button></div>
+  <form id="auth-form">
+    <label class="reg"><span data-t="f_name"></span><input name="name" autocomplete="name"></label>
+    <label class="reg"><span data-t="f_phone"></span><input name="phone" inputmode="tel" autocomplete="tel" placeholder="012-345 6789"></label>
+    <label><span data-t="f_email"></span><input name="email" type="email" required autocomplete="email"></label>
+    <label><span data-t="f_password"></span><input name="password" type="password" required minlength="8" autocomplete="current-password"></label>
+    <label class="reg check"><input type="checkbox" name="consent"><span data-t="consent"></span></label>
+    <p class="err" id="auth-err"></p>
+    <button class="primary big" id="auth-go"></button>
+    <button type="button" class="link log" id="forgot" data-t="forgot"></button>
+  </form>
+</dialog>
+
+<div id="toast"></div>
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="i18n.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
