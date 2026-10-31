@@ -35,9 +35,9 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
    新闻会每 3 小时自动更新（`.github/workflows/news.yml`）；Actions 页也可以按 *Run workflow* 马上更新。
 4. 回到 Supabase → Authentication → URL Configuration：**Site URL** 填上面的网址（确认电邮、重设密码的链接会回到这里）。
 
-## 3a. 用自己的网址 www.datoliotalk.com
+## 3a. 用自己的网址 www.liotalk.com
 
-1. 买好 `datoliotalk.com` 后，到卖 domain 的网站（例如 Exabytes、GoDaddy、Namecheap、Cloudflare）的 **DNS 设定**加这几条：
+1. 买好 `liotalk.com` 后，到卖 domain 的网站（例如 Exabytes、GoDaddy、Namecheap、Cloudflare）的 **DNS 设定**加这几条：
 
    | 类型 | 名称 / Host | 内容 / Value |
    |---|---|---|
@@ -47,10 +47,10 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
    | A | `@` | `185.199.110.153` |
    | A | `@` | `185.199.111.153` |
 
-   （4 条 A 记录让没打 www 的 `datoliotalk.com` 也能打开。）
-2. GitHub → lio-website → Settings → **Pages** → Custom domain 填 `www.datoliotalk.com` → Save。
+   （4 条 A 记录让没打 www 的 `liotalk.com` 也能打开。）
+2. GitHub → lio-website → Settings → **Pages** → Custom domain 填 `www.liotalk.com` → Save。
    DNS 生效通常要几分钟到几小时；绿色勾出现后，勾选 **Enforce HTTPS**。
-3. Supabase → Authentication → URL Configuration：**Site URL** 改成 `https://www.datoliotalk.com`。
+3. Supabase → Authentication → URL Configuration：**Site URL** 改成 `https://www.liotalk.com`。
 
 ## 3b. 白话总结（可选，需要 Anthropic API key）
 
@@ -84,7 +84,7 @@ META_PIXEL_ID: "1234567890",                      // 下面第 2 步拿
 3. 网站会先问访客同意 cookie，按「接受」的人才会加载 Pixel（PDPA）。只记录行为，不传名字、电邮、电话：
    - `PageView` 看了哪一页 · `ViewContent` 看了哪类新闻 · `QuickCheck` 用了「算一算」· `Lead` 注册 · `Contact` 按了私讯 / WhatsApp
 4. 之后在 Ads Manager → Audiences → **Custom audience → Website**，例如「过去 30 天看过保险新闻的人」，就可以投广告给他们。
-5. 网址换成 datoliotalk.com 后，到 Business Settings → **Domains** 验证网域（Meta 会给一行 DNS 记录）。
+5. 网址换成 liotalk.com 后，到 Business Settings → **Domains** 验证网域（Meta 会给一行 DNS 记录）。
 
 ## 4. Lio 设定
 
