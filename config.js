@@ -17,5 +17,5 @@ window.LIO_CONFIG = {
   },
   // Meta (Facebook / Instagram) Pixel: shows your ads to people who visited the site. Empty = off.
   // Only loads after the visitor accepts cookies.
-  META_PIXEL_ID: "",         // Events Manager → Data sources → your Pixel → the long number
+  META_PIXEL_ID: "1591216355651146",         // Events Manager → Data sources → your Pixel → the long number
 };
