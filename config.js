@@ -7,7 +7,7 @@ window.LIO_CONFIG = {
   AGENT: {
     name: "CHENG HSZE MIN",
     iac: "6950741",
-    whatsapp: "",            // e.g. "60123456789" (country code, no + or spaces). Empty = no WhatsApp button
+    whatsapp: "60102519843",            // e.g. "60123456789" (country code, no + or spaces). Empty = no WhatsApp button
   },
   // 「关注狮爷」buttons: fill what you have, leave the rest empty (an empty one is simply not shown)
   SOCIAL: {
