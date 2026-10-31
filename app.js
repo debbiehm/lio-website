@@ -1,4 +1,4 @@
-// Lio｜狮小智 website: news home, sign up / log in, the client's profile + needs, policy uploads, a first look at the gaps.
+// 狮爷谈金融 Dato Lio Talk website: news home, sign up / log in, the client's profile + needs, policy uploads, a first look at the gaps.
 (() => {
   const cfg = window.LIO_CONFIG, TEXT = window.LIO_TEXT;
   const $ = (s, el = document) => el.querySelector(s), $$ = (s, el = document) => [...el.querySelectorAll(s)];
@@ -147,7 +147,7 @@
     if (!m || !news) return;
     const x = byId[m[1]], box = $("#article");
     if (!x) { box.innerHTML = `<p class="muted">${t("story_gone")}</p><a class="btn primary" href="#home">${t("back_home")}</a>`; return; }
-    document.title = x.title + " · Lio｜狮小智";
+    document.title = x.title + " · 狮爷谈金融 Dato Lio Talk";
     const more = (news.categories[x.cat] || []).filter(y => y.id !== x.id && (y.lang === x.lang)).slice(0, 6)
       .map(y => `<a class="news" style="--c:${CAT_COLOR[x.cat]}" href="#a/${y.id}"><b>${esc(y.title)}</b>${metaOf(y)}</a>`).join("");
     box.style.setProperty("--c", CAT_COLOR[x.cat]);
@@ -326,7 +326,7 @@
     if (page === "me" && !me) { page = "home"; setAuthMode("login"); $("#auth").showModal(); }
     if (page.startsWith("a/")) page = "article";
     if (!$("#page-" + page)) page = "home";
-    if (page !== "article") document.title = "Lio｜狮小智";
+    if (page !== "article") document.title = "狮爷谈金融 Dato Lio Talk";
     $$(".page").forEach(s => s.hidden = s.id !== "page-" + page);
     const slot = $("#page-" + page + " .side-slot");
     if (slot) slot.appendChild($("#side"));   // the quick check follows the reader onto the story page

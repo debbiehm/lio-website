@@ -16,8 +16,9 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .top-row { display: flex; align-items: center; gap: 12px; max-width: 1180px; margin: 0 auto; padding: 8px 16px; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--green); text-decoration: none; margin-right: auto; }
 .brand img { width: 42px; height: 42px; }
-.brand b { color: var(--gold-dark); font-size: 22px; }
+.brand b { color: var(--gold-dark); font-size: 21px; }
 .brand span { font-weight: 600; font-size: 17px; }
+.brand i { font-style: normal; font-weight: 600; color: var(--green); }
 .brand small { display: block; font-size: 11px; font-weight: 400; color: var(--muted); }
 nav { display: flex; align-items: center; gap: 6px; }
 nav a { color: var(--green); text-decoration: none; padding: 6px 10px; border-radius: 10px; font-weight: 600; }
@@ -155,7 +156,7 @@ footer { border-top: 1px solid var(--line); display: flex; justify-content: spac
 }
 @media (max-width: 640px) {
   .top-row { padding: 6px 12px; gap: 6px; } .brand small { display: none; } .brand { white-space: nowrap; }
-  .brand img { width: 34px; height: 34px; } .brand b { font-size: 19px; } .brand span { font-size: 15px; }
+  .brand img { width: 34px; height: 34px; } .brand b { font-size: 17px; } .brand span { font-size: 13px; }
   nav { gap: 2px; } nav a { padding: 4px 6px; font-size: 14px; } nav button { padding: 6px 9px; font-size: 13px; }
   .feat, .list { grid-template-columns: minmax(0, 1fr); }
   .top-story { min-height: 0; } .top-story h2 { font-size: 20px; }

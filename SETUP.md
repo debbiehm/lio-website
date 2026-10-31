@@ -1,7 +1,7 @@
-# Lio｜狮小智 网站：上线步骤
+# 狮爷谈金融 Dato Lio Talk 网站：上线步骤
 
 网站 = 首页新闻 + 保客注册 / 登录 + 填资料 + 上传保单。资料存在 **Supabase**（免费方案就够），网站本身放在 **GitHub Pages**（免费）。
-Lio 的「🔄 同步网站」再把这些保客和保单拉进你电脑的保客资料库。
+Lio 狮爷软件的「🔄 同步网站」再把这些保客和保单拉进你电脑的保客资料库。
 
 > 这些帐号都要你自己开、密码你自己填。我（Claude）不会替你开帐号或输入密码。
 
@@ -34,6 +34,23 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
 3. Settings → Actions → General → Workflow permissions：选 **Read and write**。
    新闻会每 3 小时自动更新（`.github/workflows/news.yml`）；Actions 页也可以按 *Run workflow* 马上更新。
 4. 回到 Supabase → Authentication → URL Configuration：**Site URL** 填上面的网址（确认电邮、重设密码的链接会回到这里）。
+
+## 3a. 用自己的网址 www.datoliotalk.com
+
+1. 买好 `datoliotalk.com` 后，到卖 domain 的网站（例如 Exabytes、GoDaddy、Namecheap、Cloudflare）的 **DNS 设定**加这几条：
+
+   | 类型 | 名称 / Host | 内容 / Value |
+   |---|---|---|
+   | CNAME | `www` | `debbiehm.github.io` |
+   | A | `@` | `185.199.108.153` |
+   | A | `@` | `185.199.109.153` |
+   | A | `@` | `185.199.110.153` |
+   | A | `@` | `185.199.111.153` |
+
+   （4 条 A 记录让没打 www 的 `datoliotalk.com` 也能打开。）
+2. GitHub → lio-website → Settings → **Pages** → Custom domain 填 `www.datoliotalk.com` → Save。
+   DNS 生效通常要几分钟到几小时；绿色勾出现后，勾选 **Enforce HTTPS**。
+3. Supabase → Authentication → URL Configuration：**Site URL** 改成 `https://www.datoliotalk.com`。
 
 ## 3b. 白话总结（可选，需要 Anthropic API key）
 
