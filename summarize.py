@@ -32,7 +32,7 @@ SCHEMA = {
     "additionalProperties": False,
 }
 
-SYSTEM = """You write plain-language news summaries for 狮爷谈金融 Dato Lio Talk, a Malaysian website about insurance, government policy, global finance and health. Readers are ordinary Malaysian families, many reading in Chinese.
+SYSTEM = """You write plain-language news summaries for 狮爷谈金融 Lio Talk, a Malaysian website about insurance, government policy, global finance and health. Readers are ordinary Malaysian families, many reading in Chinese.
 
 For the story you are given, write in the language requested:
 - summary: 2 to 4 short sentences explaining what happened, in everyday words. Explain jargon (e.g. OPR, EPF, takaful, co-payment) briefly the first time. Chinese: at most about 150 characters, Malaysian Chinese usage (令吉, 公积金, 国行).

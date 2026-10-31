@@ -1,4 +1,4 @@
-# 狮爷谈金融 Dato Lio Talk 网站：上线步骤
+# 狮爷谈金融 Lio Talk 网站：上线步骤
 
 网站 = 首页新闻 + 保客注册 / 登录 + 填资料 + 上传保单。资料存在 **Supabase**（免费方案就够），网站本身放在 **GitHub Pages**（免费）。
 Lio 狮爷软件的「🔄 同步网站」再把这些保客和保单拉进你电脑的保客资料库。
@@ -79,7 +79,7 @@ META_PIXEL_ID: "1234567890",                      // 下面第 2 步拿
 ```
 
 **Meta Pixel（在 FB / IG 再接触看过网站的人）**
-1. 到 Meta Business Suite → **Events Manager** → Connect data sources → **Web** → 取名（例如 Dato Lio Talk）→ 选 **Meta Pixel**。
+1. 到 Meta Business Suite → **Events Manager** → Connect data sources → **Web** → 取名（例如 Lio Talk）→ 选 **Meta Pixel**。
 2. 不用照它的「安装代码」步骤，只要复制 **Pixel ID**（一串数字）填进 `config.js` 的 `META_PIXEL_ID`。
 3. 网站会先问访客同意 cookie，按「接受」的人才会加载 Pixel（PDPA）。只记录行为，不传名字、电邮、电话：
    - `PageView` 看了哪一页 · `ViewContent` 看了哪类新闻 · `QuickCheck` 用了「算一算」· `Lead` 注册 · `Contact` 按了私讯 / WhatsApp
