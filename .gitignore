@@ -1,3 +1,4 @@
 .claude/
 __pycache__/
 *.tmp
+supabase/schema_ready.sql
