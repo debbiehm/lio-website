@@ -5,7 +5,7 @@
   let lang = localStorage.getItem("lio_lang") || "zh";   // Chinese first; EN is one click away
   const t = (k, v = {}) => (TEXT[lang][k] ?? TEXT.zh[k] ?? k).replace(/\{(\w+)\}/g, (_, x) => v[x] ?? "");
   const NUM = ["income", "living", "support_years", "debts", "education", "assets", "dependants", "med_room", "med_annual"];
-  const CAT_COLOR = { insurance: "#1F4E3D", policy: "#E8792B", finance: "#13A08F", health: "#3B82C4", energy: "#7A5AF8" };
+  const CAT_COLOR = { insurance: "#1F4E3D", policy: "#E8792B", finance: "#13A08F", health: "#3B82C4", energy: "#7A5AF8", ipo: "#B45309", musk: "#111827" };
 
   // ---------------------------------------------------------------- backend: Supabase, or a browser-only demo
   const live = !cfg.DEMO && cfg.SUPABASE_URL && cfg.SUPABASE_ANON_KEY && window.supabase;
@@ -96,7 +96,7 @@
   let markets = null;   // comes with news.json
   function drawMarkets() {
     const box = $("#markets"), m = markets && markets.items;
-    if (!m || !Object.keys(m).length) { box.hidden = true; return; }
+    if (!m || !Object.keys(m).length || cat !== "all") { box.hidden = true; return; }   // on 全部 only
     const loc = lang === "zh" ? "zh-MY" : "en-MY";
     const num = (v, dp = 2) => Number(v).toLocaleString("en-MY", { minimumFractionDigits: dp, maximumFractionDigits: dp });
     const pct = x => x.pct == null ? "" : `${x.pct > 0 ? "+" : ""}${num(x.pct)}%`;
@@ -146,16 +146,16 @@
   }
   function drawNews() {
     if (!news) return;
-    const cats = ["all", "insurance", "policy", "finance", "health", "energy"];
+    const cats = ["all", "ipo", "musk", "finance", "policy", "insurance", "health", "energy"];
     $("#news-tabs").innerHTML = cats.map(c => `<button class="${c === cat ? "on" : ""}" style="--c:${CAT_COLOR[c] || "var(--gold)"}" data-cat="${c}">${t("cat_" + c)}</button>`).join("");
-    $$("#news-tabs button").forEach(b => b.onclick = () => { cat = b.dataset.cat; location.hash = "#home"; drawNews(); window.scrollTo(0, 0); });
+    $$("#news-tabs button").forEach(b => b.onclick = () => { cat = b.dataset.cat; location.hash = "#home"; drawNews(); drawMarkets(); window.scrollTo(0, 0); });
     let items = [];
     for (const [c, list] of Object.entries(news.categories || {}))
       if (cat === "all" || cat === c) items.push(...list.map(x => ({ ...x, cat: c })));
     const mine = items.filter(x => x.lang === lang);
     items = (mine.length >= 6 ? mine : items).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
     if (cat === "all") {   // take turns, local news first, so one busy topic doesn't fill the page
-      const by = c => items.filter(x => x.cat === c), q = ["insurance", "policy", "health", "energy", "finance"].map(by), mix = [];
+      const by = c => items.filter(x => x.cat === c), q = ["ipo", "finance", "musk", "policy", "insurance", "health", "energy"].map(by), mix = [];
       while (q.some(l => l.length)) for (const l of q) if (l.length) mix.push(l.shift());
       items = mix;
     }
@@ -212,7 +212,7 @@
       ${more ? `<h3>${t("related")}</h3><div class="related">${more}</div>` : ""}`;
     $$("[data-open]", box).forEach(b => b.onclick = () => openAuth("register"));
     $$("[data-me]", box).forEach(b => b.onclick = () => { location.hash = "#me"; });
-    $$("[data-cat]", box).forEach(b => b.onclick = e => { e.preventDefault(); cat = b.dataset.cat; location.hash = "#home"; drawNews(); });
+    $$("[data-cat]", box).forEach(b => b.onclick = e => { e.preventDefault(); cat = b.dataset.cat; location.hash = "#home"; drawNews(); drawMarkets(); });
   }
 
   // ---------------------------------------------------------------- 关注狮爷: follow / message on social media (only what's filled in config.js)

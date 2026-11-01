@@ -33,6 +33,7 @@ button, .btn { border: 0; border-radius: 12px; padding: 9px 16px; cursor: pointe
 .gold { background: var(--gold); color: #3B2A00; } .gold:hover { background: #E3940F; }
 .ghost { background: transparent; color: inherit; } .top .ghost { color: var(--green); }
 .big { padding: 12px 22px; font-size: 16px; }
+nav .short { display: none; }
 .link { background: none; color: var(--green); padding: 4px; font-weight: 400; text-decoration: underline; }
 body:not(.in) .logged-in, body:not(.in) .need-login, body.in .logged-out { display: none !important; }
 
@@ -186,7 +187,7 @@ footer { border-top: 1px solid var(--line); display: flex; justify-content: spac
 @media (max-width: 640px) {
   .top-row { padding: 6px 12px; gap: 6px; } .brand small { display: none; } .brand { white-space: nowrap; }
   .brand img { width: 34px; height: 34px; } .brand b { font-size: 17px; } .brand span { font-size: 13px; }
-  nav { gap: 2px; } nav a { padding: 4px 6px; font-size: 14px; } nav button { padding: 6px 9px; font-size: 13px; }
+  nav { gap: 2px; } nav button, nav a { white-space: nowrap; } nav .long { display: none; } nav .short { display: inline; } nav a { padding: 4px 6px; font-size: 14px; } nav button { padding: 6px 9px; font-size: 13px; }
   .feat, .list { grid-template-columns: minmax(0, 1fr); }
   .markets { padding: 14px 12px 10px; border-radius: 16px; }
   .mk-row { display: flex; overflow-x: auto; gap: 8px; scroll-snap-type: x mandatory; scrollbar-width: none; margin: 0 -12px; padding: 0 12px; }

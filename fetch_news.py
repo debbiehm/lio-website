@@ -21,27 +21,48 @@ PER_LANG = 15          # stories per category per language
 MAX_AGE = timedelta(days=10)
 SUMMARY = 220          # characters of the publisher's summary to keep
 
-# category -> lang -> (Bing queries, Google query, words a story must mention, or None)
+# category -> lang -> (Bing queries, Google query, what a story must mention: a pattern, a list of patterns that must
+# all match, or None). Readers are Malaysian business people: companies, IPOs, markets, Elon Musk, and policy / health
+# news that touches their business, costs or staff.
 SOURCES = {
+    "ipo": {   # Malaysian listings, IPOs, takeovers, big corporate moves
+        "zh": (["马股 IPO", "大马 上市 招股", "创业板 上市 首日", "主板 上市 大马", "大马 企业 收购 OR 并购", "大马 公司 财报"],
+               "马股 IPO OR 大马 上市 招股", r"IPO|上市|招股|挂牌|收购|并购|主板|创业板|ACE|股|财报|营收|盈利|净利"),
+        "en": (["Bursa Malaysia IPO", "Malaysia IPO listing", "ACE Market listing", "Main Market debut Malaysia",
+                "Malaysia merger acquisition", "Malaysia company earnings"],
+               "Bursa Malaysia IPO OR listing", r"(?i)IPO|listing|list|debut|prospectus|merger|acquisition|takeover|Bursa|earnings|profit"),
+    },
+    "musk": {   # Elon Musk and his companies
+        "zh": (["马斯克", "特斯拉 马斯克", "SpaceX 星舰", "马斯克 xAI", "星链 Starlink"], "马斯克 OR 特斯拉 OR SpaceX",
+               r"马斯克|特斯拉|SpaceX|星舰|星链|xAI|Grok|Neuralink|Tesla"),
+        "en": (["Elon Musk", "Tesla Musk", "SpaceX Starship", "xAI Grok", "Starlink"], "Elon Musk OR Tesla OR SpaceX",
+               r"(?i)musk|tesla|spacex|starship|starlink|xai|grok|neuralink"),
+    },
+    "finance": {   # markets, rates, currencies: can be professional
+        "zh": (["马股 收市", "令吉 美元 汇率", "国行 利率", "美联储 利率", "华尔街 股市", "国际油价", "大马 债券", "外资 马股"],
+               "马股 OR 令吉 OR 美联储 OR 华尔街", None),
+        "en": (["Bursa Malaysia stocks", "ringgit dollar", "Bank Negara OPR", "Federal Reserve rates", "Wall Street stocks",
+                "oil prices", "Malaysia bonds foreign investors"], "Bursa Malaysia OR ringgit OR Federal Reserve", None),
+    },
+    "policy": {   # government decisions that change how business is done
+        "zh": (["大马 财政预算", "大马 销售税 服务税", "大马 所得税 企业", "大马 投资 MIDA", "大马 最低薪金", "大马 公积金 雇主", "大马 外劳 政策"],
+               "大马 财政预算 OR 大马 销售税 OR 大马 投资", None),
+        "en": (["Malaysia budget tax", "Malaysia SST", "Malaysia corporate tax", "MIDA investment Malaysia", "Malaysia minimum wage",
+                "EPF employer contribution", "Malaysia foreign worker policy"], "Malaysia budget OR SST OR MIDA", None),
+    },
     "insurance": {
         "zh": (["大马 保险", "马来西亚 保险", "大马 伊斯兰保险", "大马 医药卡"], "大马 保险 OR 马来西亚 保险",
                r"保险|保单|保费|医药卡|理赔|寿险|保诚|大东方|友邦|安联|伊斯兰保险|Takaful|Great Eastern"),
         "en": (["Malaysia insurance", "takaful Malaysia", "Malaysia medical insurance"],
                "Malaysia insurance OR takaful OR LIAM", r"(?i)insur|takaful|medical|life"),
     },
-    "policy": {
-        "zh": (["大马 政府 政策", "大马 财政预算", "大马 国行", "大马 公积金"], "大马 政府 政策 OR 大马 公积金", None),
-        "en": (["Bank Negara Malaysia", "Malaysia budget", "EPF Malaysia", "Malaysia government policy"],
-               "Malaysia Bank Negara OR budget OR EPF", None),
-    },
-    "finance": {
-        "zh": (["美联储", "全球股市", "马股 OR 令吉", "国际油价"], "美联储 OR 华尔街 OR 全球股市", None),
-        "en": (["Federal Reserve", "global stock markets", "ringgit", "oil prices"], "global markets OR Federal Reserve", None),
-    },
-    "health": {
-        "zh": (["大马 医疗", "大马 卫生部", "马来西亚 医院", "大马 健康"], "大马 医疗 OR 大马 卫生部", r"医疗|医院|医生|疾病|健康|卫生部|药物|病患|癌|疫苗|诊所"),
-        "en": (["Malaysia health ministry", "Malaysia hospital", "Malaysia healthcare"],
-               "Malaysia health OR hospital OR Ministry of Health", None),
+    "health": {   # health news that matters to a business owner: medical costs, staff cover, healthcare companies
+        "zh": (["大马 医疗通胀", "大马 医药卡 保费", "大马 私立医院 收费", "IHH 医院", "KPJ 医院", "大马 雇主 医疗 员工", "大马 社险 PERKESO",
+                "大马 医疗 费用", "大马 私人诊所", "MediAsas 医疗", "大马 医疗 政策"],
+               "大马 医疗通胀 OR 大马 医药卡 保费", [r"医疗|医院|医药|保费|社险|PERKESO|医疗费|医药卡|医生|健康", r"成本|保费|通胀|收费|费用|价格|门诊费|雇主|员工|企业|公司|股|营收|盈利|上市|投资|医疗费|医药卡|集团|收购|业者|商家|中小企|私立|私人|保险|健保|MediAsas|政策|预算|拨款"]),
+        "en": (["Malaysia medical inflation", "Malaysia private hospital charges", "IHH Healthcare", "KPJ Healthcare",
+                "Malaysia medical insurance premiums", "Malaysia employer healthcare costs"],
+               "Malaysia medical inflation OR hospital charges", [r"(?i)medical|health|hospital|clinic|doctor|PERKESO|SOCSO", r"(?i)cost|premium|inflation|charge|employer|business|compan|IHH|KPJ|earnings|profit|invest|listing|price|SME|group"]),
     },
     "energy": {   # big energy / technology projects, worldwide (e.g. a new solar-thermal plant connected to the grid)
         "zh": (["光热 储能 项目", "光伏 并网", "新能源 项目 投产", "风电 项目", "储能电站", "大马 再生能源"],
@@ -50,6 +71,7 @@ SOURCES = {
                "solar plant OR energy storage OR wind farm OR renewable energy", r"(?i)solar|wind|energy|power|battery|grid|nuclear|hydrogen|renewable"),
     },
 }
+GLOBAL = ("finance", "energy", "musk")   # these may be about anywhere; the rest must be about Malaysia
 BING = {"zh": "&setlang=zh-hans&cc=MY", "en": "&setlang=en&cc=MY"}
 GOOGLE = {"zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "en": "hl=en-MY&gl=MY&ceid=MY:en"}
 NOW = datetime.now(timezone.utc)
@@ -58,7 +80,12 @@ LOCAL = (r"(?i)大马|马来西亚|马国|我国|首相|国行|国家银行|令�
          r"malaysia|bank negara|ringgit|epf|kwsp|putrajaya|kuala lumpur|penang|selangor|johor|sabah|sarawak|anwar|moh|liam")
 JUNK = r"郑重声明|免责声明|Disclaimer"
 # words that contain 保险 / "insurance-like" text but are not about insurance (a condom is 保险套, a fuse 保险丝, ...)
-NOT_ABOUT = {"insurance": r"(?i)保险套|避孕套|安全套|保险丝|保险箱|保险柜|保险杠|保险栓|condom"}
+NOT_ABOUT = {"insurance": r"(?i)保险套|避孕套|安全套|保险丝|保险箱|保险柜|保险杠|保险栓|condom",
+             # China A-share broker ratings and chatter: not for Malaysian business readers
+             "finance": r"评级|A股|沪指|深成指|创业板指|沪深|北向资金|中证|券商|涨停|跌停|龙虎榜",
+             # sports and gossip that only name-drop Musk
+             "health": r"喂马|马匹|赛马|宠物",
+             "musk": r"(?i)NBA|篮球|足球|球员|球队|直播吧|体育|nba|football|soccer"}
 
 
 def _get(url):
@@ -133,7 +160,8 @@ def ok(x, lang, must, cat):
     text = x["title"] + " " + x["summary"] + " " + x["source"]
     if cat in NOT_ABOUT and re.search(NOT_ABOUT[cat], x["title"] + " " + x["summary"]):
         return False
-    return (not must or re.search(must, text)) and (cat in ("finance", "energy") or re.search(LOCAL, text))
+    musts = must if isinstance(must, list) else [must] if must else []
+    return all(re.search(m, text) for m in musts) and (cat in GLOBAL or re.search(LOCAL, text))
 
 
 def main():
@@ -163,7 +191,9 @@ def main():
             found = [x for x in found if ok(x, lang, must, cat)]
             if not found:
                 found = [x for x in old.get(cat, []) if x.get("lang") == lang]
-            found.sort(key=lambda x: (bool(x["summary"]), x["date"]), reverse=True)  # stories with a summary first
+            local_first = cat == "finance"   # Malaysian market news (马股, 令吉, 国行) before the rest of the world
+            found.sort(key=lambda x: (local_first and bool(re.search(LOCAL, x["title"] + " " + x["summary"] + " " + x["source"])),
+                                      bool(x["summary"]), x["date"]), reverse=True)  # then stories with a summary
             mine = []
             for x in found:
                 k = key(x["title"])

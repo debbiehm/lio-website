@@ -9,7 +9,7 @@
 <link rel="icon" type="image/png" href="assets/lio_head.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;600;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=20261101">
 </head>
 <body>
 <header class="top">
@@ -19,7 +19,7 @@
       <button class="ghost lang" id="lang">EN</button>
       <a href="#me" class="need-login" data-t="nav_me"></a>
       <button class="ghost logged-out" data-open="login" data-t="login"></button>
-      <button class="gold logged-out" data-open="register" data-t="nav_check"></button>
+      <button class="gold logged-out" data-open="register"><span class="long" data-t="nav_check"></span><span class="short" data-t="nav_check_short"></span></button>
       <button class="ghost logged-in" id="logout" data-t="logout"></button>
     </nav>
   </div>
@@ -143,9 +143,9 @@
 </div>
 
 <div id="toast"></div>
-<script src="config.js"></script>
+<script src="config.js?v=20261101"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
-<script src="i18n.js"></script>
-<script src="app.js"></script>
+<script src="i18n.js?v=20261101"></script>
+<script src="app.js?v=20261101"></script>
 </body>
 </html>
