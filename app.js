@@ -123,7 +123,7 @@
       a.dxy && tile("dxy", num(a.dxy.value), pct(a.dxy)),
       a.vix && tile("vix", num(a.vix.value), vixMood(a.vix.value) + " " + pct(a.vix), tone(a.vix, true)),
     ];
-    const hl = ((markets.highlight && markets.highlight[lang]) || "").replace(/^s*(今日重点|Today)s*[:：]s*/i, "");
+    const hl = ((markets.highlight && markets.highlight[lang]) || "").replace(/^\s*(今日重点|Today)\s*[:：]\s*/i, "");   // the page adds its own label
     box.hidden = false;
     box.innerHTML = `<div class="mk-head"><h2>${t("mk_title")}</h2>
         <span>${t("mk_updated", { d: new Date(markets.updated).toLocaleString(loc, { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) })}</span></div>
