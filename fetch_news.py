@@ -136,9 +136,10 @@ def main():
     path = os.path.join(HERE, "news.json")
     try:
         with open(path, encoding="utf-8") as f:
-            old = json.load(f).get("categories", {})
+            saved = json.load(f)
     except (OSError, ValueError):
-        old = {}
+        saved = {}
+    old = saved.get("categories", {})
     cats = {}
     for cat, langs in SOURCES.items():
         items, seen = [], set()
@@ -171,6 +172,8 @@ def main():
     import summarize
     print("plain-language summaries written:", summarize.add_summaries([x for items in cats.values() for x in items]))
     data = {"updated": NOW.isoformat(timespec="seconds"), "categories": cats}
+    import fetch_markets
+    data["markets"] = fetch_markets.collect(saved.get("markets"), cats)
     with open(path + ".tmp", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     os.replace(path + ".tmp", path)

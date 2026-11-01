@@ -78,7 +78,7 @@
     $("#foot-demo").textContent = live ? "" : " " + t("demo");
     $("#today").textContent = new Date().toLocaleDateString(lang === "zh" ? "zh-CN" : "en-MY", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
     if (!$("#quick-out").hidden) quickCheck();
-    drawFollow();
+    drawFollow(); drawMarkets();
     drawArticle();
     const st = $("#state"), cur = st.value;
     st.innerHTML = `<option value="">${t("state_pick")}</option>` + window.LIO_STATES.map(s => `<option>${s}</option>`).join("");
@@ -92,10 +92,52 @@
   // ---------------------------------------------------------------- news
   let news = null, cat = "all";
   const byId = {};
+  // ---------------------------------------------------------------- 市场速览: today's key numbers, each with a plain explanation
+  let markets = null;   // comes with news.json
+  function drawMarkets() {
+    const box = $("#markets"), m = markets && markets.items;
+    if (!m || !Object.keys(m).length) { box.hidden = true; return; }
+    const loc = lang === "zh" ? "zh-MY" : "en-MY";
+    const num = (v, dp = 2) => Number(v).toLocaleString("en-MY", { minimumFractionDigits: dp, maximumFractionDigits: dp });
+    const pct = x => x.pct == null ? "" : `${x.pct > 0 ? "+" : ""}${num(x.pct)}%`;
+    const tone = (x, invert) => x.pct == null || Math.abs(x.pct) < 0.005 ? "flat" : ((x.pct > 0) !== !!invert ? "up" : "down");
+    const md = d => new Date(d).toLocaleDateString(loc, { month: "short", day: "numeric" });
+    const vixMood = v => v < 15 ? t("vix_calm") : v < 20 ? t("vix_normal") : v < 30 ? t("vix_tense") : t("vix_panic");
+    const tile = (key, value, sub, cls = "flat") => m[key] || key === "cpi" ? `
+      <div class="mk"><span class="mk-name">${t("m_" + key)}</span><b class="mk-val">${value}</b>
+        <span class="mk-sub ${cls}">${sub}</span><span class="mk-why">${t("mx_" + key)}</span></div>` : "";
+    const a = m, local = [
+      a.klci && tile("klci", num(a.klci.value), pct(a.klci), tone(a.klci)),
+      a.usdmyr && tile("usdmyr", num(a.usdmyr.value, 4), (a.usdmyr.pct < 0 ? t("myr_up") : a.usdmyr.pct > 0 ? t("myr_down") : t("flat")) + (a.usdmyr.pct ? " " + pct(a.usdmyr) : ""), tone(a.usdmyr, true)),
+      a.brent && tile("brent", "US$" + num(a.brent.value), pct(a.brent), "flat"),
+      a.opr && tile("opr", num(a.opr.value) + "%", (a.opr.change ? (a.opr.change > 0 ? t("rate_up") : t("rate_down")) : t("rate_same")) + " · " + md(a.opr.asof)),
+    ];
+    const world = [
+      a.spx && tile("spx", num(a.spx.value), pct(a.spx), tone(a.spx)),
+      a.ndx && tile("ndx", num(a.ndx.value), pct(a.ndx), tone(a.ndx)),
+      a.dji && tile("dji", num(a.dji.value), pct(a.dji), tone(a.dji)),
+      a.fed && tile("fed", `${num(a.fed.low)}–${num(a.fed.high)}%`, t("fed_range")),
+      a.cpi && tile("cpi", num(a.cpi.value, 1) + "%", (a.pce ? `PCE ${num(a.pce.value, 1)}% · ` : "") + t("yoy", { m: new Date(a.cpi.month + "-01").toLocaleDateString(loc, { year: "numeric", month: "short" }) }),
+        a.cpi.value > a.cpi.prev ? "down" : a.cpi.value < a.cpi.prev ? "up" : "flat"),
+      a.us10y && tile("us10y", num(a.us10y.value) + "%", a.us10y.change ? `${a.us10y.change > 0 ? "+" : ""}${Math.round(a.us10y.change * 100)} ${t("bps")}` : t("flat")),
+      a.dxy && tile("dxy", num(a.dxy.value), pct(a.dxy)),
+      a.vix && tile("vix", num(a.vix.value), vixMood(a.vix.value) + " " + pct(a.vix), tone(a.vix, true)),
+    ];
+    const hl = markets.highlight && markets.highlight[lang];
+    box.hidden = false;
+    box.innerHTML = `<div class="mk-head"><h2>${t("mk_title")}</h2>
+        <span>${t("mk_updated", { d: new Date(markets.updated).toLocaleString(loc, { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) })}</span></div>
+      ${hl ? `<p class="mk-hl"><b>${t("mk_today")}</b>${esc(hl)}</p>` : ""}
+      <h3>${t("mk_local")}</h3><div class="mk-row">${local.filter(Boolean).join("")}</div>
+      <h3>${t("mk_world")}</h3><div class="mk-row">${world.filter(Boolean).join("")}</div>
+      <p class="mk-note">${t("mk_note")}</p>`;
+  }
+
   async function loadNews() {
     try { news = await (await fetch("news.json?v=" + Math.floor(Date.now() / 600000))).json(); } catch { news = { categories: {} }; }
     for (const [c, list] of Object.entries(news.categories || {})) for (const x of list) byId[x.id] = { ...x, cat: c };
-    drawNews(); drawArticle();
+    markets = news.markets || null;
+    drawNews(); drawArticle(); drawMarkets();
   }
   const esc = s => String(s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   function ago(d) {
