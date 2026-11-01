@@ -82,7 +82,7 @@ def opr():
 def highlight(items, old, cats):
     """今日重点: one short paragraph per Malaysian day, written by Claude from the numbers and top headlines."""
     today = datetime.now(MYT).date().isoformat()
-    if old.get("highlight", {}).get("date") == today or not os.environ.get("ANTHROPIC_API_KEY"):
+    if (old.get("highlight") or {}).get("date") == today or not os.environ.get("ANTHROPIC_API_KEY"):
         return old.get("highlight")
     try:
         import anthropic
