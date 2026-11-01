@@ -9,6 +9,7 @@ import csv
 import io
 import json
 import os
+import re
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -103,7 +104,8 @@ def highlight(items, old, cats):
             return old.get("highlight")
         text = next(b.text for b in resp.content if b.type == "text").strip()
         zh, _, en = text.partition("\n\n")
-        return {"date": today, "zh": zh.strip(), "en": en.strip()}
+        strip = lambda x, label: re.sub(rf"^\s*{label}\s*[:：]\s*", "", x.strip(), flags=re.I)   # the page adds its own label
+        return {"date": today, "zh": strip(zh, "今日重点"), "en": strip(en, "Today")}
     except Exception as e:   # no highlight today is fine
         print("highlight:", type(e).__name__, str(e)[:120])
         return old.get("highlight")
