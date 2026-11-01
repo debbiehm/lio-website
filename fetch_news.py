@@ -57,6 +57,8 @@ NOW = datetime.now(timezone.utc)
 LOCAL = (r"(?i)大马|马来西亚|马国|我国|首相|国行|国家银行|令吉|公积金|卫生部|吉隆坡|槟城|雪兰莪|柔佛|霹雳|吉打|彭亨|沙巴|砂拉越|马六甲|森美兰|"
          r"malaysia|bank negara|ringgit|epf|kwsp|putrajaya|kuala lumpur|penang|selangor|johor|sabah|sarawak|anwar|moh|liam")
 JUNK = r"郑重声明|免责声明|Disclaimer"
+# words that contain 保险 / "insurance-like" text but are not about insurance (a condom is 保险套, a fuse 保险丝, ...)
+NOT_ABOUT = {"insurance": r"(?i)保险套|避孕套|安全套|保险丝|保险箱|保险柜|保险杠|保险栓|condom"}
 
 
 def _get(url):
@@ -129,6 +131,8 @@ def ok(x, lang, must, cat):
     if re.search(JUNK, x["summary"]):
         x["summary"] = ""
     text = x["title"] + " " + x["summary"] + " " + x["source"]
+    if cat in NOT_ABOUT and re.search(NOT_ABOUT[cat], x["title"] + " " + x["summary"]):
+        return False
     return (not must or re.search(must, text)) and (cat in ("finance", "energy") or re.search(LOCAL, text))
 
 
