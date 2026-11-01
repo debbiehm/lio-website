@@ -102,15 +102,20 @@ def summarise(client, item):
         else:                                 # if a safety check declines, another model retries server-side
             resp = client.beta.messages.create(**req, betas=["server-side-fallback-2026-07-01"], fallbacks="default")
     except (anthropic.BadRequestError, anthropic.NotFoundError) as e:
+        if "credit balance" in str(e.message).lower():
+            raise                            # the account needs topping up: not this story's fault, try it again later
         print("  summary refused by the API:", e.message)
-        return None
+        return SKIP
     if resp.stop_reason in ("refusal", "max_tokens"):
-        return None
+        return SKIP
     data = json.loads(next(b.text for b in resp.content if b.type == "text"))
     if not data["ok"] or not data["summary"].strip():
-        return None
+        return SKIP
     return {"summary": data["summary"].strip(), "points": [p.strip() for p in data["points"] if p.strip()][:3],
             "why": data["why"].strip()}
+
+
+SKIP = {"skip": True}   # cached for a story that can't be summarised, so it isn't paid for again
 
 
 def key_shape():
@@ -134,18 +139,22 @@ def add_summaries(items, client=None):
         client = anthropic.Anthropic()
     made = 0
     for it in items:
-        if it["id"] not in cache and client is not None and made < MAX_NEW:
+        if cache.get(it["id"]) is None and client is not None and made < MAX_NEW:   # None = left over from a failed run
             try:
                 cache[it["id"]] = summarise(client, it)
             except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as e:
                 print("  API key not accepted, no summaries this run:", type(e).__name__, "|", key_shape())
                 client = None                # the key is wrong: no point trying every story
                 continue
+            except anthropic.BadRequestError as e:
+                print("  Anthropic credit balance too low, no summaries this run:", str(e.message)[:80])
+                client = None
+                continue
             except Exception as e:          # network / rate limit: try again next run
                 print("  summary failed:", type(e).__name__, str(e)[:120])
                 continue
             made += 1
-        if cache.get(it["id"]):
+        if (cache.get(it["id"]) or {}).get("summary"):
             it["ai"] = cache[it["id"]]
     live = {it["id"] for it in items}
     cache = {k: v for k, v in cache.items() if k in live}     # forget stories no longer on the site
