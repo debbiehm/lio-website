@@ -43,6 +43,12 @@ SOURCES = {
         "en": (["Malaysia health ministry", "Malaysia hospital", "Malaysia healthcare"],
                "Malaysia health OR hospital OR Ministry of Health", None),
     },
+    "energy": {   # big energy / technology projects, worldwide (e.g. a new solar-thermal plant connected to the grid)
+        "zh": (["光热 储能 项目", "光伏 并网", "新能源 项目 投产", "风电 项目", "储能电站", "大马 再生能源"],
+               "新能源 并网 OR 光伏 OR 储能 OR 风电", r"能源|光伏|光热|储能|风电|电网|核电|氢能|发电|电站|电池|太阳能|绿电"),
+        "en": (["solar power plant", "energy storage project", "renewable energy Malaysia", "wind farm", "green hydrogen"],
+               "solar plant OR energy storage OR wind farm OR renewable energy", r"(?i)solar|wind|energy|power|battery|grid|nuclear|hydrogen|renewable"),
+    },
 }
 BING = {"zh": "&setlang=zh-hans&cc=MY", "en": "&setlang=en&cc=MY"}
 GOOGLE = {"zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "en": "hl=en-MY&gl=MY&ceid=MY:en"}
@@ -123,7 +129,7 @@ def ok(x, lang, must, cat):
     if re.search(JUNK, x["summary"]):
         x["summary"] = ""
     text = x["title"] + " " + x["summary"] + " " + x["source"]
-    return (not must or re.search(must, text)) and (cat == "finance" or re.search(LOCAL, text))
+    return (not must or re.search(must, text)) and (cat in ("finance", "energy") or re.search(LOCAL, text))
 
 
 def main():

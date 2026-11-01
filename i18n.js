@@ -31,6 +31,7 @@ window.LIO_TEXT = {
     open_story: "阅读 →", home: "首页", related: "相关新闻", source_note: "原文来源", no_summary: "这则新闻暂时没有摘要，请点下面的原文链接阅读全文。", story_gone: "这则新闻已经下架了。", back_home: "回首页", hint_insurance: "保险新闻看完了，你自己的保单够用吗？上传保单，免费帮你看缺口。", hint_policy: "政策一变，家庭开支和保障也要跟着调整。花 3 分钟做个免费保障体检？", hint_finance: "市场起起落落，家人的保障不能跟着波动。看看你的保障够不够？", hint_health: "医疗费年年涨，你的医药卡跟得上吗？免费帮你检查。",
     plain_title: "白话总结", plain_why: "跟你有什么关系？", plain_note: "由 AI 整理成白话，细节以原文为准。",
     follow_title: "关注狮爷", follow_text: "每天帮你看懂保险、政策和理财新闻。有问题直接私讯，不用填表。", btn_messenger: "Messenger 私讯", btn_igdm: "IG 私讯", wa_hello: "你好狮爷，我在网站看到你的文章，想问一下：", cookie_text: "我们使用 cookie 了解哪些内容受欢迎，也可能在 Facebook / Instagram 向你显示相关资讯。你可以拒绝，网站照常使用。", cookie_ok: "接受", cookie_no: "不用了", cookie_link: "Cookie 设定",
+    cat_energy: "科技能源", hint_energy: "世界在变，家庭的保障也要跟上。花 3 分钟做个免费保障体检？",
   },
   en: {
     tagline: "Insurance · Money · Health · Daily news", nav_news: "Latest news", nav_me: "My cover check", login: "Log in", register: "Sign up", logout: "Log out", hero_cta_in: "Continue my cover check", news_updated: "Updated every 3 hours", news_empty: "No news right now, please check back later.",
@@ -63,6 +64,7 @@ window.LIO_TEXT = {
     open_story: "Read →", home: "Home", related: "Related news", source_note: "Original source", no_summary: "No summary for this story yet; open the original link below to read it.", story_gone: "This story is no longer available.", back_home: "Back to home", hint_insurance: "Is your own cover enough? Upload your policies and we'll check the gaps for free.", hint_policy: "When policies change, your family budget and cover should too. Take a free 3-minute cover check?", hint_finance: "Markets go up and down; your family's protection shouldn't. Is your cover enough?", hint_health: "Medical costs rise every year. Can your medical card keep up? Check it for free.",
     plain_title: "In plain words", plain_why: "What it means for you: ", plain_note: "Summarised in plain words by AI; see the original for full details.",
     follow_title: "Follow Lio Talk", follow_text: "Insurance, policy and money news made simple, every day. Questions? Just message us, no forms.", btn_messenger: "Message on Messenger", btn_igdm: "Message on IG", wa_hello: "Hi Lio, I read your article on the website and would like to ask:", cookie_text: "We use cookies to see which stories are popular, and may show you related posts on Facebook / Instagram. You can say no and the site works the same.", cookie_ok: "Accept", cookie_no: "No thanks", cookie_link: "Cookie settings",
+    cat_energy: "Tech & energy", hint_energy: "The world keeps changing; your family's cover should keep up. Take a free 3-minute cover check?",
   },
 };
 window.LIO_STATES = ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang",

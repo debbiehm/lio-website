@@ -5,7 +5,7 @@
   let lang = localStorage.getItem("lio_lang") || "zh";   // Chinese first; EN is one click away
   const t = (k, v = {}) => (TEXT[lang][k] ?? TEXT.zh[k] ?? k).replace(/\{(\w+)\}/g, (_, x) => v[x] ?? "");
   const NUM = ["income", "living", "support_years", "debts", "education", "assets", "dependants", "med_room", "med_annual"];
-  const CAT_COLOR = { insurance: "#1F4E3D", policy: "#E8792B", finance: "#13A08F", health: "#3B82C4" };
+  const CAT_COLOR = { insurance: "#1F4E3D", policy: "#E8792B", finance: "#13A08F", health: "#3B82C4", energy: "#7A5AF8" };
 
   // ---------------------------------------------------------------- backend: Supabase, or a browser-only demo
   const live = !cfg.DEMO && cfg.SUPABASE_URL && cfg.SUPABASE_ANON_KEY && window.supabase;
@@ -104,7 +104,7 @@
   }
   function drawNews() {
     if (!news) return;
-    const cats = ["all", "insurance", "policy", "finance", "health"];
+    const cats = ["all", "insurance", "policy", "finance", "health", "energy"];
     $("#news-tabs").innerHTML = cats.map(c => `<button class="${c === cat ? "on" : ""}" style="--c:${CAT_COLOR[c] || "var(--gold)"}" data-cat="${c}">${t("cat_" + c)}</button>`).join("");
     $$("#news-tabs button").forEach(b => b.onclick = () => { cat = b.dataset.cat; location.hash = "#home"; drawNews(); window.scrollTo(0, 0); });
     let items = [];
@@ -113,7 +113,7 @@
     const mine = items.filter(x => x.lang === lang);
     items = (mine.length >= 6 ? mine : items).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
     if (cat === "all") {   // take turns, local news first, so one busy topic doesn't fill the page
-      const by = c => items.filter(x => x.cat === c), q = ["insurance", "policy", "health", "finance"].map(by), mix = [];
+      const by = c => items.filter(x => x.cat === c), q = ["insurance", "policy", "health", "energy", "finance"].map(by), mix = [];
       while (q.some(l => l.length)) for (const l of q) if (l.length) mix.push(l.shift());
       items = mix;
     }
