@@ -22,9 +22,9 @@ YAHOO = {"klci": ("^KLSE", 2), "usdmyr": ("MYR=X", 4), "brent": ("BZ=F", 2), "sp
          "dji": ("^DJI", 2), "us10y": ("^TNX", 2), "dxy": ("DX-Y.NYB", 2), "vix": ("^VIX", 2)}
 
 
-def _get(url, headers=None):
+def _get(url, headers=None, timeout=30):
     req = urllib.request.Request(url, headers={**UA, **(headers or {})})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
 
@@ -42,7 +42,17 @@ def yahoo(symbol, dp):
 
 
 def fred(series):
-    rows = [r for r in csv.reader(io.StringIO(_get("https://fred.stlouisfed.org/graph/fredgraph.csv?id=" + series).decode()))][1:]
+    # only the last 3 years: the full history is large and FRED is slow to answer cloud servers
+    since = (datetime.now(MYT) - timedelta(days=3 * 366)).date().isoformat()
+    url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}&cosd={since}"
+    for attempt in range(3):
+        try:
+            raw = _get(url, timeout=90)
+            break
+        except OSError:
+            if attempt == 2:
+                raise
+    rows = [r for r in csv.reader(io.StringIO(raw.decode()))][1:]
     return [(d, float(v)) for d, v in rows if v not in ("", ".")]
 
 
