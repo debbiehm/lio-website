@@ -17,7 +17,8 @@ from html.parser import HTMLParser
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(HERE, "summaries.json")
 MODEL = os.environ.get("LIO_SUMMARY_MODEL") or "claude-haiku-5-5"
-MAX_NEW = int(os.environ.get("LIO_SUMMARY_MAX") or 60)   # new stories per run: keeps the cost predictable
+MAX_NEW = int(os.environ.get("LIO_SUMMARY_MAX") or 60)
+LANGS = (os.environ.get("LIO_SUMMARY_LANGS") or "zh").split(",")   # only Chinese stories get a summary (English shows the publisher's)   # new stories per run: keeps the cost predictable
 ARTICLE_CHARS = 12000
 
 SCHEMA = {
@@ -139,7 +140,7 @@ def add_summaries(items, client=None):
         client = anthropic.Anthropic()
     made = 0
     for it in items:
-        if cache.get(it["id"]) is None and client is not None and made < MAX_NEW:   # None = left over from a failed run
+        if it["lang"] in LANGS and cache.get(it["id"]) is None and client is not None and made < MAX_NEW:   # None = left over from a failed run
             try:
                 cache[it["id"]] = summarise(client, it)
             except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as e:
