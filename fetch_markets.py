@@ -45,13 +45,7 @@ def fred(series):
     # only the last 3 years: the full history is large and FRED is slow to answer cloud servers
     since = (datetime.now(MYT) - timedelta(days=3 * 366)).date().isoformat()
     url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}&cosd={since}"
-    for attempt in range(3):
-        try:
-            raw = _get(url, timeout=90)
-            break
-        except OSError:
-            if attempt == 2:
-                raise
+    raw = _get(url, timeout=20)   # FRED often refuses cloud servers (GitHub): fail fast, CPI and the Fed rate come from elsewhere
     rows = [r for r in csv.reader(io.StringIO(raw.decode()))][1:]
     return [(d, float(v)) for d, v in rows if v not in ("", ".")]
 
@@ -64,8 +58,20 @@ def yoy(series):
 
 
 def fed_rate():
-    lo, hi = fred("DFEDTARL")[-1], fred("DFEDTARU")[-1]
-    return {"low": lo[1], "high": hi[1], "asof": hi[0]}
+    """Fed funds target range, from the New York Fed's public API."""
+    r = json.loads(_get("https://markets.newyorkfed.org/api/rates/unsecured/effr/last/1.json"))["refRates"][0]
+    return {"low": r["targetRateFrom"], "high": r["targetRateTo"], "asof": r["effectiveDate"]}
+
+
+def cpi():
+    """US CPI, all items, year on year (the headline figure), from the Bureau of Labor Statistics' public API."""
+    data = json.loads(_get("https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0"))["Results"]["series"][0]["data"]
+    val = {(int(x["year"]), int(x["period"][1:])): float(x["value"]) for x in data
+           if x["period"].startswith("M") and x["period"] != "M13" and x["value"].replace(".", "", 1).isdigit()}   # "-" = month not published
+    (y, m), *_ = sorted(val, reverse=True)
+    prev_m = (y, m - 1) if m > 1 else (y - 1, 12)
+    pct = lambda k: round((val[k] / val[(k[0] - 1, k[1])] - 1) * 100, 1) if k in val and (k[0] - 1, k[1]) in val else None
+    return {"value": pct((y, m)), "month": f"{y}-{m:02d}", "prev": pct(prev_m)}
 
 
 def opr():
@@ -108,7 +114,7 @@ def collect(old, cats):
     old = old or {}
     items = dict(old.get("items", {}))
     jobs = {k: (lambda s=s, dp=dp: yahoo(s, dp)) for k, (s, dp) in YAHOO.items()}
-    jobs.update(fed=fed_rate, cpi=lambda: yoy("CPIAUCSL"), pce=lambda: yoy("PCEPI"), opr=opr)
+    jobs.update(fed=fed_rate, cpi=cpi, pce=lambda: yoy("PCEPI"), opr=opr)
     for key, job in jobs.items():
         try:
             items[key] = job()
