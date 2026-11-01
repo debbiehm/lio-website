@@ -146,7 +146,7 @@
   }
   function drawNews() {
     if (!news) return;
-    const cats = ["all", "ipo", "musk", "finance", "policy", "insurance", "health", "energy"];
+    const cats = ["all", "ipo", "finance", "energy", "policy", "insurance", "health"];
     $("#news-tabs").innerHTML = cats.map(c => `<button class="${c === cat ? "on" : ""}" style="--c:${CAT_COLOR[c] || "var(--gold)"}" data-cat="${c}">${t("cat_" + c)}</button>`).join("");
     $$("#news-tabs button").forEach(b => b.onclick = () => { cat = b.dataset.cat; location.hash = "#home"; drawNews(); drawMarkets(); window.scrollTo(0, 0); });
     let items = [];
@@ -155,7 +155,7 @@
     const mine = items.filter(x => x.lang === lang);
     items = (mine.length >= 6 ? mine : items).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
     if (cat === "all") {   // take turns, local news first, so one busy topic doesn't fill the page
-      const by = c => items.filter(x => x.cat === c), q = ["ipo", "finance", "musk", "policy", "insurance", "health", "energy"].map(by), mix = [];
+      const by = c => items.filter(x => x.cat === c), q = ["ipo", "finance", "energy", "policy", "insurance", "health"].map(by), mix = [];
       while (q.some(l => l.length)) for (const l of q) if (l.length) mix.push(l.shift());
       items = mix;
     }

@@ -32,7 +32,7 @@ SOURCES = {
                 "Malaysia merger acquisition", "Malaysia company earnings"],
                "Bursa Malaysia IPO OR listing", r"(?i)IPO|listing|list|debut|prospectus|merger|acquisition|takeover|Bursa|earnings|profit"),
     },
-    "musk": {   # Elon Musk and his companies
+    "musk": {   # Elon Musk and his companies: shown in 科技能源 (no tab of its own)
         "zh": (["马斯克", "特斯拉 马斯克", "SpaceX 星舰", "马斯克 xAI", "星链 Starlink"], "马斯克 OR 特斯拉 OR SpaceX",
                r"马斯克|特斯拉|SpaceX|星舰|星链|xAI|Grok|Neuralink|Tesla"),
         "en": (["Elon Musk", "Tesla Musk", "SpaceX Starship", "xAI Grok", "Starlink"], "Elon Musk OR Tesla OR SpaceX",
@@ -205,6 +205,13 @@ def main():
         print(cat, len(items), "with summary:", sum(1 for x in items if x["summary"]))
     import summarize
     print("plain-language summaries written:", summarize.add_summaries([x for items in cats.values() for x in items]))
+    if "musk" in cats:   # Musk stories join 科技能源
+        seen, merged = set(), []
+        for x in cats.pop("musk") + cats.get("energy", []):
+            if key(x["title"]) not in seen:
+                seen.add(key(x["title"]))
+                merged.append(x)
+        cats["energy"] = merged
     data = {"updated": NOW.isoformat(timespec="seconds"), "categories": cats}
     import fetch_markets
     data["markets"] = fetch_markets.collect(saved.get("markets"), cats)
