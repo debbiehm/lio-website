@@ -26,31 +26,16 @@ SUMMARY = 220          # characters of the publisher's summary to keep
 # all match, or None). Readers are Malaysian business people: companies, IPOs, markets, Elon Musk, and policy / health
 # news that touches their business, costs or staff.
 SOURCES = {
-    "ipo": {   # Malaysian listings, IPOs, takeovers, big corporate moves
-        "zh": (["马股 IPO", "大马 上市 招股", "创业板 上市 首日", "主板 上市 大马", "大马 企业 收购 OR 并购", "大马 公司 财报"],
-               "马股 IPO OR 大马 上市 招股", r"IPO|上市|招股|挂牌|收购|并购|主板|创业板|ACE|股|财报|营收|盈利|净利"),
-        "en": (["Bursa Malaysia IPO", "Malaysia IPO listing", "ACE Market listing", "Main Market debut Malaysia",
-                "Malaysia merger acquisition", "Malaysia company earnings"],
-               "Bursa Malaysia IPO OR listing", r"(?i)IPO|listing|list|debut|prospectus|merger|acquisition|takeover|Bursa|earnings|profit"),
-    },
+    # 马股IPO·企业, 财经市场 and 马来西亚政策 come only from Debbie's chosen sources (TABLE below)
+    "ipo": {"zh": ([], None, None), "en": ([], None, None)},
     "musk": {   # Elon Musk and his companies: shown in 科技能源 (no tab of its own)
         "zh": (["马斯克", "特斯拉 马斯克", "SpaceX 星舰", "马斯克 xAI", "星链 Starlink"], "马斯克 OR 特斯拉 OR SpaceX",
                r"马斯克|特斯拉|SpaceX|星舰|星链|xAI|Grok|Neuralink|Tesla"),
         "en": (["Elon Musk", "Tesla Musk", "SpaceX Starship", "xAI Grok", "Starlink"], "Elon Musk OR Tesla OR SpaceX",
                r"(?i)musk|tesla|spacex|starship|starlink|xai|grok|neuralink"),
     },
-    "finance": {   # markets, rates, currencies: can be professional
-        "zh": (["马股 收市", "令吉 美元 汇率", "国行 利率", "美联储 利率", "华尔街 股市", "国际油价", "大马 债券", "外资 马股"],
-               "马股 OR 令吉 OR 美联储 OR 华尔街", None),
-        "en": (["Bursa Malaysia stocks", "ringgit dollar", "Bank Negara OPR", "Federal Reserve rates", "Wall Street stocks",
-                "oil prices", "Malaysia bonds foreign investors"], "Bursa Malaysia OR ringgit OR Federal Reserve", None),
-    },
-    "policy": {   # government decisions that change how business is done
-        "zh": (["大马 财政预算", "大马 销售税 服务税", "大马 所得税 企业", "大马 投资 MIDA", "大马 最低薪金", "大马 公积金 雇主", "大马 外劳 政策"],
-               "大马 财政预算 OR 大马 销售税 OR 大马 投资", None),
-        "en": (["Malaysia budget tax", "Malaysia SST", "Malaysia corporate tax", "MIDA investment Malaysia", "Malaysia minimum wage",
-                "EPF employer contribution", "Malaysia foreign worker policy"], "Malaysia budget OR SST OR MIDA", None),
-    },
+    "finance": {"zh": ([], None, None), "en": ([], None, None)},
+    "policy": {"zh": ([], None, None), "en": ([], None, None)},
     "insurance": {
         "zh": (["大马 保险", "马来西亚 保险", "大马 伊斯兰保险", "大马 医药卡"], "大马 保险 OR 马来西亚 保险",
                r"保险|保单|保费|医药卡|理赔|寿险|保诚|大东方|友邦|安联|伊斯兰保险|Takaful|Great Eastern"),
@@ -72,6 +57,33 @@ SOURCES = {
                "solar plant OR energy storage OR wind farm OR renewable energy", r"(?i)solar|wind|energy|power|battery|grid|nuclear|hydrogen|renewable"),
     },
 }
+# Debbie's sources: (id, name, Bing queries, what a story must mention or None, tab, what 狮爷摘要 should turn it into).
+# A query starting with "site:" only keeps stories from that site. Official sites (BNM, KWSP, SC) block robots and BFM
+# has no news feed, so for those the queries find news coverage of their announcements; LHDN also has its own feed.
+TABLE = [
+    ("edge", "The Edge", ["site:theedgemalaysia.com", "site:theedgemalaysia.com IPO OR listing OR earnings",
+                          "site:theedgemalaysia.com fund OR unit trust"], None, "biz", "深度解读、财富规划"),
+    ("star", "The Star Business", ["site:thestar.com.my/business", "site:thestar.com.my/business Bursa OR ringgit",
+                                   "site:thestar.com.my/business IPO OR listing"], None, "biz", "新闻白话解说"),
+    ("nanyang", "南洋商报", ["site:enanyang.my 财经", "site:enanyang.my 企业 OR 上市", "site:enanyang.my 马股",
+                          "site:enanyang.my 招股 OR IPO"],
+     r"股|令吉|经济|财经|企业|公司|营收|盈利|净利|投资|基金|银行|利率|通胀|市场|上市|招股|收购|油价|金价|汇率|债券|财报|业务|集团",
+     "biz", "华语读者容易理解的话题"),
+    ("bfm", "BFM 89.9", ["site:bfm.my", "BFM 89.9 business"], r"(?i)\bBFM\b", "finance", "专业知识、观点分析"),
+    ("reuters", "Reuters Markets", ["site:reuters.com/markets", "site:reuters.com/markets Fed OR rates OR stocks"],
+     None, "finance", "基金及全球投资教育"),
+    ("kwsp", "KWSP / EPF", ["EPF KWSP Malaysia", "大马 公积金 KWSP"], r"(?i)\bEPF\b|KWSP|公积金", "policy", "退休规划"),
+    ("bnm", "BNM", ["Bank Negara Malaysia", "Bank Negara insurance OR takaful", "大马 国家银行"],
+     r"(?i)Bank Negara|\bBNM\b|国家银行|国行", "policy", "家庭财务与医疗保障"),
+    ("sc", "SC Malaysia", ["Securities Commission Malaysia", "大马 证监会"], r"(?i)Securities Commission|证监会",
+     "policy", "基金知识、投资者教育"),
+    ("lhdn", "LHDN", ["LHDN income tax Malaysia", "Malaysia tax relief", "大马 所得税 减免"],
+     r"(?i)LHDN|Inland Revenue|\bIRB\b|tax relief|income tax|所得税|税务局|内陆税收", "policy", "合法节税与退休储蓄"),
+]
+ANGLE = {src: angle for src, _, _, _, _, angle in TABLE}
+PER_SOURCE = 6   # stories per source per tab and language, so every source in the table gets a place
+IPO_WORDS = r"(?i)\bIPOs?\b|listing|debut|prospectus|merger|acquisition|takeover|earnings|quarterly|net profit|上市|招股|挂牌|收购|并购|财报|季报|净利"
+INSURANCE_WORDS = r"(?i)insur|takaful|保险"
 GLOBAL = ("finance", "energy", "musk")   # these may be about anywhere; the rest must be about Malaysia
 BING = {"zh": "&setlang=zh-hans&cc=MY", "en": "&setlang=en&cc=MY"}
 GOOGLE = {"zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "en": "hl=en-MY&gl=MY&ceid=MY:en"}
@@ -178,7 +190,56 @@ def ok(x, lang, must, cat):
     if cat in NOT_ABOUT and re.search(NOT_ABOUT[cat], x["title"] + " " + x["summary"]):
         return False
     musts = must if isinstance(must, list) else [must] if must else []
-    return all(re.search(m, text) for m in musts) and (cat in GLOBAL or re.search(LOCAL, text))
+    return all(re.search(m, text) for m in musts) and (cat in GLOBAL or x.get("src") or re.search(LOCAL, text))
+
+
+def lhdn_feed():
+    """LHDN's own announcements (RSS)."""
+    out = []
+    for it in _get("https://www.hasil.gov.my/rss").iter("item"):
+        out.append(_item(_clean(it.findtext("title")), (it.findtext("link") or "").strip(), "LHDN", _date(it.findtext("pubDate")),
+                         "en", _clean(it.findtext("description"), SUMMARY)))
+    return out
+
+
+def table_news():
+    """Stories from Debbie's sources -> {(tab, lang): [story]}, each marked with its source id."""
+    out = {}
+    for src, name, queries, must, tab, _ in TABLE:
+        got = []
+        for q in queries:
+            lang = "zh" if re.search(r"[\u4e00-\u9fff]", q) else "en"
+            try:
+                found = bing(q, lang)
+            except Exception as e:
+                print(f"table {src}/{q}: {e}")
+                continue
+            site = re.match(r"site:(\S+)", q)
+            for x in found:
+                if site and site.group(1).replace("www.", "") not in x["link"]:
+                    continue                                # site: searches slip in other sites and other sections
+                # site sources: judge by the headline (summaries mention 公司 / 集团 in passing); others: headline + summary
+                text = x["title"] if site else x["title"] + " " + x["summary"] + " " + x["source"]
+                if must and not re.search(must, text):
+                    continue
+                x["lang"] = "zh" if re.search(r"[\u4e00-\u9fff]", x["title"]) else "en"
+                got.append(x)
+        if src == "lhdn":
+            try:
+                got += lhdn_feed()
+            except Exception as e:
+                print("lhdn feed:", e)
+        for x in got:
+            x["src"], x["src_name"] = src, name
+            text = x["title"]
+            cat = tab
+            if tab == "biz":
+                cat = "ipo" if re.search(IPO_WORDS, text) else "finance"
+            elif tab == "policy" and re.search(INSURANCE_WORDS, text):
+                cat = "insurance"
+            out.setdefault((cat, x["lang"]), []).append(x)
+        print(f"table {src}: {len(got)}")
+    return out
 
 
 def main():
@@ -189,18 +250,19 @@ def main():
     except (OSError, ValueError):
         saved = {}
     old = saved.get("categories", {})
+    table = table_news()
     cats = {}
     for cat, langs in SOURCES.items():
         items, seen = [], set()
         for lang, (queries, gq, must) in langs.items():
-            found = []
+            found = list(table.get((cat, lang), []))
             for q in queries:
                 try:
                     found += bing(q, lang)
                 except Exception as e:                  # one bad feed shouldn't empty the page
                     print(f"bing {cat}/{lang}/{q}: {e}")
             summarised = sum(1 for x in found if ok(x, lang, must, cat))
-            if summarised < PER_LANG:
+            if gq and summarised < PER_LANG:
                 try:
                     found += google(gq, lang)
                 except Exception as e:
@@ -211,19 +273,22 @@ def main():
             local_first = cat == "finance"   # Malaysian market news (马股, 令吉, 国行) before the rest of the world
             found.sort(key=lambda x: (local_first and bool(re.search(LOCAL, x["title"] + " " + x["summary"] + " " + x["source"])),
                                       bool(x["summary"]), x["date"]), reverse=True)  # then stories with a summary
-            mine = []
+            mine, per_src = [], {}
             for x in found:
                 k = key(x["title"])
-                if k in seen or len(mine) >= PER_LANG:
+                if k in seen or len(mine) >= PER_LANG or per_src.get(x.get("src"), 0) >= PER_SOURCE:
                     continue
                 if "news.google.com" in x["link"] and not resolve(x):   # no real article to summarise: leave it out
                     continue
                 seen.add(k)
                 mine.append(x)
+                if x.get("src"):
+                    per_src[x["src"]] = per_src.get(x["src"], 0) + 1
             items += sorted(mine, key=lambda x: x["date"], reverse=True)
         cats[cat] = items
         print(cat, len(items), "with summary:", sum(1 for x in items if x["summary"]))
     import summarize
+    summarize.ANGLE = ANGLE
     print("plain-language summaries written:", summarize.add_summaries([x for items in cats.values() for x in items]))
     if "musk" in cats:   # Musk stories join 科技能源
         seen, merged = set(), []

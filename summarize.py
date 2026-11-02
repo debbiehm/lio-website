@@ -15,9 +15,11 @@ import urllib.request
 from html.parser import HTMLParser
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+# what 狮爷摘要 should turn each of Debbie's sources into (filled in by fetch_news, which owns the source table)
+ANGLE = {}
 CACHE = os.path.join(HERE, "summaries.json")
 MODEL = os.environ.get("LIO_SUMMARY_MODEL") or "claude-haiku-5-5"
-MAX_NEW = int(os.environ.get("LIO_SUMMARY_MAX") or 60)
+MAX_NEW = int(os.environ.get("LIO_SUMMARY_MAX") or 100)
 LANGS = (os.environ.get("LIO_SUMMARY_LANGS") or "zh").split(",")   # only Chinese stories get a summary (English shows the publisher's)   # new stories per run: keeps the cost predictable
 ARTICLE_CHARS = 12000
 
@@ -28,8 +30,9 @@ SCHEMA = {
         "summary": {"type": "string"},
         "points": {"type": "array", "items": {"type": "string"}},
         "why": {"type": "string"},
+        "title_zh": {"type": "string"},
     },
-    "required": ["ok", "summary", "points", "why"],
+    "required": ["ok", "summary", "points", "why", "title_zh"],
     "additionalProperties": False,
 }
 
@@ -41,6 +44,8 @@ For the story you are given, write in the language requested:
 - why: one sentence on what it may mean for a Malaysian business owner (their company, costs, staff or family). Keep it factual and calm: no selling, no fear, no financial or investment advice, no recommendation to buy any product. Empty string if there is no clear link.
 
 Write everything in your own words. Do not copy sentences from the article and do not quote more than a few words. Use only facts stated in the article text or the headline and summary given; never add numbers or claims of your own.
+- title_zh: if the headline is not in Chinese, a faithful Simplified Chinese headline (no exaggeration); otherwise an empty string.
+
 If the article text is missing, cut off, or doesn't match the headline, work from the headline and publisher summary only; if they are too thin to say anything reliable, set ok to false and leave the other fields empty."""
 
 
@@ -91,8 +96,10 @@ def article_text(url):
 def summarise(client, item):
     import anthropic
     text = article_text(item["link"])
-    lang = "Simplified Chinese" if item["lang"] == "zh" else "English"
-    prompt = (f"Write in {lang}.\n\nHeadline: {item['title']}\nSource: {item['source']}\n"
+    lang = "Simplified Chinese" if item["lang"] == "zh" or item.get("src") else "English"   # the table's sources: always Chinese
+    angle = ANGLE.get(item.get("src"), "")
+    prompt = (f"Write in {lang}." + (f" Shape it as: {angle}." if angle else "")
+              + f"\n\nHeadline: {item['title']}\nSource: {item['source']}\n"
               f"Publisher summary: {item.get('summary') or '(none)'}\n\n"
               f"<article>\n{text or '(could not be read)'}\n</article>")
     try:
@@ -113,7 +120,7 @@ def summarise(client, item):
     if not data["ok"] or not data["summary"].strip():
         return SKIP
     return {"summary": data["summary"].strip(), "points": [p.strip() for p in data["points"] if p.strip()][:3],
-            "why": data["why"].strip()}
+            "why": data["why"].strip(), "title_zh": data["title_zh"].strip() if item["lang"] != "zh" else ""}
 
 
 SKIP = {"skip": True}   # cached for a story that can't be summarised, so it isn't paid for again
@@ -140,7 +147,7 @@ def add_summaries(items, client=None):
         client = anthropic.Anthropic()
     made = 0
     for it in items:
-        if it["lang"] in LANGS and cache.get(it["id"]) is None and client is not None and made < MAX_NEW:   # None = left over from a failed run
+        if (it["lang"] in LANGS or it.get("src")) and cache.get(it["id"]) is None and client is not None and made < MAX_NEW:   # None = left over from a failed run
             try:
                 cache[it["id"]] = summarise(client, it)
             except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as e:

@@ -152,7 +152,7 @@
     let items = [];
     for (const [c, list] of Object.entries(news.categories || {}))
       if (cat === "all" || cat === c) items.push(...list.map(x => ({ ...x, cat: c })));
-    const mine = items.filter(x => x.lang === lang);
+    const mine = items.filter(x => x.lang === lang || (lang === "zh" && x.ai && x.ai.title_zh));   // English sources, in Chinese
     items = (mine.length >= 6 ? mine : items).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
     if (cat === "all") {   // take turns, local news first, so one busy topic doesn't fill the page
       const by = c => items.filter(x => x.cat === c), q = ["ipo", "finance", "energy", "policy", "insurance", "health"].map(by), mix = [];
@@ -163,11 +163,11 @@
     $("#news-updated").textContent = news.updated ? " · " + t("news_updated") : "";
     const meta = metaOf;
     const card = x => `<a class="news" style="--c:${CAT_COLOR[x.cat]}" href="#a/${x.id}">
-        <span class="tag">${t("cat_" + x.cat)}</span><b>${esc(x.title)}</b>${meta(x)}</a>`;
+        <span class="tag">${t("cat_" + x.cat)}</span><b>${esc(title(x))}</b>${meta(x)}</a>`;
     if (!items.length) { $("#feat").innerHTML = ""; $("#news").innerHTML = `<p class="muted">${t("news_empty")}</p>`; return; }
     const [top, ...rest] = items, side = rest.slice(0, 3);
     $("#feat").innerHTML = `<a class="top-story" style="--c:${CAT_COLOR[top.cat]}" href="#a/${top.id}">
-        <span class="tag">${t("cat_" + top.cat)}</span><h2>${esc(top.title)}</h2>${(top.ai?.summary || top.summary) ? `<p>${esc(top.ai?.summary || top.summary)}</p>` : ""}
+        <span class="tag">${t("cat_" + top.cat)}</span><h2>${esc(title(top))}</h2>${(ai(top)?.summary || top.summary) ? `<p>${esc(ai(top)?.summary || top.summary)}</p>` : ""}
         ${meta(top)}<span class="read">${t("open_story")}</span></a>
       <div class="also">${side.map(card).join("")}</div>`;
     const promo = `<div class="promo"><img src="assets/lio.png" alt=""><div><b>${t("promo_title")}</b><p>${t("promo_text")}</p>
@@ -178,6 +178,10 @@
     $$("#news [data-open]").forEach(b => b.onclick = () => openAuth("register"));
     $$("#news [data-me]").forEach(b => b.onclick = () => { location.hash = "#me"; });
   }
+
+  // 狮爷摘要 is written in Chinese: shown on the Chinese site, with the Chinese headline for English sources
+  function ai(x) { return lang === "zh" ? x.ai : null; }
+  function title(x) { return (lang === "zh" && x.ai && x.ai.title_zh) || x.title; }
 
   function metaOf(x) {
     return `<span class="meta">${x.site ? `<img src="https://www.google.com/s2/favicons?domain=${esc(x.site)}&sz=32" alt="" loading="lazy" onerror="this.remove()">` : ""}
@@ -191,17 +195,17 @@
     if (!m || !news) return;
     const x = byId[m[1]], box = $("#article");
     if (!x) { box.innerHTML = `<p class="muted">${t("story_gone")}</p><a class="btn primary" href="#home">${t("back_home")}</a>`; return; }
-    document.title = x.title + " · 狮爷谈金融 Lio Talk";
+    document.title = title(x) + " · 狮爷谈金融 Lio Talk";
     if (viewed !== x.id) { viewed = x.id; track("ViewContent", { content_category: x.cat }); }
-    const more = (news.categories[x.cat] || []).filter(y => y.id !== x.id && (y.lang === x.lang)).slice(0, 6)
-      .map(y => `<a class="news" style="--c:${CAT_COLOR[x.cat]}" href="#a/${y.id}"><b>${esc(y.title)}</b>${metaOf(y)}</a>`).join("");
+    const more = (news.categories[x.cat] || []).filter(y => y.id !== x.id && (y.lang === x.lang || (lang === "zh" && y.ai && y.ai.title_zh))).slice(0, 6)
+      .map(y => `<a class="news" style="--c:${CAT_COLOR[x.cat]}" href="#a/${y.id}"><b>${esc(title(y))}</b>${metaOf(y)}</a>`).join("");
     box.style.setProperty("--c", CAT_COLOR[x.cat]);
     box.innerHTML = `<p class="crumb"><a href="#home">${t("home")}</a> › <a href="#home" data-cat="${x.cat}">${t("cat_" + x.cat)}</a></p>
       <span class="tag">${t("cat_" + x.cat)}</span>
-      <h1>${esc(x.title)}</h1>${metaOf(x)}
-      ${x.ai ? `<div class="plain"><h3>🦁 ${t("plain_title")}</h3><p>${esc(x.ai.summary)}</p>
-        ${x.ai.points.length ? `<ul>${x.ai.points.map(q => `<li>${esc(q)}</li>`).join("")}</ul>` : ""}
-        ${x.ai.why ? `<p class="why"><b>${t("plain_why")}</b>${esc(x.ai.why)}</p>` : ""}
+      <h1>${esc(title(x))}</h1>${title(x) !== x.title ? `<p class="orig">${t("orig_title")}${esc(x.title)}</p>` : ""}${metaOf(x)}
+      ${ai(x) ? `<div class="plain"><h3>🦁 ${t("plain_title")}</h3><p>${esc(ai(x).summary)}</p>
+        ${ai(x).points.length ? `<ul>${ai(x).points.map(q => `<li>${esc(q)}</li>`).join("")}</ul>` : ""}
+        ${ai(x).why ? `<p class="why"><b>${t("plain_why")}</b>${esc(ai(x).why)}</p>` : ""}
         <p class="ai-note">${t("plain_note")}</p></div>`
       : `<div class="summary">${x.summary ? `<p>${esc(x.summary)}</p>` : `<p class="muted">${t("no_summary")}</p>`}</div>`}
       <div class="hint"><img src="assets/lio_head.png" alt=""><div><b>${t("hint_" + x.cat)}</b>
