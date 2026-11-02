@@ -52,9 +52,9 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
    DNS 生效通常要几分钟到几小时；绿色勾出现后，勾选 **Enforce HTTPS**。
 3. Supabase → Authentication → URL Configuration：**Site URL** 改成 `https://www.liotalk.com`。
 
-## 3b. 白话总结（可选，需要 Anthropic API key）
+## 3b. 狮爷摘要（可选，需要 Anthropic API key）
 
-新闻的「白话总结」由 Claude 自动写：读完原文，用自己的话写 2–4 句总结、几个重点，和「跟你有什么关系」。
+新闻的「狮爷摘要」由 Claude 自动写：读完原文，用自己的话写 2–4 句总结、几个重点，和「跟你有什么关系」。
 1. 到 https://console.anthropic.com 开帐号、充值，在 API Keys 建一个 key。
 2. GitHub repository → Settings → Secrets and variables → Actions → **New repository secret**：
    名称 `ANTHROPIC_API_KEY`，内容贴上 key。

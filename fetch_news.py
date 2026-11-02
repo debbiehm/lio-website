@@ -14,6 +14,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
+from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -148,6 +149,22 @@ def key(title):
     return re.sub(r"\W+", "", title.lower())[:30]
 
 
+def resolve(x):
+    """A Google News story has only a redirect link and no summary, so it can't be summarised. Look the headline up on
+    Bing to get the real article link and the publisher's summary. -> True if found (x is updated in place)."""
+    want = re.sub(r"\W+", "", x["title"].lower())
+    try:
+        hits = bing(f'"{x["title"][:60]}"', x["lang"]) + bing(x["title"][:60], x["lang"])
+    except Exception:
+        return False
+    for h in hits:
+        got = re.sub(r"\W+", "", h["title"].lower())
+        if h["summary"] and "news.google.com" not in h["link"] and SequenceMatcher(None, want, got).ratio() >= 0.6:
+            x.update(link=h["link"], id=h["id"], site=h["site"], summary=h["summary"])
+            return True
+    return False
+
+
 def ok(x, lang, must, cat):
     if not x["title"] or not x["link"]:
         return False
@@ -197,9 +214,12 @@ def main():
             mine = []
             for x in found:
                 k = key(x["title"])
-                if k not in seen and len(mine) < PER_LANG:
-                    seen.add(k)
-                    mine.append(x)
+                if k in seen or len(mine) >= PER_LANG:
+                    continue
+                if "news.google.com" in x["link"] and not resolve(x):   # no real article to summarise: leave it out
+                    continue
+                seen.add(k)
+                mine.append(x)
             items += sorted(mine, key=lambda x: x["date"], reverse=True)
         cats[cat] = items
         print(cat, len(items), "with summary:", sum(1 for x in items if x["summary"]))
