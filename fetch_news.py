@@ -71,7 +71,8 @@ TABLE = [
      "biz", "华语读者容易理解的话题"),
     ("bfm", "BFM 89.9", ["site:bfm.my", "BFM 89.9 business"], r"(?i)\bBFM\b", "finance", "专业知识、观点分析"),
     ("reuters", "Reuters Markets", ["site:reuters.com/markets", "site:reuters.com/markets Fed OR rates OR stocks"],
-     None, "finance", "基金及全球投资教育"),
+     r"(?i)stock|share|market|rate|Fed|bond|yield|dollar|oil|gold|econom|inflation|profit|earnings|fund|invest|"
+     r"currenc|bank|price|trade|tariff|IPO|deal|growth|GDP|index|Wall St", "finance", "基金及全球投资教育"),
     ("kwsp", "KWSP / EPF", ["EPF KWSP Malaysia", "大马 公积金 KWSP"], r"(?i)\bEPF\b|KWSP|公积金", "policy", "退休规划"),
     ("bnm", "BNM", ["Bank Negara Malaysia", "Bank Negara insurance OR takaful", "大马 国家银行"],
      r"(?i)Bank Negara|\bBNM\b|国家银行|国行", "policy", "家庭财务与医疗保障"),
