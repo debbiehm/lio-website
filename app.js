@@ -397,24 +397,35 @@
     const p = profile, n = k => (p[k] == null || p[k] === "" ? null : Number(p[k]));
     const rm = v => "RM " + Math.max(0, Math.round(v)).toLocaleString("en-MY");
     const a = age();
+    const z = k => n(k) ?? 0;   // debts, education and savings may be left blank (= none)
     const blocks = [
-      ["res_death", "res_death_how", "#1F4E3D", ["living", "support_years", "debts", "education", "assets"],
-        () => rm(n("living") * n("support_years") + n("debts") + n("education") - n("assets"))],
-      ["res_tpd", "res_tpd_how", "#E8792B", ["income", "debts", "assets"],
-        () => a == null ? null : rm(n("income") * Math.max(0, 60 - a) + n("debts") - n("assets"))],
+      ["res_death", "res_death_how", "#1F4E3D", ["living", "support_years"],
+        () => rm(n("living") * n("support_years") + z("debts") + z("education") - z("assets"))],
+      ["res_tpd", "res_tpd_how", "#E8792B", ["income"],
+        () => a == null ? null : rm(n("income") * Math.max(0, 60 - a) + z("debts") - z("assets"))],
       ["res_ci", "res_ci_how", "#13A08F", ["income"], () => rm(n("income") * 3)],
-      ["res_med", "res_med_how", "#3B82C4", ["med_room", "med_annual"],
-        () => t("res_room", { a: n("med_room").toLocaleString("en-MY") }) + "<br>" + t("res_annual", { a: n("med_annual").toLocaleString("en-MY") })],
+      ["res_med", "res_med_how", "#3B82C4", [],
+        () => [n("med_room") != null && t("res_room", { a: n("med_room").toLocaleString("en-MY") }),
+               n("med_annual") != null && t("res_annual", { a: n("med_annual").toLocaleString("en-MY") })].filter(Boolean).join("<br>")],
     ];
     const cards = blocks.map(([title, how, c, need, f]) => {
       const ok = need.every(k => n(k) != null), val = ok ? f() : null;
-      return `<div style="--c:${c}"><h3>${t(title)}</h3>${val ? `<div class="amt">${val}</div>` : `<div class="missing">${t("res_missing")}</div>`}
+      const why = ok && title === "res_tpd" ? t("res_need_ic") : t("res_missing");   // TPD needs the age, from the IC
+      return `<div style="--c:${c}"><h3>${t(title)}</h3>${val ? `<div class="amt">${val}</div>` : `<div class="missing">${why}</div>`}
         <div class="how">${t(how)}</div></div>`;
     }).join("");
     const wa = cfg.AGENT.whatsapp ? `https://wa.me/${cfg.AGENT.whatsapp}?text=${encodeURIComponent((lang === "zh" ? "你好，我已经在网站提交了保单分析资料：" : "Hi, I've submitted my cover review details on the website: ") + (p.name || ""))}` : "";
-    $("#result").innerHTML = `<h2>${t("res_title")}</h2><p class="muted">${t("res_note")}</p><div class="res">${cards}</div>
-      <p class="muted small">${t("res_uploads", { n: files.length })}</p>
+    // the numbers come only from step 2; the uploaded policies are read by the adviser, so say both plainly
+    const noMoney = NUM.every(k => n(k) == null);
+    const askMoney = noMoney ? `<div class="res-todo"><b>${t("res_need_money")}</b><p>${t("res_need_money_text")}</p>
+        <button class="primary" data-step-to="money">${t("res_go_money")}</button></div>` : "";
+    const policies = files.length
+      ? `<div class="res-got">✓ ${t("res_got_policies", { n: files.length })}</div>`
+      : `<div class="res-todo"><b>${t("upload_none")}</b><p>${t("res_need_upload")}</p><button class="primary" data-step-to="upload">${t("step_upload")}</button></div>`;
+    $("#result").innerHTML = `<h2>${t("res_title")}</h2>${askMoney}${noMoney ? "" : `<p class="muted">${t("res_note")}</p><div class="res">${cards}</div>`}
+      ${policies}
       ${wa ? `<div class="cta"><span>${t("cta_text")}</span><a class="btn gold" href="${wa}" target="_blank" rel="noopener">${t("cta_btn")}</a></div>` : ""}`;
+    $$("[data-step-to]", $("#result")).forEach(b => b.onclick = () => showStep(b.dataset.stepTo));
   }
 
   // ---------------------------------------------------------------- pages

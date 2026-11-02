@@ -36,6 +36,8 @@ window.LIO_TEXT = {
     cat_ipo: "马股IPO·企业", cat_musk: "马斯克", hint_ipo: "公司在成长，老板和家人的保障也要跟上。让专业顾问帮你检查一次？", hint_musk: "科技在变，风险也在变。你和家人的保障跟上了吗？",
     nav_check_short: "检查保障",
     orig_title: "原文标题：",
+    res_need_money: "还差一步：填「收入与支出」", res_need_money_text: "这里的保障需求是用你的收入、生活费、债务等算出来的。大概数字就可以，不知道的可以留空，约 2 分钟。", res_go_money: "去填收入与支出 →", res_got_policies: "已收到你的 {n} 份保单。狮爷会帮你整理现有的保障，对照你的需求找出缺口，再联络你。", res_need_upload: "上传你现有的保单，狮爷才能对照出你真正的缺口。",
+    res_need_ic: "在「基本资料」填 IC 号码，才能算出到 60 岁的年数",
   },
   en: {
     tagline: "Business · Markets · Insurance · Daily news", nav_news: "Latest news", nav_me: "My family's cover", login: "Log in", register: "Sign up", logout: "Log out", hero_cta_in: "Continue my family cover check", news_updated: "Updated every 3 hours", news_empty: "No news right now, please check back later.",
@@ -73,6 +75,8 @@ window.LIO_TEXT = {
     cat_ipo: "IPOs & companies", cat_musk: "Elon Musk", hint_ipo: "As your company grows, your family's cover should keep up. Let a professional check it?", hint_musk: "Technology changes, and so do risks. Is your family's cover keeping up?",
     nav_check_short: "Cover check",
     orig_title: "Original headline: ",
+    res_need_money: "One more step: fill in Income & spending", res_need_money_text: "Your cover needs are worked out from your income, living costs and debts. Rough numbers are fine; leave blank what you don't know. About 2 minutes.", res_go_money: "Fill in income & spending →", res_got_policies: "We've received your {n} policy file(s). Dato Lio will map your current cover against your needs, find the gaps and contact you.", res_need_upload: "Upload your current policies so we can find your real gaps.",
+    res_need_ic: "Add your IC number in About you to work out the years to 60",
   },
 };
 window.LIO_STATES = ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang",
