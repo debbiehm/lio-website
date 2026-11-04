@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:09:08+00:00",
+ "updated": "2026-11-04T07:32:44+00:00",
  "categories": {
   "ipo": [
    {
@@ -338,50 +338,6 @@
   ],
   "policy": [
    {
-    "id": "d3601d0473",
-    "title": "公积金1万令吉特别提款是假消息 拉威促民众防诈",
-    "link": "https://www.orientaldaily.com.my/news/perak/2026/11/01/859480",
-    "source": "东方网",
-    "site": "www.orientaldaily.com.my",
-    "date": "2026-10-31T17:00:00+00:00",
-    "lang": "zh",
-    "summary": "（怡保1日讯）社交媒体近日流传声称雇员公积金局（KWSP）开放申请1万令吉特别提款的广告，霹雳州国阵公共服务及投诉局主任拉威提醒民众勿轻信，以免坠入诈骗陷阱，蒙受财务损失。拉威发文告指出，诈骗集团利用民众对公积金特别提款措施的关注，在社交媒体散播虚假广告，声称公积金会员目前可申请提取1万令吉，并诱导民众点击相关链接。他说，受害者一旦点击链接，可能被引导至仿冒公积金局的假网站，并被要求填写身分证号码 ...",
-    "src": "kwsp",
-    "src_name": "KWSP / EPF",
-    "ai": {
-     "summary": "社交媒体上流传广告，声称雇员公积金局（KWSP）开放申请1万令吉特别提款，霹雳州国阵公共服务及投诉局主任拉威提醒民众勿信，以免被骗。他指出这些广告利用民众对公积金的关注，诱导点击链接，进而骗取个人与银行资料。拉威说，2022年确实有过1万令吉公积金特别提款，申请期只在当年4月1日至30日，目前并不适用。",
-     "points": [
-      "2022年4月1日至30日曾开放会员申请提取最高1万令吉公积金，属于疫情期间的特定援助",
-      "诈骗者以假网站和假广告冒充公积金局，要求填写身分证号码、银行账户及安全验证码",
-      "民众应通过公积金局官方网站或官方渠道核实，切勿点击来历不明的链接"
-     ],
-     "why": "企业主与员工都可能成为目标，应提醒家人和员工核实公积金相关讯息，勿随意提供个人或银行资料。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "49f6f96934",
-    "title": "网传公积金可提领1万令吉是骗局 拉威吁公众提高警惕",
-    "link": "https://www.kwongwah.com.my/20261101/%e7%bd%91%e4%bc%a0%e5%85%ac%e7%a7%af%e9%87%91%e5%8f%af%e6%8f%90%e9%a2%861%e4%b8%87%e4%bb%a4%e5%90%89%e6%98%af%e9%aa%97%e5%b1%80-%e6%8b%89%e5%a8%81%e5%90%81%e5%85%ac%e4%bc%97%e6%8f%90%e9%ab%98/",
-    "source": "光华网",
-    "site": "www.kwongwah.com.my",
-    "date": "2026-10-31T17:00:00+00:00",
-    "lang": "zh",
-    "summary": "拉威提醒民众勿轻信未经证实的讯息，以免坠入诈骗陷阱，蒙受财务损失。 由于社交媒体近日流传声称公积金局开放申请1万令吉特别提款的广告，霹雳州国阵公共服务及投诉局主任拉威提醒公众提高警惕，切勿轻信未经证实的讯息，以免坠入诈骗陷阱，蒙受财务损失。 拉威于周日文告指出，诈骗犯利用民众对公积金特别提款措施的关注，通过社交媒体散播虚假广告，声称公积金会员目前可以申请提取1万令吉，借此吸引公众点击相关链接。 他 ...",
-    "src": "kwsp",
-    "src_name": "KWSP / EPF",
-    "ai": {
-     "summary": "社交媒体近日流传广告，声称公积金局开放申请1万令吉特别提款。霹雳州国阵公共服务及投诉局主任拉威于周日发文告提醒公众，这些是诈骗犯利用民众对公积金特别提款措施的关注，散播虚假广告，诱导点击链接。他呼吁民众勿轻信未经证实的讯息，以免蒙受财务损失。",
-     "points": [
-      "社交媒体流传的广告称公积金会员可申请提取1万令吉，但相关说法未经证实",
-      "拉威于周日发布文告提醒公众提高警惕",
-      "诈骗广告以吸引点击相关链接为手法"
-     ],
-     "why": "企业主可提醒员工和家人，公积金等退休储蓄相关的讯息应通过官方渠道核实，避免点击陌生链接而受骗。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "b11d47ebf9",
     "title": "证监会亮绿灯 佰乐集团（PARKLAND BHD）将上市大马交易所主板",
     "link": "https://9shares.my/%e8%af%81%e7%9b%91%e4%bc%9a%e4%ba%ae%e7%bb%bf%e7%81%af-%e4%bd%b0%e4%b9%90%e9%9b%86%e5%9b%a2%ef%bc%88parkland-bhd%ef%bc%89%e5%b0%86%e4%b8%8a%e5%b8%82%e5%a4%a7%e9%a9%ac%e4%ba%a4%e6%98%93%e6%89%80/",
@@ -423,6 +379,28 @@
      ],
      "why": "对业主而言，可借此检视员工退休前后的储蓄与财务规划，以及在家庭与公司资金之间划清界限。",
      "title_zh": ""
+    }
+   },
+   {
+    "id": "1295fa5215",
+    "title": "Lim Guan Eng says SMEs oppose mandatory EPF contributions for foreign workers",
+    "link": "https://www.malaymail.com/news/malaysia/2026/10/30/lim-guan-eng-says-smes-oppose-mandatory-epf-contributions-for-foreign-workers/241197",
+    "source": "Malay Mail",
+    "site": "www.malaymail.com",
+    "date": "2026-10-30T02:39:00+00:00",
+    "lang": "en",
+    "summary": "Bagan MP Lim Guan Eng has urged the government to exempt existing foreign workers from mandatory Employees Provident Fund (EPF) contributions and ...",
+    "src": "kwsp",
+    "src_name": "KWSP / EPF",
+    "ai": {
+     "summary": "民主行动党国会议员林冠英促请政府豁免现有外籍劳工的强制公积金（EPF）供款，以及拟议中每月加薪300令吉的最低工资调整。他表示，这些措施会增加本地企业，特别是微中小企业的成本，并称他已向首相安华转达业界反对意见。",
+     "points": [
+      "首相安华在10月22日书面国会答复中称，已有78,129名雇主为1,754,460名非马来西亚籍员工供款，其中86%为中小企业。",
+      "林冠英称，相关部门未向首相如实反映企业的反对意见。",
+      "林冠英提议强制供款只适用于新招聘的外籍劳工，并指出马来西亚雇主联合会估计每年外籍劳工工资开支超过70亿令吉。"
+     ],
+     "why": "如果政策适用于现有外籍员工，企业的人工成本可能增加，中小企业的财务安排与员工薪酬规划也需要留意政策后续变化。",
+     "title_zh": "林冠英称中小企业反对为外籍劳工强制供款公积金"
     }
    },
    {
@@ -472,6 +450,45 @@
   ],
   "insurance": [
    {
+    "id": "8754ea5f40",
+    "title": "保诚携手Levela进一步深化对提升大马理财意识",
+    "link": "https://www.bernama.com/man/news.php?id=2627797",
+    "source": "BERNAMA",
+    "site": "www.bernama.com",
+    "date": "2026-10-30T08:58:00+00:00",
+    "lang": "zh",
+    "summary": "（吉隆坡30日马新社讯）大马保诚保险有限公司（PAMB）正式推出免费金融教育平台Levela，进一步深化其长期致力于提升马来西亚人民理财能力、增强财务应对能力的承诺。 该平台由保诚旗下负责社区投资与慈善事务的保诚亚洲公益基金会（Prudence Foundation）开发，财政部副部长刘镇东今日为Levela平台主持推介仪式。",
+    "ai": {
+     "summary": "保诚旗下大马保诚保险推出免费金融教育平台Levela，面向大学生、职场新人等刚开始独立理财的人。平台有网站和手机应用版本，提供六种语言，课程涵盖预算、储蓄、信贷、保障和防诈骗等内容。",
+     "points": [
+      "平台由保诚亚洲公益基金会开发，财政部副部长刘镇东主持推介仪式",
+      "2014至2025年间，相关保险与投资机构共投入或筹集超过1亿7950万令吉用于企业社会责任及金融普惠计划",
+      "平台支持离线使用，并以英语和马来语提供符合伊斯兰教法原则的内容"
+     ],
+     "why": "如果您经营公司，可留意员工或家人是否需要这类免费理财学习资源，相关内容对了解预算与防诈骗也有参考价值。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "73b02769b0",
+    "title": "大马商业保险费全跌 网络保费降13%",
+    "link": "https://www.chinapress.com.my/20261028/%E5%A4%A7%E9%A9%AC%E5%95%86%E4%B8%9A%E4%BF%9D%E9%99%A9%E8%B4%B9%E5%85%A8%E8%B7%8C-%E7%BD%91%E7%BB%9C%E4%BF%9D%E8%B4%B9%E9%99%8D13/",
+    "source": "中國報",
+    "site": "www.chinapress.com.my",
+    "date": "2026-10-28T04:46:00+00:00",
+    "lang": "zh",
+    "summary": "（吉隆坡28日讯）国内商业保险市场竞争日趋激烈，我国今年第3季度的商业保险费率平均下降10%，跌幅较次季进一步扩大；其中网络保险费率更大跌13%，成为亚洲降幅最大的市场之一。保险经纪公司韦莱达信（Marsh）今日发布的2026年第3季全球保险市场指数报告显示，大马商业保险费率继次季下降9%后，第3季进一步下滑10%，跌幅明显超过亚洲整体的6%。各主要保险的保费全面走低，其中财产险保费率下降11%， ...",
+    "ai": {
+     "summary": "据保险经纪公司韦莱达信（Marsh）的全球保险市场指数报告，大马商业保险价格在今年第3季继续下跌，平均降幅为10%，跌幅比上一季更大。其中网络保险降幅达13%，在亚洲属于降幅最大的市场之一。市场竞争激烈是主要背景。",
+     "points": [
+      "大马商业保险费率第3季平均下降10%，上一季为降9%",
+      "网络保险费率下降13%，财产险费率下降11%",
+      "同期亚洲整体降幅约为6%，大马跌幅明显更大"
+     ],
+     "why": "商业保险价格走低，企业投保同类保障时或许有更多选择空间，可以留意续保报价的变化。"
+    }
+   },
+   {
     "id": "550a76cd9b",
     "title": "Syarikat Takaful Malaysia Keluarga Berhad (6139.KL) Seasonal Returns Chart",
     "link": "https://www.thestar.com.my/Business/Marketwatch/Stocks?qcounter=TAKAFUL-CK",
@@ -495,7 +512,7 @@
     "id": "3dfa5158c7",
     "title": "2026 Honda City Hatchback RS e:HEV facelift in Malaysia - 1.5L hybrid, RM112,900 on-the-road without insurance",
     "link": "https://paultan.org/bm/2026/10/29/honda-city-hatchback-rs-ehev-facelift-2026-di-malaysia-1-5l-hibrid-rm112900-atas-jalan-tanpa-insurans/",
-    "source": "Paul Tan",
+    "source": "Paul Tan's Automotive News",
     "site": "paultan.org",
     "date": "2026-10-29T05:09:09+00:00",
     "lang": "en",
@@ -503,6 +520,26 @@
    }
   ],
   "health": [
+   {
+    "id": "e8e27127e1",
+    "title": "PeKa Sihat提供免费医疗援助福利 张念群吁40岁以上STR受惠者善用",
+    "link": "https://www.orientaldaily.com.my/news/nation/2026/11/01/859539",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-10-31T23:10:00+00:00",
+    "lang": "zh",
+    "summary": "（古来1日讯）通讯部副部长张念群呼吁40岁及以上的慈悯援助金（STR）受惠者，善用政府明年拨款8000万令吉所推行的B40群体健康关怀计划（PeKa Sihat），获取免费健康筛查与医疗福利。她指出，符合条件的受惠者与配偶将自动享有该福利，无须经过繁琐的登记程序。“民众只需浏览PeKa Sihat官网，输入身份证号码，即可轻松查询是否符合资格，以及参与这项计划的私人诊所名单。” 她今日在阿鲁米古马 ...",
+    "ai": {
+     "summary": "通讯部副部长张念群呼吁40岁及以上的慈悯援助金（STR）受惠者善用PeKa Sihat健康关怀计划。该计划由政府拨款8000万令吉推行，符合条件的受惠者及配偶可自动享有免费健康筛查与医疗福利，只需在官网输入身份证号码即可查询资格和参与诊所名单。",
+     "points": [
+      "政府明年拨款8000万令吉推行PeKa Sihat计划",
+      "符合条件的受惠者与配偶自动享有福利，无须登记",
+      "2025年有32万8302人接受筛查，44.5%被发现至少有一项此前未被诊断的健康问题"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
    {
     "id": "d0b81b9a93",
     "title": "以为离职就失去PERKESO保障！50岁男子患癌后才发现，原来仍可申请 ...",
@@ -571,16 +608,6 @@
     "date": "2026-11-02T16:00:00+00:00",
     "lang": "en",
     "summary": "APHM honorary secretary Anwar Anis says patients bypassing GPs for private hospitals are driving up medical costs. Affin Bank says distrust of GP clinics and mandatory MCs for minor illnesses are ..."
-   },
-   {
-    "id": "81bb1bd0ab",
-    "title": "Malaysia: Life insurers welcome government's plan to subsidise the first-year health insurance premium for eligible employees at SMEs",
-    "link": "https://www.asiainsurancereview.com/Magazine/ReadMagazineArticle?aid=60839",
-    "source": "Asia Insurance Review",
-    "site": "www.asiainsurancereview.com",
-    "date": "2026-10-31T09:05:00+00:00",
-    "lang": "en",
-    "summary": "The Life Insurance Association of Malaysia (LIAM) has welcomed the government’s plan to subsidise the first-year MediAsas premium by MYR200 ($49) per employee at eligible small and medium-sized ..."
    }
   ],
   "energy": [
@@ -625,26 +652,6 @@
     }
    },
    {
-    "id": "c192fd1096",
-    "title": "EchoStar盘前上涨5.1%，此前有报道称其与SpaceX就无线服务进行洽谈",
-    "link": "https://finance.eastmoney.com/a/202611023918868985.html",
-    "source": "东方财富",
-    "site": "finance.eastmoney.com",
-    "date": "2026-11-02T20:01:38+00:00",
-    "lang": "zh",
-    "summary": "原标题：EchoStar盘前上涨5.1%，此前有报道称其与SpaceX就无线服务进行洽谈。",
-    "ai": {
-     "summary": "EchoStar（美国卫星与无线通信公司）在盘前交易中股价上涨5.1%。此前有报道称，该公司正与SpaceX（太空探索技术公司）就无线服务合作进行洽谈。文章未提供更多细节。",
-     "points": [
-      "EchoStar盘前股价上涨5.1%",
-      "此前有报道称双方就无线服务进行洽谈",
-      "SpaceX为太空探索技术公司"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "6c52ee32f7",
     "title": "Grok Bot用户吐槽额度提前耗尽 马斯克坦言AI算力“太烧钱”扛不住！",
     "link": "https://wap.eastmoney.com/a/202611033919440797.html",
@@ -661,26 +668,6 @@
       "报道称日活跃用户从9月初不到10万增至10月26日超过60万。"
      ],
      "why": "这显示AI服务的运算成本可能高于收入，若企业日后使用类似AI工具，服务费用或使用限制可能随之变动，需留意成本规划。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "a4ebbf6764",
-    "title": "普京称赞马斯克是天才背后释放何信号 太空合作与秩序的重要性",
-    "link": "https://3g.china.com/act/military/13004177/20261102/49834824.html",
-    "source": "中华军事",
-    "site": "3g.china.com",
-    "date": "2026-11-02T15:08:14+00:00",
-    "lang": "zh",
-    "summary": "普京称赞马斯克为“真正的天才”，这并非因为两国关系突然好转，而是出于对近地轨道规则的共同认识。尽管地面上的政治分歧日益扩大，但太空中的卫星必须相互避让、保持通信。俄罗斯一方面在建设自己的卫星互联网，另一方面也强调与美国伙伴保持联系，这种态度既是对技术的尊重，也是出于现实考虑。 这一言论是在俄罗斯—非洲峰会期间，普京听取俄罗斯数字发展与通信部长马克苏特·沙达耶夫展示“黎明”卫星项目成果时发表的。“黎 ...",
-    "ai": {
-     "summary": "俄罗斯总统普京在俄非峰会期间称赞SpaceX创办人马斯克是“真正的天才”，并强调太空活动需要规则与秩序。俄方同时在发展自己的卫星互联网“黎明”项目，用于通信服务，这一项目被视为俄版“星链”。普京也坦承俄罗斯在这方面才刚起步，与成熟的“星链”系统差距很大。",
-     "points": [
-      "普京在俄非峰会期间，听取部长沙达耶夫展示“黎明”卫星项目成果时发表上述言论",
-      "“黎明”旨在通过卫星星座提供通信，减少对地面基站和光缆的依赖",
-      "普京承认俄罗斯与“星链”相比仍有很大差距"
-     ],
-     "why": "",
      "title_zh": ""
     }
    },
@@ -721,6 +708,26 @@
       "美国司法部曾于6月16日提交动议，支持驳回该诉讼"
      ],
      "why": "此案主要涉及AI数据中心的能源来源与环保合规，对一般马来西亚企业影响有限，但提醒企业在设施供电与排放许可方面需留意相关规定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "bd7df83063",
+    "title": "再次拒绝SpaceX合作可能性 T-Mobile直言：没有任何增长潜力！",
+    "link": "https://finance.eastmoney.com/a/202610303916555370.html",
+    "source": "财联社",
+    "site": "finance.eastmoney.com",
+    "date": "2026-11-01T00:38:42+00:00",
+    "lang": "zh",
+    "summary": "T-Mobile首席执行官Srini Gopalan指出，无线服务商自己不拥有底层物理蜂窝网络基础设施，因此与 SpaceX 的合作是完全多余的，尤其是SpaceX还认为美国城市地区存在着巨大增长潜力的情况下，实际上，卫星覆盖范围在城市地区十分有限。",
+    "ai": {
+     "summary": "美国移动运营商T-Mobile首席执行官再次表示，不考虑与SpaceX合作，认为双方合作对T-Mobile没有增长意义。他指出，卫星网络在城市地区覆盖有限，而T-Mobile的固定无线接入（FWA，即用无线信号代替光纤的家用宽带）大多在人口密集城市，仍有较大增长空间。",
+     "points": [
+      "T-Mobile三分之二的FWA客户来自人口密集城市地区",
+      "T-Satellite卫星服务（由SpaceX支持）仅占其网络使用量的0.0002%",
+      "T-Mobile表示将成为美国首家推出6G网络的运营商，业内普遍预期约在2030年"
+     ],
+     "why": "",
      "title_zh": ""
     }
    },
@@ -801,6 +808,26 @@
       "马斯克的星链低轨卫星据称超过5000颗，独立追踪网站估计实际接近10000颗"
      ],
      "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "5deab123b8",
+    "title": "普京：马斯克是天才",
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584356.htm",
+    "source": "上观新闻",
+    "site": "www.cnbeta.com.tw",
+    "date": "2026-10-29T06:35:00+00:00",
+    "lang": "zh",
+    "summary": "俄罗斯总统弗拉基米尔·普京近日公开称赞美国企业家、SpaceX首席执行官埃隆·马斯克，称其为“真正的天才”。普京此番表态的背景，是俄罗斯正在推进自主低轨卫星互联网系统的建设，而马斯克旗下的星链（Starlink）已经在全球部署了大规模卫星网络，俄罗斯目前仍处于追赶阶段。",
+    "ai": {
+     "summary": "俄罗斯总统普京近日公开称赞SpaceX首席执行官马斯克是“真正的天才”。这番话是在他听取俄方卫星互联网项目汇报时说的，当时俄罗斯正在建设自己的低轨卫星网络，以追赶马斯克旗下的星链（Starlink）。低轨卫星离地面较近，适合提供宽带覆盖。",
+     "points": [
+      "普京于10月28日在莫斯科听取俄方卫星项目汇报",
+      "俄方称已发射30多颗相关卫星，马斯克的卫星数量则远超俄方",
+      "独立卫星追踪机构数据显示，星链在轨卫星已接近1万颗"
+     ],
+     "why": "这件事显示，商业卫星网络的服务可能受企业决策影响，依赖相关通信服务的企业或机构，可能需要留意服务稳定性的风险。",
      "title_zh": ""
     }
    },
@@ -905,6 +932,26 @@
     }
    },
    {
+    "id": "23fc7dbc38",
+    "title": "创维光伏光储盈AI智慧运维：7×24小时守护工商业绿电资产",
+    "link": "http://sqtv.net/news/bencandy.php?fid=66&id=271709",
+    "source": "商丘新闻网",
+    "site": "sqtv.net",
+    "date": "2026-11-03T08:16:00+00:00",
+    "lang": "zh",
+    "summary": "对不少小微工商业主来说，屋顶电站并网发电的那天，才是考验的开始。组件积灰、逆变器告警、储能状态异常，这些问题不会提前打招呼，而企业里往往没有专门懂电站的人。创维光伏光储盈「订阅制」不仅具备轻订阅、短年限、随心配的特点，还把强运维写 ...",
+    "ai": {
+     "summary": "创维光伏推出光储盈订阅制屋顶光伏方案，主打AI监测、故障预警与远程运维，适合没有专职电站人员的小微工商业主。用户在3年或5年订阅期内按月付费，由创维光伏统一负责运维；期满后电站收益归用户，之后每块组件每月4元可继续获得运维服务。",
+     "points": [
+      "订阅期为3年或5年，按月支付订阅费",
+      "合作期满后每块组件每月4元继续提供运维",
+      "平台覆盖全国1000余个运维网点和4500余名运维工程师，服务范围覆盖24个省级行政单位"
+     ],
+     "why": "如果公司有屋顶光伏或考虑装设，运维责任与长期费用会影响成本规划，但具体条款须以正式合同为准。",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "997aeb5caf",
     "title": "多元调解促和谐→磨头司法所妥善化解风电项目侵权纠纷",
     "link": "https://finance.sina.com.cn/wm/2026-11-03/doc-inixnitu2185966.shtml",
@@ -919,6 +966,46 @@
       "公司需一次性支付各项损失赔偿款共计107000元，分两期支付",
       "协议约定违约方需支付20000元违约金",
       "风机覆冰掉落造成的大棚损害另行承担责任，不在此次和解范围内"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "77d73e8d38",
+    "title": "印尼卡朗卡德斯光伏项目全面完成光伏组件安装",
+    "link": "https://news.solarbe.com/202611/03/50031349.html",
+    "source": "索比光伏网",
+    "site": "news.solarbe.com",
+    "date": "2026-11-03T02:50:00+00:00",
+    "lang": "zh",
+    "summary": "印尼卡朗卡德斯100兆瓦漂浮式光伏项目于10月23日全面完成光伏组件安装，标志着主体工程取得关键进展，为后续电气安装、系统调试及并网发电奠定基础。作为中资企业首个在印尼中标的投资型IPP光伏项目，该项目是印尼实现“国家净零排放目标”和推进绿色电力发展的重要组成部分。项目建成后，预计年均提供清洁电力2.12亿千瓦时，满足 ...",
+    "ai": {
+     "summary": "中国电建湖北工程公司承建的印尼卡朗卡德斯100兆瓦漂浮式光伏项目，已于10月23日完成全部光伏组件安装。这意味着主体工程取得阶段性进展，接下来将进行电气安装、系统调试和并网发电等工作。项目建成后预计每年提供2.12亿千瓦时清洁电力。",
+     "points": [
+      "10月23日完成全部光伏组件安装",
+      "项目为100兆瓦漂浮式光伏，是中资企业在印尼首个中标的投资型IPP项目",
+      "建成后预计每年提供2.12亿千瓦时清洁电力，并创造约600个就业岗位"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "23b20c1398",
+    "title": "普洱市印发分布式光伏项目并网时间认定清单",
+    "link": "https://news.bjx.com.cn/html/20261103/1518696.shtml",
+    "source": "北极星电力网新闻",
+    "site": "news.bjx.com.cn",
+    "date": "2026-11-03T02:49:00+00:00",
+    "lang": "zh",
+    "summary": "11月2日，普洱市发展和改革委员会关于印发分布式光伏项目并网时间认定清单的通知。 原文如下： 普洱市发展和改革委员会关于印发分布式光伏项目并网时间认定清单的通知 云南电网公司普洱供电局、有关电力企业： 按照《云南省能源局关于优化新能源项目全 ...",
+    "ai": {
+     "summary": "云南省普洱市发展和改革委员会在11月2日发出通知，印发了分布式光伏项目并网时间认定清单。通知对象包括云南电网公司普洱供电局和有关电力企业，依据是云南省能源局关于优化新能源项目的相关文件。分布式光伏是指建在用户身边、就近接入电网的小型太阳能发电项目。原文摘要未能完整呈现清单的具体内容。",
+     "points": [
+      "发文机关为普洱市发展和改革委员会，日期为11月2日",
+      "文件用于认定分布式光伏项目的并网时间",
+      "通知发给云南电网公司普洱供电局及相关电力企业"
      ],
      "why": "",
      "title_zh": ""
@@ -943,6 +1030,26 @@
     "date": "2026-11-02T16:00:00+00:00",
     "lang": "zh",
     "summary": "岁末奋进时，攻坚正当时。站在“十五五”开局的关键节点，攻坚冲刺四季度的号角已然吹响。东方电气集团全体干部职工紧扣精品战略要求，弘扬可贵的东汽精神，践行“严细实快”基本品格，坚定信心、鼓足干劲，以决战决胜姿态全力冲刺年度目标任务。"
+   },
+   {
+    "id": "104b542562",
+    "title": "智光电气：储能已签待执行订单超24亿元，收购智光储能28%股权款已付清",
+    "link": "https://static.weeklyonstock.com/26/1103/AKX26110311403664267.html",
+    "source": "static.weeklyonstock",
+    "site": "static.weeklyonstock.com",
+    "date": "2026-11-02T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "智光储能少数股东股权收购方面，公司收购其28%股权使用自有资金及银行贷款，收购资金已全部支付完毕（部分在四季度支付），后续不会再产生新的现金流流出；工商变更手续将协调各投资方配合尽快完成，完成后以进展公告形式披露。公司称当前银行贷款利率较低，该收购完成有利于降低财务费用。",
+    "ai": {
+     "summary": "智光电气在2026年11月2日的三季度业绩说明会上表示，储能项目已签约但未执行的订单超过24亿元。公司同时说明，收购智光储能28%少数股东股权的款项已全部付清，部分在四季度支付，后续不再有新的现金流流出。公司认为，收购完成后有助于降低财务费用。",
+     "points": [
+      "储能已签待执行订单超过24亿元，不含已签未确认收入及投标中的订单",
+      "收购智光储能28%股权，资金来自自有资金和银行贷款，已全部付清",
+      "公司称当前银行贷款利率较低，收购完成有利于减少财务费用"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
    },
    {
     "id": "f16b332de7",
@@ -1025,26 +1132,6 @@
     }
    },
    {
-    "id": "810599452c",
-    "title": "国家能源局：“沙戈荒”大型风电光伏基地合计建成规模超1.57亿千瓦",
-    "link": "https://www.seetao.com/details/282622.html",
-    "source": "新华网",
-    "site": "www.seetao.com",
-    "date": "2026-10-30T09:30:35+00:00",
-    "lang": "zh",
-    "summary": "2026年10月30日，国家能源局例行新闻发布会上，新能源和可再生能源司副司长桂小阳公布了一组数据：截至2026年9月底，三批以沙漠、戈壁、荒漠地区为重点的大型风电光伏基地合计建成规模超1.57亿千瓦。从西北戈壁到中东部负荷中心，一条条特高压通道将荒漠上的风光资源转化为千家万户的清洁电力。 三批基地建成超亿千瓦 2021年至2023年，国家能源局会同国家发展改革委先后印发三批以沙漠、戈壁、荒漠地区 ...",
-    "ai": {
-     "summary": "国家能源局在2026年10月30日的例行发布会上公布数据：截至2026年9月底，三批以沙漠、戈壁、荒漠为重点的大型风电光伏基地合计建成超过1.57亿千瓦。这些基地的电力大多在本地使用，部分千万千瓦级基地则通过特高压输电通道把西北的风电和光伏送往中东部用电负荷中心。",
-     "points": [
-      "截至2026年9月底，三批大基地合计建成超1.57亿千瓦",
-      "第一批基地9453万千瓦已基本建成投产，第二批超3400万千瓦，第三批超2900万千瓦",
-      "国家能源局力争2027年底前基本建成第二、三批以本地消纳为主的大基地"
-     ],
-     "why": "大型新能源基地的推进表明电力供应结构在持续调整，相关的输电、储能和配套产业可能带来更多项目机会，但对一般企业的电费影响需以官方后续公布为准。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "c511a8dfce",
     "title": "新疆阜康：塔式光热储能项目并网成功",
     "link": "http://pic.people.com.cn/n1/2026/1031/c1016-40825108.html",
@@ -1085,26 +1172,6 @@
     }
    },
    {
-    "id": "bdf259a02b",
-    "title": "24数据中心申请暂未拍板，政府将先确保电水充足",
-    "link": "https://www.malaysiakini.com/news/888060-24%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%94%B3%E8%AF%B7%E6%9A%82%E6%9C%AA%E6%8B%8D%E6%9D%BF%E6%94%BF%E5%BA%9C%E5%B0%86%E5%85%88%E7%A1%AE%E4%BF%9D%E7%94%B5%E6%B0%B4%E5%85%85%E8%B6%B3",
-    "source": "当今大马",
-    "site": "www.malaysiakini.com",
-    "date": "2026-10-28T11:33:00+00:00",
-    "lang": "zh",
-    "summary": "投资、贸易及工业部长佐哈里说，政府尚未对24项新的数据中心申请做决定，尚需评估能源供应是否充足，以应付获批准的项目。 他指出，上述评估考量获批的117座数据中心的需求，以及通过可再生能源、能源储备和新技术提供额外供应的能力。 “已接获24项新的数据中心申请，但我们未给予任何答复。” 他今天在国会下议院代表部门总结2027年财案政策阶段辩论时，回答公正党巴西古当国会议员哈山卡林的提问。",
-    "ai": {
-     "summary": "投资、贸易及工业部长佐哈里表示，政府尚未批准新提交的24项数据中心申请，要先评估能源供应是否足够应付已获批的项目。评估会考虑已获批的117座数据中心的用电需求，以及可再生能源、能源储备和新技术能否提供额外供电。他也说，在批准更多项目前，会先征询国家能源公司（TNB）的意见，并确认州内水源是否足够。",
-     "points": [
-      "新提交的数据中心申请有24项，政府尚未作出答复",
-      "已获批准的数据中心有117座，是评估供电的重要依据",
-      "批准前需征询国家能源公司（TNB）意见，并确认水供充足"
-     ],
-     "why": "若数据中心审批因电力和水源评估而放慢，相关建筑、设备和服务的商机与时间安排可能受到影响，企业在规划用电和用水成本时可留意政策走向。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "d164901ecd",
     "title": "吉打规划5吉瓦可再生能源区 以能源与物流吸引高价值投资",
     "link": "https://northern.sinchew.com.my/news/20261027/northern/8001594",
@@ -1125,66 +1192,6 @@
     }
    },
    {
-    "id": "238a8e3793",
-    "title": "宁波能源深远海风母港项目加速推进！2026年投产在望，绿色能源新 ...",
-    "link": "https://www.sohu.com/a/1092982653_122066679",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-10-26T11:21:00+00:00",
-    "lang": "zh",
-    "summary": "【2026年10月26日·宁波能源深度观察】当东海的季风掠过象山港外35海里的蔚蓝海域，一座承载中国‘十四五’海上风电跃迁使命的超级基建——宁波能源深远海风母港项目，正悄然从蓝图走向钢与海的交响。这不是普通的码头扩建，而是一场面向碳中和未来的战略卡位：它既是全国首个集风电装备总装、运维母港、氢能制储运、智能调度中心于一体的‘海上能源城市综合体’，更是长三角新型电力系统建设的关键支点。 就在今天（2 ...",
-    "ai": {
-     "summary": "宁波能源（600982）在上交所互动平台表示，深远海风母港项目的前期及建设工作正在有序推进。文章称已完成12项前置审批，4.2平方公里围填海主体工程完工，一艘风电安装船完成系泊试验。文中的盈利数字属于作者推算，公司并未给出利润时间表。",
-     "points": [
-      "公司于2026年10月26日在上交所互动平台表示项目有序推进",
-      "文章称已完成12项前置审批，4.2平方公里围填海主体工程完工",
-      "公司未给出利润贡献时间表，文中收入数字为作者推算"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "3f2b258357",
-    "title": "清陶动力固态电池项目一期在江苏苏州投产",
-    "link": "https://www.semi.org.cn/site/ecar/article/88afc5309c1b46c8b8fe96a389785419.html",
-    "source": "semi.org.cn",
-    "site": "www.semi.org.cn",
-    "date": "2026-10-26T04:47:00+00:00",
-    "lang": "zh",
-    "summary": "据悉，清陶动力固态动力电池项目由上汽集团旗下华域汽车系统股份有限公司与清陶（昆山）能源发展集团（下文简称：清陶能源）共同设立，总投资80亿元，主要满足上汽集团新能源车辆动力电池需求。其中一期建设10GWh固态动力电池生产基地。",
-    "ai": {
-     "summary": "清陶动力固态动力电池项目一期在江苏苏州昆山市举行投产仪式。该项目由上汽集团旗下华域汽车与清陶能源合资设立，总投资80亿元，主要供应上汽新能源车的动力电池。",
-     "points": [
-      "项目总投资80亿元，一期建设10GWh固态动力电池生产基地",
-      "项目由华域汽车系统股份有限公司与清陶（昆山）能源发展集团共同设立",
-      "上汽与清陶合作的固态电池技术已应用于量产车型"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "4179d7c612",
-    "title": "RWE commissions 47.2 MW wind farm in Italy",
-    "link": "https://www.energy-pedia.com/news/italy/rwe-commissions-47-2-megawatt-wind-farm-in-italy-205926",
-    "source": "Energy Global",
-    "site": "www.energy-pedia.com",
-    "date": "2026-11-03T11:13:03+00:00",
-    "lang": "en",
-    "summary": "Eight 5.9 MW turbines capable of supplying approximately 40,000 Italian households with green electricity ..."
-   },
-   {
-    "id": "e80d3db10d",
-    "title": "Final turbine installed at Ecowende offshore wind farm",
-    "link": "https://www.energyglobal.com/wind/03112026/final-turbine-installed-at-ecowende-offshore-wind-farm/",
-    "source": "Energy Global",
-    "site": "www.energyglobal.com",
-    "date": "2026-11-03T10:08:03+00:00",
-    "lang": "en",
-    "summary": "The final turbine has been installed at the Ecowende offshore wind farm, marking the completion of another major milestone in the energy transition. The final turbine has been installed at the ..."
-   },
-   {
     "id": "e54ac4852c",
     "title": "Northern Solar bags DC solar contracts",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/03/northern-solar-bags-dc-solar-contracts",
@@ -1203,33 +1210,63 @@
      "why": "对马来西亚企业主而言，这显示数据中心等大用电客户正加快采购可再生能源，相关供电需求可能持续增长。",
      "title_zh": "北方太阳能获数据中心太阳能供电合约"
     }
+   },
+   {
+    "id": "4179d7c612",
+    "title": "RWE Commissions 47.2 MW Wind Farm in Italy",
+    "link": "https://www.energy-pedia.com/news/italy/rwe-commissions-47-2-megawatt-wind-farm-in-italy-205926",
+    "source": "Renewable Energy Magazine",
+    "site": "www.energy-pedia.com",
+    "date": "2026-11-02T16:44:26+00:00",
+    "lang": "en",
+    "summary": "Eight 5.9 MW turbines capable of supplying approximately 40,000 Italian households with green electricity ..."
+   },
+   {
+    "id": "5005901c2e",
+    "title": "MSE, Envalue borrow EUR 74m for Italian solar project",
+    "link": "https://renewablesnow.com/news/mse-envalue-borrow-eur-74m-for-italian-solar-project-1304139/",
+    "source": "Renewables Now",
+    "site": "renewablesnow.com",
+    "date": "2026-11-02T11:34:55+00:00",
+    "lang": "en",
+    "summary": "Norddeutsche Landesbank Girozentrale, better known as Nord/LB, has agreed to provide a financing package of EUR 74 million (USD 83.0m) to back a 97.5-MWp solar project in northern Italy."
+   },
+   {
+    "id": "4922b62d4e",
+    "title": "Vattenfall opens first hybrid park in Germany",
+    "link": "https://www.energyglobal.com/solar/02112026/vattenfall-opens-first-hybrid-park-in-germany/",
+    "source": "Energy Global",
+    "site": "www.energyglobal.com",
+    "date": "2026-11-02T11:12:37+00:00",
+    "lang": "en",
+    "summary": "Vattenfall has opened its first hybrid renewable hybrid park in Germany. Vattenfall has opened the Hommerdingen-Biesdorf hybrid power plant in the presence of Michael Ebling, Minister for Economic ..."
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-04T12:14+08:00",
+  "updated": "2026-11-04T15:37+08:00",
   "items": {
    "klci": {
-    "value": 1619.13,
-    "asof": "2026-11-04T11:58:45+08:00",
-    "change": -2.72,
-    "pct": -0.17
+    "value": 1614.62,
+    "asof": "2026-11-04T15:21:30+08:00",
+    "change": -7.23,
+    "pct": -0.45
    },
    "usdmyr": {
-    "value": 4.07,
-    "asof": "2026-11-04T12:09:33+08:00",
-    "change": 0.0015,
-    "pct": 0.04
+    "value": 4.064,
+    "asof": "2026-11-04T15:33:20+08:00",
+    "change": -0.0045,
+    "pct": -0.11
    },
    "brent": {
-    "value": 103.03,
-    "asof": "2026-11-04T12:03:48+08:00",
-    "change": -0.57,
-    "pct": -0.55
+    "value": 104.3,
+    "asof": "2026-11-04T15:26:31+08:00",
+    "change": 0.7,
+    "pct": 0.68
    },
    "spx": {
     "value": 7568.92,
-    "asof": "2026-11-04T05:00:00+08:00",
+    "asof": "2026-11-04T05:30:13+08:00",
     "change": 27.52,
     "pct": 0.36
    },
@@ -1240,9 +1277,9 @@
     "pct": 0.83
    },
    "dji": {
-    "value": 51786.7,
-    "asof": "2026-11-04T05:00:00+08:00",
-    "change": -197.28,
+    "value": 51786.72,
+    "asof": "2026-11-04T05:34:56+08:00",
+    "change": -197.26,
     "pct": -0.38
    },
    "us10y": {
@@ -1252,14 +1289,14 @@
     "pct": 1.19
    },
    "dxy": {
-    "value": 101.35,
-    "asof": "2026-11-04T12:04:27+08:00",
-    "change": -0.52,
-    "pct": -0.51
+    "value": 101.46,
+    "asof": "2026-11-04T15:26:43+08:00",
+    "change": -0.41,
+    "pct": -0.4
    },
    "vix": {
     "value": 20.83,
-    "asof": "2026-11-04T05:15:00+08:00",
+    "asof": "2026-11-04T05:15:01+08:00",
     "change": -0.32,
     "pct": -1.51
    },
