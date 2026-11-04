@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:22:07+00:00",
+ "updated": "2026-11-04T04:09:08+00:00",
  "categories": {
   "ipo": [
    {
@@ -180,6 +180,28 @@
     }
    },
    {
+    "id": "225a4fcf4c",
+    "title": "LGMS banks on AI-powered cybersecurity solutions for top-line growth",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/03/lgms-banks-on-ai-powered-cybersecurity-solutions-for-top-line-growth",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-03T00:02:00+00:00",
+    "lang": "en",
+    "summary": "Main Market-listed cybersecurity firm LGMS Bhd's expanding portfolio of artificial intelligence (AI)-powered solutions could unlock new revenue opportunities, although meaningful earnings ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "马来西亚主板上市的网络安全公司LGMS，近期推出的人工智能（AI）安全方案越来越多，可能带来新的收入机会，但真正能为盈利做出贡献，还要看客户采用的速度和公司能否把这些方案变成收入。研究机构Mercury Securities指出，AI让黑客攻击更快、规模更大，长远看可能支撑对网络安全服务的需求。",
+     "points": [
+      "LGMS披露，65%的网络入侵源于暴露在网上的系统漏洞，30%来自被盗密码，5%来自中毒电脑",
+      "只有18%的网络事件由机构自己的安全工具发现，47%由外部人士发现",
+      "Mercury Securities维持“持有”评级，目标价49仙，并维持FY26和FY27的盈利预测不变（分别为930万令吉和970万令吉）"
+     ],
+     "why": "对企业主来说，网络安全威胁升级意味着企业在系统防护、员工培训和外包安全服务上的支出可能需要更多关注，但具体成本仍需视个别情况而定。",
+     "title_zh": "LGMS依靠AI网络安全方案寻求营收增长"
+    }
+   },
+   {
     "id": "e54ac4852c",
     "title": "Northern Solar bags DC solar contracts",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/03/northern-solar-bags-dc-solar-contracts",
@@ -202,95 +224,163 @@
     }
    },
    {
-    "id": "c8130ce450",
-    "title": "India's Marico beats quarterly profit view on lower copra costs, healthy demand",
-    "link": "https://www.reuters.com/markets/asia/indias-marico-beats-quarterly-profit-view-lower-copra-costs-healthy-demand-2026-11-02/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-02T03:16:00+00:00",
+    "id": "060244ee8b",
+    "title": "Super app strategy is helping us get to profitability: Grab CEO",
+    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/super-app-strategy-helping-us-get-profitability-grab-ceo",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-11-02T16:00:00+00:00",
     "lang": "en",
-    "summary": "Indian consumer goods maker Marico reported quarterly profit above market expectations on Monday, ​helped by softening year-on-year prices of copra, ‌a key raw material, and steady consumption demand.",
-    "src": "reuters",
-    "src_name": "Reuters Markets",
+    "summary": "Anthony Tan of Grab says combining services to serve customers as a super app is \"incredibly powerful.\" He also says there's \"for sure\" a path for Grab to reach company-wide profitability.",
+    "src": "edge",
+    "src_name": "The Edge",
     "ai": {
-     "summary": "印度消费品公司Marico周一公布季度业绩，净利润高于市场预期。公司表示，主要原料椰干（copra）的价格同比回落，加上消费需求保持稳定，帮助盈利改善。",
+     "summary": "Grab 集团首席执行官 Anthony Tan 表示，把多项服务整合在一个“超级应用”里，对吸引和服务客户非常有力。他also说，Grab 实现整体盈利“肯定”有可行路径。文章正文缺失，以上内容主要依据标题和摘要。",
      "points": [
-      "Marico公布的季度利润高于市场预估",
-      "主要原料椰干价格同比走软",
-      "消费需求保持稳定"
+      "Grab CEO 为 Anthony Tan",
+      "他认为超级应用策略有助于公司走向盈利",
+      "他表示公司整体盈利“肯定”有路径可循"
      ],
      "why": "",
-     "title_zh": "印度Marico季度利润超预期，椰干成本下降与需求稳健助力"
+     "title_zh": "Grab 首席执行官：超级应用策略正助力公司迈向盈利"
     }
    },
    {
-    "id": "6a771eb038",
-    "title": "Mapping the Market: Risk of rise in key US interest rate remains even after recent fall",
-    "link": "https://www.reuters.com/markets/us/global-markets-technicals-2026-11-02/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-02T03:05:00+00:00",
+    "id": "2ffa0cbb37",
+    "title": "Tong's Portfolio",
+    "link": "https://theedgemalaysia.com/node/823982",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-11-01T16:01:00+00:00",
     "lang": "en",
-    "summary": "A closely watched US interest rate has fallen for four weeks, promising some relief for borrowers across the economy. But it is too soon to say the rising trend that began with the Iran war is over, ...",
-    "src": "reuters",
-    "src_name": "Reuters Markets",
+    "summary": "More than one-third of Malaysian tertiary graduates are working in jobs that do not fully utilise the qualifications they spent years earning. At the same time, employers are saying they cannot find ...",
+    "src": "edge",
+    "src_name": "The Edge",
     "ai": {
-     "summary": "路透社的一篇市场报道指出，一项备受关注的美国利率连续四周下跌，对各行各业的借款人来说是一点喘息空间。不过报道认为，自伊朗战争以来开始的上升趋势是否已经结束，现在还言之过早。由于无法读取全文，以上内容仅依据标题与摘要整理。",
+     "summary": "这篇评论文章指出，逾三分之一在职大专毕业生从事的工作没有充分发挥其学历所学，同时雇主却难找到具备所需技能的员工。文章认为，学历更像是求职的筛选门槛，而非能力的保证，学习质量不足和热门专业偏向通识类是主要原因。",
      "points": [
-      "美国一项备受关注的利率已连续下跌四周",
-      "报道认为利率上升趋势尚未确定已经结束",
-      "来源：路透社"
+      "据统计局最新调查，35.2%的在职大专毕业生从事低技能或半技能工作。",
+      "马来西亚学生的学习调整年限约为8.9年，相当于12.5年学制中约有3.6年的学习效果被“流失”。",
+      "私立大学只有约五分之一学生修读工程、科学、数学和信息通信技术相关课程，公立大学约为三分之一。"
      ],
-     "why": "对马来西亚企业主而言，若美国利率走势反复，可能间接影响全球借贷成本与汇率，但目前资料有限，暂无法判断具体影响。",
-     "title_zh": "市场扫描：美国关键利率近期回落后，仍存在上升风险"
+     "why": "对于企业主而言，这意味着招聘时可能更难找到具备实际技能的人才，招募和培训员工的成本与时间或会增加。",
+     "title_zh": "汤氏投资组合"
     }
    },
    {
-    "id": "9844c20a5a",
-    "title": "India's UPL posts lower quarterly profit as weather hits crop protection unit",
-    "link": "https://www.reuters.com/markets/asia/indias-upl-posts-lower-quarterly-profit-weather-hits-crop-protection-unit-2026-11-02/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-02T02:27:00+00:00",
+    "id": "34c0d085e0",
+    "title": "BNM reassures nation’s payment system remains safe and secure",
+    "link": "https://theedgemalaysia.com/article/ipay88-data-breach-bnm-says-malaysias-payment-system-safe-secure%253D",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-11-01T16:01:00+00:00",
     "lang": "en",
-    "summary": "Indian agrochemicals maker UPL posted a 23.9% fall in quarterly profit on Monday, as its crop ​protection business faced pressure due to ‌unfavourable weather in Latin America and Europe.",
-    "src": "reuters",
-    "src_name": "Reuters Markets",
+    "summary": "Below is Bank Negara Malaysia's (BNM) statement, which has been reproduced in full, on the iPay88 (M) Sdn Bhd data breach incident.",
+    "src": "edge",
+    "src_name": "The Edge",
     "ai": {
-     "summary": "印度农化公司UPL公布季度净利下滑，主要原因是其作物保护业务受拉丁美洲和欧洲不利天气影响。该公司是生产农药等农业化学品的企业。",
+     "summary": "马来西亚央行（BNM）就iPay88（M）Sdn Bhd的潜在资料外泄事件发表声明，表示调查仍在进行中。央行指出，问题只出在iPay88的支付卡系统，银行系统并未受影响。央行已要求银行尽快通知受影响的卡主，并加强对相关卡的欺诈监控。",
      "points": [
-      "UPL季度利润较去年同期下降23.9%",
-      "公布日期为星期一",
-      "压力来自拉丁美洲和欧洲的不利天气"
+      "iPay88是为银行和商户提供支付网关服务的公司，事件源头在其支付卡系统",
+      "银行的线上卡交易已采用较强的验证方式，高风险交易会要求持卡人额外确认",
+      "未经验证的交易（尤其是海外商户消费）若因此事件产生欺诈，持卡人无需承担责任"
      ],
-     "why": "",
-     "title_zh": "印度UPL因天气影响作物保护业务，季度利润下滑"
+     "why": "如果公司经常使用线上收款或为员工办理信用卡消费，建议留意银行通知，并检查公司卡的交易记录是否有异常。",
+     "title_zh": "国行：全国支付系统仍然安全可靠"
     }
    },
    {
-    "id": "e9138ad7aa",
-    "title": "European shares slip as investors weigh Middle East talks; Alstom tanks",
-    "link": "https://www.reuters.com/markets/europe/european-shares-slip-investors-weigh-middle-east-talks-alstom-tanks-2026-11-02/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-02T00:34:00+00:00",
+    "id": "2ec4b2c229",
+    "title": "A night of Broadway excellence",
+    "link": "https://theedgemalaysia.com/edge-tv-detail?id=node/824144",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-11-01T16:01:00+00:00",
     "lang": "en",
-    "summary": "European shares slipped on ‌Monday as investors weighed diplomatic efforts to end the seven-month long Middle East conflict, while French train maker ​Alstom tumbled after cutting its full-year margin ...",
-    "src": "reuters",
-    "src_name": "Reuters Markets",
+    "summary": "Select HSBC Premier Elite clients were immersed in an exclusive night of art and culture at Brand New Day — A Symphonic Broadway Celebration, which showcased timeless musical theatre classics. Set in ...",
+    "src": "edge",
+    "src_name": "The Edge"
+   },
+   {
+    "id": "880a85a544",
+    "title": "MARKET MATTERS: In a Stock Market Galaxy Far Far Away....",
+    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/market-matters-stock-market-galaxy-far-far-away-0",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-10-31T17:00:00+00:00",
+    "lang": "en",
+    "summary": "For today's Market Matters, Nadia S Hassan and Charlotte Chong list what them happy this week, and what was equivalent to receiving coal in your Christmas stocking. On the good, Fed Head Janet Yellen ...",
+    "src": "edge",
+    "src_name": "The Edge"
+   },
+   {
+    "id": "f986560650",
+    "title": "BEHIND THE STORY: Golden Opportunity for Ace Innovate",
+    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/behind-story-golden-opportunity-ace-innovate",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-10-31T17:00:00+00:00",
+    "lang": "en",
+    "summary": "Newly listed Ace Innovate Asia is looking to appeal to a younger crowd as it works to make investing in gold hip again.",
+    "src": "edge",
+    "src_name": "The Edge",
     "ai": {
-     "summary": "欧洲股市周一小幅下跌，投资者在观望外交斡旋能否结束已持续七个月的中东冲突。法国列车制造商阿尔斯通(Alstom)因下调全年利润率而股价大跌。",
+     "summary": "Ace Innovate Asia 是一家新上市的公司，希望吸引年轻投资者，重新让黄金投资变得受欢迎。公司正在努力改变人们对黄金的传统印象。文章正文缺失，以上内容仅依据标题和出版商摘要整理。",
      "points": [
-      "欧洲股市周一小幅走低",
-      "投资者关注中东外交谈判进展",
-      "阿尔斯通因下调全年利润率股价大跌"
+      "公司为新上市企业（Ace Innovate Asia）",
+      "目标客群是年轻人",
+      "策略重点是让黄金投资重回潮流"
      ],
      "why": "",
-     "title_zh": "欧洲股市走软，投资者权衡中东会谈；阿尔斯通大跌"
+     "title_zh": "深度解读：Ace Innovate 的黄金机会"
     }
    }
   ],
   "policy": [
+   {
+    "id": "d3601d0473",
+    "title": "公积金1万令吉特别提款是假消息 拉威促民众防诈",
+    "link": "https://www.orientaldaily.com.my/news/perak/2026/11/01/859480",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-10-31T17:00:00+00:00",
+    "lang": "zh",
+    "summary": "（怡保1日讯）社交媒体近日流传声称雇员公积金局（KWSP）开放申请1万令吉特别提款的广告，霹雳州国阵公共服务及投诉局主任拉威提醒民众勿轻信，以免坠入诈骗陷阱，蒙受财务损失。拉威发文告指出，诈骗集团利用民众对公积金特别提款措施的关注，在社交媒体散播虚假广告，声称公积金会员目前可申请提取1万令吉，并诱导民众点击相关链接。他说，受害者一旦点击链接，可能被引导至仿冒公积金局的假网站，并被要求填写身分证号码 ...",
+    "src": "kwsp",
+    "src_name": "KWSP / EPF",
+    "ai": {
+     "summary": "社交媒体上流传广告，声称雇员公积金局（KWSP）开放申请1万令吉特别提款，霹雳州国阵公共服务及投诉局主任拉威提醒民众勿信，以免被骗。他指出这些广告利用民众对公积金的关注，诱导点击链接，进而骗取个人与银行资料。拉威说，2022年确实有过1万令吉公积金特别提款，申请期只在当年4月1日至30日，目前并不适用。",
+     "points": [
+      "2022年4月1日至30日曾开放会员申请提取最高1万令吉公积金，属于疫情期间的特定援助",
+      "诈骗者以假网站和假广告冒充公积金局，要求填写身分证号码、银行账户及安全验证码",
+      "民众应通过公积金局官方网站或官方渠道核实，切勿点击来历不明的链接"
+     ],
+     "why": "企业主与员工都可能成为目标，应提醒家人和员工核实公积金相关讯息，勿随意提供个人或银行资料。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "49f6f96934",
+    "title": "网传公积金可提领1万令吉是骗局 拉威吁公众提高警惕",
+    "link": "https://www.kwongwah.com.my/20261101/%e7%bd%91%e4%bc%a0%e5%85%ac%e7%a7%af%e9%87%91%e5%8f%af%e6%8f%90%e9%a2%861%e4%b8%87%e4%bb%a4%e5%90%89%e6%98%af%e9%aa%97%e5%b1%80-%e6%8b%89%e5%a8%81%e5%90%81%e5%85%ac%e4%bc%97%e6%8f%90%e9%ab%98/",
+    "source": "光华网",
+    "site": "www.kwongwah.com.my",
+    "date": "2026-10-31T17:00:00+00:00",
+    "lang": "zh",
+    "summary": "拉威提醒民众勿轻信未经证实的讯息，以免坠入诈骗陷阱，蒙受财务损失。 由于社交媒体近日流传声称公积金局开放申请1万令吉特别提款的广告，霹雳州国阵公共服务及投诉局主任拉威提醒公众提高警惕，切勿轻信未经证实的讯息，以免坠入诈骗陷阱，蒙受财务损失。 拉威于周日文告指出，诈骗犯利用民众对公积金特别提款措施的关注，通过社交媒体散播虚假广告，声称公积金会员目前可以申请提取1万令吉，借此吸引公众点击相关链接。 他 ...",
+    "src": "kwsp",
+    "src_name": "KWSP / EPF",
+    "ai": {
+     "summary": "社交媒体近日流传广告，声称公积金局开放申请1万令吉特别提款。霹雳州国阵公共服务及投诉局主任拉威于周日发文告提醒公众，这些是诈骗犯利用民众对公积金特别提款措施的关注，散播虚假广告，诱导点击链接。他呼吁民众勿轻信未经证实的讯息，以免蒙受财务损失。",
+     "points": [
+      "社交媒体流传的广告称公积金会员可申请提取1万令吉，但相关说法未经证实",
+      "拉威于周日发布文告提醒公众提高警惕",
+      "诈骗广告以吸引点击相关链接为手法"
+     ],
+     "why": "企业主可提醒员工和家人，公积金等退休储蓄相关的讯息应通过官方渠道核实，避免点击陌生链接而受骗。",
+     "title_zh": ""
+    }
+   },
    {
     "id": "b11d47ebf9",
     "title": "证监会亮绿灯 佰乐集团（PARKLAND BHD）将上市大马交易所主板",
@@ -310,6 +400,28 @@
       "新股筹资主要用于收购地库及营运资本，总成本接近12亿令吉"
      ],
      "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "7cca139660",
+    "title": "辛苦存了一辈子的KWSP！退休金才刚到账，亲友就排队来借钱！",
+    "link": "https://www.moretify.com/%e8%be%9b%e8%8b%a6%e5%ad%98%e4%ba%86%e4%b8%80%e8%be%88%e5%ad%90%e7%9a%84kwsp%ef%bc%81%e9%80%80%e4%bc%91%e9%87%91%e6%89%8d%e5%88%9a%e5%88%b0%e8%b4%a6%ef%bc%8c%e4%ba%b2%e5%8f%8b%e5%b0%b1%e6%8e%92/",
+    "source": "moretify",
+    "site": "www.moretify.com",
+    "date": "2026-10-25T17:00:00+00:00",
+    "lang": "zh",
+    "summary": "辛辛苦苦工作几十年，好不容易等到退休，终于可以拿出自己的 KWSP 公积金，没想到退休金才刚拿到手，身边就有人开始开口借钱！对不少大马打工族来说，KWSP 不只是普通储蓄，而是工作几十年，一点一滴累积下来的养老钱。 退休金拿到手，最怕亲友来借钱？",
+    "src": "kwsp",
+    "src_name": "KWSP / EPF",
+    "ai": {
+     "summary": "一篇文章提醒退休人士，KWSP（公积金局，即大马的强制储蓄基金）退休金刚到手时，亲友可能开口借钱，让人左右为难。文章以简单计算说明，RM200,000存款若每月花RM2,000，只能维持约8年4个月，因此不宜随意外借。",
+     "points": [
+      "假设存款RM200,000、每月生活费RM2,000，单纯计算约可维持8年4个月",
+      "文章未计入通胀、医疗费和突发开销",
+      "引述世界银行研究，部分低收入KWSP会员提取后3至5年内可能耗尽存款"
+     ],
+     "why": "对业主而言，可借此检视员工退休前后的储蓄与财务规划，以及在家庭与公司资金之间划清界限。",
      "title_zh": ""
     }
    },
@@ -360,63 +472,34 @@
   ],
   "insurance": [
    {
-    "id": "8754ea5f40",
-    "title": "保诚携手Levela进一步深化对提升大马理财意识",
-    "link": "https://www.bernama.com/man/news.php?id=2627797",
-    "source": "BERNAMA",
-    "site": "www.bernama.com",
-    "date": "2026-10-30T08:58:00+00:00",
-    "lang": "zh",
-    "summary": "（吉隆坡30日马新社讯）大马保诚保险有限公司（PAMB）正式推出免费金融教育平台Levela，进一步深化其长期致力于提升马来西亚人民理财能力、增强财务应对能力的承诺。 该平台由保诚旗下负责社区投资与慈善事务的保诚亚洲公益基金会（Prudence Foundation）开发，财政部副部长刘镇东今日为Levela平台主持推介仪式。",
-    "ai": {
-     "summary": "大马保诚保险（PAMB）正式推出一个免费的金融教育平台Levela，希望帮助马来西亚民众提升理财能力和应对财务状况的能力。该平台由保诚旗下的公益基金会Prudence Foundation开发，财政部副部长刘镇东今日主持了推介仪式。",
-     "points": [
-      "平台名称为Levela，免费提供给公众使用",
-      "由保诚亚洲公益基金会（Prudence Foundation）开发",
-      "财政部副部长刘镇东主持推介仪式"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
+    "id": "550a76cd9b",
+    "title": "Syarikat Takaful Malaysia Keluarga Berhad (6139.KL) Seasonal Returns Chart",
+    "link": "https://www.thestar.com.my/Business/Marketwatch/Stocks?qcounter=TAKAFUL-CK",
+    "source": "Yahoo! Finance Canada",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-01T05:43:26+00:00",
+    "lang": "en",
+    "summary": "CW SYARIKAT TAKAFUL MALAYSIA KELUARGA BERHAD (CIMB) (TAKAFUL-CK, 6139CK) on Bursa Malaysia including stock price, stock chart, shareholding changes, company news, key ratios, and fundamentals."
    },
    {
-    "id": "73b02769b0",
-    "title": "大马商业保险费全跌 网络保费降13%",
-    "link": "https://www.chinapress.com.my/20261028/%E5%A4%A7%E9%A9%AC%E5%95%86%E4%B8%9A%E4%BF%9D%E9%99%A9%E8%B4%B9%E5%85%A8%E8%B7%8C-%E7%BD%91%E7%BB%9C%E4%BF%9D%E8%B4%B9%E9%99%8D13/",
-    "source": "中國報",
-    "site": "www.chinapress.com.my",
-    "date": "2026-10-28T04:46:00+00:00",
-    "lang": "zh",
-    "summary": "（吉隆坡28日讯）国内商业保险市场竞争日趋激烈，我国今年第3季度的商业保险费率平均下降10%，跌幅较次季进一步扩大；其中网络保险费率更大跌13%，成为亚洲降幅最大的市场之一。保险经纪公司韦莱达信（Marsh）今日发布的2026年第3季全球保险市场指数报告显示，大马商业保险费率继次季下降9%后，第3季进一步下滑10%，跌幅明显超过亚洲整体的6%。各主要保险的保费全面走低，其中财产险保费率下降11%， ...",
-    "ai": {
-     "summary": "据保险经纪公司韦莱达信（Marsh）的全球保险市场指数报告，大马商业保险价格在今年第3季继续下跌，平均降幅为10%，跌幅比上一季更大。其中网络保险降幅达13%，在亚洲属于降幅最大的市场之一。市场竞争激烈是主要背景。",
-     "points": [
-      "大马商业保险费率第3季平均下降10%，上一季为降9%",
-      "网络保险费率下降13%，财产险费率下降11%",
-      "同期亚洲整体降幅约为6%，大马跌幅明显更大"
-     ],
-     "why": "商业保险价格走低，企业投保同类保障时或许有更多选择空间，可以留意续保报价的变化。"
-    }
+    "id": "4d714ab07a",
+    "title": "YF Life Proudly Claims Two Top 3 Accolades at the Hong Kong Insurance Awards 2026",
+    "link": "https://www.malaymail.com/news/money/mediaoutreach/2026/10/30/yf-life-proudly-claims-two-top-3-accolades-at-the-hong-kong-insurance-awards-2026/498234",
+    "source": "The Sun Malaysia",
+    "site": "www.malaymail.com",
+    "date": "2026-10-30T12:51:46+00:00",
+    "lang": "en",
+    "summary": "Demonstrating Leadership in Robust Risk Governance and Strategic PartnershipsHONG KONG SAR – Media OutReach Newswire – 30 October 2026 – YF Life Insurance International ..."
    },
    {
-    "id": "a1146de988",
-    "title": "电召车保费拟按里程计算 陆兆福：研究动态保险减轻司机负担",
-    "link": "https://www.orientaldaily.com.my/news/nation/2026/10/28/858546",
-    "source": "东方网",
-    "site": "www.orientaldaily.com.my",
-    "date": "2026-10-27T17:00:00+00:00",
-    "lang": "zh",
-    "summary": "（吉隆坡28日讯）交通部长陆兆福表示，政府目前正在研究为电召车司机推出动态保险和伊斯兰保险模式，即根据行驶里程和司机风险状况计算保费，以减轻该行业不断攀升的营运成本。他说，由国家银行牵头成立的跨部门特工队，正主导重组电召车保险模式的研究工作，以减轻司机的经济负担。“根据目前的研究框架，传统的固定年度保费模式，或改为按每公里行驶里程计算保费，并结合个别司机的风险评级来厘定保费。”陆兆福昨日在国会下议 ...",
-    "ai": {
-     "summary": "交通部长陆兆福表示，政府正研究为电召车司机推出动态保险和伊斯兰保险模式，按行驶里程和司机风险状况计算保费，以减轻行业不断上涨的营运成本。由国家银行牵头的跨部门特工队正主导这项重组研究。陆兆福昨日在国会下议院以书面回答时作出上述说明。",
-     "points": [
-      "研究中的做法是把传统固定年度保费，改为按每公里里程计算，并结合个别司机的风险评级",
-      "特工队也在评估为电召车安装远距传送系统，监测车速、加速和刹车等驾驶习惯",
-      "政府正探讨电召车平台与保险公司之间加强数据共享，以简化事故索赔核实"
-     ],
-     "why": "如果电召车保险改为按里程与风险计算，相关司机或车队的运营成本结构可能随之改变，企业也需留意保险安排的变化。",
-     "title_zh": ""
-    }
+    "id": "3dfa5158c7",
+    "title": "2026 Honda City Hatchback RS e:HEV facelift in Malaysia - 1.5L hybrid, RM112,900 on-the-road without insurance",
+    "link": "https://paultan.org/bm/2026/10/29/honda-city-hatchback-rs-ehev-facelift-2026-di-malaysia-1-5l-hibrid-rm112900-atas-jalan-tanpa-insurans/",
+    "source": "Paul Tan",
+    "site": "paultan.org",
+    "date": "2026-10-29T05:09:09+00:00",
+    "lang": "en",
+    "summary": "Bersama-sama dengan Honda City sedan facelift terbaharu yang dilancarkan di Malaysia pada bulan September, Honda City Hatchback turut menerima kemas kini facelift bagi tahun model 2026. Seperti versi ..."
    }
   ],
   "health": [
@@ -441,6 +524,26 @@
     }
    },
    {
+    "id": "303fe79668",
+    "title": "拟发售逾43亿股上市马股 郭令灿医疗集团要招股了！",
+    "link": "https://www.klsescreener.com/v2/news/view/1817841/%E6%8B%9F%E5%8F%91%E5%94%AE%E9%80%BE43%E4%BA%BF%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A9%AC%E8%82%A1-%E9%83%AD%E4%BB%A4%E7%81%BF%E5%8C%BB%E7%96%97%E9%9B%86%E5%9B%A2%E8%A6%81%E6%8B%9B%E8%82%A1%E4%BA%86",
+    "source": "KLSE Screener",
+    "site": "www.klsescreener.com",
+    "date": "2026-10-29T03:25:00+00:00",
+    "lang": "zh",
+    "summary": "（吉隆坡29日讯）丹斯里郭令灿旗下医疗集团正式提交首发股（IPO）草拟招股书，计划发售最多43亿8058万9000股并上市马股主要板，马股有望迎来14年最大规模的IPO。根据证券监督委员会网站发布的草拟招股书，郭令灿旗下丰隆集团与美国私募股权巨头TPG所持有的Asia OneHealthcare（简称A1Health），计划通过IPO发售最多43亿8058万9000股股票，相当于扩大后已发行股本的 ...",
+    "ai": {
+     "summary": "郭令灿旗下丰隆集团与美国私募股权公司TPG持有的医疗集团Asia OneHealthcare（A1Health），已向证券监督委员会提交首发股（IPO）草拟招股书，计划在马股主要板上市。若成功，将是马股14年来规模最大的首发股。",
+     "points": [
+      "计划发售最多43亿8058万9000股，约占扩大后已发行股本的26.1%",
+      "约88%为现有股东献售，其余5亿2109万8500股为新股",
+      "新股所得资金拟用于业务扩张、设施维护及偿还银行贷款"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "73b02769b0",
     "title": "大马商业保险费全跌 网络保费降13%",
     "link": "https://www.chinapress.com.my/20261028/%E5%A4%A7%E9%A9%AC%E5%95%86%E4%B8%9A%E4%BF%9D%E9%99%A9%E8%B4%B9%E5%85%A8%E8%B7%8C-%E7%BD%91%E7%BB%9C%E4%BF%9D%E8%B4%B9%E9%99%8D13/",
@@ -460,76 +563,386 @@
     }
    },
    {
-    "id": "61705aecde",
-    "title": "Asia OneHealthcare files draft prospectus for Malaysia IPO",
-    "link": "https://malaysia.news.yahoo.com/asia-onehealthcare-files-draft-prospectus-034739664.html",
-    "source": "Yahoo Malaysia",
-    "site": "malaysia.news.yahoo.com",
-    "date": "2026-10-28T17:00:00+00:00",
+    "id": "77d46da658",
+    "title": "Patients Skipping GPs For Private Hospitals Drive Up Medical Costs: APHM",
+    "link": "https://codeblue.galencentre.org/2026/11/patients-skipping-gps-for-private-hospitals-drive-up-medical-costs-aphm/",
+    "source": "CodeBlue",
+    "site": "codeblue.galencentre.org",
+    "date": "2026-11-02T16:00:00+00:00",
     "lang": "en",
-    "summary": "Malaysian hospital operator Asia OneHealthcare has filed a draft prospectus for an initial public offering ‌of up to 4.38 billion shares and a planned listing on ‌Bursa ..."
+    "summary": "APHM honorary secretary Anwar Anis says patients bypassing GPs for private hospitals are driving up medical costs. Affin Bank says distrust of GP clinics and mandatory MCs for minor illnesses are ..."
+   },
+   {
+    "id": "81bb1bd0ab",
+    "title": "Malaysia: Life insurers welcome government's plan to subsidise the first-year health insurance premium for eligible employees at SMEs",
+    "link": "https://www.asiainsurancereview.com/Magazine/ReadMagazineArticle?aid=60839",
+    "source": "Asia Insurance Review",
+    "site": "www.asiainsurancereview.com",
+    "date": "2026-10-31T09:05:00+00:00",
+    "lang": "en",
+    "summary": "The Life Insurance Association of Malaysia (LIAM) has welcomed the government’s plan to subsidise the first-year MediAsas premium by MYR200 ($49) per employee at eligible small and medium-sized ..."
    }
   ],
   "energy": [
    {
-    "id": "ba98ccbb3b",
-    "title": "SpaceX星舰完成发射前静态点火测试，第15次试飞将首次尝试塔架同时 ...",
-    "link": "https://www.msn.com/zh-cn/%E7%A7%91%E5%AD%A6/%E9%80%9A%E7%94%A8/spacex%E6%98%9F%E8%88%B0%E5%AE%8C%E6%88%90%E5%8F%91%E5%B0%84%E5%89%8D%E9%9D%99%E6%80%81%E7%82%B9%E7%81%AB%E6%B5%8B%E8%AF%95-%E7%AC%AC15%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%B0%86%E9%A6%96%E6%AC%A1%E5%B0%9D%E8%AF%95%E5%A1%94%E6%9E%B6%E5%90%8C%E6%97%B6%E5%9B%9E%E6%94%B6%E4%B8%A4%E7%BA%A7/ar-AA2gsBqc",
-    "source": "一点资讯",
-    "site": "www.msn.com",
-    "date": "2026-10-30T22:29:07+00:00",
+    "id": "b7e2b16514",
+    "title": "特斯拉和三星联手反对！要求白宫放弃越南商品征收新关税",
+    "link": "https://wap.eastmoney.com/a/202611023918795017.html",
+    "source": "财联社",
+    "site": "wap.eastmoney.com",
+    "date": "2026-11-03T21:23:03+00:00",
     "lang": "zh",
-    "summary": "10月26日和27日两天，SpaceX在得州星舰基地连续做了两轮静态点火。上面级星舰飞船先完成了6台猛禽发动机的全时长点火，又单独点燃一台，模拟离轨制动。之前承担这趟任务的超重型助推器已经过33台发动机同步点火测试。两级都测完，意味着第15次试飞的发射前准备基本就绪。 星舰飞船在发射台进行静态点火测试 ...",
+    "summary": "【特斯拉和三星联手反对！要求白宫放弃越南商品征收新关税】美国政府正在考虑对越南商品征收新的关税，其将在11月29日结束贸易调查并作出决定，然而，美国企业界对这一政策意向的意见并不统一。其中，特斯拉和三星反对美国政府对越南商品征收新的关税，但另一些企业则呼吁实施关税措施。",
     "ai": {
-     "summary": "SpaceX在10月26日和27日于得州星舰基地连续进行两轮静态点火测试，即发射前在地面点燃发动机检查。上面级星舰飞船完成6台猛禽发动机的全时长点火，并单独点燃一台，模拟离轨制动。这意味着第15次试飞的两级火箭测试基本完成，发射准备接近就绪。",
+     "summary": "美国政府正在考虑对越南商品加征新关税，计划在11月29日结束贸易调查并作出决定。美国企业界意见不一：特斯拉和三星反对，另一些行业团体则支持加税。",
      "points": [
-      "测试日期为10月26日和27日，地点在得州星舰基地",
-      "上面级飞船完成6台猛禽发动机全时长点火，另单独点燃1台模拟离轨制动",
-      "超重型助推器此前已完成33台发动机同步点火测试"
+      "特斯拉称越南今年前八个月对美出口同比激增42%，超过中国和墨西哥，成为美国最大贸易顺差来源。",
+      "三星是越南最大外国投资者，在当地投资约250亿美元。",
+      "美国此前已对越南商品征收12.5%的普遍关税，并把越南列为“重点关注国家”。"
+     ],
+     "why": "如果美国对越南商品加税，跨国供应链的成本与交货安排可能受影响，在越南采购或生产的马来西亚企业需要留意相关变化。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "856bc8a541",
+    "title": "马斯克旗下AI应用Grok支持银联、支付宝订阅",
+    "link": "https://www.mpaypass.com.cn/news/202611/03135343.html",
+    "source": "mpaypass",
+    "site": "www.mpaypass.com.cn",
+    "date": "2026-11-03T05:51:00+00:00",
+    "lang": "zh",
+    "summary": "移动支付网消息：11月1日前后，多位用户发现，Grok（由马斯克旗下xAI开发的人工智能助手）网页版订阅结账页面新增了支付宝和中国银联两个选项，账单地址一栏也能直接选中国大陆、中国香港、中国澳门和中国台湾。把地区切到中国大陆，页面就跳出支付宝入口，扫码、确认、付款，收款主体是美国xAI公司。",
+    "ai": {
+     "summary": "据移动支付网报道，11月1日前后，多位用户发现Grok网页版订阅结账页新增支付宝和中国银联选项，地区也可选中国大陆、香港、澳门和台湾。xAI还推出首月半价等优惠，但官方尚未发布公告，功能仍处于灰度测试。",
+     "points": [
+      "新增支付宝和中国银联两个付款选项，仅见于网页版结账页，iOS和安卓内购仍走苹果和谷歌渠道",
+      "按每月30美元的Premium档计算，首月约15美元，有用户实测支付宝实付约100元人民币",
+      "收款主体为美国xAI公司，官方尚未就此发布任何公告"
+     ],
+     "why": "对于在海外订阅AI服务的马来西亚企业主和员工而言，多一种付款途径或许能减少对海外信用卡的依赖，但订阅前仍宜留意付款主体、价格和功能是否稳定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "c192fd1096",
+    "title": "EchoStar盘前上涨5.1%，此前有报道称其与SpaceX就无线服务进行洽谈",
+    "link": "https://finance.eastmoney.com/a/202611023918868985.html",
+    "source": "东方财富",
+    "site": "finance.eastmoney.com",
+    "date": "2026-11-02T20:01:38+00:00",
+    "lang": "zh",
+    "summary": "原标题：EchoStar盘前上涨5.1%，此前有报道称其与SpaceX就无线服务进行洽谈。",
+    "ai": {
+     "summary": "EchoStar（美国卫星与无线通信公司）在盘前交易中股价上涨5.1%。此前有报道称，该公司正与SpaceX（太空探索技术公司）就无线服务合作进行洽谈。文章未提供更多细节。",
+     "points": [
+      "EchoStar盘前股价上涨5.1%",
+      "此前有报道称双方就无线服务进行洽谈",
+      "SpaceX为太空探索技术公司"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "13796079e8",
-    "title": "SpaceX星舰15号测试推迟至11月12日，计划佛州首飞",
-    "link": "https://www.sohu.com/a/1094867120_122066678",
+    "id": "6c52ee32f7",
+    "title": "Grok Bot用户吐槽额度提前耗尽 马斯克坦言AI算力“太烧钱”扛不住！",
+    "link": "https://wap.eastmoney.com/a/202611033919440797.html",
+    "source": "手机东方财富网",
+    "site": "wap.eastmoney.com",
+    "date": "2026-11-02T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "【Grok Bot用户吐槽额度提前耗尽 马斯克坦言AI算力“太烧钱”扛不住！】SpaceX首席执行官、全球首富埃隆·马斯克日前表示，由于该公司研发的人工智能助手GrokBot的服务成本过高，做不到“不限量使用”。这凸显出随着服务需求上涨，这项AI业务正面临资金压力。马斯克在社交媒体平台上发帖称，“相对于收入而言，Grok Bot的服务成本过高，难以为继。” ...",
+    "ai": {
+     "summary": "SpaceX首席执行官马斯克表示，其AI助手Grok Bot的服务成本过高，无法提供“不限量使用”。不少订阅用户反映每周使用额度消耗过快，有人在重置前数天就已用完。马斯克称，相对于收入，服务成本难以持续。",
+     "points": [
+      "Grok Bot于今年8月推出，套餐从免费版到每月200美元不等，所有档位均设每周重置的使用限额。",
+      "有用户称额度已用满，距离下次重置还有4天，而此前通常不会用完。",
+      "报道称日活跃用户从9月初不到10万增至10月26日超过60万。"
+     ],
+     "why": "这显示AI服务的运算成本可能高于收入，若企业日后使用类似AI工具，服务费用或使用限制可能随之变动，需留意成本规划。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "a4ebbf6764",
+    "title": "普京称赞马斯克是天才背后释放何信号 太空合作与秩序的重要性",
+    "link": "https://3g.china.com/act/military/13004177/20261102/49834824.html",
+    "source": "中华军事",
+    "site": "3g.china.com",
+    "date": "2026-11-02T15:08:14+00:00",
+    "lang": "zh",
+    "summary": "普京称赞马斯克为“真正的天才”，这并非因为两国关系突然好转，而是出于对近地轨道规则的共同认识。尽管地面上的政治分歧日益扩大，但太空中的卫星必须相互避让、保持通信。俄罗斯一方面在建设自己的卫星互联网，另一方面也强调与美国伙伴保持联系，这种态度既是对技术的尊重，也是出于现实考虑。 这一言论是在俄罗斯—非洲峰会期间，普京听取俄罗斯数字发展与通信部长马克苏特·沙达耶夫展示“黎明”卫星项目成果时发表的。“黎 ...",
+    "ai": {
+     "summary": "俄罗斯总统普京在俄非峰会期间称赞SpaceX创办人马斯克是“真正的天才”，并强调太空活动需要规则与秩序。俄方同时在发展自己的卫星互联网“黎明”项目，用于通信服务，这一项目被视为俄版“星链”。普京也坦承俄罗斯在这方面才刚起步，与成熟的“星链”系统差距很大。",
+     "points": [
+      "普京在俄非峰会期间，听取部长沙达耶夫展示“黎明”卫星项目成果时发表上述言论",
+      "“黎明”旨在通过卫星星座提供通信，减少对地面基站和光缆的依赖",
+      "普京承认俄罗斯与“星链”相比仍有很大差距"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "e2523b9a6b",
+    "title": "加拿大支持星链竞争对手 但20亿美元债务纠纷威胁其发展计划",
+    "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixiynu7199363.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-02T11:45:00+00:00",
+    "lang": "zh",
+    "summary": "加拿大正在开发一个卫星通信网络，试图挑战埃隆·马斯克（Elon Musk）旗下星链（Starlink）的主导地位。然而，这项计划能否成功，取决于其能否挺过与华尔街债权人之间一场激烈的数十亿美元债务纠纷。 随着加拿大寻求减少对美国关键通信技术的依赖，这项计划变得愈发紧迫。与此同时，在马斯克被指曾于乌克兰抵御俄罗斯导弹袭击期间限制星链服务后，加拿大也希望为其他国家提供星链之外的替代选择。 渥太华计划的 ...",
+    "ai": {
+     "summary": "加拿大卫星运营商Telesat正在建设名为Lightspeed的低地球轨道卫星网络，希望与马斯克的星链竞争，为全球提供高速互联网和安全通信服务。该公司面临营收下降和约31亿加元（约22亿美元）债务即将到期的压力，并与华尔街债权人发生激烈的债务纠纷，计划能否成功仍有不确定性。",
+     "points": [
+      "Lightspeed计划部署225颗卫星，预计2028年初才能投入运营",
+      "约23亿加元债务将于12月6日到期，另有6亿加元明年到期",
+      "债权人指控公司将Lightspeed六成多股权转移出担保范围，公司则称这些诉讼缺乏依据"
+     ],
+     "why": "对在马来西亚经营的企业主而言，这更多是国际卫星通信市场的变化；若替代服务成熟，未来可能带来更多网络选择，但目前仍属早期发展阶段，暂无直接影响。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "91380bc121",
+    "title": "马斯克xAI数据中心涉污染 法官放行诉讼",
+    "link": "https://www.epochtimes.com/gb/26/11/2/n14881654.htm",
+    "source": "大纪元",
+    "site": "www.epochtimes.com",
+    "date": "2026-11-02T11:04:00+00:00",
+    "lang": "zh",
+    "summary": "【大纪元2026年11月02日讯】（大纪元记者Naveen Athrappully报导／周行编译）美国法官驳回了xAI（SpaceXAI的前身）提出的一项取消诉讼动议。xAI由埃隆‧马斯克（Elon Musk）拥有，一个民权组织指称xAI的数据中心使用燃气轮机发电违法。 人工智能实验室xAI辩称，根据密西西比州的“州实施计划”（State Implementation Plan，SIP），其发电厂 ...",
+    "ai": {
+     "summary": "美国密西西比州一名联邦法官驳回了xAI要求撤销诉讼的动议，案件可以继续审理。原告是民权组织NAACP，指控xAI在南黑文的燃气发电厂未取得空气污染许可证就运行27台燃气轮机，这些轮机为田纳西州孟菲斯的“巨像2”数据中心供电。xAI辩称这些轮机属于可豁免许可的“流动污染源”，法官认为不符合该定义，并认定NAACP有权依据《清洁空气法》提起诉讼。",
+     "points": [
+      "法官于10月30日作出裁决，案件在密西西比州北区联邦地区法院牛津分院继续推进",
+      "NAACP于4月提起诉讼，指涉及27台燃气轮机，原告指控排放氮氧化物和甲醛等污染物",
+      "美国司法部曾于6月16日提交动议，支持驳回该诉讼"
+     ],
+     "why": "此案主要涉及AI数据中心的能源来源与环保合规，对一般马来西亚企业影响有限，但提醒企业在设施供电与排放许可方面需留意相关规定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "885885e9ed",
+    "title": "天空告急！欧洲能否为乌克兰提供美国星链的替代品？",
+    "link": "https://news.qq.com/rain/a/20261031A0DMXP00",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-10-31T15:27:00+00:00",
+    "lang": "zh",
+    "summary": "俄《消息报》网站10月19日报道称，如果美国政府或SpaceX公司决定限制星链系统的运行，乌克兰武装部队可能会面临大规模通信危机的边缘。埃隆·马斯克的大规模且廉价的终端设备如今为部队指挥、无人机协调和实时目标指示提供支持，并能有效抵御电子战攻击。俄军事专家德米特里·科尔涅夫在其专栏文章中解释了，为何从Eutelsat OneWeb系统到前景广阔的IRIS²等所谓的欧洲替代方案，都无法在战场上成为S ...",
+    "ai": {
+     "summary": "俄罗斯《消息报》网站10月19日报道，如果美国政府或SpaceX公司限制星链系统运行，乌克兰军队可能面临严重通信危机。文章作者是俄军事专家科尔涅夫，他认为欧洲的卫星替代方案都难以在前线取代星链。欧盟外交负责人卡拉斯也承认，短期内找不到替代品。",
+     "points": [
+      "星链为前线提供指挥、无人机协调和目标指示等通信，延迟可低至25至60毫秒。",
+      "欧洲的OneWeb卫星数量远少于星链，只适合作为指挥部等地的备用通道。",
+      "欧盟IRIS²系统计划约290颗卫星，预计2030年左右才可全面运行。"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "ca4a738ffe",
+    "title": "星链受限情报中断，俄12天对乌打击猛增58%，泽连斯基能撑住吗？",
+    "link": "https://www.sohu.com/a/1095472547_122656970",
     "source": "搜狐",
     "site": "www.sohu.com",
-    "date": "2026-10-30T04:42:00+00:00",
+    "date": "2026-10-31T12:50:00+00:00",
     "lang": "zh",
-    "summary": "根据10月29日美国联邦航空管理局（FAA）空中交通管制系统指挥中心（ATCSCC）发布的航天任务协调简报，SpaceX的星舰第15次综合测试飞行（IFT-15）被调整至11月12日进行。原定于11月8日的发射日期因此后延4天。此外，星舰执行的Starlink30-1任务则安排在12月10日启动。 值得注意的是，Starlink30-1任务标志着星舰可能首次从佛罗里达州肯尼迪航天中心LC-39A发 ...",
+    "summary": "Starlink和 美国情报中断期间，俄罗斯对乌克兰的打击次数增加58%。一边是卫星通信出现限制，一边是美国与乌克兰之间的情报共享暂时中断，紧接着，俄罗斯对乌克兰的空中打击明显增加。短短12天，袭击次数从约2527次升至4003次，增幅达到58%。这究竟是战场上的时间巧合，还是俄罗斯抓住了乌克兰防空体系最不方便的时刻？这组数字来自美国战略与国际问题研究中心分析的数据。它所揭示的问题， 已经不只是俄 ...",
     "ai": {
-     "summary": "据美国联邦航空管理局的航天任务协调简报，SpaceX星舰第15次综合测试飞行已从原定11月8日延后至11月12日，推迟4天。简报还显示，星舰的Starlink30-1任务排在12月10日，可能首次从佛州肯尼迪航天中心发射。该简报只是早期空域协调的时间规划，并非最终发射日程，也不代表官方已批准。",
+     "summary": "据报道，在星链（Starlink）卫星通信受限、美乌情报共享短暂中断期间，俄罗斯对乌克兰的空中袭击在12天内从约2527次增至4003次，增幅约58%。数据来自美国一家智库的分析。文章认为，预警和通信变慢会压缩防空的反应时间，但这只是研究人员根据数据作出的判断，并没有公开证据证明袭击时间是专门安排的。",
      "points": [
-      "星舰第15次综合测试飞行改期至11月12日，原定11月8日",
-      "Starlink30-1任务计划12月10日启动，可能首次从佛州LC-39A发射台起飞",
-      "蓝色起源新格伦火箭发射初步定在12月28日"
+      "袭击次数由约2527次升至4003次，增幅约58%",
+      "乌克兰拦截率由87%左右降至84.9%，10月13日单日降至77.8%",
+      "10月24日，乌方称Starlink及其军事版本已恢复正常，但限制由谁下令各方说法不一"
+     ],
+     "why": "这类事件显示，依赖外部数字服务的关键运作一旦中断，可能影响连续性，企业在选用重要数字工具时可考虑备用方案。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "af45866e3e",
+    "title": "星链突然断限内幕曝光！美媒揭马斯克惊人操作",
+    "link": "https://www.backchina.com/news/2026/10/30/1054277.html",
+    "source": "倍可亲",
+    "site": "www.backchina.com",
+    "date": "2026-10-29T17:55:00+00:00",
+    "lang": "zh",
+    "summary": "曾在俄乌战争初期慷慨援助乌克兰的世界首富马斯克，如今突然对乌军祭出星链使用限制，导致无人机停飞、军事行动受阻。美国“大西洋月刊”28日引述十多名美乌官员及星链相关专家披露，事实上乌克兰军方早在10月11日就收到机密警告，没想到短短两天后，星链果然在战区 ...",
+    "ai": {
+     "summary": "据美国《大西洋月刊》报道，马斯克的星链卫星网络近期对乌克兰军方加以限制，导致战区无人机停飞、行动受阻。报道引述官员和专家说，乌军早在10月11日已收到相关风险警告，两天后便出现连线异常。马斯克承认这是SpaceX刻意采取的措施，并指乌军违反服务条款用于攻击性无人机。",
+     "points": [
+      "星链限制发生在10月13日前后，无人机一度停飞。",
+      "报道称马斯克可能想迫使乌军改用价格高昂的军用星盾服务。",
+      "一般星链每月最低约30美元，星盾每月可高达2.5万美元。"
+     ],
+     "why": "企业若依赖卫星网络或海外服务，服务条款和价格可能突然改变，因此宜留意供应商风险并预留替代方案。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "a71cafbfc7",
+    "title": "普京称赞马斯克是天才 称俄正打造对标“星链”的卫星系统",
+    "link": "https://news.sina.cn/minsheng/2026-10-29/detail-iniwwtuu2806650.d.html?vt=4",
+    "source": "新浪新闻",
+    "site": "news.sina.cn",
+    "date": "2026-10-29T11:17:00+00:00",
+    "lang": "zh",
+    "summary": "普京称赞马斯克是天才 称俄正打造对标“星链”的卫星系统 中新网10月29日电 综合路透社、塔斯社报道，俄罗斯总统普京28日称赞美国太空探索技术公司(SpaceX)首席执行官马斯克为“天才”，称俄罗斯正与包括他在内的美国伙伴保持联系。普京还表示，俄罗斯正打造类似 ...",
+    "ai": {
+     "summary": "俄罗斯总统普京称赞SpaceX首席执行官马斯克是“天才”，并表示俄方正在打造类似“星链”的卫星网络，目前仍处于起步阶段。俄罗斯数字发展部部长沙达耶夫说，俄方在建设名为“黎明”的系统时已发射30多颗卫星。普京还强调，俄方正与美国伙伴保持联系，以维持轨道秩序。",
+     "points": [
+      "普京于10月28日发表上述言论，俄方正与美国合作伙伴保持沟通",
+      "俄方“黎明”卫星系统已发射30多颗卫星",
+      "马斯克的星链低轨卫星据称超过5000颗，独立追踪网站估计实际接近10000颗"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "5916761be3",
-    "title": "SpaceX完成星舰第15次试飞关键测试，拟首次双回收",
-    "link": "https://www.donews.com/news/detail/8/6758795.html",
-    "source": "DoNews",
-    "site": "www.donews.com",
-    "date": "2026-10-29T14:57:00+00:00",
+    "id": "8a63f28a41",
+    "title": "普京盛赞马斯克是天才，承认俄正打造本土版“星链”",
+    "link": "https://news.qq.com/rain/a/20261029A06R4F00",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-10-29T05:55:00+00:00",
     "lang": "zh",
-    "summary": "10月26日至27日，SpaceX在美国得州星基地完成星舰上面级Ship 42六台猛禽发动机全时长静态点火，并单独测试离轨制动点火；此前Booster 22已成功完成33台发动机同步点火。本次第15次试飞计划于11月实施，目标实现超重型助推器与上面级同步回收，依托发射塔“筷子”机械臂。若成功，将为完全可重复使用奠定基础。9月第14次试飞已实现首次入轨并部署26颗星链V3卫星。",
+    "summary": "10月29日，财闻海外资讯援引路透社报道，俄罗斯总统普京周三盛赞埃隆·马斯克是“天才”，同时承认俄罗斯打造本国版“星链”（Starlink）卫星互联网系统才刚刚起步。这一表态尤为引人注目，因为在与俄罗斯战争期间，乌克兰军队一直将马斯克旗下SpaceX（SPCX.US）开发的“星链”系统作为无人机行动和战场通信的关键组成部分 ...",
     "ai": {
-     "summary": "SpaceX在美国得州星基地完成了星舰上面级Ship 42的六台猛禽发动机全时长静态点火测试，并单独测试了离轨制动点火。此前超重型助推器Booster 22已完成33台发动机同步点火。第15次试飞计划于11月进行，目标是让助推器和上面级首次同时回收，回收依靠发射塔的“筷子”机械臂。",
+     "summary": "俄罗斯总统普京在听取汇报时盛赞马斯克是“天才”，并承认俄罗斯自己的卫星互联网系统“星链”版本才刚起步。俄方称已发射30多颗卫星，而马斯克的星链已有超过5000颗低轨卫星运行。",
      "points": [
-      "测试时间为10月26日至27日，地点在美国得州星基地",
-      "Ship 42完成六台猛禽发动机全时长静态点火，Booster 22此前完成33台发动机同步点火",
-      "第15次试飞计划11月实施，目标是助推器与上面级同步回收"
+      "普京周三在听取数字发展部长沙达耶夫汇报时发表上述言论",
+      "沙达耶夫称俄方已发射30多颗卫星，马斯克的星链卫星超过5000颗",
+      "独立追踪网站Orbital Radar估计实际数量接近10000颗"
      ],
      "why": "",
      "title_zh": ""
     }
+   },
+   {
+    "id": "07f4edfe6d",
+    "title": "星链被盯上！以色列涉嫌间谍公司被指批量定位监控用户",
+    "link": "https://www.eet-china.com/news/202610288555.html",
+    "source": "电子工程专辑",
+    "site": "www.eet-china.com",
+    "date": "2026-10-28T02:42:00+00:00",
+    "lang": "zh",
+    "summary": "Starlink已成为乌克兰特别重要的资源，乌克兰军方依赖这项服务进行前线通信并指挥无人机攻击。与此同时，军事人员、战区维和人员、异见人士、新闻记者，也可能借助卫星互联网绕过审查与传统网络封锁。对这些人群而言，“被广告系统看见”不再只是隐私问题，而可能意味着位置暴露、身份去匿名化，乃至引来恶意软件感染。追踪星链用户，正成为某些情报市场的一门“边缘产业”。",
+    "ai": {
+     "summary": "据报道，有以色列背景、涉嫌从事间谍活动的公司被指通过广告数据等方式，大规模定位和监控星链（Starlink）卫星互联网用户。星链在乌克兰前线通信和无人机作战中十分重要，军人、记者、异见人士也可能依赖它绕过审查，因此用户位置暴露的风险备受关注。",
+     "points": [
+      "星链是乌克兰军方依赖的前线通信服务之一",
+      "报道指部分情报市场正在追踪星链用户",
+      "用户可能面临位置暴露、身份被识别甚至恶意软件感染的风险"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "45517f40a4",
+    "title": "美前劳工部长批马斯克干预政治，主张国有化SpaceX和星链，马斯克回 ...",
+    "link": "https://finance.sina.cn/2026-10-27/detail-iniwswni4261122.d.html?vt=4",
+    "source": "新浪财经",
+    "site": "finance.sina.cn",
+    "date": "2026-10-27T16:07:00+00:00",
+    "lang": "zh",
+    "summary": "综合美国《国会山报》等媒体报道，美国前劳工部长罗伯特·赖希近日在播客节目中提议，应将美国企业家埃隆·马斯克旗下太空探索技术公司（SpaceX）及“星链”（Starlink）服务国有化，同时呼吁“停止资助马斯克”。对此，马斯克25日在社交平台X上回应称：“窃取公 ...",
+    "ai": {
+     "summary": "美国前劳工部长赖希在播客节目中提议，将马斯克旗下的SpaceX及“星链”服务国有化，并呼吁“停止资助马斯克”。马斯克在社交平台X上回应，称“窃取公司是严重犯罪”，并说赖希应入狱。",
+     "points": [
+      "提议人为美国前劳工部长罗伯特·赖希，内容见于其播客节目",
+      "提议对象包括SpaceX公司及“星链”卫星互联网服务",
+      "马斯克于25日在X平台作出回应"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "73521959bb",
+    "title": "埃隆·马斯克称乌克兰军方违反了星链服务条款",
+    "link": "https://www.arch-web.com.tw/%e7%a7%91%e5%ad%b8%e6%8a%80%e8%a1%93/%e5%9f%83%e9%9a%86%c2%b7%e9%a9%ac%e6%96%af%e5%85%8b%e7%a7%b0%e4%b9%8c%e5%85%8b%e5%85%b0%e5%86%9b%e6%96%b9%e8%bf%9d%e5%8f%8d%e4%ba%86%e6%98%9f%e9%93%be%e6%9c%8d%e5%8a%a1%e6%9d%a1%e6%ac%be/713714/",
+    "source": "arch-web",
+    "site": "www.arch-web.com.tw",
+    "date": "2026-10-27T13:55:00+00:00",
+    "lang": "zh",
+    "summary": "埃隆·马斯克 指控据报道乌克兰在最近一次减速之前违反了星链服务条款 前 艺术技术。据马斯克称，“乌克兰军方违反了星链服务条款，并利用其进行无人机攻击来杀人。这个漏洞已于上周被堵住”，但乌克兰官员否认发生过这种情况，也否认实际上有可能这样做。 近两周前，乌克兰官员指责 SpaceX 对军方卫星互联网服务施加限制，扰乱了无人机的任务和运营。喜欢 报道者 轴乌克兰利用星链进行通信、后勤和防御来袭无人机。",
+    "ai": {
+     "summary": "马斯克在社交平台上指控乌克兰军方违反了星链服务条款，并利用它进行无人机攻击。乌克兰官员否认这一说法，并表示民用星链无法用于移动中的无人机任务，只能使用军方的“星盾”系统。泽连斯基则称星链和星盾服务已全面恢复。",
+     "points": [
+      "马斯克称该漏洞已于上周被堵住",
+      "乌克兰官员否认违规，并称无人机任务需使用军用星盾系统",
+      "泽连斯基周六表示服务已恢复，军方可连接速度超过400公里/小时的设备"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "317cfc39d1",
+    "title": "巴东召开“千乡万村驭风行动”70MW分散式风电项目推进会",
+    "link": "https://www.sohu.com/a/1096662569_121123827",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-03T09:26:00+00:00",
+    "lang": "zh",
+    "summary": "11月3日，巴东县委书记洪家进主持召开“千乡万村驭风行动”70MW分散式风电项目推进会，听取项目推进情况汇报，安排部署下一步工作。 县委常委、县政府党组副书记贺申富，县委常委、县委办公室主任付亚东，副县长田佳、盛劲辉参加会议。 巴东县“千乡万村驭风行动”70MW分散式风电项目拟定开发区域位于官渡口镇、茶店子镇、清太坪镇，共设有14个机位，总装机容量70MW，项目年发电量1.25亿度。目前已完成风机 ...",
+    "ai": {
+     "summary": "湖北巴东县委书记洪家进于11月3日主持召开“千乡万村驭风行动”70MW分散式风电项目推进会，听取进展汇报并部署下一步工作。项目拟建于官渡口镇、茶店子镇和清太坪镇，设14个风机机位，总装机容量70MW，预计年发电量1.25亿度。目前风机运输道路勘察和新建农村道路设计已经完成。",
+     "points": [
+      "项目规划14个机位，总装机容量70MW，年发电量约1.25亿度",
+      "拟定开发区域涉及官渡口镇、茶店子镇、清太坪镇",
+      "会议要求尽快签订投资协议，并以明年一季度“开门红”为目标推进"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "997aeb5caf",
+    "title": "多元调解促和谐→磨头司法所妥善化解风电项目侵权纠纷",
+    "link": "https://finance.sina.com.cn/wm/2026-11-03/doc-inixnitu2185966.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-03T04:31:00+00:00",
+    "lang": "zh",
+    "summary": "近日，磨头司法所成功调解一起风力发电项目侵权纠纷。 磨头镇某村委会与某科技公司因风电项目建设产生矛盾。风电风机建成后，村民反映风机影响农田采光，不利于农作物生长，同时风机运行产生的噪声，干扰周边农户日常农耕与生活，多方协商未能达成一致，矛盾逐步凸显。为避免矛盾升级，村委会向磨头司法所提出调解申请。 案件受理后，工作人员第一时间介入，实地走访现场，倾听村民诉求，细致了解农户在农业生产、日常生活中受到 ...",
+    "ai": {
+     "summary": "马来西亚？不，这是中国一个地方的新闻：磨头镇某村委会与一家科技公司因风电项目发生纠纷，村民指风机遮挡农田阳光、运行噪音影响农耕与生活。经司法所调解，双方签下人民调解协议（一种非诉讼的调解协议），公司一次性赔偿款项，分两期支付，村民则不再就此次纠纷索赔。",
+     "points": [
+      "公司需一次性支付各项损失赔偿款共计107000元，分两期支付",
+      "协议约定违约方需支付20000元违约金",
+      "风机覆冰掉落造成的大棚损害另行承担责任，不在此次和解范围内"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "ef40e605e3",
+    "title": "中广核玉门 70 万千瓦风光热制氢项目入选甘肃省 2026 年省列重大建设 ...",
+    "link": "https://www.ne21.com/news/show-232025.html",
+    "source": "世纪新能源网",
+    "site": "www.ne21.com",
+    "date": "2026-11-02T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "依据《中华人民共和国土地管理法》、《中华人民共和国城乡规划法》和国家有关规定，甘肃民勤沙戈荒绿色能源有限公司向我局报送了办理甘肃腾格里沙漠河西新能源基地武威市民勤县红沙岗东区10万千瓦光热项目用地预审与选址意见书的申请。现将有关情况 ..."
+   },
+   {
+    "id": "b964f38d1f",
+    "title": "东方电气若羌100万千瓦风电项目顺利完成首台风机吊装",
+    "link": "https://newenergy.in-en.com/html/newenergy-2458558.shtml",
+    "source": "国际能源网",
+    "site": "newenergy.in-en.com",
+    "date": "2026-11-02T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "岁末奋进时，攻坚正当时。站在“十五五”开局的关键节点，攻坚冲刺四季度的号角已然吹响。东方电气集团全体干部职工紧扣精品战略要求，弘扬可贵的东汽精神，践行“严细实快”基本品格，坚定信心、鼓足干劲，以决战决胜姿态全力冲刺年度目标任务。"
    },
    {
     "id": "f16b332de7",
@@ -546,6 +959,26 @@
       "项目业主为大唐黑龙江新能源开发有限公司",
       "项目位于黑龙江省嫩江市，由两个风电项目组成",
       "总装机规模为350MW（兆瓦）"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "072a241b69",
+    "title": "沛县：星屹新能源车辆传动系统精密部件项目投产",
+    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E9%80%9A%E7%94%A8/%E6%B2%9B%E5%8E%BF-%E6%98%9F%E5%B1%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BE%86%E4%BC%A0%E5%8A%A8%E7%B3%BB%E7%BB%9F%E7%B2%BE%E5%AF%86%E9%83%A8%E4%BB%B6%E9%A1%B9%E7%9B%AE%E6%8A%95%E4%BA%A7/ar-AA2gw7M9",
+    "source": "潇湘晨报",
+    "site": "www.msn.cn",
+    "date": "2026-11-01T01:11:04+00:00",
+    "lang": "zh",
+    "summary": "项目建设是稳增长、强产业的重要抓手。近日，位于沛县安国镇的星屹新能源车辆传动系统精密部件项目投产，进一步完善了沛县新能源电动车产业链条，为镇域工业经济高质量发展注入动力。来源：沛县融媒体中心编辑：孟虹 【来源：淮海网-淮海网站】 ...",
+    "ai": {
+     "summary": "江苏沛县安国镇的星屹新能源车辆传动系统精密部件项目近日投产。该项目完善了当地新能源电动车产业链，为镇域工业经济发展增添动力。",
+     "points": [
+      "项目位于江苏省沛县安国镇",
+      "产品为新能源车辆传动系统精密部件",
+      "项目投产后进一步完善沛县新能源电动车产业链"
      ],
      "why": "",
      "title_zh": ""
@@ -592,42 +1025,22 @@
     }
    },
    {
-    "id": "fd7cde0c1b",
-    "title": "风电设备概念盘中走弱，行业正处于盈利修复与估值重塑的关键窗口 ...",
-    "link": "https://www.sfccn.com/2026/10-30/wNMDE1MjBfMjI4NzgwNw.html",
-    "source": "南方财经网",
-    "site": "www.sfccn.com",
-    "date": "2026-10-30T04:40:00+00:00",
+    "id": "810599452c",
+    "title": "国家能源局：“沙戈荒”大型风电光伏基地合计建成规模超1.57亿千瓦",
+    "link": "https://www.seetao.com/details/282622.html",
+    "source": "新华网",
+    "site": "www.seetao.com",
+    "date": "2026-10-30T09:30:35+00:00",
     "lang": "zh",
-    "summary": "财通证券研报指出，2026年风电行业正处于盈利修复与估值重塑的关键窗口期，产业链盈利修复迹象逐步显现，头部整机企业毛利率和净利润率先改善，部分零部件企业业绩保持增长，随着低价订单逐步出清、风机价格企稳以及招标和装机需求修复，行业盈利能力有望重回上升通道，当前风电设备板块或处于业绩周期和估值周期的双重底部。",
+    "summary": "2026年10月30日，国家能源局例行新闻发布会上，新能源和可再生能源司副司长桂小阳公布了一组数据：截至2026年9月底，三批以沙漠、戈壁、荒漠地区为重点的大型风电光伏基地合计建成规模超1.57亿千瓦。从西北戈壁到中东部负荷中心，一条条特高压通道将荒漠上的风光资源转化为千家万户的清洁电力。 三批基地建成超亿千瓦 2021年至2023年，国家能源局会同国家发展改革委先后印发三批以沙漠、戈壁、荒漠地区 ...",
     "ai": {
-     "summary": "10月30日风电设备概念盘中下跌3.03%，新强联等成分股跌幅较大。国家能源局数据显示，截至9月底全国风电装机约7.0亿千瓦，同比增长20.4%。财通证券研报认为，风电行业正处于盈利修复与估值重塑的关键窗口期，头部整机企业毛利率和净利润率已率先改善。",
+     "summary": "国家能源局在2026年10月30日的例行发布会上公布数据：截至2026年9月底，三批以沙漠、戈壁、荒漠为重点的大型风电光伏基地合计建成超过1.57亿千瓦。这些基地的电力大多在本地使用，部分千万千瓦级基地则通过特高压输电通道把西北的风电和光伏送往中东部用电负荷中心。",
      "points": [
-      "10月30日风电设备概念盘中下跌3.03%，新强联下跌10.44%",
-      "截至2025年9月底（文中为9月底）全国风电装机容量7.0亿千瓦，同比增长20.4%",
-      "GWEC预测2026年全球风电新增装机约178GW，2026至2030年复合年均增长率约5.2%"
+      "截至2026年9月底，三批大基地合计建成超1.57亿千瓦",
+      "第一批基地9453万千瓦已基本建成投产，第二批超3400万千瓦，第三批超2900万千瓦",
+      "国家能源局力争2027年底前基本建成第二、三批以本地消纳为主的大基地"
      ],
-     "why": "风电设备相关行业的景气变化，可能影响从事风电零部件或相关供应链的本地企业的订单与成本走向。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "4931abd9fe",
-    "title": "节能风电：新增独立储能项目资源约为1628MW",
-    "link": "https://news.bjx.com.cn/html/20261030/1518357.shtml",
-    "source": "北极星电力网新闻",
-    "site": "news.bjx.com.cn",
-    "date": "2026-10-30T03:49:00+00:00",
-    "lang": "zh",
-    "summary": "北极星储能网获悉，10月3日，节能风电发布2026年三季报，同时企业表示，报告期内，公司紧抓新型电力系统建设机遇，以“一业为主、相关多元”战略为引领，积极构建公司第二增长曲线，进一步增加公司独立储能资源储备。公司2026年三季度新增核准独立储能项目250MW。截至三季度末，本年度共新增核准风电项目容量340MW，新增可预见的风电项目资源640MW，新增核准独立储能项目1200MW，新增可预见的独立 ...",
-    "ai": {
-     "summary": "节能风电公布2026年三季报，称公司正把握新型电力系统建设机遇，推进“一业为主、相关多元”战略，并扩充独立储能项目储备。公司表示，三季度新增核准独立储能项目250MW，年内累计新增核准独立储能项目1200MW。独立储能指不依附于发电或用电端、单独接入电网、用来充放电调节电力的储能设施。",
-     "points": [
-      "2026年三季报于10月3日发布",
-      "三季度新增核准独立储能项目250MW",
-      "年内新增核准独立储能1200MW，另有可预见资源待落地"
-     ],
-     "why": "",
+     "why": "大型新能源基地的推进表明电力供应结构在持续调整，相关的输电、储能和配套产业可能带来更多项目机会，但对一般企业的电费影响需以官方后续公布为准。",
      "title_zh": ""
     }
    },
@@ -646,6 +1059,26 @@
       "项目装机为10万千瓦，2026年10月30日并网成功",
       "与90万千瓦光伏配套，形成“光热+光伏”联合运行",
       "建成后年均发电约1.2亿千瓦时，每年节约标准煤约4万吨，减排二氧化碳约14万吨"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "05baa5af94",
+    "title": "世界海拔最高风电场升压站建成 华电措美哲古一期风电项目全容量投产",
+    "link": "https://www.chinanews.com/cj/2026/10-28/10722462.shtml",
+    "source": "中国新闻网",
+    "site": "www.chinanews.com",
+    "date": "2026-10-28T15:02:00+00:00",
+    "lang": "zh",
+    "summary": "据介绍，成都院2021年已在措美县哲古镇规划并设计建成当时世界海拔最高的三峡哲古风电场。作为国家超高海拔风电科研示范项目，该项目为高海拔风能资源评估、风电场选址测风设计建设运营及风电机组设备选型等积累实践成果，形成超高海拔风电场开发系列解决方案，为类似区域大规模风电开发及中国超高海拔水风光多能互补基地建设提供借鉴。 (完) ...",
+    "ai": {
+     "summary": "中国电建成都勘测设计研究院介绍，其牵头设计的华电措美哲古一期80兆瓦风电项目已全部机组投产，同时配套的世界海拔最高的220千伏升压站也投入运行（升压站是把发电机输出电压提高、便于输送电力的设施）。项目位于西藏山南市措美县哲古镇，场址平均海拔约5150米，团队针对含氧量低、昼夜温差大等难题完成建设。",
+     "points": [
+      "项目装设13台单机容量6.25兆瓦的风力发电机组，并配套16兆瓦/64兆瓦时的构网型储能系统",
+      "场址平均海拔约5150米，是西藏保障性并网新能源重点项目",
+      "投产后每年可提供清洁电能1.81亿度，减排二氧化碳15.34万吨"
      ],
      "why": "",
      "title_zh": ""
@@ -692,91 +1125,111 @@
     }
    },
    {
-    "id": "65fa5f9098",
-    "title": "大马捷运携手国能建立策略伙伴关系 推动可持续铁路基建与能源方案",
-    "link": "https://www.orientaldaily.com.my/news/nation/2026/10/27/858360",
-    "source": "东方网",
-    "site": "www.orientaldaily.com.my",
-    "date": "2026-10-27T00:46:00+00:00",
+    "id": "238a8e3793",
+    "title": "宁波能源深远海风母港项目加速推进！2026年投产在望，绿色能源新 ...",
+    "link": "https://www.sohu.com/a/1092982653_122066679",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-10-26T11:21:00+00:00",
     "lang": "zh",
-    "summary": "（吉隆坡27日讯）马来西亚捷运公司与国家能源（国能）将进一步深化双方长期以来的合作关系，通过建立策略合作伙伴关系，推动可持续能源解决方案、绿色交通，以及更具能源效率与韧性的铁路基础设施发展。这项合作结合了马捷运公司在城市轨道交通基础设施开发与管理方面的职能，以及国能作为马来西亚国家电力公司的专业能力，旨在探索提升能源表现、推动绿色交通，以及促进基础设施营运更加可持续的合作机会。双方日前在吉隆坡举行 ...",
+    "summary": "【2026年10月26日·宁波能源深度观察】当东海的季风掠过象山港外35海里的蔚蓝海域，一座承载中国‘十四五’海上风电跃迁使命的超级基建——宁波能源深远海风母港项目，正悄然从蓝图走向钢与海的交响。这不是普通的码头扩建，而是一场面向碳中和未来的战略卡位：它既是全国首个集风电装备总装、运维母港、氢能制储运、智能调度中心于一体的‘海上能源城市综合体’，更是长三角新型电力系统建设的关键支点。 就在今天（2 ...",
     "ai": {
-     "summary": "马来西亚捷运公司与国家能源（国能）签署谅解备忘录，建立策略合作伙伴关系，探讨太阳能、电动汽车充电和电力可靠性等方面的合作。合作将先从柔新捷运系统开始，双方借此推动铁路设施更节能、更可持续。",
+     "summary": "宁波能源（600982）在上交所互动平台表示，深远海风母港项目的前期及建设工作正在有序推进。文章称已完成12项前置审批，4.2平方公里围填海主体工程完工，一艘风电安装船完成系泊试验。文中的盈利数字属于作者推算，公司并未给出利润时间表。",
      "points": [
-      "双方在2026年亚洲交通博览会上交换谅解备忘录，正式确立合作框架",
-      "合作首先在柔新捷运系统展开，涵盖武吉查卡ICQ综合大楼和瓦迪哈那维修与营运站",
-      "三大合作领域：太阳能方案、电动汽车充电设施与绿色交通，以及电力可靠性与维护服务"
-     ],
-     "why": "若企业日后有相关铁路或公共交通合作机会，节能与供电可靠性的做法或会成为未来的参考方向，但目前文中未涉及对一般企业的直接影响。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "84445faec8",
-    "title": "东盟必须把电网愿景付诸行动 · 法迪拉：关乎能源安全与繁荣",
-    "link": "https://www.bernama.com/man/news.php?id=2625640",
-    "source": "BERNAMA",
-    "site": "www.bernama.com",
-    "date": "2026-10-26T05:01:00+00:00",
-    "lang": "zh",
-    "summary": "（新加坡26日马新社讯）副首相拿督斯里法迪拉说，东盟必须采取更有力的行动，将建设区域电网的愿景转化为现实。 他指出，最近在马尼拉举行的第44届东盟能源部长会议，东盟重申加强区域联系的承诺，现在是时候把此愿景转化为行动。",
-    "ai": {
-     "summary": "马来西亚副首相法迪拉在新加坡表示，东盟必须采取更有力的行动，把建设区域电网的构想变成现实。她提到，最近在马尼拉举行的第44届东盟能源部长会议上，各国重申了加强区域能源联系的承诺，现在应当付诸行动。",
-     "points": [
-      "法迪拉在新加坡发表相关言论（马新社报道）",
-      "提及最近在马尼拉举行的第44届东盟能源部长会议",
-      "东盟各国重申加强区域能源联系的承诺"
+      "公司于2026年10月26日在上交所互动平台表示项目有序推进",
+      "文章称已完成12项前置审批，4.2平方公里围填海主体工程完工",
+      "公司未给出利润贡献时间表，文中收入数字为作者推算"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "5f70955ae6",
-    "title": "越南绿电经大马输往新加坡 胜科获有条件批准2035年启动",
-    "link": "https://www.klsescreener.com/v2/news/view/1815565/%E8%B6%8A%E5%8D%97%E7%BB%BF%E7%94%B5%E7%BB%8F%E5%A4%A7%E9%A9%AC%E8%BE%93%E5%BE%80%E6%96%B0%E5%8A%A0%E5%9D%A1-%E8%83%9C%E7%A7%91%E8%8E%B7%E6%9C%89%E6%9D%A1%E4%BB%B6%E6%89%B9%E5%87%862035%E5%B9%B4%E5%90%AF%E5%8A%A8",
-    "source": "KLSE Screener",
-    "site": "www.klsescreener.com",
-    "date": "2026-10-26T04:24:00+00:00",
+    "id": "3f2b258357",
+    "title": "清陶动力固态电池项目一期在江苏苏州投产",
+    "link": "https://www.semi.org.cn/site/ecar/article/88afc5309c1b46c8b8fe96a389785419.html",
+    "source": "semi.org.cn",
+    "site": "www.semi.org.cn",
+    "date": "2026-10-26T04:47:00+00:00",
     "lang": "zh",
-    "summary": "（吉隆坡26日讯）新加坡跨国能源与城市解决方案提供商 胜科 公用事业（Sembcorp Utilities）获有条件批准，将 越南 生产的 可再生能源电力 经由马来西亚输送，同时供应大马及新加坡，其中输往新加坡的规模为1.3吉瓦，预计于2035年启动。",
+    "summary": "据悉，清陶动力固态动力电池项目由上汽集团旗下华域汽车系统股份有限公司与清陶（昆山）能源发展集团（下文简称：清陶能源）共同设立，总投资80亿元，主要满足上汽集团新能源车辆动力电池需求。其中一期建设10GWh固态动力电池生产基地。",
     "ai": {
-     "summary": "新加坡胜科公用事业（Sembcorp Utilities）获新加坡能源市场管理局有条件批准，计划把越南生产的可再生能源电力，经马来西亚输送，同时供应大马和新加坡。据彭博报道，这条输电通道称为越南—马来西亚—新加坡（VMS）走廊。",
+     "summary": "清陶动力固态动力电池项目一期在江苏苏州昆山市举行投产仪式。该项目由上汽集团旗下华域汽车与清陶能源合资设立，总投资80亿元，主要供应上汽新能源车的动力电池。",
      "points": [
-      "输往新加坡的规模为1.3吉瓦",
-      "预计2035年启动",
-      "获批的是有条件批准，由新加坡能源市场管理局发出"
+      "项目总投资80亿元，一期建设10GWh固态动力电池生产基地",
+      "项目由华域汽车系统股份有限公司与清陶（昆山）能源发展集团共同设立",
+      "上汽与清陶合作的固态电池技术已应用于量产车型"
      ],
      "why": "",
      "title_zh": ""
+    }
+   },
+   {
+    "id": "4179d7c612",
+    "title": "RWE commissions 47.2 MW wind farm in Italy",
+    "link": "https://www.energy-pedia.com/news/italy/rwe-commissions-47-2-megawatt-wind-farm-in-italy-205926",
+    "source": "Energy Global",
+    "site": "www.energy-pedia.com",
+    "date": "2026-11-03T11:13:03+00:00",
+    "lang": "en",
+    "summary": "Eight 5.9 MW turbines capable of supplying approximately 40,000 Italian households with green electricity ..."
+   },
+   {
+    "id": "e80d3db10d",
+    "title": "Final turbine installed at Ecowende offshore wind farm",
+    "link": "https://www.energyglobal.com/wind/03112026/final-turbine-installed-at-ecowende-offshore-wind-farm/",
+    "source": "Energy Global",
+    "site": "www.energyglobal.com",
+    "date": "2026-11-03T10:08:03+00:00",
+    "lang": "en",
+    "summary": "The final turbine has been installed at the Ecowende offshore wind farm, marking the completion of another major milestone in the energy transition. The final turbine has been installed at the ..."
+   },
+   {
+    "id": "e54ac4852c",
+    "title": "Northern Solar bags DC solar contracts",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/03/northern-solar-bags-dc-solar-contracts",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-03T00:14:11+00:00",
+    "lang": "en",
+    "summary": "Northern Solar Holdings Bhd, through its wholly- owned subsidiary Northern Solar Assets Sdn Bhd, has accepted two letters of award to supply a combined 189 megawatts alternating current (MWac) of ...",
+    "ai": {
+     "summary": "北方太阳能控股公司通过全资子公司，接受了两份供电合约，合计提供189兆瓦交流电（MWac）的太阳能电力，并搭配电池储能系统，服务两个数据中心项目。公司在吉隆坡交易所文件中表示，两项合约已于11月2日接受，属于企业可再生能源供电计划。",
+     "points": [
+      "合计供电规模为189兆瓦交流电（MWac）",
+      "两个数据中心项目年用电需求分别约为2.628亿与2.3389亿千瓦时",
+      "两个买家分别为从事房地产投资与数据中心基础设施的马来西亚公司，以及一家新加坡数据中心服务商的马来西亚子公司"
+     ],
+     "why": "对马来西亚企业主而言，这显示数据中心等大用电客户正加快采购可再生能源，相关供电需求可能持续增长。",
+     "title_zh": "北方太阳能获数据中心太阳能供电合约"
     }
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-04T09:28+08:00",
+  "updated": "2026-11-04T12:14+08:00",
   "items": {
    "klci": {
-    "value": 1619.43,
-    "asof": "2026-11-04T09:12:30+08:00",
-    "change": -0.08,
-    "pct": -0.0
+    "value": 1619.13,
+    "asof": "2026-11-04T11:58:45+08:00",
+    "change": -2.72,
+    "pct": -0.17
    },
    "usdmyr": {
-    "value": 4.066,
-    "asof": "2026-11-04T09:27:24+08:00",
-    "change": -0.0025,
-    "pct": -0.06
+    "value": 4.07,
+    "asof": "2026-11-04T12:09:33+08:00",
+    "change": 0.0015,
+    "pct": 0.04
    },
    "brent": {
-    "value": 104.12,
-    "asof": "2026-11-04T09:17:33+08:00",
-    "change": -0.65,
-    "pct": -0.62
+    "value": 103.03,
+    "asof": "2026-11-04T12:03:48+08:00",
+    "change": -0.57,
+    "pct": -0.55
    },
    "spx": {
     "value": 7568.92,
-    "asof": "2026-11-04T05:30:13+08:00",
+    "asof": "2026-11-04T05:00:00+08:00",
     "change": 27.52,
     "pct": 0.36
    },
@@ -787,9 +1240,9 @@
     "pct": 0.83
    },
    "dji": {
-    "value": 51786.72,
-    "asof": "2026-11-04T05:34:56+08:00",
-    "change": -197.26,
+    "value": 51786.7,
+    "asof": "2026-11-04T05:00:00+08:00",
+    "change": -197.28,
     "pct": -0.38
    },
    "us10y": {
@@ -799,14 +1252,14 @@
     "pct": 1.19
    },
    "dxy": {
-    "value": 101.49,
-    "asof": "2026-11-04T09:17:37+08:00",
-    "change": -0.26,
-    "pct": -0.25
+    "value": 101.35,
+    "asof": "2026-11-04T12:04:27+08:00",
+    "change": -0.52,
+    "pct": -0.51
    },
    "vix": {
     "value": 20.83,
-    "asof": "2026-11-04T05:15:01+08:00",
+    "asof": "2026-11-04T05:15:00+08:00",
     "change": -0.32,
     "pct": -1.51
    },
