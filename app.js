@@ -57,12 +57,20 @@
       if (sb) {
         const up = await sb.storage.from("policies").upload(path, file, { contentType: file.type || "application/pdf" });
         if (up.error) throw up.error;
-        const { error } = await sb.from("policy_uploads").insert({ user_id: uid, file_path: path, file_name: file.name });
-        if (error) throw error; return;
+        const { data, error } = await sb.from("policy_uploads").insert({ user_id: uid, file_path: path, file_name: file.name }).select().single();
+        if (error) throw error;
+        sb.functions.invoke("read-policy", { body: { upload_id: data.id } }).catch(() => {});   // 狮爷 reads it in the background
+        return data;
       }
       const d = demo.db; d.uploads = d.uploads || [];
       d.uploads.push({ id: crypto.randomUUID(), user_id: uid, file_path: path, file_name: file.name, created_at: new Date().toISOString() });
       demo.db = d;
+    },
+    async extracts(uid) {   // what 狮爷 read from each uploaded file (none in the demo)
+      if (!sb) return [];
+      const { data, error } = await sb.from("policy_extracts").select("*").eq("user_id", uid);
+      if (error) return [];
+      return data;
     },
     async removeUpload(u) {
       if (sb) { await sb.storage.from("policies").remove([u.file_path]); const { error } = await sb.from("policy_uploads").delete().eq("id", u.id); if (error) throw error; return; }
@@ -74,6 +82,7 @@
   function paint() {
     document.documentElement.lang = lang === "zh" ? "zh" : "en";
     $$("[data-t]").forEach(el => { el.textContent = t(el.dataset.t); });
+    $$("[data-t-ph]").forEach(el => { el.placeholder = t(el.dataset.tPh); });
     $("#lang").textContent = lang === "zh" ? "EN" : "中文";
     $("#foot-demo").textContent = live ? "" : " " + t("demo");
     $("#today").textContent = new Date().toLocaleDateString(lang === "zh" ? "zh-CN" : "en-MY", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
@@ -318,7 +327,7 @@
   $("#logout").onclick = async () => { await api.signOut(); me = null; document.body.classList.remove("in"); location.hash = "#home"; route(); drawNews(); };
 
   // ---------------------------------------------------------------- my page
-  let me = null, profile = {}, files = [];
+  let me = null, profile = {}, files = [], reads = {};   // reads: upload id -> policy_extracts row
   async function session() {
     const u = await api.user();
     document.body.classList.toggle("in", !!u);
@@ -331,8 +340,22 @@
       try { const q = JSON.parse(sessionStorage.getItem("lio_quick") || "{}"); if (q.income) profile.income = q.income; if (q.debts) profile.debts = q.debts; } catch {}
       await api.saveProfile({ ...profile });
     }
-    files = await api.uploads(u.id);
+    await loadFiles();
     fillForms(); drawNews();
+  }
+  async function loadFiles() {
+    loadFiles.asked = loadFiles.asked || new Set();
+    files = await api.uploads(me.id);
+    reads = Object.fromEntries((await api.extracts(me.id)).map(r => [r.upload_id, r]));
+    if (sb) for (const f of files)   // uploaded before 狮爷 could read (or the request was lost): ask once
+      if (!reads[f.id] && !loadFiles.asked.has(f.id)) {
+        loadFiles.asked.add(f.id);
+        reads[f.id] = { upload_id: f.id, status: "reading" };
+        sb.functions.invoke("read-policy", { body: { upload_id: f.id } }).catch(() => {});
+      }
+    clearTimeout(loadFiles.poll);
+    if (files.some(f => reads[f.id]?.status === "reading"))   // still reading: look again shortly
+      loadFiles.poll = setTimeout(async () => { if (!me) return; await loadFiles(); drawFiles(); drawResult(); }, 6000);
   }
   function fillForms() {
     for (const form of [$("#step-basic"), $("#step-money")])
@@ -369,20 +392,66 @@
     };
   }
   $("#file").onchange = async e => {
-    for (const f of e.target.files) {
+    for (let f of e.target.files) {
       if (f.size > 20 * 1024 * 1024) { toast(t("file_big", { name: f.name })); continue; }
-      try { await api.upload(me.id, f); } catch (x) { toast(t("err_generic", { m: x.message })); }
+      try {
+        f = await unlockPdf(f);          // null = the client skipped a password-protected file
+        if (f) await api.upload(me.id, f);
+      } catch (x) { toast(t("err_generic", { m: x.message })); }
     }
-    e.target.value = ""; files = await api.uploads(me.id); drawFiles(); markSteps();
+    e.target.value = ""; await loadFiles(); drawFiles(); markSteps();
   };
+  // A password-protected PDF can't be read by 狮爷, so it is opened here, in the client's own browser, and the unlocked
+  // copy is uploaded. The password never leaves this device and is not saved.
+  async function isLockedPdf(f) {
+    if (!/pdf$/i.test(f.type) && !/\.pdf$/i.test(f.name)) return false;
+    const buf = new Uint8Array(await f.arrayBuffer());
+    const txt = new TextDecoder("latin1").decode(buf.length > 200000 ? new Uint8Array([...buf.slice(0, 4096), ...buf.slice(-65536)]) : buf);
+    return /\/Encrypt\b/.test(txt);
+  }
+  async function unlockPdf(f) {
+    if (!(await isLockedPdf(f))) return f;
+    const mupdf = await import("https://cdn.jsdelivr.net/npm/mupdf@1.27.0/dist/mupdf.js");
+    const doc = mupdf.Document.openDocument(await f.arrayBuffer(), "application/pdf");
+    if (doc.needsPassword()) {
+      let msg = t("pw_text", { name: f.name });
+      for (;;) {
+        const pw = await askPassword(msg);
+        if (pw == null) return null;
+        if (doc.authenticatePassword(pw)) break;
+        msg = t("pw_wrong", { name: f.name });
+      }
+    }
+    const out = doc.asPDF().saveToBuffer("decrypt").asUint8Array();
+    return new File([out], f.name, { type: "application/pdf" });
+  }
+  function askPassword(msg) {
+    const box = $("#pw-box"), input = $("#pw-input");
+    $("#pw-msg").textContent = msg; input.value = ""; box.hidden = false; input.focus();
+    return new Promise(done => {
+      const finish = v => { box.hidden = true; input.value = ""; done(v); };
+      $("#pw-ok").onclick = () => finish(input.value);
+      $("#pw-skip").onclick = () => finish(null);
+      input.onkeydown = ev => { if (ev.key === "Enter") { ev.preventDefault(); finish(input.value); } };
+    });
+  }
   function drawFiles() {
     const esc = s => String(s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-    $("#files").innerHTML = files.length ? files.map((f, i) => `<li>📄 <span>${esc(f.file_name)}</span>
+    const state = f => {
+      const r = reads[f.id];
+      if (!sb) return "";
+      if (!r || r.status === "reading") return `<small class="rd reading">⏳ ${t("rd_reading")}</small>`;
+      if (r.status === "failed") return `<small class="rd failed">⚠ ${t("rd_failed")}</small>`;
+      const ps = (r.data && r.data.policies) || [];
+      if (!r.data?.readable || !ps.length) return `<small class="rd failed">⚠ ${t("rd_nothing")}</small>`;
+      return `<small class="rd done">✓ ${esc(ps.map(p => [p.insurer, p.plan].filter(Boolean).join(" ")).join("、"))}</small>`;
+    };
+    $("#files").innerHTML = files.length ? files.map((f, i) => `<li>📄 <span>${esc(f.file_name)}${state(f)}</span>
       <small class="muted">${new Date(f.created_at).toLocaleDateString()}</small><button data-del="${i}" aria-label="delete">🗑</button></li>`).join("")
       : `<li class="muted">${t("upload_none")}</li>`;
     $$("[data-del]").forEach(b => b.onclick = async () => {
       if (!confirm(t("deleting"))) return;
-      await api.removeUpload(files[+b.dataset.del]); files = await api.uploads(me.id); drawFiles(); markSteps();
+      await api.removeUpload(files[+b.dataset.del]); await loadFiles(); drawFiles(); markSteps();
     });
   }
   function age() {
@@ -394,26 +463,57 @@
   }
   function drawResult() {
     if (!me) return;
+    const esc2 = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
     const p = profile, n = k => (p[k] == null || p[k] === "" ? null : Number(p[k]));
     const rm = v => "RM " + Math.max(0, Math.round(v)).toLocaleString("en-MY");
     const a = age();
     const z = k => n(k) ?? 0;   // debts, education and savings may be left blank (= none)
+    // what the uploaded policies already cover for this client (policies on other family members are listed, not counted)
+    const read = files.map(f => reads[f.id]).filter(r => r?.status === "done" && r.data?.readable);
+    const all = read.flatMap(r => (r.data.policies || []).map(pol => ({ ...pol, illustration: r.data.doc_type === "illustration" })));
+    const norm = s => String(s || "").toUpperCase().replace(/\b(BIN|BINTI|A\/L|A\/P|@)\b/g, " ").split(/[^A-Z0-9\u4e00-\u9fff]+/).filter(w => w.length > 1);
+    const mine = pol => { const a2 = norm(pol.life_assured), b2 = norm(p.name);
+      return !a2.length || !b2.length || a2.filter(w => b2.includes(w)).length >= Math.min(2, b2.length); };
+    const inForce = all.filter(pol => !pol.illustration), myPol = inForce.filter(mine);
+    const sum = k => myPol.reduce((s, pol) => s + (Number(pol[k]) || 0), 0);
+    const best = k => myPol.reduce((m, pol) => Math.max(m, Number(pol[k]) || 0), 0);
+    const have = read.length ? { res_death: sum("life"), res_tpd: sum("tpd"), res_ci: sum("ci") } : null;
     const blocks = [
       ["res_death", "res_death_how", "#1F4E3D", ["living", "support_years"],
-        () => rm(n("living") * n("support_years") + z("debts") + z("education") - z("assets"))],
+        () => n("living") * n("support_years") + z("debts") + z("education") - z("assets")],
       ["res_tpd", "res_tpd_how", "#E8792B", ["income"],
-        () => a == null ? null : rm(n("income") * Math.max(0, 60 - a) + z("debts") - z("assets"))],
-      ["res_ci", "res_ci_how", "#13A08F", ["income"], () => rm(n("income") * 3)],
-      ["res_med", "res_med_how", "#3B82C4", [],
-        () => [n("med_room") != null && t("res_room", { a: n("med_room").toLocaleString("en-MY") }),
-               n("med_annual") != null && t("res_annual", { a: n("med_annual").toLocaleString("en-MY") })].filter(Boolean).join("<br>")],
+        () => a == null ? null : n("income") * Math.max(0, 60 - a) + z("debts") - z("assets")],
+      ["res_ci", "res_ci_how", "#13A08F", ["income"], () => n("income") * 3],
     ];
+    const gapLine = (need, got) => need == null ? "" : got >= need
+      ? `<div class="gap ok">${t("gap_have", { a: rm(got) })} · ✓ ${t("gap_enough")}</div>`
+      : `<div class="gap">${t("gap_have", { a: rm(got) })} · <b>${t("gap_short", { a: rm(need - got) })}</b></div>`;
     const cards = blocks.map(([title, how, c, need, f]) => {
       const ok = need.every(k => n(k) != null), val = ok ? f() : null;
       const why = ok && title === "res_tpd" ? t("res_need_ic") : t("res_missing");   // TPD needs the age, from the IC
-      return `<div style="--c:${c}"><h3>${t(title)}</h3>${val ? `<div class="amt">${val}</div>` : `<div class="missing">${why}</div>`}
-        <div class="how">${t(how)}</div></div>`;
-    }).join("");
+      return `<div style="--c:${c}"><h3>${t(title)}</h3>${val != null ? `<div class="amt">${rm(val)}</div>` : `<div class="missing">${why}</div>`}
+        ${have && val != null ? gapLine(Math.max(0, val), have[title]) : ""}<div class="how">${t(how)}</div></div>`;
+    }).join("") + (() => {   // medical: the room and limit wanted vs the best card held
+      const wantRoom = n("med_room"), wantYear = n("med_annual");
+      const want = [wantRoom != null && t("res_room", { a: wantRoom.toLocaleString("en-MY") }),
+                    wantYear != null && t("res_annual", { a: wantYear.toLocaleString("en-MY") })].filter(Boolean).join("<br>");
+      const room = best("room_board"), year = best("annual_limit"), card = myPol.some(pol => pol.medical_card);
+      const got = !have ? "" : !card ? `<div class="gap"><b>${t("gap_no_card")}</b></div>`
+        : `<div class="gap ${(wantRoom == null || room >= wantRoom) && (wantYear == null || year >= wantYear) ? "ok" : ""}">${t("gap_card", { r: room ? room.toLocaleString("en-MY") : "?", y: year ? year.toLocaleString("en-MY") : "?" })}</div>`;
+      return `<div style="--c:#3B82C4"><h3>${t("res_med")}</h3>${want ? `<div class="amt">${want}</div>` : `<div class="missing">${t("res_missing")}</div>`}
+        ${got}<div class="how">${t("res_med_how")}</div></div>`;
+    })();
+    const reading = files.some(f => sb && (!reads[f.id] || reads[f.id].status === "reading"));
+    const polRow = pol => `<tr><td><b>${esc2(pol.insurer || "")}</b><br>${esc2(pol.plan || "")}${pol.illustration ? ` <small class="muted">(${t("ex_illustration")})</small>` : ""}</td>
+      <td>${esc2(pol.life_assured || "")}</td>
+      <td>${[pol.life && `${t("ex_life")} ${rm(pol.life)}`, pol.ci && `${t("ex_ci")} ${rm(pol.ci)}`, pol.early_ci && `${t("ex_early_ci")} ${rm(pol.early_ci)}`,
+             pol.medical_card && `${t("ex_med")}${pol.room_board ? " " + pol.room_board : ""}${pol.annual_limit ? " / " + rm(pol.annual_limit) : ""}`,
+             pol.accident_death && `${t("ex_pa")} ${rm(pol.accident_death)}`].filter(Boolean).join("<br>") || "—"}</td>
+      <td>${pol.premium ? `RM ${Number(pol.premium).toLocaleString("en-MY")}${pol.payment_mode ? " / " + esc2(pol.payment_mode) : ""}` : "—"}</td></tr>`;
+    const existing = !sb ? "" : `<h3 class="ex-h">${t("ex_title")}</h3>${reading ? `<p class="rd reading">⏳ ${t("rd_reading_all")}</p>` : ""}
+      ${all.length ? `<div class="ex-wrap"><table class="ex"><thead><tr><th>${t("ex_policy")}</th><th>${t("ex_la")}</th><th>${t("ex_cover")}</th><th>${t("ex_premium")}</th></tr></thead>
+        <tbody>${all.map(polRow).join("")}</tbody></table></div>
+        <p class="muted small">${t("ex_note")}</p>` : ""}`;
     const wa = cfg.AGENT.whatsapp ? `https://wa.me/${cfg.AGENT.whatsapp}?text=${encodeURIComponent((lang === "zh" ? "你好，我已经在网站提交了保单分析资料：" : "Hi, I've submitted my cover review details on the website: ") + (p.name || ""))}` : "";
     // the numbers come only from step 2; the uploaded policies are read by the adviser, so say both plainly
     const noMoney = NUM.every(k => n(k) == null);
@@ -422,8 +522,8 @@
     const policies = files.length
       ? `<div class="res-got">✓ ${t("res_got_policies", { n: files.length })}</div>`
       : `<div class="res-todo"><b>${t("upload_none")}</b><p>${t("res_need_upload")}</p><button class="primary" data-step-to="upload">${t("step_upload")}</button></div>`;
-    $("#result").innerHTML = `<h2>${t("res_title")}</h2>${askMoney}${noMoney ? "" : `<p class="muted">${t("res_note")}</p><div class="res">${cards}</div>`}
-      ${policies}
+    $("#result").innerHTML = `<h2>${t("res_title")}</h2>${askMoney}${noMoney ? "" : `<p class="muted">${t(have ? "res_note_ai" : "res_note")}</p><div class="res">${cards}</div>`}
+      ${policies}${existing}
       ${wa ? `<div class="cta"><span>${t("cta_text")}</span><a class="btn gold" href="${wa}" target="_blank" rel="noopener">${t("cta_btn")}</a></div>` : ""}`;
     $$("[data-step-to]", $("#result")).forEach(b => b.onclick = () => showStep(b.dataset.stepTo));
   }

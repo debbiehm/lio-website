@@ -14,7 +14,7 @@ window.LIO_TEXT = {
     upload_hint: "上传你现有的保单（任何保险公司都可以），例如保单合约的 Schedule / Premium Payable 那几页，或整份 PDF。",
     upload_pick: "📎 选择保单文件", upload_types: "PDF、JPG、PNG · 每份最多 20MB", upload_none: "还没有上传保单。",
     uploaded: "已上传 {n} 份", deleting: "删除这份文件？",
-    consent: "我同意把以上资料和上传的保单交给理财顾问作保障分析（PDPA 2010）。资料不会给第三方。",
+    consent: "我同意把以上资料和上传的保单交给理财顾问作保障分析，并同意由 AI 协助读取保单（PDPA 2010）。资料不会给第三方作其他用途。",
     forgot: "忘记密码？", go_login: "登录", go_register: "注册", need_consent: "请先勾选同意。",
     need_email: "请先填电邮，再按「忘记密码」。", reset_sent: "已寄出重设密码的电邮。",
     check_email: "注册成功！请到电邮按确认链接，然后登录。", welcome: "欢迎回来 👋",
@@ -38,6 +38,7 @@ window.LIO_TEXT = {
     orig_title: "原文标题：",
     res_need_money: "还差一步：填「收入与支出」", res_need_money_text: "这里的保障需求是用你的收入、生活费、债务等算出来的。大概数字就可以，不知道的可以留空，约 2 分钟。", res_go_money: "去填收入与支出 →", res_got_policies: "已收到你的 {n} 份保单。狮爷会帮你整理现有的保障，对照你的需求找出缺口，再联络你。", res_need_upload: "上传你现有的保单，狮爷才能对照出你真正的缺口。",
     res_need_ic: "在「基本资料」填 IC 号码，才能算出到 60 岁的年数",
+    pw_text: "「{name}」有密码。请输入 PDF 密码，狮爷才能读取。", pw_wrong: "密码不对，请再试一次（{name}）。", pw_placeholder: "PDF 密码", pw_private: "密码只在你这部手机/电脑上用来打开文件，不会上传，也不会保存。", pw_ok: "打开并上传", pw_skip: "跳过这份", rd_reading: "狮爷正在读取…", rd_failed: "读不到这份文件，顾问会人工查看", rd_nothing: "这份文件里没有读到保单资料", rd_reading_all: "狮爷正在读取你上传的保单，大约 1 分钟，页面会自动更新。", ex_title: "狮爷读到的现有保单", ex_policy: "保单", ex_la: "受保人", ex_cover: "保障", ex_premium: "保费", ex_life: "人寿", ex_ci: "危疾", ex_early_ci: "早期危疾", ex_med: "医药卡", ex_pa: "意外", ex_illustration: "建议书，未生效", ex_note: "以上由狮爷用 AI 初步读取，以专业顾问确认为准。缺口只计算受保人是你本人的生效保单。", gap_have: "已有 {a}", gap_short: "还差 {a}", gap_enough: "足够", gap_no_card: "还没有医药卡", gap_card: "已有医药卡：病房 RM {r} / 每年 RM {y}", res_note_ai: "「需要」根据你填的资料计算，「已有」由狮爷从你上传的保单读取。专业顾问会再确认，然后联络你。",
   },
   en: {
     tagline: "Business · Markets · Insurance · Daily news", nav_news: "Latest news", nav_me: "My family's cover", login: "Log in", register: "Sign up", logout: "Log out", hero_cta_in: "Continue my family cover check", news_updated: "Updated every 3 hours", news_empty: "No news right now, please check back later.",
@@ -53,7 +54,7 @@ window.LIO_TEXT = {
     upload_hint: "Upload your existing policies (any insurer), e.g. the Schedule / Premium Payable pages of the contract, or the whole PDF.",
     upload_pick: "📎 Choose policy files", upload_types: "PDF, JPG, PNG · up to 20MB each", upload_none: "No policies uploaded yet.",
     uploaded: "{n} uploaded", deleting: "Delete this file?",
-    consent: "I agree to share these details and my uploaded policies with my financial adviser for a cover review (PDPA 2010). They are not given to third parties.",
+    consent: "I agree to share these details and my uploaded policies with my financial adviser for a cover review, with AI helping to read the policies (PDPA 2010). They are not given to third parties for any other use.",
     forgot: "Forgot password?", go_login: "Log in", go_register: "Sign up", need_consent: "Please tick the consent box first.",
     need_email: "Type your email first, then press 'Forgot password'.", reset_sent: "Password reset email sent.",
     check_email: "Signed up! Please confirm the link in your email, then log in.", welcome: "Welcome back 👋",
@@ -77,6 +78,7 @@ window.LIO_TEXT = {
     orig_title: "Original headline: ",
     res_need_money: "One more step: fill in Income & spending", res_need_money_text: "Your cover needs are worked out from your income, living costs and debts. Rough numbers are fine; leave blank what you don't know. About 2 minutes.", res_go_money: "Fill in income & spending →", res_got_policies: "We've received your {n} policy file(s). Dato Lio will map your current cover against your needs, find the gaps and contact you.", res_need_upload: "Upload your current policies so we can find your real gaps.",
     res_need_ic: "Add your IC number in About you to work out the years to 60",
+    pw_text: "\"{name}\" is password-protected. Enter the PDF password so it can be read.", pw_wrong: "Wrong password, please try again ({name}).", pw_placeholder: "PDF password", pw_private: "The password is only used on this device to open the file. It is not uploaded or saved.", pw_ok: "Open and upload", pw_skip: "Skip this file", rd_reading: "Reading…", rd_failed: "Couldn't read this file; your adviser will check it", rd_nothing: "No policy details found in this file", rd_reading_all: "Reading your uploaded policies, about 1 minute. This page updates by itself.", ex_title: "Policies read from your uploads", ex_policy: "Policy", ex_la: "Life assured", ex_cover: "Cover", ex_premium: "Premium", ex_life: "Life", ex_ci: "CI", ex_early_ci: "Early CI", ex_med: "Medical card", ex_pa: "Accident", ex_illustration: "illustration, not in force", ex_note: "Read by AI as a first look; your adviser will confirm. Gaps count only in-force policies where you are the life assured.", gap_have: "Have {a}", gap_short: "short by {a}", gap_enough: "enough", gap_no_card: "No medical card yet", gap_card: "Medical card: room RM {r} / RM {y} a year", res_note_ai: "\"Need\" comes from your details; \"have\" was read from your uploaded policies. Your adviser will confirm and contact you.",
   },
 };
 window.LIO_STATES = ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang",

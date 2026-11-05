@@ -9,7 +9,7 @@
 <link rel="icon" type="image/png" href="assets/lio_head.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;600;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20261102d">
+<link rel="stylesheet" href="style.css?v=20261105">
 </head>
 <body>
 <header class="top">
@@ -105,6 +105,12 @@
         <input type="file" id="file" accept="application/pdf,image/jpeg,image/png" multiple hidden>
         <b data-t="upload_pick"></b><span class="muted small" data-t="upload_types"></span>
       </label>
+      <div class="pw-box" id="pw-box" hidden>
+        <p id="pw-msg"></p>
+        <input type="password" id="pw-input" autocomplete="off" data-t-ph="pw_placeholder">
+        <p class="muted small" data-t="pw_private"></p>
+        <div class="row-end"><button type="button" class="ghost" id="pw-skip" data-t="pw_skip"></button><button type="button" class="primary" id="pw-ok" data-t="pw_ok"></button></div>
+      </div>
       <ul class="files" id="files"></ul>
       <div class="row-end"><button class="primary" data-goto="result" data-t="next"></button></div>
     </div>
@@ -143,9 +149,9 @@
 </div>
 
 <div id="toast"></div>
-<script src="config.js?v=20261102d"></script>
+<script src="config.js?v=20261105"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
-<script src="i18n.js?v=20261102d"></script>
-<script src="app.js?v=20261102d"></script>
+<script src="i18n.js?v=20261105"></script>
+<script src="app.js?v=20261105"></script>
 </body>
 </html>

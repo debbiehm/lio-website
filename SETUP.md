@@ -84,6 +84,19 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
 BNM、KWSP、SC 的官网挡自动读取，所以用各大媒体对它们公告的报道；LHDN 另外直接读它的官方 RSS。
 每个来源在每个分页最多 6 则，确保每个来源都有位置。保险、医疗、科技能源分页照旧。
 
+## 3b-3. 狮爷自动读取保单（Claude Sonnet 5.5）
+
+保客上传保单后，Supabase 的云端函数 `read-policy` 把文件交给 Claude Sonnet 5.5 读取，结果存在 `policy_extracts` 表：
+网站「初步分析」显示「狮爷读到的现有保单」和每项「已有 / 还差」；Lio 狮爷「🔄 同步网站」后，在保客的「网站资料」下每份保单旁按 **＋ 确认加入**，核对后才进保客资料库。
+
+- 有密码的 PDF：在保客自己的手机/电脑上用密码打开，再上传没密码的版本；**密码不会上传、不会保存**。
+- 设定（一次）：
+  1. Supabase → SQL Editor 跑 `supabase/policy_reading.sql`。
+  2. Supabase → Edge Functions → 新建函数 `read-policy`，贴上 `supabase/functions/read-policy/index.ts`，Deploy。
+  3. Supabase → Edge Functions → **Secrets**：`ANTHROPIC_API_KEY` = 你的 key（跟 GitHub 用的同一把即可）。
+- 费用：每份保单约 US$0.10–0.20（视页数）。想换模型：Secrets 加 `LIO_POLICY_MODEL`。
+- 结果是 AI 初步读取，网站和 Lio 都标明「以顾问确认为准」。
+
 ## 3c. 社交媒体：「关注狮爷」按钮 + Meta Pixel
 
 打开 `config.js`，填你有的就好（没填的按钮不会出现）：
