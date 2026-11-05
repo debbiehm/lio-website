@@ -9,6 +9,7 @@
 
   // ---------------------------------------------------------------- backend: Supabase, or a browser-only demo
   const live = !cfg.DEMO && cfg.SUPABASE_URL && cfg.SUPABASE_ANON_KEY && window.supabase;
+  const recovering = /type=recovery/.test(location.hash);   // came from a "reset password" email (read before Supabase clears it)
   const sb = live ? window.supabase.createClient(cfg.SUPABASE_URL, cfg.SUPABASE_ANON_KEY) : null;
   const demo = {
     get db() { try { return JSON.parse(localStorage.getItem("lio_demo") || "{}"); } catch { return {}; } },
@@ -545,7 +546,27 @@
     window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", route);
-  if (sb) sb.auth.onAuthStateChange((ev) => { if (ev === "SIGNED_IN" || ev === "SIGNED_OUT") session().then(route); });
+  if (sb) sb.auth.onAuthStateChange((ev) => {
+    if (ev === "PASSWORD_RECOVERY") askNewPassword();
+    if (ev === "SIGNED_IN" || ev === "SIGNED_OUT") session().then(route);
+  });
+  // the reset-password email lands here: let the person choose a new password
+  function askNewPassword() {
+    const d = $("#newpw");
+    if (d.open) return;
+    $("#newpw-err").textContent = ""; $("#newpw-input").value = "";
+    d.showModal();
+  }
+  $("#newpw-form").onsubmit = async e => {
+    e.preventDefault();
+    const pw = $("#newpw-input").value;
+    if (pw.length < 8) { $("#newpw-err").textContent = t("f_password"); return; }
+    const { error } = await sb.auth.updateUser({ password: pw });
+    if (error) { $("#newpw-err").textContent = t("err_generic", { m: error.message }); return; }
+    $("#newpw").close(); toast(t("newpw_done"));
+    if (location.hash.includes("access_token")) history.replaceState(null, "", location.pathname);
+  };
+  if (sb && recovering) setTimeout(askNewPassword, 800);
 
   paint(); loadNews();
   session().then(route).catch(x => { toast(t("err_generic", { m: x.message })); route(); });
