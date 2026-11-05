@@ -16,7 +16,7 @@ const CORS = {
 };
 
 const num = { type: ["number", "null"] };
-const str = { type: ["string", "null"] };
+const str = { type: "string" };   // "" = not stated (the API allows at most 16 nullable fields, so text stays plain)
 const POLICY = {
   type: "object",
   additionalProperties: false,
@@ -57,7 +57,7 @@ const SCHEMA = {
 
 const SYSTEM = `You read Malaysian life and medical insurance documents for a licensed financial adviser (Great Eastern agency) so she can review a client's existing cover. Accuracy matters more than completeness: a wrong number is worse than an empty one.
 
-Extract only what the document states. Never estimate, infer from typical products, or fill gaps from general knowledge. If a value is not clearly stated, use null (or false for yes/no fields) and say so in notes.
+Extract only what the document states. Never estimate, infer from typical products, or fill gaps from general knowledge. If a value is not clearly stated, use null for numbers, "" for text, false for yes/no fields, and say so in notes.
 
 What to read:
 - doc_type: "policy" (policy contract / schedule / certificate), "illustration" (sales/benefit illustration or quotation, not in force), "statement" (annual / ILP statement), "other" (not an insurance document). readable=false if the pages are blank, unreadable or not insurance.
@@ -109,7 +109,11 @@ Deno.serve(async (req) => {
 
   if (event === "signup") {   // a new client's first log-in: tell the adviser (only right after the profile is made)
     const { data: prof } = await admin.from("profiles").select("name, phone, state, created_at").eq("id", user.id).maybeSingle();
-    if (prof && Date.now() - new Date(prof.created_at).getTime() < 30 * 60 * 1000) {
+    const fresh = prof && Date.now() - new Date(prof.created_at).getTime() < 30 * 60 * 1000;
+    // once per client: the first call creates a small marker file; a second call (the page can sign in twice) can't
+    const claimed = fresh && !(await admin.storage.from("policies")
+      .upload(`_notified/${user.id}`, new Blob(["1"]), { upsert: false })).error;
+    if (claimed) {
       await telegram(`🦁 新保客注册：${prof.name || "（未填名字）"}${prof.state ? " · " + prof.state : ""}${prof.phone ? "\n📞 " + prof.phone : ""}\n在 Lio 按「同步网站」查看`);
     }
     return json({ ok: true });
@@ -119,10 +123,18 @@ Deno.serve(async (req) => {
   const { data: up } = await asUser.from("policy_uploads").select("*").eq("id", upload_id).maybeSingle();
   if (!up) return json({ error: "upload not found" }, 404);
 
-  await admin.from("policy_extracts").upsert({
-    upload_id: up.id, user_id: up.user_id, status: "reading", data: null, error: null, model: MODEL,
-    updated_at: new Date().toISOString(),
-  });
+  // one read per upload: a second call while it's reading (or once it's done) does nothing; a failed read may be retried
+  const row = { upload_id: up.id, user_id: up.user_id, status: "reading", data: null, error: null, model: MODEL,
+    updated_at: new Date().toISOString() };
+  const { error: dup } = await admin.from("policy_extracts").insert(row);
+  if (dup) {
+    const { data: old } = await admin.from("policy_extracts").select("status, updated_at").eq("upload_id", up.id).maybeSingle();
+    const stale = old && Date.now() - new Date(old.updated_at).getTime() > 10 * 60 * 1000;
+    if (!old || old.status === "done" || (old.status === "reading" && !stale)) return json({ status: old?.status ?? "reading" }, 202);
+    const { data: took } = await admin.from("policy_extracts").update(row).eq("upload_id", up.id)
+      .eq("updated_at", old.updated_at).select("upload_id");
+    if (!took?.length) return json({ status: "reading" }, 202);   // another call got there first
+  }
   // keep working after answering, so the page doesn't wait for the whole read
   EdgeRuntime.waitUntil(read(admin, up).catch(async (e) => {
     console.error("read-policy", up.id, e);
@@ -163,6 +175,7 @@ async function read(admin: any, up: { id: string; user_id: string; file_path: st
   const text = msg.content.find((b) => b.type === "text");
   if (!text || text.type !== "text") throw new Error("no answer");
   const data = JSON.parse(text.text);
+  for (const p of data.policies ?? []) for (const k of Object.keys(p)) if (p[k] === "") p[k] = null;   // "" -> not stated
   await admin.from("policy_extracts").update({ status: "done", data, error: null, model: msg.model,
     updated_at: new Date().toISOString() }).eq("upload_id", up.id);
   const what = (data.policies ?? []).map((p: { insurer?: string; plan?: string }) => [p.insurer, p.plan].filter(Boolean).join(" ")).filter(Boolean);

@@ -329,7 +329,10 @@
 
   // ---------------------------------------------------------------- my page
   let me = null, profile = {}, files = [], reads = {};   // reads: upload id -> policy_extracts row
-  async function session() {
+  function session() {   // sign-in fires this twice at once (the form and the auth event): share one run
+    return session.run || (session.run = loadSession().finally(() => { session.run = null; }));
+  }
+  async function loadSession() {
     const u = await api.user();
     document.body.classList.toggle("in", !!u);
     if (!u) { me = null; return; }
