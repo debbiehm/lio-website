@@ -340,6 +340,7 @@
       profile = { id: u.id, email: u.email, name: m.name || "", phone: m.phone || "", consent_at: m.consent_at || new Date().toISOString() };
       try { const q = JSON.parse(sessionStorage.getItem("lio_quick") || "{}"); if (q.income) profile.income = q.income; if (q.debts) profile.debts = q.debts; } catch {}
       await api.saveProfile({ ...profile });
+      if (sb) sb.functions.invoke("read-policy", { body: { event: "signup" } }).catch(() => {});   // Telegram notice to the adviser
     }
     await loadFiles();
     fillForms(); drawNews();

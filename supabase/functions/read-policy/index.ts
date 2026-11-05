@@ -70,6 +70,27 @@ What to read:
 - riders: every rider with its benefit in a few words and amount (sum assured / limit) if stated. Great Eastern GCCR policies: life = sum assured and the "Top 5" critical illnesses pay the sum assured -> put it in ci. CIBAR / critical illness benefit rider -> ci; SMCC / multi-stage -> early_ci; SMARTPROTECT YOU includes RM20,000 accidental death only if the document shows it.
 - notes (Simplified Chinese, short): anything uncertain, missing pages, illustration-only figures, or values you left empty and why.`;
 
+// Telegram notice to the adviser (secrets TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID; skipped if not set).
+// Names, insurer and plan only: no IC numbers or amounts.
+async function telegram(text: string) {
+  const token = Deno.env.get("TELEGRAM_BOT_TOKEN"), chat = Deno.env.get("TELEGRAM_CHAT_ID");
+  if (!token || !chat) return;
+  try {
+    await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ chat_id: chat, text, disable_web_page_preview: true }),
+    });
+  } catch (e) {
+    console.error("telegram", e);
+  }
+}
+
+// deno-lint-ignore no-explicit-any
+async function clientName(admin: any, userId: string) {
+  const { data } = await admin.from("profiles").select("name, state").eq("id", userId).maybeSingle();
+  return [data?.name || "（未填名字）", data?.state].filter(Boolean).join(" · ");
+}
+
 function json(body: unknown, status = 200) {
   return new Response(JSON.stringify(body), { status, headers: { ...CORS, "Content-Type": "application/json" } });
 }
@@ -83,12 +104,21 @@ Deno.serve(async (req) => {
   const { data: { user } } = await asUser.auth.getUser();
   if (!user) return json({ error: "not signed in" }, 401);
 
-  const { upload_id } = await req.json().catch(() => ({}));
+  const { upload_id, event } = await req.json().catch(() => ({}));
+  const admin = createClient(url, Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!);
+
+  if (event === "signup") {   // a new client's first log-in: tell the adviser (only right after the profile is made)
+    const { data: prof } = await admin.from("profiles").select("name, phone, state, created_at").eq("id", user.id).maybeSingle();
+    if (prof && Date.now() - new Date(prof.created_at).getTime() < 30 * 60 * 1000) {
+      await telegram(`🦁 新保客注册：${prof.name || "（未填名字）"}${prof.state ? " · " + prof.state : ""}${prof.phone ? "\n📞 " + prof.phone : ""}\n在 Lio 按「同步网站」查看`);
+    }
+    return json({ ok: true });
+  }
+
   // the row is only visible to its owner (or the agent) under the database rules, so this also checks permission
   const { data: up } = await asUser.from("policy_uploads").select("*").eq("id", upload_id).maybeSingle();
   if (!up) return json({ error: "upload not found" }, 404);
 
-  const admin = createClient(url, Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!);
   await admin.from("policy_extracts").upsert({
     upload_id: up.id, user_id: up.user_id, status: "reading", data: null, error: null, model: MODEL,
     updated_at: new Date().toISOString(),
@@ -98,12 +128,13 @@ Deno.serve(async (req) => {
     console.error("read-policy", up.id, e);
     await admin.from("policy_extracts").update({ status: "failed", error: String(e?.message ?? e).slice(0, 500),
       updated_at: new Date().toISOString() }).eq("upload_id", up.id);
+    await telegram(`⚠ ${await clientName(admin, up.user_id)} 上传了「${up.file_name}」，狮爷读不到，请人工查看。`);
   }));
   return json({ status: "reading" }, 202);
 });
 
 // deno-lint-ignore no-explicit-any
-async function read(admin: any, up: { id: string; file_path: string; file_name: string }) {
+async function read(admin: any, up: { id: string; user_id: string; file_path: string; file_name: string }) {
   const { data: blob, error } = await admin.storage.from("policies").download(up.file_path);
   if (error || !blob) throw new Error("could not open the file: " + (error?.message ?? "missing"));
   const bytes = new Uint8Array(await blob.arrayBuffer());
@@ -134,4 +165,8 @@ async function read(admin: any, up: { id: string; file_path: string; file_name: 
   const data = JSON.parse(text.text);
   await admin.from("policy_extracts").update({ status: "done", data, error: null, model: msg.model,
     updated_at: new Date().toISOString() }).eq("upload_id", up.id);
+  const what = (data.policies ?? []).map((p: { insurer?: string; plan?: string }) => [p.insurer, p.plan].filter(Boolean).join(" ")).filter(Boolean);
+  await telegram(`🦁 新保单：${await clientName(admin, up.user_id)} 上传了「${up.file_name}」\n`
+    + (what.length ? `狮爷已读取：${what.join("、")}` : "狮爷没读到保单资料，请人工查看")
+    + "\n在 Lio 按「同步网站」确认加入");
 }

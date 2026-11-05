@@ -96,6 +96,8 @@ BNM、KWSP、SC 的官网挡自动读取，所以用各大媒体对它们公告�
   3. Supabase → Edge Functions → **Secrets**：`ANTHROPIC_API_KEY` = 你的 key（跟 GitHub 用的同一把即可）。
 - 费用：每份保单约 US$0.10–0.20（视页数）。想换模型：Secrets 加 `LIO_POLICY_MODEL`。
 - 结果是 AI 初步读取，网站和 Lio 都标明「以顾问确认为准」。
+- **Telegram 通知**：Secrets 加 `TELEGRAM_BOT_TOKEN`（BotFather 给的）和 `TELEGRAM_CHAT_ID`。有新保客注册、狮爷读好（或读不到）新保单时，Telegram 会通知你（只有名字、州属、电话、保险公司和计划，不含 IC 和金额）。
+- Lio 开着时每 10 分钟自动看一次网站，有新保客 / 新保单就自动同步并在右下角提示。
 
 ## 3c. 社交媒体：「关注狮爷」按钮 + Meta Pixel
 
