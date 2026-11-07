@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:08:18+00:00",
+ "updated": "2026-11-07T15:51:26+00:00",
  "categories": {
   "ipo": [
    {
@@ -369,6 +369,40 @@
     }
    },
    {
+    "id": "2fd0eb8c57",
+    "title": "Cybersecurity – many agencies but how secure are we?",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/07/cybersecurity---many-agencies-but-how-secure-are-we",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-06T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Prime Minister Datuk Seri Anwar Ibrahim's warning that Malaysia could become a target of cyberattacks amid growing geopolitical tensions should prompts this question – how prepared are we, despite ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "首相安华警告，在地缘政治紧张的背景下，马来西亚可能成为网络攻击目标。文章指出，政府有多个机构负责网络安全，但各自职责可能重叠，遇到大型攻击时指挥和汇报渠道可能造成混乱。文章质疑这些机构是否真的提升了国家网络韧性，并建议政府公布事件响应时间等可衡量指标。",
+     "points": [
+      "国家网络安全局（Nacsa）隶属国家安全委员会，负责制定国家网络安全政策和协调。",
+      "网络安全局（CyberSecurity Malaysia）隶属数字部，通过MyCert提供技术支持和事件响应服务。",
+      "《2024年网络安全法》规定关键基础设施营运商须履行相关义务。"
+     ],
+     "why": "随着数据中心和金融、政府系统日益互联，企业若依赖这些系统，应留意网络安全要求和营运中断的潜在成本。",
+     "title_zh": "网络安全：机构众多，我们究竟有多安全？"
+    }
+   },
+   {
+    "id": "28dcf9c052",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "link": "https://www.reuters.com/markets/portfolio/",
+    "source": "Reuters",
+    "site": "www.reuters.com",
+    "date": "2026-11-06T13:20:00+00:00",
+    "lang": "en",
+    "summary": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news ...",
+    "src": "reuters",
+    "src_name": "Reuters Markets"
+   },
+   {
     "id": "9ea2b62ccb",
     "title": "Bursa Malaysia directs Zetrix AI to address dividend non-payment, disclose material information",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/06/bursa-malaysia-directs-zetrix-ai-to-address-dividend-non-payment-disclose-material-information",
@@ -476,40 +510,6 @@
      ],
      "why": "",
      "title_zh": "巴西银行下调增长预测，卢拉财政压力增加"
-    }
-   },
-   {
-    "id": "28dcf9c052",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "link": "https://www.reuters.com/markets/portfolio/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-06T09:36:00+00:00",
-    "lang": "en",
-    "summary": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news ...",
-    "src": "reuters",
-    "src_name": "Reuters Markets"
-   },
-   {
-    "id": "9b7413fe53",
-    "title": "TRC Synergy JV lands RM2.69bil construction award for Penang LRT project",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/06/trc-synergy-jv-lands-rm269bil-construction-award-for-penang-lrt-project",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-06T09:14:00+00:00",
-    "lang": "en",
-    "summary": "TRC-UFUK, has accepted a contract from MRT Mutiara Sdn Bhd for the Penang Light Rail Transit (LRT) project - Mutiara Line Package CMC2 valued at RM2.69bil.",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "TRC Synergy的合资公司CCCC-TRC-UFUK获得了槟城轻轨（Mutiara线CMC2段）工程合约，金额为26.9亿令吉。合约由MRT Mutiara公司发出，内容是建造海上跨海高架桥（包括供船只通行的航道跨距）、高架车站及相关工程，路段从Macallum到槟城中央车站。",
-     "points": [
-      "合约金额为26.9亿令吉，工期五年",
-      "合资公司由中国交通建设（CCCC）、TRC Construction（TRC Synergy全资子公司）及Ufuk Semarak组成",
-      "TRC持有合资公司30%权益，公司预计此合约将对收入和盈利带来正面贡献"
-     ],
-     "why": "这类大型基建合约主要影响承包商及其合作伙伴的业务量和员工安排，对一般企业与家庭的直接影响有限。",
-     "title_zh": "TRC Synergy合资公司获得26.9亿令吉槟城轻轨建筑合约"
     }
    },
    {
@@ -735,24 +735,24 @@
     }
    },
    {
-    "id": "794ddefde4",
+    "id": "e778754413",
     "title": "云升私有化计划持续推进 公积金局单日收回近530万股",
-    "link": "https://www.klsescreener.com/v2/news/view/1821597/%E4%BA%91%E5%8D%87%E7%A7%81%E6%9C%89%E5%8C%96%E8%AE%A1%E5%88%92%E6%8C%81%E7%BB%AD%E6%8E%A8%E8%BF%9B-%E5%85%AC%E7%A7%AF%E9%87%91%E5%B1%80%E5%8D%95%E6%97%A5%E6%94%B6%E5%9B%9E%E8%BF%91530%E4%B8%87%E8%82%A1",
+    "link": "https://www.klsescreener.com/v2/news/view/1821597/%E4%BA%91%E5%8D%87%E7%A7%81%E6%9C%89%E5%8C%96%E8%AE%A1%E5%88%92%E6%8C%81%E7%BB%AD%E6%8E%A8%E8%BF%9B_%E5%85%AC%E7%A7%AF%E9%87%91%E5%B1%80%E5%8D%95%E6%97%A5%E6%94%B6%E5%9B%9E%E8%BF%91530%E4%B8%87%E8%82%A1",
     "source": "KLSE Screener",
     "site": "www.klsescreener.com",
     "date": "2026-11-04T07:15:00+00:00",
     "lang": "zh",
-    "summary": "（吉隆坡4日讯） 云升控股 （YINSON，7293，主板能源股）潜在私有化计划持续推进，雇员 公积金局 （EPF）在两个多月内，通过证券借贷与借券（SBL）安排，累计借出540万8000股云升股票，同时收回768万7900股，其中11月3日单日收回529万6000股。 根据大马银行投资银行今日代表联合献购方及联合最终献购方发布的文告说，有关交易在8月28日至11月3日期间进行，并按照收购、合并及 ...",
+    "summary": "根据大马银行投资银行今日代表联合献购方及联合最终献购方发布的文告说，有关交易在8月28日至11月3日期间进行，并按照收购、合并及强制收购规则第19.05（1）条文披露交易详情。",
     "src": "kwsp",
     "src_name": "KWSP / EPF",
     "ai": {
-     "summary": "云升控股（YINSON）潜在私有化计划持续推进。雇员公积金局（EPF）在两个多月内通过证券借贷安排，借出540万8000股云升股票，并收回768万7900股，其中11月3日单日收回529万6000股。大马银行投资银行代表联合献购方发布文告，披露交易在8月28日至11月3日期间进行。",
+     "summary": "云升控股（YINSON）潜在私有化计划仍在推进。雇员公积金局（EPF）在两个多月内透过证券借贷安排借出540万8000股，同时收回768万7900股，其中11月3日单日收回529万6000股。",
      "points": [
-      "云升控股为主板能源股，股票代号7293",
-      "EPF借出540万8000股，收回768万7900股",
-      "11月3日单日收回529万6000股，交易期为8月28日至11月3日"
+      "交易期间为8月28日至11月3日",
+      "EPF累计收回768万7900股云升股票",
+      "11月3日单日收回529万6000股"
      ],
-     "why": "",
+     "why": "这属于上市公司私有化相关的股票交易动向，与一般企业的营运成本、员工或家庭开支没有直接关联。",
      "title_zh": ""
     }
    },
@@ -1077,25 +1077,25 @@
     }
    },
    {
-    "id": "0aac6cc901",
+    "id": "4975d0e051",
     "title": "Budget 2027: Can monthly EPF withdrawals keep retirees from running out of money?",
-    "link": "https://www.malaymail.com/news/malaysia/2026/11/05/budget-2027-can-monthly-epf-withdrawals-keep-retirees-from-running-out-of-money/240335",
-    "source": "Malay Mail",
-    "site": "www.malaymail.com",
-    "date": "2026-11-04T23:01:00+00:00",
+    "link": "https://malaysia.news.yahoo.com/budget-2027-monthly-epf-withdrawals-230000515.html",
+    "source": "Yahoo Malaysia",
+    "site": "malaysia.news.yahoo.com",
+    "date": "2026-11-04T15:00:00+00:00",
     "lang": "en",
-    "summary": "For many Malaysians, retirement savings are built up over decades of working life, but the challenge does not end when they reach retirement age as ...",
+    "summary": "The government is encouraging Employees Provident Fund (EPF) members to consider taking their savings through monthly withdrawals instead of withdrawing the entire amount at once, with the aim of ...",
     "src": "kwsp",
     "src_name": "KWSP / EPF",
     "ai": {
-     "summary": "马来西亚政府鼓励公积金（EPF）会员，退休时不要一次性提走全部存款，而是改为每月分期领取，让余额继续产生股息。首相安华在2027年财政预算案中宣布，年满55岁和60岁的会员可选择这一安排（称为i-Emas计划）。经济学者认为，这有助于减少退休金很快花光的风险，但仍需检视整体退休收入是否足够。",
+     "summary": "政府鼓励公积金（EPF）成员考虑按月提取退休储蓄，而不是一次性全部取出，目标是帮助退休者更好地规划开销、让钱撑得更久。首相安华在2027年财政预算案中宣布，55岁和60岁的成员可选择通过i-Emas计划按月提取，未提取的余额仍可继续获得年度股息。经济学者认为，这能减少一次性提款后乱花的风险，但能否真正解决退休储蓄不足的问题，仍有待观察。",
      "points": [
-      "据一项调查，约97%的马来西亚人在55岁或60岁时一次性提取公积金，不少人在三至五年内就把钱用完。",
-      "每月提取的安排可让未提取的余额继续获得股息。",
-      "经济学者提醒，每月提取本身无法解决退休收入不足的问题，还需考虑投资回报与灵活度。"
+      "55岁和60岁的公积金成员可选择按月提取，依据是2027年财政预算案。",
+      "一位经济学者引述调查指出，约97%的马来西亚人在55或60岁时一次性提取公积金，不少人三到五年内就用光。",
+      "专家认为按月提取有助于减少乱花的风险，但也强调应保留紧急情况下提取额外资金的弹性。"
      ],
-     "why": "对企业主而言，员工退休规划的选择可能影响日后的人力安排与员工福利的讨论方向，但文章并未提及对雇主或企业成本的直接影响。",
-     "title_zh": "2027年财政预算：每月分期提取公积金，能否让退休者不致把钱用光？"
+     "why": "如果您是企业主，这项安排可能影响员工的退休规划与公积金相关的福利讨论，但目前内容尚未涉及对企业成本或雇主责任的具体变动。",
+     "title_zh": "2027年财政预算：按月提取公积金能否让退休者不致坐吃山空？"
     }
    },
    {
@@ -1301,6 +1301,26 @@
       "当天16个家庭到场领取，其余12户由社险人员上门拜访"
      ],
      "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "43f7121bf2",
+    "title": "上市首年业绩报捷 FWD新业务盈利增长强劲",
+    "link": "https://www.orientaldaily.com.my/news/business/2026/11/03/860062",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-11-03T00:30:00+00:00",
+    "lang": "zh",
+    "summary": "（香港3日讯）由于新业务盈利表现强劲，即使去年同期比较基础较高，香港首富李嘉诚次子李泽楷掌控的保险公司——富卫集团（FWD）在2026财政年首9个月（截至9月30日止）的按年化新保费仍取得成长，至19亿5000万美元（约79亿4762万令吉）。此外，该公司新业务合约服务边际按年增长22%，至14亿美元（约57亿零600万令吉）；新业务价值增长18%，至8亿7800万美元（约35亿7829万令吉）。",
+    "ai": {
+     "summary": "富卫集团（FWD）公布上市首年业绩，截至9月30日的前9个月，按年化新保费增长至19.5亿美元。新业务合约服务边际（未来预计赚取、尚未确认的利润）增长22%，新业务价值增长18%，主要得益于产品组合转变和多个市场表现向好。",
+     "points": [
+      "按年化新保费19.5亿美元（约79.47亿令吉），即使去年同期基数较高仍有增长",
+      "新业务合约服务边际增长22%，至14亿美元；新业务价值增长18%，至8.78亿美元",
+      "日本、新加坡、菲律宾和大马数码渠道等市场都带动增长，泰国则受低息环境影响"
+     ],
+     "why": "保险公司市场表现的变化，可能会影响市民在保险产品选择和保费价格上的参考，但对一般企业主的直接影响有限。",
      "title_zh": ""
     }
    },
@@ -1817,16 +1837,6 @@
     "summary": "Around 380 employees will leave the healthcare group as part of a business support consolidation exercise, with affected staff offered enhanced severance packages and career transition support."
    },
    {
-    "id": "0dd6b1e51b",
-    "title": "IHH Healthcare to cut about 380 jobs across three markets",
-    "link": "https://www.msn.com/en-sg/money/human-resources/ihh-healthcare-to-cut-about-380-jobs-across-three-markets/ar-AA2gTEqm",
-    "source": "Singapore Business Review",
-    "site": "www.msn.com",
-    "date": "2026-11-05T17:44:38+00:00",
-    "lang": "en",
-    "summary": "Affected employees will receive enhanced severance packages. IHH Healthcare will reduce its workforce by about 0.5%, or around 380 of its 76,000 employees, across Singapore, Hong Kong, and Malaysia as ..."
-   },
-   {
     "id": "72765e2536",
     "title": "IHH Healthcare cuts nearly 400 jobs across Singapore, Malaysia and Hong Kong",
     "link": "https://www.asiaone.com/singapore/ihh-healthcare-singapore-hong-kong-malaysia-jobs-cut",
@@ -1845,6 +1855,16 @@
     "date": "2026-11-05T15:35:00+00:00",
     "lang": "en",
     "summary": "IHH Healthcare will shed roughly 0.5 per cent of its 76,000‑strong workforce, or about 380 roles, as it consolidates business support services across Singapore, Hong Kong and Malaysia while ..."
+   },
+   {
+    "id": "424d1828bc",
+    "title": "IHH Healthcare to cut close to 400 jobs across Singapore, Hong Kong and Malaysia",
+    "link": "https://www.msn.com/en-sg/news/other/ihh-healthcare-to-cut-close-to-400-jobs-across-singapore-hong-kong-and-malaysia/ar-AA2gP7KT",
+    "source": "The Business Times",
+    "site": "www.msn.com",
+    "date": "2026-11-05T04:42:39+00:00",
+    "lang": "en",
+    "summary": "[SINGAPORE] Close to 400 employees at IHH Healthcare will be leaving the organisation as it looks at consolidating its business support services."
    },
    {
     "id": "c81b704bf1",
@@ -1919,42 +1939,202 @@
   ],
   "energy": [
    {
-    "id": "791d1acad7",
-    "title": "黄仁勋财富跌出世界前十，马斯克身价缩水超千亿美元，特朗普 ...",
-    "link": "https://news.qq.com/rain/a/20261107A07FF900",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-07T05:06:00+00:00",
+    "id": "91975b33cd",
+    "title": "民主党放话秋后算账，马斯克与苹果拉响警报，华盛顿换打法不查 ...",
+    "link": "https://www.sohu.com/a/1098487656_122425825",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-07T07:40:00+00:00",
     "lang": "zh",
-    "summary": "黄仁勋跌出全球富豪榜前十，只花了一个交易日。 美东时间11月5日，英伟达收跌9.3%，创2025年1月以来最大单日跌幅，市值单日蒸发4470亿美元。黄仁勋的净资产随之缩水151亿美元，降至1509亿美元，在彭博亿万富翁指数上的排名从第9位滑到第13位。自10月6日高点以来，英伟达股价已下跌约24%，进入技术性熊市区域。 触发抛售的不是芯片本身，而是华盛顿和州一级的政治版图变化。民主党在中期选举中赢 ...",
+    "summary": "马斯克4.45亿打水漂：民主党刚赢，传票已经按箱往硅谷发了。 中期选举刚翻盘，马斯克先亏掉的不只是面子。 4.45亿美元真金白银砸出去，支持37名共和党众议员候选人，33人落选，只剩3人上台；押注的7名参议员候选人，6个直接翻车。 钱还没凉透，华盛顿的律师已经帮他算好下一笔账：传票按箱计，听证按季播。 马萨诸塞州民主党参议员马基选举夜就撂话：“那些科技高管得去种新森林，因为我们要发的传票实在太多了 ...",
     "ai": {
-     "summary": "美国时间11月5日，英伟达股价大跌9.3%，黄仁勋净资产单日缩水151亿美元，跌出全球富豪榜前十。市场主要担心的是选举后地方政府可能放慢数据中心审批，影响英伟AI芯片的需求，而不是芯片本身出了问题。马斯克旗下特斯拉和SpaceX两个交易日市值合计蒸发约4560亿美元，他的财富同样大幅缩水。",
+     "summary": "中期选举后，民主党议员表示将对科技公司展开调查，并已开始发出要求提供文件的函件。文章称，马斯克在这次选举中投入约4.45亿美元支持共和党候选人，但大多数押注的候选人未能当选。",
      "points": [
-      "英伟达单日跌9.3%，市值蒸发4470亿美元，黄仁勋净资产降至1509亿美元，排名从第9位滑到第13位",
-      "得州新当选州长民主党人伊诺霍萨表示，在相关保护法律出台前将暂停数据中心审批",
-      "高盛估计，部分地方短期暂停审批可能影响美国约45%的规划中新增产能，目前仍属潜在影响"
+      "马斯克在中期选举中投入约4.45亿美元，支持的37名众议员候选人中仅3人当选",
+      "马萨诸塞州民主党参议员马基在选举夜表示，将向科技高管发出大量传票",
+      "2027年1月新国会就职后，国会调查权可能全面启动，相关函件方向已有迹象"
      ],
-     "why": "如果数据中心建设放缓，相关的服务器、电力设备和云服务收入预期可能受影响，持有科技股的退休账户也可能随之波动，企业可留意自身供应链的变化。",
+     "why": "若科技公司与政府合同关系受到更多审查，企业可能需要花更多时间与成本整理文件、应对询问，员工与高层也可能受到影响。",
      "title_zh": ""
     }
    },
    {
-    "id": "6332073a48",
-    "title": "马斯克的苦日子可能要来了：超30亿政治豪赌失算，商业价值暴跌",
-    "link": "https://www.huxiu.com/article/4903759.html",
-    "source": "虎嗅网",
-    "site": "www.huxiu.com",
-    "date": "2026-11-07T04:53:00+00:00",
+    "id": "66455f486b",
+    "title": "马斯克：中国太棒了，我爱中国",
+    "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907441.shtml",
+    "source": "观察者网",
+    "site": "www.guancha.cn",
+    "date": "2026-11-07T07:39:00+00:00",
     "lang": "zh",
-    "summary": "这场政治失利的背后，还有着一份巨额账单和一个显眼的名字。2026年美国中期选举是有史以来最贵的中期选举，仅竞选广告就耗资12亿美元。在这次选举中，马斯克也成为美国单一选举周期内捐款额最多的个人。",
+    "summary": "当地时间11月6日，特斯拉公司首席执行官马斯克在纽约出席第33届巴伦投资会议。他在接受美国投资公司巴伦资本创始人罗恩·巴伦采访时表示，他爱中国，并高度评价中国汽车公司的竞争力。 “中国太棒了，”马斯克表示，“顺便说一句，我爱中国。去那里旅行真的很鼓舞人心。” 马斯克还指出，中国的汽车公司“非常棒”。 巴伦则提到，福特汽车公司有人去过中国，同样“被那里的汽车质量惊呆了”。 马斯克接受罗恩·巴伦采访社 ...",
     "ai": {
-     "summary": "据报道，2026年美国中期选举是有史以来最昂贵的一次，仅竞选广告就花了12亿美元。马斯克在这个选举周期中成为单一个人捐款最多的人。标题还提到他的政治押注失利、商业价值下跌，但原文无法读取，这些说法未能核实。",
+     "summary": "特斯拉首席执行官马斯克在纽约出席第33届巴伦投资会议，接受巴伦资本创始人罗恩·巴伦采访时表示，他喜欢中国，并称赞中国汽车公司的竞争力。他说去中国旅行很鼓舞人心。巴伦also提到福特有人去过中国，对当地汽车质量印象深刻。",
      "points": [
-      "2026年美国中期选举被称为有史以来最昂贵的中期选举",
-      "仅竞选广告支出就达12亿美元",
-      "马斯克是该选举周期中单一个人捐款最多的人"
+      "时间：当地时间11月6日，地点在纽约",
+      "马斯克称中国汽车公司“非常棒”",
+      "马斯克的母亲梅耶·马斯克也公开表示喜欢中国"
      ],
      "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "c9b83256a1",
+    "title": "马斯克：特斯拉将于2027年逐步停产赛博越野旅行车（Cybertruck ...",
+    "link": "https://finance.sina.com.cn/wm/2026-11-07/doc-inixxqms4504866.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-07T07:06:00+00:00",
+    "lang": "zh",
+    "summary": "新华社北京11月7日电 美国电动汽车制造商特斯拉首席执行官埃隆·马斯克6日在社交媒体平台宣布，将于2027年年中前后逐步停止生产赛博越野旅行车（Cybertruck），把产能用于增产赛博出租车（Cybercab）。 赛博越野旅行车于2019年11月发布，2023年年底开始向客户交付。亮相时，它凭借棱角分明的不锈钢车身和极具未来感的外观引发广泛关注。马斯克接受媒体采访时曾将这款车称为“未来战车”， ...",
+    "ai": {
+     "summary": "特斯拉首席执行官马斯克在社交媒体宣布，计划2027年年中前后逐步停产赛博越野旅行车（Cybertruck），把产能转去生产无人驾驶出租车赛博出租车（Cybercab）。赛博越野旅行车2023年底开始交付，上市后销量明显下滑，并曾多次被召回。",
+     "points": [
+      "马斯克于11月6日宣布停产计划，时间约在2027年年中",
+      "该车2025年售出两万余辆，比前一年减少约一半，今年前三季度销量再降28%",
+      "美国国家公路交通安全管理局数据显示，该车上市以来特斯拉发布11次召回通知"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "5929cdc2b4",
+    "title": "马斯克：特斯拉Optimus机器人只租不卖 干活效率抵得上5个人",
+    "link": "https://finance.sina.com.cn/tech/discovery/2026-11-07/doc-inixwxpy4713596.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-07T07:00:00+00:00",
+    "lang": "zh",
+    "summary": "快科技11月7日消息，据报道，马斯克近日在第33届巴伦投资大会上接受采访时表示， 特斯拉Optimus人形机器人很可能采用只租不卖的商业模式。 当被问及特斯拉会出售还是出租Optimus时，马斯克直接回答“大概是租”。在制造成本方面，马斯克表示初期与一辆汽车相当，随后会大幅下降，从约3万美元（快科技注：折合人民币约20万元）逐步降至2万美元（折合人民币约13.3万元）左右， ...",
+    "ai": {
+     "summary": "特斯拉行政总裁马斯克在一场投资大会上表示，Optimus人形机器人很可能采用只租不卖的模式。他说初期制造成本与一辆汽车相当，之后会大幅下降，工作效率可达普通人的5倍。特斯拉已在弗里蒙特工厂启动早期量产，计划2027年底开始向外部企业以租赁形式交付。",
+     "points": [
+      "马斯克称租赁模式“大概”会采用，具体定价和条款或在12月3日股东大会公布",
+      "制造成本从约3万美元逐步降至约2万美元，工作效率可达普通人的5倍",
+      "弗里蒙特产线规划年产能100万台，马斯克预计至少一年才能达到满产速度"
+     ],
+     "why": "如果这类机器人日后以租赁方式提供，企业或许可以用租金代替一次性购置成本，但目前仍属计划阶段，实际价格与条款尚未确定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "5a6334b9ba",
+    "title": "特斯拉不靠政府合同，马斯克下一步只能去火星？",
+    "link": "https://www.sohu.com/a/1098454798_249286",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-07T06:18:00+00:00",
+    "lang": "zh",
+    "summary": "针对民主党威胁新国会上任后，对马斯克的调查清算，乃至要没收特斯拉，星链，此岸黄左们幸灾乐祸马斯克要成为胡雪岩沈万三，窃喜盼望马斯克身家被打土豪，6日，马斯克在回应一封呼吁国会取消所有联邦合同的倡议时说： 特斯拉没有政府合同，也已经取消了电动车的联邦补贴；SpaceX本季政府收入将低于总收入的10%，一年后低于5%。欢迎政府取消不需要的合同，尽管开口！ 另外，他还发帖称，SpaceX本季收入将大幅超 ...",
+    "ai": {
+     "summary": "马斯克回应一封呼吁国会取消所有联邦合同的倡议时表示，特斯拉没有政府合同，电动车联邦补贴也已取消。他称SpaceX本季政府收入将低于总收入的10%，一年后低于5%，并欢迎政府取消不需要的合同。文章整体立场偏向支持马斯克，多处带有明显的政治评论色彩。",
+     "points": [
+      "马斯克称SpaceX本季政府收入将低于总收入10%，一年后低于5%",
+      "他预计SpaceX十二月年化收入有望超过1000亿美元",
+      "文章提到马斯克在2024年中期选举前投入4.5亿美元支持共和党，但德州等地选举结果未如其愿"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "a7416141a4",
+    "title": "马斯克：Optimus机器人或只租不卖",
+    "link": "https://stock.10jqka.com.cn/20261107/c681577226.shtml",
+    "source": "同花顺财经股票频道",
+    "site": "stock.10jqka.com.cn",
+    "date": "2026-11-07T05:45:00+00:00",
+    "lang": "zh",
+    "summary": "报道称，当地时间周五在美国纽约市林肯中心举行的第 33 届巴伦投资大会上，全球首富埃隆 · 马斯克（Elon Musk）透露特斯拉 Optimus 机器人可能会采用“只租不售”方式。 在被问及特斯拉 Optimus 机器人的具体销售方式时，马斯克表示：“我想可能会采用租赁模式。”对于外界最关心的“租一台多少钱、能完成哪些工作”，目前仍有待进一步披露。 在问及制造成本时，马斯克 Optimus 初期 ...",
+    "ai": {
+     "summary": "特斯拉行政总裁马斯克在纽约的巴伦投资大会上表示，特斯拉的Optimus人形机器人可能采用只租不卖的方式。具体租金和能完成的工作，目前还未公布。",
+     "points": [
+      "马斯克在第33届巴伦投资大会上透露租赁模式的可能性",
+      "Optimus初期单台成本约3万美元，之后有望降至约2万美元",
+      "马斯克称初期成本可能与汽车相近，长期会低很多"
+     ],
+     "why": "如果机器人以租赁方式提供，企业未来或许可以考虑以租代买的方式评估自动化设备，但目前细节未定，仍需等待官方进一步公布。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "95fb078b15",
+    "title": "马斯克称特斯拉Optimus机器人将采用租赁模式",
+    "link": "https://www.donews.com/news/detail/8/6768547.html",
+    "source": "DoNews",
+    "site": "www.donews.com",
+    "date": "2026-11-07T05:42:00+00:00",
+    "lang": "zh",
+    "summary": "11月6日，埃隆·马斯克在美国纽约林肯中心举行的巴伦投资大会上透露，特斯拉Optimus机器人或将实行“只租不售”模式。该机器人初期单台成本约3万美元，目标降至2万美元；10月已在弗里蒙特工厂启动早期生产，规划年产能100万台，但全面量产预计需一年。特斯拉计划先内部使用，2027年底起向外部企业交付，AI5版本拟于2027年4月推出。马斯克称其生产效率可达普通人的五倍。",
+    "ai": {
+     "summary": "特斯拉CEO马斯克在11月6日于纽约的巴伦投资大会上表示，旗下人形机器人Optimus可能改为只租不卖的模式。该机器人目前单台成本约3万美元，目标降到2万美元；特斯拉已在弗里蒙特工厂开始早期生产，计划先供内部使用，2027年底起再向外部企业交付。",
+     "points": [
+      "Optimus初期单台成本约3万美元，目标降至2万美元",
+      "规划年产能100万台，全面量产预计需要一年",
+      "计划2027年底起向外部企业交付，AI5版本拟于2027年4月推出"
+     ],
+     "why": "如果未来这类机器人以租赁方式提供，企业或许可以用较低的前期投入尝试自动化，但目前仍只是规划阶段，具体条件尚未公布。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "afbf7aea89",
+    "title": "马斯克：特斯拉Optimus机器人考虑只租不卖，生产力是人类的5倍",
+    "link": "https://tech.ifeng.com/c/8xrDogbX9Vi",
+    "source": "凤凰网科技",
+    "site": "tech.ifeng.com",
+    "date": "2026-11-07T05:34:00+00:00",
+    "lang": "zh",
+    "summary": "IT之家 11 月 7 日消息，科技媒体 Not a Tesla App 昨日（11 月 6 日）发布博文，报道称当地时间周五在美国纽约市林肯中心举行的第 33 届巴伦投资大会上，全球首富埃隆 · 马斯克（Elon Musk）透露特斯拉 Optimus 机器人可能会采用“只租不售”方式。",
+    "ai": {
+     "summary": "特斯拉行政总裁马斯克在纽约一场投资大会上表示，特斯拉人形机器人Optimus可能采用租赁方式提供，而不是直接出售。他提到初期单台成本约3万美元，与一辆汽车相近，之后有望降至约2万美元。租金和具体能做哪些工作，目前尚未公布。",
+     "points": [
+      "马斯克称Optimus可能采用“只租不售”模式，具体租金尚未披露",
+      "初期单台成本约3万美元，未来有望降至约2万美元",
+      "特斯拉计划先自用，约2027年底起向外部企业交付，规划年产能100万台但尚需一年才能全面量产"
+     ],
+     "why": "若机器人以租赁方式推出，中小企业未来或可用较低的前期投入评估自动化方案，但目前细节未公布，仍需等待正式价格与用途说明。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "8c72684fe1",
+    "title": "马斯克后悔了！亲口承认：SpaceX援乌是“大错误”",
+    "link": "https://www.sohu.com/a/1098436382_122660452",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-07T04:53:00+00:00",
+    "lang": "zh",
+    "summary": "埃隆·马斯克认为SpaceX在援助乌克兰方面犯了一个错误。这是这位美国亿万富翁对泽连斯基批评他的回应。 泽连斯基最近在接受德国电视频道ZDF采访时猛烈抨击马斯克，指责他干涉乌克兰和欧洲的内政，并不诚实地试图改变乌克兰的领导层。马斯克对这些指控作出了回应，在俄罗斯被禁的社交媒体网站上转发了一条消息，声称SpaceX在向乌克兰提供星链卫星通信系统援助方面犯了一个错误。 回想起来，SpaceX在战争开始 ...",
+    "ai": {
+     "summary": "马斯克在社交平台上转发了一条帖子，认为SpaceX向乌克兰提供星链卫星网络服务是个错误，这是对泽连斯基批评他的回应。泽连斯基此前在德国电视采访中指责马斯克干涉乌欧内政，并抱怨他不接电话谈星链问题。文章称，星链终端被乌军用于无人机操作等军事用途，让马斯克改变了看法。",
+     "points": [
+      "SpaceX在战争初期向乌克兰捐赠数千台星链终端，并提供免费服务",
+      "文章称免费服务每月成本高达数百万美元",
+      "马斯克除转发帖子外，未以其他方式回应泽连斯基的批评"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "e0caf84c7b",
+    "title": "马斯克再发“全球破产”警告，摩根大通首次给出比特币10%年化回报 ...",
+    "link": "https://blockweeks.com/news/337909",
+    "source": "blockweeks",
+    "site": "blockweeks.com",
+    "date": "2026-11-07T04:46:00+00:00",
+    "lang": "zh",
+    "summary": "马斯克称没有AI和机器人，美国作为国家1000%会破产；同时摩根大通资产管理首次将比特币纳入长期资本市场假设，预测到2036年年化回报10%。特斯拉与SpaceX合计持有约30,221枚BTC。 Elon Musk的担忧清单上又多了一项。这位Tesla与SpaceX掌门人、被《福布斯》称为全球首位万亿富翁的企业家，一边延续自己对金融崩溃的长期警告，一边又对人工智能驱动的“噩梦”发出新担忧。他最新的 ...",
+    "ai": {
+     "summary": "马斯克在2026年2月的一次播客中表示，如果没有AI和机器人，美国作为国家会破产。他认为美国债务沉重，只有AI带来的生产力大幅提升才可能覆盖债务。同时，摩根大通资产管理首次把比特币纳入其长期资本市场假设报告，预测比特币到2036年的年化回报为10%。",
+     "points": [
+      "马斯克在2026年2月的Dwarkesh Podcast中发表相关言论",
+      "摩根大通资产管理2026年10月首次将比特币纳入长期资本市场假设报告",
+      "报告预测比特币到2036年年化回报约10%，并称这只是长周期估算而非保证"
+     ],
+     "why": "对企业主而言，美国债务与利率环境的变化可能影响经营成本与融资条件，而大型机构纳入比特币的做法则显示相关资产讨论正在主流化，但这不代表任何投资建议。",
      "title_zh": ""
     }
    },
@@ -1973,46 +2153,6 @@
       "特斯拉计划2027年年中前后逐步结束Cybertruck生产",
       "Cybertruck还将继续生产约8到9个月",
       "腾出的产线将用于扩大Cybercab产能，今年已是第二次宣布停产车型"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "b5805f14c3",
-    "title": "马斯克在得州投资2.25亿美元 民主党批评特殊优待拟收紧审查",
-    "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnye4886936.shtml?r=0",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-07T03:26:00+00:00",
-    "lang": "zh",
-    "summary": "马斯克大额的竞选捐款，让他成为不少选民的攻击目标。他向支持得州总检察长肯·帕克斯顿参选联邦参议员的共和党超级政治行动委员会捐赠约1.6亿美元，但帕克斯顿最终败给詹姆斯·塔拉里科。这位民主党候选人指责这名亿万富豪试图“买下属于自己的参议员”。",
-    "ai": {
-     "summary": "马斯克在得州的企业投资已达2.25亿美元，过去当地官员给予不少优待。随着民主党新一届领导层上台，当地开始检讨这些特殊待遇，包括土地交易和审批程序，并计划加强审查，但仍希望维持营商环境。",
-     "points": [
-      "马斯克在得州投入约2.25亿美元，SpaceX与特斯拉在当地发展顺利。",
-      "新当选州长伊诺霍萨要求推迟一项博卡奇卡州立公园土地交易的州级磋商，待正式上任后再推进。",
-      "新当选的得州主计长埃克哈特表示，未来竞争环境将更公平，不会偏袒任何企业。"
-     ],
-     "why": "若得州对大型项目的审批变得更严格或更统一，企业在当地扩张的时间与成本可能随之改变，同业竞争者也可能获得同样的激励政策。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "b74f4c3a07",
-    "title": "马斯克：明年逐步停产Cybertruck 产线让位于Cybercab",
-    "link": "https://www.autohome.com.cn/news/202611/1318227.html",
-    "source": "汽车之家",
-    "site": "www.autohome.com.cn",
-    "date": "2026-11-07T03:14:00+00:00",
-    "lang": "zh",
-    "summary": "[汽车之家 资讯] 当地时间11月6日，特斯拉CEO马斯克在社交平台发文，称公司将于明年年中前后逐步收尾得州超级工厂的 Cybertruck ( 参数 | 询价 )生产，为Cybercab扩产腾出空间。这款电动皮卡Cybertruck的量产之路即将画上句号，有行业人士推测，这款车型近期实际销量仅为规划产能的一成左右，推出低价版本也未能提振需求，其生产线将让位于Cybercab似乎也是不得已而为之。",
-    "ai": {
-     "summary": "特斯拉CEO马斯克在社交平台表示，公司计划在明年年中前后逐步结束得州超级工厂的Cybertruck电动皮卡生产，把产线空间让给Cybercab扩产。他没有说明确切停产日期，也没有交代已有订单如何安排。",
-     "points": [
-      "马斯克于当地时间11月6日发文宣布此消息",
-      "特斯拉首席工程师称Cybertruck的技术将在Cybercab上延续",
-      "据估算，今年三季度Cybertruck交付量约7000至8000辆，仅为原规划年产能25万辆的12%左右"
      ],
      "why": "",
      "title_zh": ""
@@ -2059,86 +2199,6 @@
     }
    },
    {
-    "id": "792ad3714c",
-    "title": "马斯克：特斯拉将于明年停产Cybertruck",
-    "link": "https://finance.sina.com.cn/wm/2026-11-07/doc-inixwnya8198497.shtml",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-07T01:43:00+00:00",
-    "lang": "zh",
-    "summary": "11月6日，马斯克在社交平台发文称，特斯拉将于明年年中左右在得克萨斯州超级工厂逐步停止Cybertruck的生产，为增加Cybercab产量腾出空间。",
-    "ai": {
-     "summary": "马斯克在社交平台宣布，特斯拉计划明年年中左右，在得克萨斯州超级工厂逐步停止生产Cybertruck，把产能让给新车型Cybercab。文章提到Cybertruck销量下滑、召回频繁，但马斯克仍称它是特斯拉最棒的车之一。",
-     "points": [
-      "马斯克于11月6日宣布，停产计划预计在明年年中左右逐步完成",
-      "Cybertruck今年前三季销量同比跌28%，仅售出1.16万辆",
-      "Cybercab是为Robotaxi服务设计的双座电动车，没有方向盘和刹车踏板"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "9084439404",
-    "title": "马斯克称明年停产赛博皮卡，销量2万辆，成特斯拉史上最失败车型",
-    "link": "https://www.sohu.com/a/1098354610_122570858",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-07T01:39:00+00:00",
-    "lang": "zh",
-    "summary": "特斯拉可能在明年停产赛博皮卡，此前该车型自2023年上市以来经历了多次召回且销量不及预期。 首席执行官埃隆·马斯克周四在社交平台上发帖称，赛博皮卡的生产将于2027年年中左右在特斯拉得克萨斯州工厂“逐步收尾”。马斯克未说明生产是否会转移至其他工厂。 马斯克表示，此举将为增加赛博出租车的产量腾出空间。赛博出租车是特斯拉的自动驾驶汽车，该公司希望围绕它打造其自动驾驶出租车业务。 希尔茨克：特斯拉向公众 ...",
-    "ai": {
-     "summary": "特斯拉首席执行官马斯克在社交平台发帖称，赛博皮卡（Cybertruck）计划在2027年年中左右于得克萨斯州工厂逐步停产，腾出产能给赛博出租车。该车自2023年上市以来多次召回，销量也远低于公司原本的预期。",
-     "points": [
-      "马斯克称赛博皮卡生产将于2027年年中左右逐步收尾，未说明是否转到其他工厂",
-      "2025年赛博皮卡销量仅略高于2万辆，远低于马斯克此前提出的每年最多25万辆目标",
-      "该车型自一年多前交付以来已被召回八次以上"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "99667075fb",
-    "title": "马斯克直言我爱中国：中国的汽车公司非常棒",
-    "link": "https://www.msn.cn/zh-cn/autos/%E9%80%9A%E7%94%A8/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%B4%E8%A8%80%E6%88%91%E7%88%B1%E4%B8%AD%E5%9B%BD-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E9%9D%9E%E5%B8%B8%E6%A3%92/ar-AA2gWpt3",
-    "source": "格隆汇",
-    "site": "www.msn.cn",
-    "date": "2026-11-07T00:50:41+00:00",
-    "lang": "zh",
-    "summary": "格隆汇11月7日｜当地时间11月6日，马斯克在纽约出席第33届巴伦投资会议。他在接受美国投资公司巴伦资本创始人罗恩·巴伦采访时表示，他爱中国，并高度评价中国汽车公司的竞争力。 “中国太棒了，”马斯克表示，“顺便说一句，我爱中国。去那里旅行真的很鼓舞人心。” 马斯克还指出，中国的汽车公司“非常棒”。 巴伦则提到，福特汽车公司有人去过中国，同样“被那里的汽车质量惊呆了”。",
-    "ai": {
-     "summary": "马斯克在纽约一场投资会议上接受访问时表示，他喜欢中国，去那里旅行很鼓舞人心。他还称赞中国汽车公司非常出色。主持人巴伦也提到，有福特汽车的人去过中国后，同样对当地汽车质量印象深刻。",
-     "points": [
-      "活动为第33届巴伦投资会议，于当地时间11月6日在纽约举行",
-      "马斯克称中国很棒，并表示自己爱中国",
-      "马斯克评价中国汽车公司“非常棒”，巴伦提到福特人员对中国汽车质量印象深刻"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "ec6abf6267",
-    "title": "马斯克再次表白：我爱中国 中国汽车公司太强了",
-    "link": "https://www.msn.com/zh-cn/money/%E9%80%9A%E7%94%A8/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%8D%E6%AC%A1%E8%A1%A8%E7%99%BD-%E6%88%91%E7%88%B1%E4%B8%AD%E5%9B%BD-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%A4%AA%E5%BC%BA%E4%BA%86/ar-AA2gWph6",
-    "source": "快科技",
-    "site": "www.msn.com",
-    "date": "2026-11-07T00:37:13+00:00",
-    "lang": "zh",
-    "summary": "快科技11月7日消息，近日，特斯拉CEO埃隆·马斯克在纽约出席第33届巴伦投资会议，在接受巴伦资本创始人罗恩·巴伦采访时，公开表达对中国的喜爱，并高度评价中国汽车公司的竞争力。 马斯克在采访中表示：“中国令人惊叹。顺便说一句，我爱中国。去那里的旅行令人深受鼓舞。” 他同时强调，在上海生产的特斯拉Model Y是中国最畅销的电动汽车，但取得这一成绩并不容易，“想一想就知道了，中国汽车公司非常厉害。” ...",
-    "ai": {
-     "summary": "特斯拉首席执行官马斯克在纽约出席第33届巴伦投资会议时，接受访问，公开表示喜欢中国，并称赞中国汽车公司竞争力很强。他提到，上海生产的特斯拉Model Y是中国销量最好的电动汽车，但这并不容易做到。",
-     "points": [
-      "活动地点在纽约，马斯克接受巴伦资本创始人罗恩·巴伦的访问",
-      "马斯克称中国令人惊叹，并表示喜欢中国",
-      "上海生产的Model Y是中国最畅销的电动汽车"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "23ad6b9b25",
     "title": "外媒：销量长期低迷，马斯克称特斯拉将于明年停产“赛博皮卡”",
     "link": "https://www.msn.com/zh-cn/autos/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/%E5%A4%96%E5%AA%92-%E9%94%80%E9%87%8F%E9%95%BF%E6%9C%9F%E4%BD%8E%E8%BF%B7-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%89%B9%E6%96%AF%E6%8B%89%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%81%9C%E4%BA%A7-%E8%B5%9B%E5%8D%9A%E7%9A%AE%E5%8D%A1/ar-AA2gWjz7",
@@ -2179,44 +2239,124 @@
     }
    },
    {
-    "id": "d8f4c9f978",
-    "title": "马斯克抛出SpaceX营收猜测，震惊华尔街",
-    "link": "https://news.qq.com/rain/a/20261107A0D34W00",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-06T22:13:00+00:00",
-    "lang": "zh",
-    "summary": "美国亿万富翁埃隆·马斯克周五表示，到2027年12月，SpaceX的年化营收有望突破5000亿美元。这一预测远高于华尔街分析师对这家火箭、卫星和人工智能（AI）公司的预期。马斯克在一场投资大会上表示，“这不是承诺，只是我最好的猜测。”他还表示，SpaceX年化营收达到1万亿美元的规模也并非不可能。周五，SpaceX股价上涨8.62%， ...",
-    "ai": {
-     "summary": "马斯克在一场投资大会上表示，到2027年12月，SpaceX的年化营收（按最后一个月收入推算全年的规模）有望超过5000亿美元，并称这只是他的最佳猜测而非承诺。这一说法远高于华尔街分析师的预期。当天SpaceX股价上涨8.62%，报134.27美元，但仍低于今年6月上市时135美元的发行价。",
-     "points": [
-      "马斯克预测2027年12月SpaceX年化营收有望突破5000亿美元",
-      "37位分析师预计2027年全年营收约1800亿美元，区间为720亿至2900亿美元",
-      "SpaceX第三季度营收146亿美元，同比增长161%，马斯克预计第四季度约增长70%"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
+    "id": "c4882e9dc1",
+    "title": "'WTF Is This Price Increase?' Starlink's Surge Pricing Expands, Igniting Backlash",
+    "link": "https://www.pcmag.com/news/wtf-is-this-price-increase-starlinks-surge-pricing-expands-igniting-backlash",
+    "source": "PCMag",
+    "site": "www.pcmag.com",
+    "date": "2026-11-07T07:45:00+00:00",
+    "lang": "en",
+    "summary": "They are taking advantage of people in rural areas because they know we don’t have any other options,' one affected user said, after seeing a 20% price hike."
    },
    {
-    "id": "7e1e42cf5c",
-    "title": "财联社11月7日电，‌特斯拉CEO马斯克表示：“我们还需要再花8到9个 ...",
-    "link": "https://www.cls.cn/detail/2528048",
-    "source": "财联社",
-    "site": "www.cls.cn",
-    "date": "2026-11-06T22:13:00+00:00",
-    "lang": "zh",
-    "summary": "财联社11月7日电，‌特斯拉CEO马斯克表示：“我们还需要再花8到9个月的时间继续推进Cybertruck的生产制造工作，在此之后特斯拉需要将核心资源转向Cybercab的规模化量产落地。” ...",
-    "ai": {
-     "summary": "特斯拉CEO马斯克表示，公司还需要约8到9个月继续推进Cybertruck（电动皮卡）的生产。之后，特斯拉会把主要资源转向Cybercab（自动驾驶出租车车型）的大规模量产。",
-     "points": [
-      "Cybertruck还需约8到9个月的生产推进期",
-      "之后重心转向Cybercab的规模化量产",
-      "消息来源为财联社，发布于11月7日"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
+    "id": "2964991a00",
+    "title": "Tesla's Elon Musk to end Cybertruck production",
+    "link": "https://www.livenowfox.com/video/fmc-o1vyizbnl1qi98tf",
+    "source": "livenowfox",
+    "site": "www.livenowfox.com",
+    "date": "2026-11-07T07:44:00+00:00",
+    "lang": "en",
+    "summary": "Tesla CEO Elon Musk announced that the company will wind down production of the Cybertruck at Gigafactory Texas around the middle of 2027 to free up manufacturing capacity for the autonomous Cybercab."
+   },
+   {
+    "id": "69ac0bab61",
+    "title": "Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-reacts-democrat-call-153500258.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-07T07:35:00+00:00",
+    "lang": "en",
+    "summary": "Is the Democratic Party’s opposition to data centers threatening AI? How Elon Musk is responding and why Wall Street just panic sold their tech shares."
+   },
+   {
+    "id": "d5d96d017e",
+    "title": "Donald Harrison Left SpaceX Board Over Alphabet Conflicts, Musk Says",
+    "link": "https://teslanorth.com/2026/11/07/spacex-harrison-board-resigns/",
+    "source": "Tesla North",
+    "site": "teslanorth.com",
+    "date": "2026-11-07T07:32:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk said Donald Harrison left SpaceX’s board because of conflicts of interest with Alphabet, after a Form 8-K showed the Class B director resigned effective November 4."
+   },
+   {
+    "id": "9aafc334a7",
+    "title": "Tesla will end Cybertruck production in Texas in mid-2027, Musk says",
+    "link": "https://www.msn.com/en-ie/technology/tech-companies/tesla-will-end-cybertruck-production-in-texas-in-mid-2027-musk-says/ar-AA2gWFxZ",
+    "source": "Carro e Motos",
+    "site": "www.msn.com",
+    "date": "2026-11-07T07:27:29+00:00",
+    "lang": "en",
+    "summary": "Elon Musk announces the phaseout of Cybertruck production in Texas in mid-2027 to expand Cybercab manufacturing."
+   },
+   {
+    "id": "0b48ce616b",
+    "title": "After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?",
+    "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/after-us474m-gamble-flops-what-happens-now-to-elon-musks-tesla-spacex-and-china-ties",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-07T07:13:00+00:00",
+    "lang": "en",
+    "summary": "Billionaire may face congressional scrutiny over SpaceX's government contracts and Tesla's China links, analysts say ..."
+   },
+   {
+    "id": "0aeb3d7eaf",
+    "title": "NYC Mayor Zohran Mamdani Rants About Elon Musk on X and Immediately Loses His Blue Verification Check",
+    "link": "https://www.ibtimes.co.uk/nyc-mayor-zohran-mamdani-rants-about-elon-musk-x-immediately-loses-his-blue-verification-check-1830789",
+    "source": "International Business Times UK",
+    "site": "www.ibtimes.co.uk",
+    "date": "2026-11-07T06:45:00+00:00",
+    "lang": "en",
+    "summary": "New York Mayor Zohran Mamdani's X blue tick vanished after he criticised Elon Musk, prompting questions about its disappearance and whether Musk was involved ..."
+   },
+   {
+    "id": "2d502295c4",
+    "title": "Elon Musk's Starlink, Jio, OneWeb race in India: Report reveals who submitted security papers first and what's pending",
+    "link": "https://www.msn.com/en-in/news/other/elon-musk-s-starlink-jio-oneweb-race-in-india-report-reveals-who-submitted-security-papers-first-and-what-s-pending/ar-AA2gXf2L",
+    "source": "Mint",
+    "site": "www.msn.com",
+    "date": "2026-11-07T06:22:52+00:00",
+    "lang": "en",
+    "summary": "Starlink was the last of India’s three satellite internet providers to submit security compliance documents, according to a report. All three have reportedly received the necessary licences, although ..."
+   },
+   {
+    "id": "b11879447d",
+    "title": "Starlink at 550 km lowers latency to 50 ms",
+    "link": "https://www.msn.com/en-us/technology/general/starlink-at-550-km-lowers-latency-to-50-ms/vi-AA2gWXN2",
+    "source": "Celestium",
+    "site": "www.msn.com",
+    "date": "2026-11-07T06:14:53+00:00",
+    "lang": "en",
+    "summary": "The video explains how Starlink's low-Earth satellites at about 550 km cut communication delay to roughly 50 ms and deliver 50–250 Mbps to remote areas. It also examines the cost, the roughly ..."
+   },
+   {
+    "id": "cce575cec3",
+    "title": "SpaceX posts $14.58 billion quarter as AI revenue overtakes Starlink",
+    "link": "https://cryptobriefing.com/spacex-q3-revenue-ai-overtakes-starlink/",
+    "source": "Crypto Briefing",
+    "site": "cryptobriefing.com",
+    "date": "2026-11-07T05:13:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX posted approximately $14.58 billion in Q3 2026 revenue as its AI segment overtook Starlink, backed by approximately $89.9 billion in cash."
+   },
+   {
+    "id": "5e1bcddbdd",
+    "title": "World's first trillionaire Elon Musk to wind down Tesla's Cybertruck production after 48% sales plunge, missing chance to enter Africa's growing EV market",
+    "link": "https://africa.businessinsider.com/local/markets/worlds-first-trillionaire-elon-musk-to-wind-down-teslas-cybertruck-production-after/rtmd2wn",
+    "source": "Business Insider Africa",
+    "site": "africa.businessinsider.com",
+    "date": "2026-11-07T05:00:00+00:00",
+    "lang": "en",
+    "summary": "Tesla will begin winding down production of its Cybertruck around mid-2027 as billionaire CEO Elon Musk shifts the electric vehicle makers focus towards driverless taxis, following years of disappoint ..."
+   },
+   {
+    "id": "ebd6374a75",
+    "title": "Hinojosa asks for pause on state park land sale to SpaceX",
+    "link": "https://www.expressnews.com/business/article/hinojosa-spacex-state-park-land-sale-22516892.php",
+    "source": "San Antonio Express-News",
+    "site": "www.expressnews.com",
+    "date": "2026-11-07T05:00:00+00:00",
+    "lang": "en",
+    "summary": "Gov.-elect Gina Hinojosa has asked the state’s Parks and Wildlife Department to hold off on a decision to sell 1,300 acres of state park land to the Elon Musk-led company. She also set the tone for ..."
    },
    {
     "id": "203f3a0e2d",
@@ -2227,26 +2367,6 @@
     "date": "2026-11-07T04:29:00+00:00",
     "lang": "en",
     "summary": "Elon Musk is fighting for complete control of Tesla's voting power."
-   },
-   {
-    "id": "3292dadbcc",
-    "title": "Elon Musk to wind down Tesla's Cybertruck production after 48% sales plunge, missing chance to enter Africa's growing EV market as Chinese rivals expand",
-    "link": "https://africa.businessinsider.com/local/markets/elon-musk-to-wind-down-teslas-cybertruck-production-after-48-sales-plunge-missing/rtmd2wn",
-    "source": "Business Insider Africa",
-    "site": "africa.businessinsider.com",
-    "date": "2026-11-07T04:26:00+00:00",
-    "lang": "en",
-    "summary": "Tesla will begin winding down production of its Cybertruck around mid-2027 as billionaire CEO Elon Musk shifts the electric vehicle makers focus towards driverless taxis, following years of disappoint ..."
-   },
-   {
-    "id": "2ae432ae33",
-    "title": "Elon Musk’s Neuralink rival BrainCo is developing an electronic GLP-1 wearable that could suppress appetite without weight-loss drugs",
-    "link": "https://www.aol.com/articles/elon-musk-neuralink-rival-brainco-120000000.html",
-    "source": "AOL",
-    "site": "www.aol.com",
-    "date": "2026-11-07T04:00:00+00:00",
-    "lang": "en",
-    "summary": "The company is hoping to bring the tech to market in two to three years, starting in China before potentially expanding to the U.S."
    },
    {
     "id": "3f38168593",
@@ -2269,104 +2389,24 @@
     "summary": "Governor-elect of Texas Gina Hinojosa said she would work with Musk, but vowed that it would have to be \"on our terms.\" ..."
    },
    {
-    "id": "e456d482f3",
-    "title": "Musk hints at Tesla robot army amid Tesla-SpaceX merger talks",
-    "link": "https://cryptobriefing.com/musk-hints-at-tesla-robot-army-amid-tesla-spacex-merger-talks/",
-    "source": "Crypto Briefing",
-    "site": "cryptobriefing.com",
-    "date": "2026-11-07T03:31:00+00:00",
-    "lang": "en",
-    "summary": "Musk hints at a Tesla robot army amid merger talks with SpaceX. Merger officially announced by December 31 at 9.5% YES."
-   },
-   {
-    "id": "544672ca1e",
-    "title": "Elon Musk to AXE Tesla model amid plummeting sales with tech giant set to focus on robotaxi production",
-    "link": "https://www.thesun.co.uk/motors/40946694/elon-musk-axes-tesla-model-for-robotaxi/",
-    "source": "The Sun",
-    "site": "www.thesun.co.uk",
-    "date": "2026-11-07T03:18:00+00:00",
-    "lang": "en",
-    "summary": "TESLA is set to wind down production of one of its models by next year following continued poor sales. The vehicles are currently only manufactured in a factory outside of Austin, Texas. Elon Musk ..."
-   },
-   {
-    "id": "a0d1f64b46",
-    "title": "Elon Musk's midterm losses just made one volatile stock in retirement portfolios riskier",
-    "link": "https://www.msn.com/en-us/news/other/elon-musk-s-midterm-losses-just-made-one-volatile-stock-in-retirement-portfolios-riskier/ar-AA2gWEiD",
-    "source": "FinanceBuzz",
-    "site": "www.msn.com",
-    "date": "2026-11-07T02:30:00+00:00",
-    "lang": "en",
-    "summary": "Musk spent a record $474 million on the midterms, including $224 million in Texas. Democrats swept every statewide race and Tesla fell 5% while Nasdaq rose 2%."
-   },
-   {
-    "id": "d81c8672f2",
-    "title": "Prediction: SpaceX Will Not Cancel the Falcon 9 in 2028",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-not-cancel-falcon-102500009.html",
-    "source": "Yahoo Finance",
-    "site": "finance.yahoo.com",
-    "date": "2026-11-07T02:25:00+00:00",
-    "lang": "en",
-    "summary": "But despite its pedigree, and despite its economics, Space.com calls Falcon's retirement \"inevitable\" now that Elon Musk has vowed to shift his focus to SpaceX's newer, bigger, better, and cheaper ..."
-   },
-   {
-    "id": "00153d2317",
-    "title": "Elon Musk's futuristic dream vehicle to cease production - What went wrong with Tesla's Cybertruck",
-    "link": "https://timesofindia.indiatimes.com/business/international-business/elon-musks-futuristic-dream-vehicle-to-cease-production-what-went-wrong-with-teslas-cybertruck/articleshow/135632407.cms",
-    "source": "The Times of India",
-    "site": "timesofindia.indiatimes.com",
-    "date": "2026-11-07T02:06:00+00:00",
-    "lang": "en",
-    "summary": "Tesla's Cybertruck arrived with big ambitions, a futuristic design and Elon Musk's backing.Now, it is bidding adieu.The high-tech pickup was meant to shake up the automobile industry, but its journey ..."
-   },
-   {
-    "id": "23ae500424",
-    "title": "SpaceX Stock Price Outlook as Elon Musk Forecasts 70% Jump in SPCX Q4 2026 Revenue",
-    "link": "https://coingape.com/markets/spacex-stock-price-outlook-as-elon-musk-forecasts-70-jump-in-spcx-q4-2026-revenue/",
-    "source": "Coingape",
-    "site": "coingape.com",
-    "date": "2026-11-07T01:36:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX (NASDAQ: SPCX) stock price soared by 8% on November 6 to close trading at $134. The gains occurred after the company’s CEO, Elon Musk, forecast ..."
-   },
-   {
-    "id": "f23c80b535",
-    "title": "How Much Did White House Starlink Installation Cost?",
-    "link": "https://www.thepricer.org/how-much-did-white-house-starlink-installation-cost/",
-    "source": "The Pricer",
-    "site": "www.thepricer.org",
-    "date": "2026-11-07T01:06:00+00:00",
-    "lang": "en",
-    "summary": "The U.S. government awarded $1,188,554.15 in four Starlink contracts supporting the White House Communications Agency between March 2025 and June 2026. The ..."
-   },
-   {
-    "id": "13af2a4b5a",
-    "title": "Elon Musk backs Trump as SpaceX Starship faces FAA and wildlife reviews",
-    "link": "https://www.msn.com/en-us/news/other/elon-musk-backs-trump-as-spacex-starship-faces-faa-and-wildlife-reviews/vi-AA2fKpPE",
-    "source": "Ellie in Space",
-    "site": "www.msn.com",
-    "date": "2026-11-07T00:46:44+00:00",
-    "lang": "en",
-    "summary": "Ellie in Space examines Elon Musk’s public support for Donald Trump and its relevance to space policy. The video connects SpaceX Starship launch delays to reviews by the FAA, the Fish and Wildlife ..."
-   },
-   {
-    "id": "d8d1314b9e",
-    "title": "Musk’s futuristic Cybertruck rolls toward exit",
-    "link": "https://www.freemalaysiatoday.com/category/business/2026/11/07/musk-s-futuristic-cybertruck-rolls-toward-exit",
-    "source": "Free Malaysia Today",
-    "site": "www.freemalaysiatoday.com",
-    "date": "2026-11-07T00:13:00+00:00",
-    "lang": "en",
-    "summary": "Elon Musk says Tesla will stop building the truck at its Texas factory around the middle of 2027 to free up space for its Cybercab robotaxi."
-   },
-   {
-    "id": "44d6023a81",
-    "title": "Tesla Cybertruck faces an uncertain future after Musk reveals factory shift",
-    "link": "https://finance.yahoo.com/technology/articles/tesla-cybertruck-faces-uncertain-future-080103614.html",
-    "source": "Yahoo Finance",
-    "site": "finance.yahoo.com",
-    "date": "2026-11-07T00:01:00+00:00",
-    "lang": "en",
-    "summary": "Tesla plans to wind down Cybertruck production in Texas by mid-2027 as Elon Musk shifts factory capacity toward the Cybercab robotaxi."
+    "id": "d5765fff87",
+    "title": "本周盘点（11.2-11.6）：节能风电周涨5.14%，主力资金合计净流出724.03万元",
+    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E6%9C%AC%E5%91%A8%E7%9B%98%E7%82%B9-11-2-11-6-%E8%8A%82%E8%83%BD%E9%A3%8E%E7%94%B5%E5%91%A8%E6%B6%A85-14-%E4%B8%BB%E5%8A%9B%E8%B5%84%E9%87%91%E5%90%88%E8%AE%A1%E5%87%80%E6%B5%81%E5%87%BA724-03%E4%B8%87%E5%85%83/ar-AA2gXjB9",
+    "source": "证券之星股票频道",
+    "site": "www.msn.cn",
+    "date": "2026-11-07T05:31:17+00:00",
+    "lang": "zh",
+    "summary": "证券之星消息，截至2026年11月6日收盘，节能风电（601016）报收于3.07元，较上周的2.92元上涨5.14%。本周，节能风电11月5日盘中最高价报3.12元。11月2日盘中最低价报2.91元，股价触及近一年最低点。节能风电当前最新总市值200.92亿元，在电力板块市值排名37/109，在两市A股市值排名871/5223。",
+    "ai": {
+     "summary": "据证券之星报道，截至2026年11月6日收盘，节能风电（601016）报3.07元，较上周的2.92元上涨5.14%。本周股价曾触及近一年最低点，主力资金合计净流出724.03万元。",
+     "points": [
+      "11月6日收盘价3.07元，周涨幅5.14%",
+      "11月2日盘中最低价2.91元，接近近一年低位",
+      "当前总市值200.92亿元，电力板块排名37/109"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
    },
    {
     "id": "48c889064d",
@@ -2429,26 +2469,6 @@
     }
    },
    {
-    "id": "9938c96b02",
-    "title": "中广核雪域高原点亮长明灯，阿里光热电站并网",
-    "link": "https://www.seetao.com/details/283107.html",
-    "source": "seetao",
-    "site": "www.seetao.com",
-    "date": "2026-11-07T02:27:00+00:00",
-    "lang": "zh",
-    "summary": "狮泉河的冬天来得早，太阳一落山，风就顺着河谷往骨头里钻。往年这个时辰街上早没了人影，2026年镇子边上多了一罐罐滚烫的熔盐，夜里电不停，暖气片也没凉过。 把太阳存进盐里 2026年11月6日，中广核阿里雪域高原零碳光储热电示范项目5万千瓦光热电站首次并网发电，成为目前全球海拔最高的并网光热电站，也是西藏首个并网发电的光热项目。电站坐落在阿里地区噶尔县狮泉河镇，平均海拔4300米，总投资约24亿元， ...",
-    "ai": {
-     "summary": "中广核在西藏阿里狮泉河镇的5万千瓦光热电站于2026年11月6日首次并网发电，据称是全球海拔最高的并网光热电站，也是西藏首个并网的光热项目。电站白天把太阳能发的电转成热能存进熔盐，夜间再用蒸汽发电，实现昼夜连续供电。光热即聚光集热发电，熔盐是一种可储存热量的高温盐。",
-     "points": [
-      "2026年11月6日，5万千瓦光热电站首次并网，1号汽轮发电机组先行并网，2号机组计划2026年内并网",
-      "电站平均海拔4300米，总投资约24亿元，总装机容量15万千瓦",
-      "据测算，全面投产后年发电量约2.7亿千瓦时，减排二氧化碳约16.82万吨"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "8c40a9d17b",
     "title": "把阳光“存”进熔盐罐，全球海拔最高的并网型光储热电项目并网发电",
     "link": "https://m.voc.com.cn/xhn/news/202611/34198723.html",
@@ -2463,46 +2483,6 @@
       "项目位于西藏阿里地区噶尔县，海拔超过4000米",
       "新建50兆瓦光热电站，配套150万平方米供暖设施",
       "采用205兆瓦离网光伏系统，将热能储存到29500吨熔盐中"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "4a532cdb43",
-    "title": "江苏常州：整村光伏“融”进村景里",
-    "link": "https://news.qq.com/rain/a/20261107A08CJH00",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-06T16:21:00+00:00",
-    "lang": "zh",
-    "summary": "11月5日，常州首个整村光伏项目在武进区礼嘉镇何墅村正式投运。屋顶光伏和廊道光伏总装机容量达1.08兆瓦，远看却看不出加装痕迹。这份“看不出来”，是设计出来的。光伏板顺应屋面坡度铺设，板与瓦的间距由常规20厘米压降到12厘米，引下线沿墙规范走线，不破坏房屋原有轮廓。国网常州供电公司项目联系人张雄伟表示：“项目 ...",
-    "ai": {
-     "summary": "常州武进区礼嘉镇何墅村的整村光伏项目于11月5日正式投运，屋顶和廊道光伏总装机容量达1.08兆瓦。设计上刻意让光伏板贴合屋顶坡度、颜色与粉墙黛瓦相融，远看几乎看不出加装痕迹。项目由国网常州供电公司参与建设，村民提供屋顶即可获得一次性初装费和每年租金。",
-     "points": [
-      "项目总装机容量1.08兆瓦，预计年发电量约118万千瓦时",
-      "村民可获1.58万元一次性初装费，并有每年稳定租金",
-      "屋顶防水有3年保险和7年延保托底"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "086332dcce",
-    "title": "青海1吉瓦光伏电站累计发电突破15亿千瓦时",
-    "link": "https://www.metrotvnews.com/cn/read/2026/11/07/51831",
-    "source": "Metro TV News",
-    "site": "www.metrotvnews.com",
-    "date": "2026-11-06T15:21:00+00:00",
-    "lang": "zh",
-    "summary": "美都新闻网 11 月 7 日（综合报道） ： 中国青海省青藏高原的1吉瓦光伏发电站，自2024年11月投产以来，截至上周六，已累计发电15.05亿千瓦时。 据美都电视台11月6日消息，这座位于青藏高原东北部柴达木盆地、格尔木市的1吉瓦光伏电站，由中国石油青海油田建设，于2024年11月30日正式并网发电。这也是中国石油集团首个接入集中式电网的1吉瓦级可再生能源项目。 面对恶劣的沙漠环境，电站结合无 ...",
-    "ai": {
-     "summary": "青海格尔木市柴达木盆地的一座1吉瓦光伏电站，自2024年11月投产以来，截至上周六累计发电15.05亿千瓦时。电站由中国石油青海油田建设，是中国石油集团首个接入集中式电网的1吉瓦级可再生能源项目。",
-     "points": [
-      "累计发电量：15.05亿千瓦时（截至上周六）",
-      "2024年11月30日正式并网发电",
-      "电站位于青藏高原东北部柴达木盆地、格尔木市，由中国石油青海油田建设"
      ],
      "why": "",
      "title_zh": ""
@@ -2529,20 +2509,20 @@
     }
    },
    {
-    "id": "a5a00ab2ac",
-    "title": "中非最大单笔光伏投资产生！中企联合体签下赤几500MWp光伏框架合同",
-    "link": "https://news.goalfore.cn/latest/detail/107185.html",
-    "source": "news.goalfore.cn",
-    "site": "news.goalfore.cn",
-    "date": "2026-11-06T09:46:00+00:00",
+    "id": "71ae47a7a4",
+    "title": "我国建成全球海拔最高的并网光热电站",
+    "link": "https://news.qq.com/rain/a/20261106A0DH9C00",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-11-06T11:46:00+00:00",
     "lang": "zh",
-    "summary": "2026年11月3日，赤道几内亚政府在首都马拉博与两家中国企业签署框架合同，拟投资7.5亿美元，投资、开发、建设并运营一座500MWp光伏电站。签约仪式由副总统特奥多罗·恩圭马·奥比昂·曼格主持；赤方由财政、预算与国家规划部长和碳氢化合物、矿业与电力部长代表政府签署，中方为中国机械设备工程股份有限公司（CMEC）与北京伟能投资有限公司。",
+    "summary": "人民网北京11月6日电 (记者杜燕飞)中广核发布消息，今日，中广核“零碳”光储热电示范项目5万千瓦光热电站首次并网发电，成为目前全球海拔最高的并网光热电站。作为西藏首个并网发电的光热项目，电站配置全球容量最大的光热电站熔盐电加热器，将提升西藏阿里地区能源保供的稳定性与可靠性。",
     "ai": {
-     "summary": "赤道几内亚政府在首都马拉博与两家中国企业签下框架合同，拟投资7.5亿美元，建设并运营一座500MWp光伏电站。这是中非迄今单笔规模较大的光伏投资之一，项目分批推进，首批100MW光储项目预计落地马拉博。该国目前仍受停电困扰，光伏被视为补充电源。框架合同阶段的融资方式、电网接入和施工时间表等细节尚未公布。",
+     "summary": "中广核的“零碳”光储热电示范项目在西藏阿里地区首次并网发电，其中5万千瓦光热电站成为目前全球海拔最高的并网光热电站。光热发电是用阳光加热熔盐储存热能，再带动发电，可在夜间继续供电。该项目总装机15万千瓦，其中10万千瓦光伏已全部并网。",
      "points": [
-      "签约日期为2026年11月3日，由北京伟能投资与中国机械设备工程股份有限公司（CMEC）联合体签约",
-      "拟投资7.5亿美元建设500MWp光伏项目，首批100MW光储项目投资约1.5亿美元",
-      "建设期预计创造1500多个直接岗位，运营期提供约300个长期岗位"
+      "5万千瓦光热电站首次并网，平均海拔约4300米",
+      "项目总装机15万千瓦，10万千瓦光伏已全容量并网",
+      "全面投产后预计年发电量约2.7亿千瓦时"
      ],
      "why": "",
      "title_zh": ""
@@ -2585,6 +2565,26 @@
       "截至2025年8月，江苏光伏装机突破1亿千瓦，其中分布式光伏超7000万千瓦"
      ],
      "why": "如果您的企业用电量大或有绿色生产的需求，园区统一开发屋顶光伏的模式未来或许会带来新的用电选择，但具体如何参与需视当地政策与园区安排而定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "b844e19012",
+    "title": "新华能源周报丨国家发改委：“十五五”将规范有序开发深远海风电 ...",
+    "link": "https://www.news.cn/energy/20261106/a3fc1bb7b6f14c1e95f6378ff29b9366/c.html",
+    "source": "新华网",
+    "site": "www.news.cn",
+    "date": "2026-11-06T08:48:00+00:00",
+    "lang": "zh",
+    "summary": "本周（11月2日-11月6日），能源领域热点频发。国家发展改革委提到，“十五五”将规范有序开发深远海风电，一体推进海上风电基地送出工程和登陆接网工程建设，到2030年全国海上风电累计并网装机规模预计达1亿千瓦以上。国家能源局综合司发布公示通知，拟将“变电主设备检修智能决策”等93个项目列入“人工智能+”能源试点项目清单。",
+    "ai": {
+     "summary": "国家发展改革委表示，“十五五”期间将规范有序开发深远海风电，并推动海上风电送出和登陆接网工程建设；预计到2030年，全国海上风电累计并网装机将达到1亿千瓦以上。同一周内，国家能源局也公示了93个拟列入“人工智能+”能源试点的项目，并发布第六批能源领域首台（套）重大技术装备清单。",
+     "points": [
+      "到2030年全国海上风电累计并网装机预计达1亿千瓦以上",
+      "国家能源局拟将93个项目列入“人工智能+”能源试点清单",
+      "第六批首台（套）重大技术装备清单共列入90项技术装备"
+     ],
+     "why": "能源基建与新技术装备持续推进，相关产业链的采购和就业机会可能增加，企业可留意行业动向。",
      "title_zh": ""
     }
    },
@@ -2649,24 +2649,94 @@
     }
    },
    {
-    "id": "c7afe3af91",
-    "title": "中广核阿里5万千瓦光热电站首次并网发电",
-    "link": "https://www.xinhuanet.com/fortune/20261106/a0aa91e6ce014d77a443134cee7bc7fa/c.html",
-    "source": "新华网",
-    "site": "www.xinhuanet.com",
-    "date": "2026-11-06T06:39:00+00:00",
+    "id": "fc3507c391",
+    "title": "全国首个荒漠草原“草光互补”试点项目（光伏部分）在内蒙古全 ...",
+    "link": "https://www.sohu.com/a/1097943241_121117467",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-06T03:06:00+00:00",
     "lang": "zh",
-    "summary": "新华社深圳11月6日电（记者王丰）记者6日从总部位于深圳的中国广核集团有限公司获悉，当日凌晨，中广核阿里雪域高原“零碳”光储热电示范项目5万千瓦光热电站首次并网发电。 项目位于西藏阿里地区噶尔县狮泉河镇，平均海拔4300米，总投资约24亿元，总装机容量15万千瓦。其中，10万千瓦光伏电站已全容量并网，5万千瓦光热电站于2024年7月开工建设，配套建设专用于熔盐电加热系统的离网光伏、熔盐电加热器、1 ...",
+    "summary": "11月4日，全国首个荒漠草原“草光互补”试点项目（光伏部分）、包头市属国企首个并网发电的新能源项目顺利完成全容量并网，标志着达茂旗走出了一条新能源开发与草原生态治理深度融合的特色发展之路。 达茂旗30万千瓦荒漠草原“草光互补”试点项目现场 上午10时，项目并网启动仪式正式举行。“我宣布，达茂旗30万千瓦荒漠草原‘草光互补’试点项目并网！启动！”随着蒙西新能源集团公司党委书记、董事长张强一声指令，现 ...",
     "ai": {
-     "summary": "中国广核集团在西藏阿里地区噶尔县的“零碳”光储热电示范项目中，5万千瓦光热电站于11月6日凌晨首次并网发电。光热发电是用镜面把太阳热能集中起来加热熔盐，再带动汽轮机发电，熔盐储热则让电力能在没有阳光时持续供应。该项目总投资约24亿元，全部建成后预计年发电量约2.7亿千瓦时。",
+     "summary": "内蒙古达茂旗一个30万千瓦的荒漠草原“草光互补”光伏试点项目，11月4日完成全容量并网发电。项目在光伏板下种草、改善退化草原，板上发电，板下修复生态。",
      "points": [
-      "5万千瓦光热电站首次并网，本次并网的是1号汽轮发电机组",
-      "项目位于平均海拔4300米的西藏阿里地区，总装机容量15万千瓦",
-      "2号汽轮发电机组计划于年内并网，全部建成后预计年发电量约2.7亿千瓦时"
+      "项目2025年8月开工，总投资10.5亿元，总装机300兆瓦",
+      "项目全面投运后年均发电约4.8亿千瓦时，每年可减少二氧化碳排放约42万吨",
+      "光伏支架抬高至两米，板下种植6种草，累计治理退化荒漠草原5420亩"
      ],
      "why": "",
      "title_zh": ""
     }
+   },
+   {
+    "id": "7227832537",
+    "title": "贝宁首个IPP光伏项目敲定融资，Proparco联合IFC支持62MWp光伏电站建设",
+    "link": "https://news.goalfore.cn/topstories/detail/99701.html",
+    "source": "news.goalfore.cn",
+    "site": "news.goalfore.cn",
+    "date": "2026-11-06T02:50:00+00:00",
+    "lang": "zh",
+    "summary": "概述：2026年11月2日，法国Proparco与国际金融公司（IFC）官宣为贝宁首个独立电力生产商（IPP）光伏项目提供融资支持。该项目由AXIAN Energy Green与本土投资平台Sika Capital联合开发，包含四座光伏电站，总装机 62MWp，Proparco、IFC 各提供约1400万欧元贷款。项目由法国Sagemcom 承担 EPC ...",
+    "ai": {
+     "summary": "法国开发金融机构Proparco与国际金融公司（IFC）为贝宁首个独立发电商（IPP）光伏项目提供融资，各出资约1400万欧元。项目总装机62MWp，分布在四座电站，由AXIAN Energy Green与本土Sika Capital共同开发，法国Sagemcom负责建设及投产初期的两年运维。",
+     "points": [
+      "融资方：Proparco与IFC各出资约1400万欧元，合计2800万欧元",
+      "规模：四座光伏电站，总装机62MWp，约占贝宁现有装机的一成",
+      "预期：每年减少约6.2万吨二氧化碳当量排放，并带动或稳定约5845个间接就业岗位"
+     ],
+     "why": "这类项目显示区域能源市场在引入私人资本和绿电供应商，有兴趣拓展西非市场的本地企业，可留意当地投标条件与外汇、合规等风险。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "0739fc849e",
+    "title": "Wind Turbines: Used Blades Transformed into Materials to Strengthen New Resins",
+    "link": "https://beninwebtv.com/en/wind-turbines-used-blades-transformed-into-materials-to-strengthen-new-resins/",
+    "source": "Benin Web TV",
+    "site": "beninwebtv.com",
+    "date": "2026-11-07T07:13:00+00:00",
+    "lang": "en",
+    "summary": "A team from Tsinghua is using heating at around 2,000 °C to recover materials that strengthen resins. The transition to industrial scale is yet to be prepared."
+   },
+   {
+    "id": "0551cf0286",
+    "title": "Amish kitchen: Lovina recalls motorless laundry days, appreciates solar power",
+    "link": "https://www.msn.com/en-us/food-and-drink/general/amish-kitchen-lovina-recalls-motorless-laundry-days-appreciates-solar-power/ar-AA2gXOcV",
+    "source": "Manistee News Advocate",
+    "site": "www.msn.com",
+    "date": "2026-11-07T07:00:00+00:00",
+    "lang": "en",
+    "summary": "\"We used to have a gas engine on our Maytag, but with the solar, I don't need an exhaust pipe and it's safer this way. I'm spoiled with solar power when I think back at how I did laundry in Indiana.\" ..."
+   },
+   {
+    "id": "4259d5270c",
+    "title": "YOUR VIEWS: Counting the cost of repeated outages, and wind power ‘unreliability’",
+    "link": "https://www.johnogroat-journal.co.uk/news/your-views-counting-the-cost-of-repeated-outages-and-wind-449537/",
+    "source": "John O'Groat Journal",
+    "site": "www.johnogroat-journal.co.uk",
+    "date": "2026-11-07T07:00:00+00:00",
+    "lang": "en",
+    "summary": "The real question is why the full costs of overhead lines are so rarely discussed. The price of undergrounding is always counted. The cost of repeated outages, storm damage, emergency repairs, ..."
+   },
+   {
+    "id": "b5eb925bc5",
+    "title": "The Energy Department wants a domestic battery supply chain by 2030 after $42 billion in battery projects were dropped or cut",
+    "link": "https://www.msn.com/en-us/technology/general/the-energy-department-wants-a-domestic-battery-supply-chain-by-2030-after-42-billion-in-battery-projects-were-dropped-or-cut/ar-AA2gXf4V",
+    "source": "Morning Overview",
+    "site": "www.msn.com",
+    "date": "2026-11-07T06:30:00+00:00",
+    "lang": "en",
+    "summary": "The Energy Department has set a goal of a continuous domestic battery value chain by 2030, running from mining and refining through cell, pack and finished-product manufacturing. The goal leads a ..."
+   },
+   {
+    "id": "01cf2c4c9b",
+    "title": "Why this hydrogen breakthrough matters",
+    "link": "https://www.msn.com/en-us/news/other/why-this-hydrogen-breakthrough-matters/vi-AA2gXphl",
+    "source": "YouTube",
+    "site": "www.msn.com",
+    "date": "2026-11-07T06:00:00+00:00",
+    "lang": "en",
+    "summary": "Hydrogen is number one on the periodic table but faces challenges in the renewable energy sector. Despite its prominence in discussions about green energy, inefficiencies in the production and storage ..."
    },
    {
     "id": "58a725164f",
@@ -2679,16 +2749,6 @@
     "summary": "Planning permission has been sought for a new wind farm in Donegal. Aught Wind Farm Limited lodged the plans on October 30th, for the proposed development in the Aught, Ture and Three Trees areas in ..."
    },
    {
-    "id": "c8db7843c9",
-    "title": "Three States Where the Midterms Could Unleash a New Era for Clean Energy",
-    "link": "https://www.motherjones.com/politics/2026/11/states-midterms-results-clean-energy-climate-reforms/",
-    "source": "Mother Jones",
-    "site": "www.motherjones.com",
-    "date": "2026-11-07T04:30:00+00:00",
-    "lang": "en",
-    "summary": "When Trump was elected in both 2016 and 2024, promising to make the federal government hostile to climate action, many climate advocates insisted that state and local governments would take up the ..."
-   },
-   {
     "id": "86d0bff9cb",
     "title": "Solar Smoothing Batteries Face Steep Operating Declines in Available Power Reserves",
     "link": "https://bioengineer.org/solar-smoothing-batteries-face-steep-operating-declines-in-available-power-reserves/",
@@ -2697,16 +2757,6 @@
     "date": "2026-11-07T04:26:00+00:00",
     "lang": "en",
     "summary": "A simulated utility-scale battery energy storage system smoothing solar generation retains substantially less deliverable upward reserve than unconstrained nameplate ratings suggest, according to a ..."
-   },
-   {
-    "id": "4e2af82782",
-    "title": "GRE Renew Enertech Ltd receives order cancellation from Urjasol Energy Pvt Ltd",
-    "link": "https://www.equitybulls.com/news/378731/gre-renew-enertech-ltd-receives-order-cancellation-from-urjasol-energy-pvt-ltd",
-    "source": "EquityBulls",
-    "site": "www.equitybulls.com",
-    "date": "2026-11-07T04:26:00+00:00",
-    "lang": "en",
-    "summary": "GRE Renew Enertech Limited has received a letter dated 3rd November, 2026 from Urjasol Energy Private Limited requesting cancellation of Purchase Order Ref. No. IGRE/07-2026/A dated 2nd August, 2026."
    },
    {
     "id": "18402cf63a",
@@ -2719,6 +2769,16 @@
     "summary": "Karnataka AAR allows GST ITC on rooftop solar installation for business use, subject to Section 16 conditions and other restrictions."
    },
    {
+    "id": "f6435f8140",
+    "title": "Work starts on 180MW wind power plant project in Gia Lai province",
+    "link": "https://en.vietnamplus.vn/work-starts-on-180mw-wind-power-plant-project-in-gia-lai-province-post355003.vnp",
+    "source": "VietnamPlus",
+    "site": "en.vietnamplus.vn",
+    "date": "2026-11-07T02:11:00+00:00",
+    "lang": "en",
+    "summary": "Gia Lai has more than 100 potential renewable energy projects with a total capacity exceeding 32,000 MW. To date, 85 renewable energy projects with a combined capacity of 4,271 MW have entered ..."
+   },
+   {
     "id": "b0d5ce17d5",
     "title": "Why Malaysia lacks progress in geothermal energy?",
     "link": "https://www.thevibes.com/index.php/articles/opinion/129286/why-malaysia-lacks-progress-in-geothermal-energy",
@@ -2727,6 +2787,16 @@
     "date": "2026-11-07T00:51:00+00:00",
     "lang": "en",
     "summary": "Malaysia, by contrast, has long known of more than 100 natural hot-spring sites across Perak, Selangor, Melaka, Kedah, Pahang, Sabah, and Sarawak."
+   },
+   {
+    "id": "7e1a2359ae",
+    "title": "Montana plans a 130-MW solar farm beside a recently completed wind project, targeting completion in mid-2028",
+    "link": "https://www.ecoportal.net/en/battle-butte-solar-farm-montana/44675/",
+    "source": "EcoPortal.net",
+    "site": "www.ecoportal.net",
+    "date": "2026-11-06T23:55:00+00:00",
+    "lang": "en",
+    "summary": "Puget Sound Energy is developing the 130-MW Battle Butte Solar Farm in Montana beside its existing Beaver Creek Wind Project, targeting operation by mid-2028."
    },
    {
     "id": "e43eed150f",
@@ -2767,61 +2837,11 @@
     "date": "2026-11-06T16:00:00+00:00",
     "lang": "en",
     "summary": "Alectra Energy Solutions and Convergent Energy and Power Complete Three Battery Storage Facilities Supporting Ontario’s Electricity Grid Ontario Minister of Energy and Mines Stephen Lecce joined ..."
-   },
-   {
-    "id": "057c8aea6a",
-    "title": "Last battery pack craned into place at five-hour storage project next to existing gas plant, in wind hotspot",
-    "link": "https://reneweconomy.com.au/last-battery-pack-craned-into-place-at-five-hour-storage-project-next-to-existing-gas-plant-in-wind-hotspot/",
-    "source": "RenewEconomy",
-    "site": "reneweconomy.com.au",
-    "date": "2026-11-06T16:00:00+00:00",
-    "lang": "en",
-    "summary": "The last of the battery packs for a five-hour big battery being developed by EnergyAustralia has been craned into place, next to a gas-fired power station."
-   },
-   {
-    "id": "be836867f7",
-    "title": "Tazewell County panel recommends denial of battery storage project, reaches stalemate on solar proposal",
-    "link": "https://www.25newsnow.com/2026/11/07/tazewell-county-panel-recommends-denial-battery-storage-project-reaches-stalemate-solar-proposal/",
-    "source": "25 News Now",
-    "site": "www.25newsnow.com",
-    "date": "2026-11-06T16:00:00+00:00",
-    "lang": "en",
-    "summary": "More than 1,000 pages of documents supporting two special-use permit applications were presented to the zoning board during hearings Wednesday and Thursday night."
-   },
-   {
-    "id": "a7d2e558c7",
-    "title": "Ex-lawmaker pocketed ¥72 million in racehorses and cash to rig wind farm questions",
-    "link": "https://www.tokyoreporter.com/japan-news/ex-lawmaker-pocketed-%c2%a572-million-in-racehorses-and-cash-to-rig-wind-farm-questions/",
-    "source": "The Tokyo Reporter",
-    "site": "www.tokyoreporter.com",
-    "date": "2026-11-06T16:00:00+00:00",
-    "lang": "en",
-    "summary": "Prosecutors at the Tokyo District Court have demanded a six-year prison sentence for Masatoshi Akimoto, 51, a former member of the House of Representatives ..."
-   },
-   {
-    "id": "2289b5b05b",
-    "title": "Green Hydrogen: India’s Big Ambitions, Costly Realities",
-    "link": "https://thediplomat.com/2026/11/green-hydrogen-indias-big-ambitions-costly-realities/",
-    "source": "The Diplomat",
-    "site": "thediplomat.com",
-    "date": "2026-11-06T16:00:00+00:00",
-    "lang": "en",
-    "summary": "India’s green hydrogen ambitions are running up against high production costs, infrastructure gaps, and uncertain domestic demand, even as the government seeks to position the country as a global ..."
-   },
-   {
-    "id": "df1005348a",
-    "title": "Sunlight, Water and a New, Cleaner Way to Make Green Hydrogen",
-    "link": "https://goodmenproject.com/featured-content/sunlight-water-and-a-new-cleaner-way-to-make-green-hydrogen/",
-    "source": "The Good Men Project",
-    "site": "goodmenproject.com",
-    "date": "2026-11-06T16:00:00+00:00",
-    "lang": "en",
-    "summary": "Inspired by nature, EU-funded researchers have developed a system that uses sunlight and water to produce green hydrogen, potentially opening a new route to producing and storing renewable energy ..."
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-07T21:10+08:00",
+  "updated": "2026-11-07T23:53+08:00",
   "items": {
    "klci": {
     "value": 1616.58,
@@ -2831,7 +2851,7 @@
    },
    "usdmyr": {
     "value": 4.0565,
-    "asof": "2026-11-07T11:30:49+08:00",
+    "asof": "2026-11-07T11:30:34+08:00",
     "change": 0.0119,
     "pct": 0.29
    },
@@ -2855,7 +2875,7 @@
    },
    "dji": {
     "value": 51285.73,
-    "asof": "2026-11-07T05:37:13+08:00",
+    "asof": "2026-11-07T05:37:12+08:00",
     "change": -237.33,
     "pct": -0.46
    },
