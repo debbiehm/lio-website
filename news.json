@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:22:21+00:00",
+ "updated": "2026-11-11T04:12:04+00:00",
  "categories": {
   "ipo": [
    {
@@ -113,28 +113,6 @@
     }
    },
    {
-    "id": "fe0058cafb",
-    "title": "IOIPG Malaysia-REIT offers 6.6% yield ahead of Bursa debut",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/10/ioipg-malaysia-reit-offers-66-yield-ahead-of-bursa-debut",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-09T16:00:00+00:00",
-    "lang": "en",
-    "summary": "IOIPG Malaysia real estate investment trust's or REIT projected distribution yield of 6.6%, above the 6.2% average of its large mall REIT peers, could appeal to income-seeking investors ahead of its ...",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "IOI集团旗下的IOIPG Malaysia房地产投资信托（REIT，即把租金收益分给投资者的信托基金）计划于11月25日在大马交易所挂牌。研究机构TA Research预计其派息率为6.6%，高于大型商场REIT同业的平均6.2%，可能吸引重视收益的投资者。该REIT首次上市时拥有九项零售、酒店及办公室物业，估值合计76.6亿令吉，其中IOI City Mall占六成多。",
-     "points": [
-      "预计派息率6.6%，同业平均为6.2%",
-      "IPO招股价为96仙，TA Research给予公允价值1.08令吉",
-      "截至2027年6月30日的293天预测期内，预计收入5.516亿令吉，税后利润2.656亿令吉"
-     ],
-     "why": "",
-     "title_zh": "IOIPG Malaysia房地产信托预计派息率6.6%，将于交易所挂牌"
-    }
-   },
-   {
     "id": "19251f5368",
     "title": "Mizuho edges Nomura with big-ticket IPOs",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/10/mizuho-edges-nomura-with-big-ticket-ipos",
@@ -154,6 +132,28 @@
      ],
      "why": "",
      "title_zh": "瑞穗凭大型首次公开募股压过野村"
+    }
+   },
+   {
+    "id": "4b225a2531",
+    "title": "Strong valuations for A1H’s planned IPO?",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/09/strong-valuationsfora1hs-planned-ipo",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-07T15:59:00+00:00",
+    "lang": "en",
+    "summary": "Three years after Columbia Asia's purchase of Ramsay Sime Darby Health Care Sdn Bhd (RSDH) prompted some questions about inflated pricing, Asia OneHealthcare Bhd's (A1H) proposed listing offers a ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "马来西亚私立医院集团Asia OneHealthcare（A1H）计划上市，市场关注其估值是否合理。该公司由Columbia Asia在2023年底以56.8亿令吉收购RSDH后改名而来，目前经营23家医院。分析认为，若要支撑估值，需要公司把扩张与规模优势转化为持续盈利。",
+     "points": [
+      "A1H招募说明书尚未列出发行价和估值，有估计指上市估值可能约300亿令吉。",
+      "2026财年经调整EBITDA为9.705亿令吉，比2025财年增长约6.4%。",
+      "政府计划推出MediAsas自愿医疗保险与伊斯兰保险计划，并在2027年1月全国推出，同时逐步推行按诊断相关分组（DRG）付费。"
+     ],
+     "why": "如果医院改为按病例固定付费，企业员工的医疗保险和团体医疗费用安排可能随之调整，老板也需要留意控制相关开支。",
+     "title_zh": "A1H拟上市，估值会否太高？"
     }
    }
   ],
@@ -291,6 +291,50 @@
     }
    },
    {
+    "id": "de3c995dd4",
+    "title": "Luno’s entire staking suite, large cap bundle obtain syariah certification",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/11/lunos-entire-staking-suite-large-cap-bundle-obtain-syariah-certification",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-10T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Digital asset exchange Luno has obtained syariah certification for its entire staking suite and Luno large cap bundle, making it the first regulated digital asset exchange in Malaysia to offer a full ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "数字资产交易所Luno的全部质押（staking）产品和Luno大型币组合，已获得伊斯兰教法认证（syariah certification）。Luno称，这是马来西亚首家获监管的数字资产交易所，能提供全套经认证的被动增值产品。认证经由证监会注册的伊斯兰教法顾问公司Sharlife独立审查完成。",
+     "points": [
+      "新获认证的质押产品包括Polkadot、Avalanche、Cosmos和Near Protocol四种加密货币。",
+      "加上此前已获认证的以太坊、Solana和Cardano，经认证的质押钱包共有七个。",
+      "Luno马来西亚国家经理柴思颖表示，认证让穆斯林投资者能在符合宗教信仰的前提下被动增值，客户数超过一百万。"
+     ],
+     "why": "",
+     "title_zh": "Luno全部质押产品与大型币组合获得伊斯兰教法认证"
+    }
+   },
+   {
+    "id": "8cbbbbfb82",
+    "title": "Dutch Lady to acquire stake in Johor dairy farm",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/11/dutch-lady-to-acquirestake-in-johor-dairy-farm",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-10T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Dutch Lady Milk Industries Bhd is making its way into the fresh milk segment with a RM17.5mil cash acquisition of a 35% stake in Jemaluang Dairy Valley Sdn Bhd (JDV) from Kulim (M) Bhd.",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "荷兰乳品公司（Dutch Lady）宣布，将以1750万令吉现金收购Jemaluang Dairy Valley（JDV）35%股权，进军鲜奶市场。JDV是柔佛敦宁（Mersing）一个奶牛场项目的核心公司，股权由Kulim (M) Bhd出让。收购需满足多项条件，包括获得相关政府与银行批准。",
+     "points": [
+      "收购金额为1750万令吉，以现金支付，股权占比35%。",
+      "JDV农场目前有1000头奶牛，预计2030年增至2000头。",
+      "计划2027年前建成年产1600万至2000万公升巴氏消毒鲜奶的生产设施。"
+     ],
+     "why": "对于在食品或零售行业经营的业主而言，本地鲜奶供应链的变化可能影响原料与分销的选择，但对一般企业的直接影响有限。",
+     "title_zh": "荷兰乳品将收购柔佛牧场股权"
+    }
+   },
+   {
     "id": "0588bf6b4e",
     "title": "MediAsas opens door for private healthcare sector",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/11/mediasas-opens-door-for-private-healthcare-sector",
@@ -335,28 +379,6 @@
     }
    },
    {
-    "id": "8cbbbbfb82",
-    "title": "Dutch Lady to acquire stake in Johor dairy farm",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/11/dutch-lady-to-acquirestake-in-johor-dairy-farm",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-10T16:00:00+00:00",
-    "lang": "en",
-    "summary": "Dutch Lady Milk Industries Bhd is making its way into the fresh milk segment with a RM17.5mil cash acquisition of a 35% stake in Jemaluang Dairy Valley Sdn Bhd (JDV) from Kulim (M) Bhd.",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "荷兰乳品公司（Dutch Lady）宣布，将以1750万令吉现金收购Jemaluang Dairy Valley（JDV）35%股权，进军鲜奶市场。JDV是柔佛敦宁（Mersing）一个奶牛场项目的核心公司，股权由Kulim (M) Bhd出让。收购需满足多项条件，包括获得相关政府与银行批准。",
-     "points": [
-      "收购金额为1750万令吉，以现金支付，股权占比35%。",
-      "JDV农场目前有1000头奶牛，预计2030年增至2000头。",
-      "计划2027年前建成年产1600万至2000万公升巴氏消毒鲜奶的生产设施。"
-     ],
-     "why": "对于在食品或零售行业经营的业主而言，本地鲜奶供应链的变化可能影响原料与分销的选择，但对一般企业的直接影响有限。",
-     "title_zh": "荷兰乳品将收购柔佛牧场股权"
-    }
-   },
-   {
     "id": "de09345ad1",
     "title": "Cropmate eyes RM12mil Bintulu industrial land",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/11/cropmate-eyes-rm12mil-bintulu-industrial-land",
@@ -391,47 +413,25 @@
     "src_name": "Reuters Markets"
    },
    {
-    "id": "53efcb74e3",
-    "title": "Ringgit ends higher against US$ amid hopes of de-escalation in US-Iran conflict",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/10/ringgit-ends-higher-against-us-amid-hopes-of-de-escalation-in-us-iran-conflict",
+    "id": "8467270ccb",
+    "title": "Ringgit opens higher against major currencies, flat vs greenback",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/11/ringgit-opens-higher-against-major-currencies-flat-vs-greenback",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-10T10:59:00+00:00",
+    "date": "2026-11-10T11:22:00+00:00",
     "lang": "en",
-    "summary": "The ringgit ended marginally higher against the US dollar on Tuesday, supported by improving market sentiment amid expectations of a de-escalation of the US-Iran conflict.",
+    "summary": "The ringgit opened higher against major currencies but remained flat against the US dollar amid renewed expectations of a possible US Federal Reserve (Fed) interest rate hike following ...",
     "src": "star",
     "src_name": "The Star Business",
     "ai": {
-     "summary": "马来西亚令吉周二收盘小幅升值，对美元收在4.0540/4.0580。市场情绪改善，因为外界预期美伊冲突可能缓和，美国总统特朗普表示不需要再对伊朗进行打击。",
+     "summary": "令吉今早对主要货币普遍走强，但对美元持平。市场再度预期美国联储可能加息，因为美国10月通胀数据高于预期。美元兑令吉当日交易在4.0540至4.0590附近，与前一日收盘基本相同。",
      "points": [
-      "令吉对美元从上周五的4.0565/4.0610升至4.0540/4.0580",
-      "美元指数下跌0.14%至101.51，布伦特原油跌至每桶89.89美元",
-      "令吉对日元、欧元、英镑及多数东盟货币同样走弱"
-     ],
-     "why": "令吉走势受中东局势和油价影响，若汇率波动，企业进口原料或外汇支出的成本可能随之变化，宜留意。",
-     "title_zh": "令吉因美伊冲突有望缓和而对美元收高"
-    }
-   },
-   {
-    "id": "943868fa3d",
-    "title": "Bursa Malaysia ends lower as banking, data centre heavyweights weigh on sentiment",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/10/bursa-malaysia-ends-lower-as-banking-data-centre-heavyweights-weigh-on-sentiment",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-10T10:25:00+00:00",
-    "lang": "en",
-    "summary": "Bursa Malaysia ended lower on Tuesday with the key index closing just above the psychological 1,600 level as selling pressure in banking and data-centre-related heavyweights weighed on market ...",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "马来西亚股市周二收低，综合指数以1604.07点收盘，跌12.51点或0.77%，勉强守住心理关口1600点。市场卖压主要来自银行股和数据中心相关的大型股，分析师认为这是个别公司盈利担忧及人工智能基础设施投资不确定性所致，而非国内经济基本面恶化。",
-     "points": [
-      "综合指数收于1604.07点，较上周五收盘1616.58点下跌0.77%",
-      "下跌股746只，上涨股395只，市场情绪偏弱",
-      "马银行跌6仙至10.06令吉，大众银行跌22仙至4.68令吉，YTL Power跌32仙至4.69令吉"
+      "美国10月消费者物价指数月增0.4%，高于预估的0.3%",
+      "美国两年期国库券收益率上升18个基点至4.74%",
+      "令吉对日元、欧元和英镑升值，对新元、泰铢略强，对印尼盾和菲律宾比索基本持平"
      ],
      "why": "",
-     "title_zh": "马股收低 银行与数据中心大型股拖累市场情绪"
+     "title_zh": "令吉开盘对主要货币走高，对美元持平"
     }
    },
    {
@@ -637,24 +637,24 @@
     }
    },
    {
-    "id": "1e0711d025",
+    "id": "0c13163fa7",
     "title": "恒宝环球4年财报失实 证监会指申恒宝损公众利益",
-    "link": "https://www.klsescreener.com/v2/news/view/1822575/%E6%81%92%E5%AE%9D%E7%8E%AF%E7%90%834%E5%B9%B4%E8%B4%A2%E6%8A%A5%E5%A4%B1%E5%AE%9E-%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8C%87%E7%94%B3%E6%81%92%E5%AE%9D%E6%8D%9F%E5%85%AC%E4%BC%97%E5%88%A9%E7%9B%8A",
+    "link": "https://www.klsescreener.com/v2/news/view/1822575/%E6%81%92%E5%AE%9D%E7%8E%AF%E7%90%834%E5%B9%B4%E8%B4%A2%E6%8A%A5%E5%A4%B1%E5%AE%9E_%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8C%87%E7%94%B3%E6%81%92%E5%AE%9D%E6%8D%9F%E5%85%AC%E4%BC%97%E5%88%A9%E7%9B%8A",
     "source": "KLSE Screener",
     "site": "www.klsescreener.com",
     "date": "2026-11-05T11:03:00+00:00",
     "lang": "zh",
-    "summary": "（吉隆坡5日讯）大马证券监督委员会（SC）今日发表公开声明，指恒宝环球（HBGLOB，5187，主板消费股）创办人兼总执行长申恒宝继续担任公司总执行长，将损害公众利益。 证监会援引2007年资本市场与服务法令第354(3)(f)(ii)条文发表上述意见，并揭露恒宝环球在2017年至2020年连续4个财年的年报中，向马交所提交虚假声明。 内容概览 (Summary Overview) • 大马证监会 ...",
+    "summary": "（吉隆坡5日讯）大马证券监督委员会（SC）今日发表公开声明，指 恒宝环球 （HBGLOB，5187，主板消费股）创办人兼总执行长 申恒宝 继续担任公司总执行长，将损害公众利益。",
     "src": "sc",
     "src_name": "SC Malaysia",
     "ai": {
-     "summary": "大马证券监督委员会（证监会）发表公开声明，认为恒宝环球创办人申恒宝继续担任公司总执行长，会损害公众利益。证监会引用资本市场与服务法令的条文，指公司2017至2020年连续四个财年的年报向马交所提交了不实声明。",
+     "summary": "大马证券监督委员会（SC）发表公开声明，指恒宝环球创办人兼总执行长申恒宝若继续担任公司总执行长，将损害公众利益。证监会援引资本市场与服务法令的条文，并指出该公司2017至2020年连续4个财年的年报向交易所提交了失实声明。",
      "points": [
-      "证监会援引2007年资本市场与服务法令第354(3)(f)(ii)条文发表意见",
-      "涉及恒宝环球2017至2020年连续4个财年的年报",
-      "申恒宝为恒宝环球创办人兼总执行长"
+      "证监会指恒宝环球2017至2020年共4个财年的年报含有失实声明",
+      "证监会认为申恒宝继续担任总执行长将损害公众利益",
+      "声明由证监会今日（5日）公开发表"
      ],
-     "why": "对企业主而言，这类事件提醒公司年报与向交易所的申报须准确，管理层的合规问题也可能影响上市公司的声誉与投资者信心。",
+     "why": "",
      "title_zh": ""
     }
    },
@@ -803,28 +803,6 @@
     }
    },
    {
-    "id": "01b89207ce",
-    "title": "Bank Negara Raids Four Premises In Kedah, Perak Over Suspected Illegal Forex Advertising",
-    "link": "https://www.businesstoday.com.my/2026/11/06/bank-negara-raids-four-premises-in-kedah-perak-over-suspected-illegal-forex-advertising/",
-    "source": "BusinessToday",
-    "site": "www.businesstoday.com.my",
-    "date": "2026-11-06T02:40:00+00:00",
-    "lang": "en",
-    "summary": "Bank Negara Malaysia (BNM) has taken enforcement action against Najmuldin Exchanger and Nusantara Global Network over suspected violations of the Financial Services Act 2013 involving the unauthorised ...",
-    "src": "bnm",
-    "src_name": "BNM",
-    "ai": {
-     "summary": "国家银行(BNM)对Najmuldin Exchanger和Nusantara Global Network两家公司采取执法行动,怀疑它们违反《2013年金融服务法令》,涉及未经授权的外汇相关广告。国行在吉打和霹雳共搜查了四处场所。由于原文无法读取,以上内容仅依据标题和出版商摘要整理。",
-     "points": [
-      "国家银行在吉打和霹雳搜查四处场所",
-      "两家公司涉嫌违反《2013年金融服务法令》",
-      "争议焦点是涉嫌未经授权的外汇相关广告"
-     ],
-     "why": "",
-     "title_zh": "国行搜查吉打与霹雳四处场所 涉嫌非法外汇广告"
-    }
-   },
-   {
     "id": "3dc89807de",
     "title": "Bank Negara likely to raise OPR by 25bps in 2027 - analysts",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/06/bank-negara-likely-to-raise-opr-by-25bps-in-2027---analysts",
@@ -935,6 +913,28 @@
     }
    },
    {
+    "id": "b872649248",
+    "title": "Bank Negara Malaysia holds rates, vows vigilance as inflation pressures grow",
+    "link": "https://www.businesstimes.com.sg/international/asean/bank-negara-malaysia-holds-rates-vows-vigilance-inflation-pressures-grow",
+    "source": "The Business Times",
+    "site": "www.businesstimes.com.sg",
+    "date": "2026-11-05T11:20:00+00:00",
+    "lang": "en",
+    "summary": "The decision extends a pause that has been in place since a quarter-point cut in July 2025 Read more at The Business Times.",
+    "src": "bnm",
+    "src_name": "BNM",
+    "ai": {
+     "summary": "马来西亚central bank（国家银行）在11月5日宣布维持隔夜政策利率在2.75%不变，延续自2025年7月降息0.25个百分点后的暂停状态。央行表示会保持警惕，若物价压力加大将准备采取行动。",
+     "points": [
+      "隔夜政策利率维持2.75%不变",
+      "23位经济学家中有17位预测不会加息，6位预测会加息",
+      "央行预计2027年初通胀会因能源、食品成本上升而回升"
+     ],
+     "why": "若利率未来上调，借贷成本可能随之变化，企业主可留意贷款与营运成本的走向。",
+     "title_zh": "国家银行维持利率不变，通胀压力上升下保持警惕"
+    }
+   },
+   {
     "id": "0aac6cc901",
     "title": "Budget 2027: Can monthly EPF withdrawals keep retirees from running out of money?",
     "link": "https://www.malaymail.com/news/malaysia/2026/11/05/budget-2027-can-monthly-epf-withdrawals-keep-retirees-from-running-out-of-money/240335",
@@ -1001,6 +1001,28 @@
     }
    },
    {
+    "id": "30292f77c7",
+    "title": "Keeping mortgage interest relief approved",
+    "link": "https://malaysia.news.yahoo.com/keeping-mortgage-interest-relief-approved-164425538.html",
+    "source": "Yahoo Malaysia",
+    "site": "malaysia.news.yahoo.com",
+    "date": "2026-11-03T00:43:00+00:00",
+    "lang": "en",
+    "summary": "A move to keep tax relief on interest paid on mortgage payments has been approved.",
+    "src": "lhdn",
+    "src_name": "LHDN",
+    "ai": {
+     "summary": "根西岛议会通过修正案，保留住房按揭利息的税务减免，即业主可就主要住所贷款利息申报减税，每年最多3500英镑。这也意味着原定于2015年达成的逐步取消该减免的安排将停止。支持者认为现在利率较高，不宜此时取消；反对者则担心这对租客不公平，并会增加预算开支。",
+     "points": [
+      "住房按揭利息减免上限为每年3500英镑，适用于主要住所。",
+      "原本2015年同意的逐步撤除安排随此修正案一并停止。",
+      "反对方称，若所有修正案通过，预算将增加2000万英镑。"
+     ],
+     "why": "",
+     "title_zh": "保留住房按揭利息减免"
+    }
+   },
+   {
     "id": "003bbeacb1",
     "title": "BNM Issues Commemorative Coins For National Audit Department’s 120th Anniversary, EPF’s 75th Anniversary",
     "link": "https://www.bernama.com/en/news.php?id=2628859",
@@ -1046,6 +1068,26 @@
    }
   ],
   "insurance": [
+   {
+    "id": "0f425737c3",
+    "title": "重磅交易或压轴登场 大马将迎“升级版”日本保险巨擘？",
+    "link": "https://www.orientaldaily.com.my/news/business/2026/11/11/861924",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-11-10T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "（吉隆坡11日讯）2026年步入尾声之际，大马金融市场正酝酿一宗足以改变行业版图的年终大戏。随著国家银行批准兴业银行（RHBBANK，1066，主板金融股）与日本东京海上亚洲（Tokio Marine Asia）延长谈判期限至2027年2月，市场有理由相信，双方已取得实质性进展，这宗备受瞩目的保险业务合并案极可能在今年内提前官宣，成为2026年大马金融普险市场的压轴重磅交易。这宗交易的本质，是兴业 ...",
+    "ai": {
+     "summary": "兴业银行（RHB）计划把旗下兴业保险100%股权卖给日本东京海上亚洲，之后兴业保险将与东京海上在大马的保险公司合并，组成一家更大的普险公司。国家银行已批准双方把谈判期限延至2027年2月，市场认为合并案可能在年内宣布。",
+     "points": [
+      "兴业银行计划出售兴业保险100%股权给东京海上亚洲",
+      "国家银行批准谈判期限延长至2027年2月",
+      "兴业银行拟在合并后的新公司保留最多35%股权"
+     ],
+     "why": "如果这宗合并成事，大马普险市场的竞争格局和保险产品的选择可能会有所改变，但对个别企业的影响目前尚不明确。",
+     "title_zh": ""
+    }
+   },
    {
     "id": "4df1deabfd",
     "title": "电动车水灾保险索赔金额比燃油车低4倍！PIAM 解释背后原因",
@@ -1147,26 +1189,6 @@
     }
    },
    {
-    "id": "d3334c1fe9",
-    "title": "【尼泊尔-西藏山洪】28个遇难者家庭符合资格 可获社险赔偿金",
-    "link": "https://www.orientaldaily.com.my/news/stories/2026/11/04/860380",
-    "source": "东方网",
-    "site": "www.orientaldaily.com.my",
-    "date": "2026-11-04T01:51:00+00:00",
-    "lang": "zh",
-    "summary": "（吉隆坡4日讯）今年8月26日发生在尼泊尔与西藏的山洪，造成54名马来西亚公民下落不明，其中有28个家庭符合资格，可获得社会保险机构（PERKESO）发放的抚恤金。人力资源部长拿督斯里拉玛南表示，社险机构已对54名遇难者进行审核，当中有28人符合缴纳社会保险的资格条件，因此他们的家属可获得相关抚恤金。他说，28个家庭共获得了17万4000令吉的抚恤金。他表示，今天只有16个家庭到场领取，其馀家庭的 ...",
-    "ai": {
-     "summary": "今年8月26日，尼泊尔与西藏发生山洪，54名马来西亚公民下落不明。社会保险机构（PERKESO）审核后，有28个遇难者家庭符合资格，可领取抚恤金，合共17万4000令吉。",
-     "points": [
-      "28个遇难者家庭符合社险抚恤金资格，共17万4000令吉",
-      "4日仪式上只有16个家庭到场领取，其余家庭的款项将分批发放",
-      "其中12户家庭由社险团队上门拜访，并呼吁未联络的家属主动联系社险办事处"
-     ],
-     "why": "如果您的员工或家人在海外工作，了解社险在雇员意外或灾难后的抚恤安排，有助于您向员工说明相关保障。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "0588bf6b4e",
     "title": "MediAsas opens door for private healthcare sector",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/11/mediasas-opens-door-for-private-healthcare-sector",
@@ -1187,16 +1209,6 @@
     }
    },
    {
-    "id": "9999290b8d",
-    "title": "SoftBank and Grab plan $1.85 bn AI infrastructure investment in Malaysia",
-    "link": "https://beinsure.com/news/softbank-and-grab-plan-1-85bn-ai-infrastructure-investment/",
-    "source": "beinsure",
-    "site": "beinsure.com",
-    "date": "2026-11-10T06:53:00+00:00",
-    "lang": "en",
-    "summary": "SoftBank, Grab and PETROS plan $1.85 bn in AI infrastructure investments across Malaysia, targeting at least 5 GW of computing capacity ..."
-   },
-   {
     "id": "32a1a0b82d",
     "title": "Health insurance costs surge 9.1% as Malaysia’s healthcare inflation hits 3%",
     "link": "https://www.thevibes.com/index.php/articles/news/129373/health-insurance-costs-surge-9.1-as-malaysias-healthcare-inflation-hits-3",
@@ -1215,6 +1227,16 @@
     "date": "2026-11-10T04:45:00+00:00",
     "lang": "en",
     "summary": "The General Insurance Association of Malaysia (PIAM) held a media roundtable last week on the risks of the current monsoon season, and one statistic stood out because it’s contrary to popular belief."
+   },
+   {
+    "id": "3ac5def0a1",
+    "title": "Malaysia seeks smoother medical claims process",
+    "link": "https://www.msn.com/en-xl/money/general/malaysia-seeks-smoother-medical-claims-process/ar-AA2haO0F",
+    "source": "Insurance Asia",
+    "site": "www.msn.com",
+    "date": "2026-11-09T19:11:18+00:00",
+    "lang": "en",
+    "summary": "Its de-panelling framework is now part of central bank guidelines. Malaysia’s Healthcare Partners Protocol & Solutions Committee (HPPSC) is undertaking several initiatives to improve the consistency ..."
    },
    {
     "id": "2d9247c429",
@@ -1317,16 +1339,6 @@
     "summary": "Does travel insurance cover medical treatment overseas? Only emergencies. See why medical tourism, dental treatment in JB, and cosmetic work are excluded."
    },
    {
-    "id": "8a0607a0a6",
-    "title": "Travelling to Malaysia without a visa? What Indian tourists should know about insurance and entry rules",
-    "link": "https://www.msn.com/en-in/travel/travel-preparation/travelling-to-malaysia-without-a-visa-what-indian-tourists-should-know-about-insurance-and-entry-rules/ar-AA2gGh8S",
-    "source": "MensXP",
-    "site": "www.msn.com",
-    "date": "2026-11-03T07:51:45+00:00",
-    "lang": "en",
-    "summary": "Malaysia is a convenient destination for Indians planning their first solo international trip, especially with visa-free entry available until December 2026. Many first-time travellers want to know ..."
-   },
-   {
     "id": "77d46da658",
     "title": "Patients Skipping GPs For Private Hospitals Drive Up Medical Costs: APHM",
     "link": "https://codeblue.galencentre.org/2026/11/patients-skipping-gps-for-private-hospitals-drive-up-medical-costs-aphm/",
@@ -1335,6 +1347,16 @@
     "date": "2026-11-02T16:00:00+00:00",
     "lang": "en",
     "summary": "APHM honorary secretary Anwar Anis says patients bypassing GPs for private hospitals are driving up medical costs. Affin Bank says distrust of GP clinics and mandatory MCs for minor illnesses are ..."
+   },
+   {
+    "id": "63ad6bed5e",
+    "title": "Why Malaysia should have national long-term care insurance and how it can be funded",
+    "link": "https://malaysia.news.yahoo.com/why-malaysia-national-long-term-230000797.html",
+    "source": "Yahoo Malaysia",
+    "site": "malaysia.news.yahoo.com",
+    "date": "2026-11-01T15:00:00+00:00",
+    "lang": "en",
+    "summary": "If Malaysia introduces a new nationwide insurance to cover the cost of long-term care of older persons, who would be paying for it? The government via tax ..."
    }
   ],
   "health": [
@@ -1644,19 +1666,19 @@
     "link": "https://www.thestar.com.my/Business/Marketwatch/Stocks?qcounter=KPJ",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-10T11:11:00+00:00",
+    "date": "2026-11-10T11:51:00+00:00",
     "lang": "en",
     "summary": "Stock overview for KPJ HEALTHCARE BHD (KPJ, 5878) on Bursa Malaysia including stock price, stock chart, shareholding changes, company news, key ratios, and fundamentals."
    },
    {
-    "id": "a05948cdfe",
-    "title": "KPJ Healthcare Leads ASEAN in Healthcare Brand Strength, Ranks Second in Brand Value",
-    "link": "https://www.malaysiasun.com/news/279423837/kpj-healthcare-leads-asean-in-healthcare-brand-strength-ranks-second-in-brand-value",
-    "source": "Malaysia Sun",
-    "site": "www.malaysiasun.com",
-    "date": "2026-11-10T08:14:00+00:00",
+    "id": "21d977d1da",
+    "title": "Malaysia Healthcare Costs: Health Inflation More Than Doubles to 3% in 2025",
+    "link": "https://batamnewsasia.com/2026/11/11/malaysia-healthcare-costs-health-inflation-more-than-doubles-to-3-in-2025/",
+    "source": "batamnewsasia.com",
+    "site": "batamnewsasia.com",
+    "date": "2026-11-10T11:00:00+00:00",
     "lang": "en",
-    "summary": "Valuation rises 45% to USD305 million as Group advances 49 places in Brand Finance ASEAN 500 2026 KUALA LUMPUR, Malaysia, Nov. 10, 2026 /PRNewswire/ -- KPJ Healthcare Berhad (\"KPJ Healthcare\" or \"the ..."
+    "summary": "DOSM said the 2025 report marks the first detailed release of Malaysia’s Health Price Index after a preliminary report was published in July 2026 ..."
    },
    {
     "id": "1b56eec6ab",
@@ -1687,6 +1709,16 @@
     "date": "2026-11-10T05:35:00+00:00",
     "lang": "en",
     "summary": "Medicines, which carry the largest weighting at 38.9 per cent, recorded a 2.8 per cent increase last year compared with 2.2 per cent in 2024, DOSM finds ..."
+   },
+   {
+    "id": "c314e99112",
+    "title": "KPJ Healthcare Leads ASEAN in Healthcare Brand Strength, Ranks Second in Brand Value",
+    "link": "https://sg.finance.yahoo.com/news/kpj-healthcare-leads-asean-healthcare-104500153.html",
+    "source": "Yahoo Finance Singapore",
+    "site": "sg.finance.yahoo.com",
+    "date": "2026-11-10T00:31:00+00:00",
+    "lang": "en",
+    "summary": "Malaysia's first private academic health system, has emerged as ASEAN's strongest healthcare facilities brand in the Brand Finance ASEAN 500 2026 report, with a Brand Strength Index score of 86.8 out ..."
    },
    {
     "id": "b50957f249",
@@ -1739,6 +1771,16 @@
     "summary": "IHH Healthcare will reduce its workforce by approximately 0.5%, or around 380 of its 76,000 employees, across Singapore, Hong Kong, and Malaysia."
    },
    {
+    "id": "d79bcd5791",
+    "title": "IHH Healthcare to cut about 380 roles across Singapore, Hong Kong and Malaysia",
+    "link": "https://www.dimsumdaily.hk/ihh-healthcare-to-cut-about-380-roles-across-singapore-hong-kong-and-malaysia/",
+    "source": "Dimsum Daily",
+    "site": "www.dimsumdaily.hk",
+    "date": "2026-11-05T15:35:00+00:00",
+    "lang": "en",
+    "summary": "IHH Healthcare will shed roughly 0.5 per cent of its 76,000‑strong workforce, or about 380 roles, as it consolidates business support services across Singapore, Hong Kong and Malaysia while ..."
+   },
+   {
     "id": "c81b704bf1",
     "title": "CVS Health to split in two, separating pharmacy business from insurance",
     "link": "https://malaysia.news.yahoo.com/cvs-health-split-two-separating-113705741.html",
@@ -1757,34 +1799,124 @@
     "date": "2026-11-03T16:00:00+00:00",
     "lang": "en",
     "summary": "Does travel insurance cover medical treatment overseas? Only emergencies. See why medical tourism, dental treatment in JB, and cosmetic work are excluded."
-   },
-   {
-    "id": "77d46da658",
-    "title": "Patients Skipping GPs For Private Hospitals Drive Up Medical Costs: APHM",
-    "link": "https://codeblue.galencentre.org/2026/11/patients-skipping-gps-for-private-hospitals-drive-up-medical-costs-aphm/",
-    "source": "CodeBlue",
-    "site": "codeblue.galencentre.org",
-    "date": "2026-11-02T16:00:00+00:00",
-    "lang": "en",
-    "summary": "APHM honorary secretary Anwar Anis says patients bypassing GPs for private hospitals are driving up medical costs. Affin Bank says distrust of GP clinics and mandatory MCs for minor illnesses are ..."
    }
   ],
   "energy": [
    {
-    "id": "79af0ccd55",
-    "title": "乘联分会：10月国内狭义乘用车市场零售销量同比下降27.1%；马斯克 ...",
-    "link": "https://finance.eastmoney.com/a/202611113927754811.html",
-    "source": "东方财富网财经频道",
-    "site": "finance.eastmoney.com",
+    "id": "4e56016bfa",
+    "title": "马斯克称 Claude Opus 5.5 是“杰作”，承认 Grok 4.8 还比不上",
+    "link": "https://www.528btc.com/news/116420860.html",
+    "source": "528btc.com",
+    "site": "www.528btc.com",
+    "date": "2026-11-10T20:12:00+00:00",
+    "lang": "zh",
+    "summary": "马斯克表示，xAI 的 Grok 4.8 不会比 Anthropic 的 Claude Opus 5.5 更好，并称后者是“杰作”。他还说 Grok 4.8 已完成预训练，本周可能先向部分用户有限推出；而 Grok 5 可能在两三个月后超越 Opus 5.5，但未给出具体分数或明确发布日期。",
+    "ai": {
+     "summary": "马斯克表示，xAI 的 Grok 4.8 暂时不会超过 Anthropic 的 Claude Opus 5.5，并称后者是“杰作”。他还说 Grok 4.8 已完成预训练（让 AI 模型先学习大量资料的阶段），本周可能先向部分用户小范围开放；至于下一代 Grok 5，他预计两三个月后可能超越 Opus 5.5，但没有给出具体分数或正式发布日期。",
+     "points": [
+      "马斯克称 Grok 4.8 目前不会比 Claude Opus 5.5 更好",
+      "Grok 4.8 已完成预训练，本周可能先向部分用户有限推出",
+      "Grok 5 预计两三个月后可能超越 Opus 5.5，但无具体日期和分数"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "4c9476d7c4",
+    "title": "马斯克旗下 SpaceX 传考虑通信业务收购",
+    "link": "https://www.528btc.com/news/116420866.html",
+    "source": "528btc.com",
+    "site": "www.528btc.com",
+    "date": "2026-11-10T20:12:00+00:00",
+    "lang": "zh",
+    "summary": "SpaceX 计划通过 Starlink 卫星网络扩展移动通信服务，引发 Verizon、AT&T 和 T-Mobile 等美国主要运营商担忧。报道称，在大型运营商拒绝网络接入请求后，马斯克转而接触 EchoStar，探讨收购或网络合作；SpaceX 还已投入数十亿美元购买无线频谱，并寻求接入 8 万个蜂窝站点，但监管审批和网络限制仍是主要挑战。",
+    "ai": {
+     "summary": "据报道，马斯克旗下 SpaceX 计划利用 Starlink 卫星网络扩展手机通信服务，引起美国主要电信商 Verizon、AT&T 和 T-Mobile 的担忧。大型运营商拒绝网络接入请求后，马斯克转而接触 EchoStar，探讨收购或网络合作。不过，监管审批和网络限制仍是主要挑战。",
+     "points": [
+      "SpaceX 已投入数十亿美元购买无线频谱",
+      "SpaceX 寻求接入约 8 万个蜂窝站点",
+      "接触对象为 EchoStar，探讨收购或合作"
+     ],
+     "why": "如果卫星手机网络日后真正落地，企业通讯服务的选择与价格结构可能随之改变，但目前仍处于规划和审批阶段。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "0f1d058213",
+    "title": "太空AI加速备战：SpaceX订购太阳能产线，星舰挑战首次“双回收”",
+    "link": "https://tech.ifeng.com/c/8xx7JbP2a4R",
+    "source": "凤凰网科技",
+    "site": "tech.ifeng.com",
+    "date": "2026-11-10T20:02:00+00:00",
+    "lang": "zh",
+    "summary": "财联社11月11日讯（编辑 史正丞）当SpaceX开始为人工智能卫星订购太阳能电池生产线，星舰即将进行的第15次试飞，也有了更鲜明的产业意义：未来的太空数据中心既需要持续供电，也需要能够大规模、低成本运送设备的火箭。 德国设备商SINGULUS于11月10日宣布，将向SpaceX提供异质结太阳能电池（HJT）交钥匙生产线，首条产线计划2027年上半年交付。SpaceX星链高级副总裁Mike Nic ...",
+    "ai": {
+     "summary": "SpaceX订购了德国SINGULUS公司的太阳能电池生产线，用于其计划中的Starmind人工智能卫星，首条产线预计2027年上半年交付。同时，星舰计划在美国当地时间11月13日进行第15次试飞，尝试把两级火箭都回收到发射场。",
+     "points": [
+      "SINGULUS于11月10日宣布，为SpaceX提供异质结（HJT）太阳能电池交钥匙生产线",
+      "首条产线计划2027年上半年交付，具体产能和全部扩产时间未披露",
+      "星舰第15次试飞计划尝试同一任务中捕获超重型助推器和上面级"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "9ea0c55888",
+    "title": "俄版Starlink投入乌克兰战场 Rassvet低轨卫星通讯助攻无人机作战",
+    "link": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&cat=100&id=0000774092_OXRLG3FALWQRRE1S8REXL",
+    "source": "gb-www.digitimes",
+    "site": "gb-www.digitimes.com.tw",
+    "date": "2026-11-10T18:48:00+00:00",
+    "lang": "zh",
+    "summary": "俄罗斯正加速扩大自有低轨道通讯卫星网络Rassvet。乌克兰军事情报部门指出，这套被视为俄版星链（Starlink）的系统已开始支持俄军在乌克兰境内的军事通讯，可能提升攻 ...",
+    "ai": {
+     "summary": "俄罗斯正在加快扩建自己的低轨道通讯卫星网络Rassvet，外界常把它比作俄版星链（Starlink）。乌克兰军事情报部门表示，这套系统已开始支持俄军在乌克兰境内的军事通讯，可能有助于无人机作战。",
+     "points": [
+      "俄罗斯加速扩大自有低轨卫星通讯网络Rassvet",
+      "乌克兰军事情报部门称其已支持俄军在乌境内通讯",
+      "报道指出此举可能提升无人机作战能力"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "6a759cd2e3",
+    "title": "星舰挑战首次“双回收”",
+    "link": "https://www.msn.cn/zh-cn/news/other/%E6%98%9F%E8%88%B0%E6%8C%91%E6%88%98%E9%A6%96%E6%AC%A1-%E5%8F%8C%E5%9B%9E%E6%94%B6/ar-AA2hadPw",
+    "source": "一点资讯",
+    "site": "www.msn.cn",
+    "date": "2026-11-10T16:59:53+00:00",
+    "lang": "zh",
+    "summary": "当SpaceX开始为人工智能卫星订购太阳能电池生产线，星舰即将进行的第15次试飞，也有了更鲜明的产业意义：未来的太空数据中心既需要持续供电，也需要能够大规模、低成本运送设备的火箭。",
+    "ai": {
+     "summary": "SpaceX计划为人工智能卫星订购太阳能电池生产线，其大型火箭星舰即将进行第15次试飞。报道认为，未来的太空数据中心既需要稳定供电，也需要能大规模、低成本运送设备的火箭。由于正文无法读取，以上内容仅依据标题与摘要整理。",
+     "points": [
+      "SpaceX为人工智能卫星订购太阳能电池生产线",
+      "星舰即将进行第15次试飞",
+      "标题提到的“双回收”尚未在摘要中具体说明"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "840fb9d2e2",
+    "title": "马斯克、特斯拉因证券欺诈推文各缴 2000 万美元罚款，SEC 向 3350 名 ...",
+    "link": "https://www.ithome.com/1/025/317.htm",
+    "source": "IT之家",
+    "site": "www.ithome.com",
     "date": "2026-11-10T16:00:00+00:00",
     "lang": "zh",
-    "summary": "NO.1 乘联分会：10月国内狭义乘用车市场零售销量同比下降27.1% 11月10日，乘联分会发布的最新数据显示，10月份国内狭义乘用车市场零售销量达164.3万辆，同比下降27.1%，环比增长1.5%；1至10月份累计销量1497.8万辆，同比下降22.3%。在1至10月新能源厂商零售销售榜上，比亚迪（1945400辆）、吉利（1045823辆）、零跑汽车（590540辆）位列前三。 点评：10 ...",
+    "summary": "IT之家11 月 11 日消息，当地时间 11 月 10 日，美国证券交易委员会（SEC）表示已完成针对马斯克和特斯拉 2018 年和解案件设立的公平基金（Fair Fund）分配工作。 SEC 管理人共向 3350 名符合条件的投资者分配了 4,153 万美元（IT之家注：现汇率约合 2.78 亿元人民币），款项包含利息，并已扣除相关管理费用。 据路透社报道，SEC 已向纽约曼哈顿联邦法院提交文 ...",
     "ai": {
-     "summary": "乘联分会公布数据，10月国内狭义乘用车（即私家车等乘用车，不含商用车）零售销量为164.3万辆，同比下降27.1%，环比增长1.5%；1至10月累计销量1497.8万辆，同比下降22.3%。在新能源品牌零售榜上，比亚迪、吉利、零跑位列前三。",
+     "summary": "美国证券交易委员会（SEC）表示，已完成马斯克和特斯拉2018年和解案所设“公平基金”的分配。基金共向3350名符合条件的投资者发放4153万美元（含利息，已扣管理费）。该基金源自马斯克与特斯拉各缴的2000万美元民事罚款，用于补偿因2018年一条涉及私有化的推文而受损的投资者。",
      "points": [
-      "10月零售164.3万辆，同比降27.1%，环比升1.5%",
-      "1至10月累计1497.8万辆，同比降22.3%",
-      "新能源零售前三：比亚迪、吉利、零跑"
+      "SEC于当地时间11月10日宣布分配完成，3350名投资者获得4153万美元",
+      "基金因获批索赔超过可分配金额，每名索赔人获得其批准金额的51.7%",
+      "剩余约44.9万美元将上缴美国财政部，SEC已向法院申请正式关闭基金"
      ],
      "why": "",
      "title_zh": ""
@@ -1807,6 +1939,26 @@
       "业内估算年租金约12万至18万令吉以外的人民币区间，文中以人民币12万至18万元计"
      ],
      "why": "如果制造业工厂考虑未来用机器人，按月或按年租赁可减少一次性投入，但要看工厂是否多班运作，小批量生产的工厂未必划算。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "ef618ce34f",
+    "title": "马斯克预计随特朗普赴深圳APEC，黄仁勋待定",
+    "link": "https://www.sohu.com/a/1099813833_121948416",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-10T15:06:00+00:00",
+    "lang": "zh",
+    "summary": "问AI· 马斯克若赴会，太空产业竞争前沿能否探得对话路？ 据《南华早报》11月10日独家报道，特斯拉、SpaceX首席执行官马斯克，以及万事达卡首席执行官迈克尔·米巴赫，预计将加入美国总统特朗普的代表团，出席11月18日至19日在深圳举行的亚太经合组织（APEC）领导人非正式会议。 路透社随后转述了这一消息。现阶段，白宫、特斯拉、万事达卡和英伟达均未正式公布最终随行名单，因此马斯克和米巴赫的行程仍 ...",
+    "ai": {
+     "summary": "据《南华早报》报道，马斯克和万事达卡首席执行官米巴赫预计将随美国总统特朗普的代表团，出席11月18至19日在深圳举行的亚太经合组织（APEC）领导人非正式会议。白宫、特斯拉等公司尚未正式公布随行名单，因此行程仍属预计。英伟达黄仁勋是否赴深则未定，公司董事会已启动一项内部调查。",
+     "points": [
+      "马斯克与米巴赫预计随团出席11月18至19日的APEC领导人非正式会议",
+      "白宫及相关公司尚未正式确认最终名单",
+      "英伟达董事会11月8日宣布由独立董事委员会调查黄仁勋相关事宜，黄仁勋表示会配合"
+     ],
+     "why": "若中美企业高层往来增加，相关的贸易、供应链与科技合作环境可能出现变化，企业主可留意后续的政策与市场动向。",
      "title_zh": ""
     }
    },
@@ -1851,60 +2003,80 @@
     }
    },
    {
-    "id": "d9b6d7c23e",
-    "title": "2.5万亿参数 马斯克再谈Grok 4.8大模型：正用C重构底层、绝不会刷榜作弊",
-    "link": "https://finance.sina.com.cn/tech/discovery/2026-11-10/doc-iniyhmwt2440920.shtml",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-10T13:36:00+00:00",
+    "id": "cb162f76a7",
+    "title": "绩后大涨8%，CoreWeave能否躲过马斯克的死亡预言？",
+    "link": "https://www.odaily.news/zh-CN/post/5213856",
+    "source": "odaily",
+    "site": "www.odaily.news",
+    "date": "2026-11-10T13:40:00+00:00",
     "lang": "zh",
-    "summary": "快科技11月10日消息，马斯克的商业航天业务很好很强大，xAI业务卖算力很赚钱，但自己的大模型业务就不太好了，此前的Grok 4.5/4.6/4.7都是高开低走，翻身得指望Grok 4.8了。 Grok 4.8正常应该会在10月底发布了，现在也跳票了半个多月，马斯克表示他们放弃了JAX/SGLnag，从头用C/C++重写整个RL后训练及推理技术栈，这导致他们多花了一些时间。 至于Grok 4.8的 ...",
+    "summary": "核心观点：CoreWeave三季度财报以营收暴增168%、积压订单达1325亿美元等强劲数据回击\"算力吃灰论\"，但468亿美元债务与单季8.46 ...",
     "ai": {
-     "summary": "据快科技报道，马斯克表示xAI的Grok 4.8大模型原定10月底发布，但已延后半个多月，原因是团队放弃了部分现有框架，改用C/C++重写训练与推理底层。文章称Grok 4.8预训练已完成，正进行强化学习后训练，本周晚些时候将向Grok Bot用户小范围发布。",
+     "summary": "CoreWeave是美国一家AI算力云公司，其2026年第三季度财报营收同比大增168%，积压订单达1325亿美元，财报公布后股价盘后上涨约7.9%。不过公司债务高企，单季利息支出高达8.46亿美元，市场对其能否承受高杠杆扩张仍有疑虑。",
      "points": [
-      "Grok 4.8据称参数量约2.5万亿，高于Grok 4.7的约2.1万亿",
-      "马斯克表示Grok 4.8不会达到Opus 5.5的水平，并称Grok 5有望在2至3个月内超越它",
-      "马斯克此前表示Grok不会为刷榜做优化，认为那是作弊"
+      "第三季度总营收36.61亿美元，同比增长168%",
+      "截至9月30日，收入积压达1325亿美元，约36%预计在未来24个月内转化为收入",
+      "账面总债务约468.73亿美元，单季利息支出8.46亿美元，单季GAAP净亏损7.09亿美元"
+     ],
+     "why": "这类AI算力服务依赖大量融资与高价设备，若行业资金环境转变，企业在云服务、IT采购等方面的成本与合作条件也可能随之变化。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "489e6cd809",
+    "title": "马斯克要让AI卫星“晒太阳”：SpaceX砸下6000万欧元",
+    "link": "https://original.ifeng.com/c/8xxiEWVN4Yw",
+    "source": "original.ifeng.com",
+    "site": "original.ifeng.com",
+    "date": "2026-11-10T13:26:00+00:00",
+    "lang": "zh",
+    "summary": "SpaceX与SINGULUS TECHNOLOGIES签署供应合同，首条异质结太阳能电池产线订单金额超6000万欧元，计划2027年上半年交付，产品用于Starmind AI卫星。该卫星将利用太空太阳能为AI计算载荷供电，并通过高速激光链路与Starlink网络传输数据；双方还计划长期支持超过100GW规模的设备需求，该数字为规划规模。",
+    "ai": {
+     "summary": "德国设备商SINGULUS TECHNOLOGIES与SpaceX签署供应合同，为其生产异质结太阳能电池的首条交钥匙产线订单超过6000万欧元，计划2027年上半年交付。这些电池将用于SpaceX的Starmind AI卫星，卫星以太空太阳能为计算设备供电，并通过激光链路与Starlink网络传输数据。双方还规划了长期支持超过100GW设备需求的合作，但这是规划规模，并非已建成的产能。",
+     "points": [
+      "首条产线订单金额超过6000万欧元，计划2027年上半年交付",
+      "生产活动设在美国得克萨斯州巴斯特罗普，SpaceX计划在当地建设\"Gigasat Factory\"",
+      "双方规划长期支持超过100GW的设备需求，目前尚非已建成产能"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "4c9476d7c4",
-    "title": "马斯克旗下 SpaceX 传考虑通信业务收购",
-    "link": "https://www.528btc.com/news/116420866.html",
-    "source": "528btc.com",
-    "site": "www.528btc.com",
-    "date": "2026-11-10T13:13:00+00:00",
+    "id": "bd5643266f",
+    "title": "SpaceX又出手，马斯克这次瞄准全美移动通信",
+    "link": "https://original.ifeng.com/c/8xxg4GHOviY",
+    "source": "original.ifeng.com",
+    "site": "original.ifeng.com",
+    "date": "2026-11-10T13:03:00+00:00",
     "lang": "zh",
-    "summary": "SpaceX 计划通过 Starlink 卫星网络扩展移动通信服务，引发 Verizon、AT&T 和 T-Mobile 等美国主要运营商担忧。报道称，在大型运营商拒绝网络接入请求后，马斯克转而接触 EchoStar，探讨收购或网络合作；SpaceX 还已投入数十亿美元购买无线频谱，并寻求接入 8 万个蜂窝站点，但监管审批和网络限制仍是主要挑战。",
+    "summary": "美国联邦通信委员会公告显示，SpaceX收购Grain Management旗下800MHz频谱资产的申请已获受理，交易涉及546张成对频谱牌照，覆盖区域涉及约100%的美国人口。FCC称受理仅代表进入公开审查程序，不代表收购获批。",
     "ai": {
-     "summary": "据报道，马斯克旗下 SpaceX 计划利用 Starlink 卫星网络扩展手机通信服务，引起美国主要电信商 Verizon、AT&T 和 T-Mobile 的担忧。大型运营商拒绝网络接入请求后，马斯克转而接触 EchoStar，探讨收购或网络合作。不过，监管审批和网络限制仍是主要挑战。",
+     "summary": "美国联邦通信委员会（FCC）公告显示，SpaceX收购Grain Management旗下800MHz频谱资产的申请已获受理，但这只是进入公开审查程序，并不代表交易已获批准。交易涉及546张成对频谱牌照，覆盖区域涉及约100%的美国人口。SpaceX计划用这些频谱发展Starlink Mobile业务，结合卫星直连手机与地面网络。",
      "points": [
-      "SpaceX 已投入数十亿美元购买无线频谱",
-      "SpaceX 寻求接入约 8 万个蜂窝站点",
-      "接触对象为 EchoStar，探讨收购或合作"
+      "FCC公告日期为当地时间11月10日，涉及546张成对频谱牌照",
+      "牌照覆盖美国50个州、华盛顿特区、波多黎各及美属维尔京群岛的3224个县",
+      "意见及反对申请分别需在12月1日和12月8日前提交"
      ],
-     "why": "如果卫星手机网络日后真正落地，企业通讯服务的选择与价格结构可能随之改变，但目前仍处于规划和审批阶段。",
+     "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "4e56016bfa",
-    "title": "马斯克称 Claude Opus 5.5 是“杰作”，承认 Grok 4.8 还比不上",
-    "link": "https://www.528btc.com/news/116420860.html",
-    "source": "528btc.com",
-    "site": "www.528btc.com",
-    "date": "2026-11-10T12:57:00+00:00",
+    "id": "fdcc1f41d9",
+    "title": "华盛顿慌了，限制中国AI解决不了美国三大内伤，马斯克早看透",
+    "link": "https://www.sohu.com/a/1099979694_121981672",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-10T12:13:00+00:00",
     "lang": "zh",
-    "summary": "马斯克表示，xAI 的 Grok 4.8 不会比 Anthropic 的 Claude Opus 5.5 更好，并称后者是“杰作”。他还说 Grok 4.8 已完成预训练，本周可能先向部分用户有限推出；而 Grok 5 可能在两三个月后超越 Opus 5.5，但未给出具体分数或明确发布日期。",
+    "summary": "政治风暴刚刚平息，AI的未来却在国会山摇晃。当一名民主党女议员在社交媒体上写下AI研发暂停的宣言，马斯克的回应却像一记重拳——这是个美丽新世界。这句话背后不是玩笑，而是华盛顿对AI未来半个月的皱眉与结语。 半年前的5月21日，白宫曾筹划一项行政令，要求前沿模型在发布前接受90天的审查。但签署仪式前的几小时，这项计划戛然而止。萨克斯的电话、马斯克的晨会、扎克伯格的家庭会议，共同编织成一张政治博弈的网 ...",
     "ai": {
-     "summary": "马斯克表示，xAI 的 Grok 4.8 暂时不会超过 Anthropic 的 Claude Opus 5.5，并称后者是“杰作”。他还说 Grok 4.8 已完成预训练（让 AI 模型先学习大量资料的阶段），本周可能先向部分用户小范围开放；至于下一代 Grok 5，他预计两三个月后可能超越 Opus 5.5，但没有给出具体分数或正式发布日期。",
+     "summary": "一名民主党女议员在社交媒体提出暂停AI研发的主张，马斯克回应称这是“美丽新世界”，引发华盛顿关注。文章还回顾半年前白宫曾计划要求前沿AI模型发布前接受90天审查，但签署前几小时该计划被叫停，业界人士认为审查会拖慢创新。",
      "points": [
-      "马斯克称 Grok 4.8 目前不会比 Claude Opus 5.5 更好",
-      "Grok 4.8 已完成预训练，本周可能先向部分用户有限推出",
-      "Grok 5 预计两三个月后可能超越 Opus 5.5，但无具体日期和分数"
+      "半年前的5月21日，白宫曾筹划90天的发布前审查行政令",
+      "签署仪式前数小时计划突然取消",
+      "萨克斯、马斯克、扎克伯格等人曾反复表达反对意见"
      ],
      "why": "",
      "title_zh": ""
@@ -1931,154 +2103,74 @@
     }
    },
    {
-    "id": "826d3b0d8d",
-    "title": "马斯克“下令”乌克兰无人看管停电后，英国电信推迟为英国用户 ...",
-    "link": "https://www.arch-web.com.tw/%e4%b8%96%e7%95%8c%e6%96%b0%e8%81%9e/%e9%a9%ac%e6%96%af%e5%85%8b%e4%b8%8b%e4%bb%a4%e4%b9%8c%e5%85%8b%e5%85%b0%e6%97%a0%e4%ba%ba%e7%9c%8b%e7%ae%a1%e5%81%9c%e7%94%b5%e5%90%8e%ef%bc%8c%e8%8b%b1%e5%9b%bd%e7%94%b5%e4%bf%a1/718326/",
-    "source": "arch-web",
-    "site": "www.arch-web.com.tw",
-    "date": "2026-11-10T11:38:00+00:00",
-    "lang": "zh",
-    "summary": "在科技大亨埃隆·马斯克关闭乌克兰的服务后，英国电信推迟了向偏远农村地区提供宽带服务的星链卫星大规模部署。 十月， 麝香 阻止弗拉基米尔·泽伦斯基部队获取关键技术 其最高速度服务被冻结十天让基辅容易受到俄罗斯的攻击 罢工。 英国电信推迟星链卫星的大规模部署，直到有关埃隆·马斯克关闭乌克兰服务的“噪音平息” 资料来源：法新社 十月份，马斯克将其最高速度服务冻结了十天，从而阻止了弗拉基米尔·泽连斯基军队 ...",
-    "ai": {
-     "summary": "英国电信表示，在埃隆·马斯克此前限制乌克兰星链服务引发的争议平息之前，暂不推出面向偏远农村地区的星链宽带服务。英国电信首席执行官称，该服务已准备就绪，但公司对目前的星链局势持谨慎态度。",
-     "points": [
-      "英国电信首席执行官艾莉森·柯克比向《金融时报》表示，待争议“噪音”减弱后才会推出",
-      "星链宽带旨在为英国偏远和农村地区提供更快的网络速度",
-      "马斯克此前在十月限制乌克兰的星链速度，服务被冻结约十天"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "a6fe8e2446",
-    "title": "Cybertruck无法盈利而停产？马斯克辩解",
-    "link": "https://k.sina.com.cn/article_5044281310_12ca99fde01902lu4q.html",
-    "source": "新浪网",
-    "site": "k.sina.com.cn",
-    "date": "2026-11-10T11:05:00+00:00",
-    "lang": "zh",
-    "summary": "澎湃新闻记者吴遇利特斯拉CEO埃隆·马斯克（ElonMusk）再次解释了Cybertruck（电动皮卡）停产原因，称特斯拉将把相关生产资源转向Cybercab（无人驾驶出租车）。当地时间11月9日，马斯克在社交平台X上表示，“Cybertruck的订单速度远远 ...",
-    "ai": {
-     "summary": "特斯拉CEO马斯克再次解释Cybertruck电动皮卡停产原因，称公司会把生产资源转向无人驾驶出租车Cybercab。他否认车款无法赚钱，说主要是生产复杂带来的机会成本，且Cybertruck仍有大量待交付订单。",
-     "points": [
-      "马斯克于当地时间11月9日在X平台发文，称订单速度远超产能",
-      "Cybertruck预计再生产约8至9个月，之后生产线将拆除以扩大Cybercab",
-      "2024年美国Cybertruck销量为38965辆，2025年降至20237辆"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "4b5f16bcbf",
-    "title": "马斯克称Grok 4.8进入强化学习阶段 本周向Bot用户灰度推送",
-    "link": "https://www.guandian.cn/article/20261110/625696.html",
-    "source": "观点网",
-    "site": "www.guandian.cn",
-    "date": "2026-11-10T10:56:00+00:00",
-    "lang": "zh",
-    "summary": "观点网讯： 11月10日，马斯克在社交媒体平台上就Grok 4.8的发布时间回复网友表示，Grok 4.8的预训练已经完成，目前已进入强化学习阶段，各项评测指标开始提升。 对于产品定位，马斯克称Grok 4.8将与4.7截然不同，目前还谈不上惊艳，但这一次打好了正确的基础。",
-    "ai": {
-     "summary": "马斯克在社交媒体上表示，xAI的Grok 4.8已完成预训练（让模型先大量学习数据的阶段），现正进入强化学习阶段，各项评测指标开始提升。他还称团队为此重写了底层技术栈，因此多花了一些时间，计划本周晚些时候向Bot用户小范围灰度推送（即先开放给部分用户试用）。",
-     "points": [
-      "马斯克于11月10日回复网友，谈及Grok 4.8发布时间",
-      "团队弃用JAX和SGLang，用C/C++重写强化学习与推理技术栈",
-      "计划本周晚些时候向Bot用户小范围灰度推送，他称4.8与4.7截然不同，但目前还谈不上惊艳"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "25372a6335",
-    "title": "马斯克骂他“智障”!哲学教授反而向马斯克道歉",
-    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E9%A9%AC%E6%96%AF%E5%85%8B%E9%AA%82%E4%BB%96-%E6%99%BA%E9%9A%9C-%E5%93%B2%E5%AD%A6%E6%95%99%E6%8E%88%E5%8F%8D%E8%80%8C%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E9%81%93%E6%AD%89/ar-AA2haf05",
-    "source": "一点资讯",
-    "site": "www.msn.cn",
-    "date": "2026-11-10T10:49:23+00:00",
-    "lang": "zh",
-    "summary": "2026年11月2日，荷兰乌得勒支大学哲学与人工智能教授扬·布鲁尔森（Jan Broersen）在X上发帖，质疑埃隆·马斯克（Elon ...",
-    "ai": {
-     "summary": "荷兰乌得勒支大学哲学与人工智能教授扬·布鲁尔森在社交平台X上发帖质疑埃隆·马斯克的言论，马斯克随后用“智障”骂他。这位教授没有反击，反而向马斯克道歉。",
-     "points": [
-      "事件发生在2026年11月2日前后，平台为X",
-      "当事人是乌得勒支大学哲学与人工智能教授扬·布鲁尔森",
-      "布鲁尔森先质疑马斯克，马斯克回骂，之后布鲁尔森转而道歉"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "131ae05f82",
-    "title": "AI早报 | 谷歌、英伟达等七家公司承诺向Anthropic投资260亿美元；马斯 ...",
-    "link": "https://finance.eastmoney.com/a/202611113927991687.html",
-    "source": "东方财富网财经频道",
-    "site": "finance.eastmoney.com",
-    "date": "2026-11-10T10:15:00+00:00",
-    "lang": "zh",
-    "summary": "11月10日，一份文件显示，谷歌、英伟达、AMD、博通、美光、微软及台积电合作伙伴公司已同意通过同步私募方式，合计认购260亿美元的Anthropic无投票权普通股，认购价格与IPO发行价相同。 马斯克透露擎天柱机器人最新消息 据央视财经，特斯拉的人形机器人“擎天柱”是市场关注的焦点产品之一，特斯拉公司首席执行官马斯克日前表示，“擎天柱”将在2027年底左右开始交付，但交付形式可能是“租”而不是“ ...",
-    "ai": {
-     "summary": "11月10日有文件显示，谷歌、英伟达、AMD、博通、美光、微软及台积电合作伙伴等七家公司同意以同步私募方式，合计认购260亿美元的Anthropic无投票权普通股，认购价与IPO发行价相同。另据央视财经，特斯拉人形机器人“擎天柱”预计2027年底左右开始交付，马斯克称交付形式可能是“租”而非“卖”。",
-     "points": [
-      "七家公司合计认购260亿美元Anthropic无投票权普通股",
-      "认购价格与IPO发行价相同",
-      "马斯克称擎天柱2027年底左右开始交付，初期每台成本约3万美元，之后降至约2万美元"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "44e6fb496f",
-    "title": "英国电信暂缓星链合作：卫星通信的“主权开关”与欧洲直连手机变局",
-    "link": "https://news.qq.com/rain/a/20261110A0C34J00",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-10T09:59:00+00:00",
-    "lang": "zh",
-    "summary": "2026年11月10日，英国电信（BT）首席执行官艾莉森·柯克比的一番表态，让一桩原本按部就班的卫星宽带合作进入观察期。她表示，BT与Starlink的合作服务已经“准备就绪”，但考虑到2026年10月乌克兰遭遇Starlink信号异常中断所引发的争议，BT将暂缓启动相关合作，直至围绕马斯克和Starlink的乌克兰事件争议平息。这一决定的关键词不是“技术故障”，而是“政治信任”：卫星通信正从偏远 ...",
-    "ai": {
-     "summary": "英国电信BT首席执行官表示，与Starlink合作的卫星宽带服务已经准备就绪，但因2026年10月乌克兰Starlink信号中断引发争议，BT决定暂缓启动，等待争议平息。BT原计划用低轨卫星为光纤未覆盖的农村地区提供宽带，现在更像是节奏调整，而不是放弃合作。",
-     "points": [
-      "BT表示服务已准备就绪，并称将在未来几个月内推出卫星宽带",
-      "2026年10月乌克兰遭遇Starlink信号异常中断，引发控制权与信任争议",
-      "欧盟2026年5月提议把部分直连手机卫星频谱留给欧洲企业"
-     ],
-     "why": "对企业主而言，这提醒卫星通信等关键网络服务除了速度和价格，还可能受政治与供应商控制权影响，采购时宜关注服务连续性与备份安排。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "bda2a1a708",
-    "title": "一年砍掉三款车！马斯克玩哪一出？",
-    "link": "https://news.qq.com/rain/a/20261111A03CQI00",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-10T09:07:00+00:00",
-    "lang": "zh",
-    "summary": "11月6日，马斯克在社交平台X上确认得州超级工厂将在2027年年中前后逐步停产Cybertruck，这是特斯拉一年内砍掉的第三款消费车型，至此特斯拉在售乘用车仅剩Model 3和Model Y两款车型撑场。 被问到为什么，马斯克先说是\"为Cybercab腾空间\"，第二天又改口说\"机会成本\"，最后给出的解释是——\"聪明且敬业的人才数量非常有限，他们能做的事也就那么多\"。 一款曾经号称手握百万订单的皮 ...",
-    "ai": {
-     "summary": "特斯拉CEO马斯克在社交平台X上确认，得州超级工厂将在2027年年中前后逐步停产Cybertruck电动皮卡，这是公司一年内停产的第三款消费车型。停产后，特斯拉在售乘用车只剩Model 3和Model Y两款。马斯克对原因的说法前后有所不同，最后归结为可用的顶尖人才有限，需要把人力集中到Cybercab无人驾驶出租车上。",
-     "points": [
-      "停产时间约在2027年年中前后，马斯克11月6日在X上确认",
-      "Cybertruck累计销量约6.3万辆，远低于最初设定的年销目标",
-      "马斯克11月9日表示，订单增速超过产能，将向客户退还订金"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "92b8a71266",
-    "title": "Wow! SpaceX Starship captured by Starlink V3 satellite post-deployment",
-    "link": "https://www.msn.com/en-us/technology/space-exploration/wow-spacex-starship-captured-by-starlink-v3-satellite-post-deployment/vi-AA2haPmn",
-    "source": "Dailymotion",
+    "id": "4a4cc214c6",
+    "title": "SpaceX Falcon 9's record-breaking 500th launch carries Starlink satellites",
+    "link": "https://www.msn.com/en-gb/technology/space-exploration/spacex-falcon-9-s-record-breaking-500th-launch-carries-starlink-satellites/vi-AA2hbhL3",
+    "source": "YouTube",
     "site": "www.msn.com",
-    "date": "2026-11-10T16:02:12+00:00",
+    "date": "2026-11-10T18:34:06+00:00",
     "lang": "en",
-    "summary": "Experience a serene and majestic moment in orbit. This stunning black-and-white video, captured by a Starlink satellite, shows the SpaceX Starship in all its glory after completing its deployment ..."
+    "summary": "SpaceX's Falcon 9 rocket achieved its 500th launch and a new first stage reuse record, deploying Starlink satellites."
+   },
+   {
+    "id": "66dac33469",
+    "title": "US SEC seeks to close Elon Musk, Tesla settlement fund",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-sec-seeks-to-close-elon-musk-tesla-settlement-fund/articleshow/135722752.cms",
+    "source": "The Economic Times",
+    "site": "economictimes.indiatimes.com",
+    "date": "2026-11-10T18:02:00+00:00",
+    "lang": "en",
+    "summary": "In a filing in Manhattan federal court, the SEC asked a federal judge to close the Fair Fund, created after Musk settled the SEC case in 2018 charging him with securities fraud for posting on August 7 ..."
+   },
+   {
+    "id": "b44d0e4ead",
+    "title": "BT to hold off Starlink launch until Ukraine 'noise' dies down: Report",
+    "link": "https://telecom.economictimes.indiatimes.com/news/industry/bt-to-hold-off-starlink-launch-until-ukraine-noise-dies-down-report/135722283",
+    "source": "ET Telecom",
+    "site": "telecom.economictimes.indiatimes.com",
+    "date": "2026-11-10T17:15:00+00:00",
+    "lang": "en",
+    "summary": "BT decides to postpone its partnership launch with Starlink until the backlash surrounding satellite disruptions in Ukraine settles down."
+   },
+   {
+    "id": "e453e9a975",
+    "title": "‘Musk’ Director Alex Gibney Accuses Elon Musk of Using Starlink to Intercept Voting Results Early: ‘Means of Surveillance and Control’",
+    "link": "https://www.aol.com/articles/musk-director-alex-gibney-accuses-195416000.html",
+    "source": "AOL",
+    "site": "www.aol.com",
+    "date": "2026-11-10T17:09:00+00:00",
+    "lang": "en",
+    "summary": "Musk director Alex Gibney claimed Elon Musk used his Starlink network to gain early access to the results of the 2024 presidential election. Gibney explored the accusation in Musk, which is nominated ..."
+   },
+   {
+    "id": "4204c0e10f",
+    "title": "SpaceX offers 50% off Starlink in Vermilion Parish",
+    "link": "https://www.klfy.com/spacex/spacex-offers-50-off-starlink-in-vermilion-parish/",
+    "source": "KLFY",
+    "site": "www.klfy.com",
+    "date": "2026-11-10T16:42:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX is offering eligible households in Vermilion Parish 50% off monthly Starlink residential internet service along with no upfront equipment costs for new ..."
+   },
+   {
+    "id": "7539e25e39",
+    "title": "Moscow wants 374 satellites to challenge Starlink",
+    "link": "https://www.msn.com/en-gb/news/other/moscow-wants-374-satellites-to-challenge-starlink/ar-AA2hbzp8",
+    "source": "TechRadar",
+    "site": "www.msn.com",
+    "date": "2026-11-10T16:25:00+00:00",
+    "lang": "en",
+    "summary": "Russia is preparing another satellite internet gamble after losing two spacecraft and failing to establish its planned orbital constellation ..."
+   },
+   {
+    "id": "ae8c7dfa8d",
+    "title": "SEC Moves to Close $41.5M Musk, Tesla Fair Fund [2026]",
+    "link": "https://shattered.io/sec-closes-musk-tesla-fair-fund-41-5-million-2026/",
+    "source": "shattered.io",
+    "site": "shattered.io",
+    "date": "2026-11-10T16:00:00+00:00",
+    "lang": "en",
+    "summary": "The SEC wants to close the Musk and Tesla Fair Fund after distributing $41.5M to harmed investors. See who got paid, how much, and what happens next in 2026."
    },
    {
     "id": "c5f19979c0",
@@ -2111,6 +2203,16 @@
     "summary": "Starlink Mini 2 adds a 71 Wh swappable battery, Wi-Fi 6 and a thinner body. Here are the specs, the $999 preorder deal and who should wait for now."
    },
    {
+    "id": "a03ed11c93",
+    "title": "Starlink opens invite-only US preorders for Mini 2 with a swappable battery",
+    "link": "https://runtimewire.com/article/starlink-mini-2-invite-only-us-preorders-swappable-battery",
+    "source": "runtimewire.com",
+    "site": "runtimewire.com",
+    "date": "2026-11-10T14:38:00+00:00",
+    "lang": "en",
+    "summary": "Starlink Mini 2 opened invite-only US preorders on November 10th with a 71 Wh swappable battery, Wi-Fi 6 and USB-C charging, while reported pricing conflicts."
+   },
+   {
     "id": "4c088b56b7",
     "title": "U.S. SEC moves to close Tesla-Musk settlement fund after investor payouts",
     "link": "https://tradersunion.com/news/regulators/show/4188698-sec-closes-tesla-musk-settlement-fund/",
@@ -2121,22 +2223,12 @@
     "summary": "The U.S. SEC is closing the Tesla-Musk settlement fund after distributing $40M to investors, with remaining funds to be sent to the U.S. Treasury."
    },
    {
-    "id": "0d0a98eb9c",
-    "title": "Starship Flight 15 Set Nov. 13: Double Tower Catch [2026]",
-    "link": "https://shattered.io/starship-flight-15-nov-13-booster-22-ship-42-tower-catch-2026/",
-    "source": "shattered.io",
-    "site": "shattered.io",
-    "date": "2026-11-10T14:24:00+00:00",
-    "lang": "en",
-    "summary": "Starship Flight 15 targets Nov 13, 2026 with a double tower catch plan: Super Heavy and the ship both aimed at 2 pad catches. Timeline, odds and what to watch."
-   },
-   {
-    "id": "e7aa94dd10",
-    "title": "SpaceX moves Starship Flight 15 booster to pad for 'squeeze test' ahead of epic double-catch attempt",
-    "link": "https://tech.yahoo.com/science/articles/spacex-moves-starship-flight-15-220939673.html",
-    "source": "YAHOO!",
-    "site": "tech.yahoo.com",
-    "date": "2026-11-10T14:08:00+00:00",
+    "id": "2ff9107daf",
+    "title": "SpaceX moves Starship Flight 15 booster to pad for squeeze test ahead of epic double-catch attempt",
+    "link": "https://www.msn.com/en-gb/technology/space-exploration/spacex-moves-starship-flight-15-booster-to-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt/ar-AA2haRKt",
+    "source": "Space.com",
+    "site": "www.msn.com",
+    "date": "2026-11-10T14:09:39+00:00",
     "lang": "en",
     "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13)."
    },
@@ -2151,74 +2243,34 @@
     "summary": "The US Securities and Exchange Commission said on Tuesday it completed distributions from a $40 million fund created from civil fines paid by Elon Musk ..."
    },
    {
-    "id": "53c3061a6e",
-    "title": "Elon Musk's vision for Mars: Is it possible?",
-    "link": "https://www.msn.com/en-us/science/general/elon-musk-s-vision-for-mars-is-it-possible/vi-AA2h9XwG",
-    "source": "YouTube",
-    "site": "www.msn.com",
+    "id": "fc80a6c273",
+    "title": "Elon Musk Just Warned SpaceX Revenue ‘Will Drop’ If Compute Gets Cheap. Deutsche Bank Raised Its 2028 Forecast $18 Billion Two Days Later",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-warned-spacex-031755732.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
     "date": "2026-11-10T14:00:00+00:00",
     "lang": "en",
-    "summary": "This video explores the possibility of colonizing Mars, featuring insights from Bill Nye and the team at The Planetary Society. Key topics include Mars' history, Project Mars by Elon Musk, NASA's ..."
+    "summary": "Elon Musk wrote on Nov. 8 that SpaceX revenue \"will drop\" if compute becomes plentiful and cheap. Two days later Deutsche Bank raised its 2028 forecast for the company by $18 billion, betting the data ..."
    },
    {
-    "id": "6bb5c14642",
-    "title": "Starlink’s Senegal Entry Fee Is US$175,000",
-    "link": "https://www.riotimesonline.com/starlink-senegal-entry-fee-100-million-fcfa/",
-    "source": "The Rio Times",
-    "site": "www.riotimesonline.com",
-    "date": "2026-11-10T13:54:00+00:00",
-    "lang": "en",
-    "summary": "Senegal set a one-off 100 million FCFA (about US$175,000) fee for Starlink's five-year licence, now frozen by the Supreme Court."
-   },
-   {
-    "id": "ebcc2b178d",
-    "title": "Elon Musk says Tesla will refund Cybertruck buyers as production shutdown nears",
-    "link": "https://www.businesstoday.in/auto/story/elon-musk-says-tesla-will-refund-cybertruck-buyers-as-production-shutdown-nears-566714-2026-11-11",
-    "source": "Business Today",
-    "site": "www.businesstoday.in",
-    "date": "2026-11-10T13:36:00+00:00",
-    "lang": "en",
-    "summary": "The decision comes as Tesla plans to redirect factory resources towards its Cybercab robotaxi project, which is central to Musk’s strategy of expanding into autonomous transportation ..."
-   },
-   {
-    "id": "dbc8198679",
-    "title": "FCC Accepts SpaceX Bid for 800 MHz Spectrum, Clearing Starlink Mobile's Path to Carrier Status",
-    "link": "https://www.basenor.com/blogs/news/fcc-accepts-spacex-bid-for-800-mhz-spectrum-clearing-starlink-mobiles-path-to-carrier-status",
-    "source": "basenor",
-    "site": "www.basenor.com",
-    "date": "2026-11-10T13:04:00+00:00",
-    "lang": "en",
-    "summary": "BREAKING — 1h ago The Federal Communications Commission has formally accepted SpaceX's application to acquire a nationwide 800 MHz low-band spectrum portfolio from Grain Management, moving Starlink ..."
-   },
-   {
-    "id": "601d752de6",
-    "title": "Starlink Mini 2 Adds a Quick-Swap Battery, but Canada Will Have to Wait",
-    "link": "https://www.iphoneincanada.ca/2026/11/10/starlink-mini-2-quick-swap-battery-canada/",
-    "source": "iPhone in Canada",
-    "site": "www.iphoneincanada.ca",
-    "date": "2026-11-10T12:55:00+00:00",
-    "lang": "en",
-    "summary": "Starlink has unveiled Mini 2, a thinner portable dish with a 71 Wh quick-swap battery and Wi-Fi 6. U.S. preorders are invite-only, and a Canadian price has not been announced."
-   },
-   {
-    "id": "ec7a862ed9",
-    "title": "Starlink Mini 2 Lets You Get Online Without a Power Outlet",
-    "link": "https://teslanorth.com/2026/11/10/starlink-mini-2-battery-us-preorders/",
-    "source": "Tesla North",
-    "site": "teslanorth.com",
-    "date": "2026-11-10T12:49:00+00:00",
-    "lang": "en",
-    "summary": "Starlink Mini 2 adds a swappable battery, USB-C and Wi-Fi 6. Invitation-only U.S. preorders are open, with more countries to follow."
-   },
-   {
-    "id": "0f0b3876cc",
-    "title": "Watch: Oman foils attempt to smuggle 40 Starlink devices via Hafeet border crossing",
-    "link": "https://www.khaleejtimes.com/world/gulf/oman-foils-attempt-smuggle-40-starlink-devices",
-    "source": "Khaleej Times",
-    "site": "www.khaleejtimes.com",
-    "date": "2026-11-10T12:41:00+00:00",
-    "lang": "en",
-    "summary": "Oman authorities foiled an attempt to smuggle 40 Starlink devices and 10 of their mounting bases, which had been carefully hidden inside specially prepared compartments in a bus. The bust was carried ..."
+    "id": "3eb1e1672f",
+    "title": "佳电股份：为徐圩核电站项目提供主氦风机、氦气压缩机及配套核电 ...",
+    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8/%E4%BD%B3%E7%94%B5%E8%82%A1%E4%BB%BD-%E4%B8%BA%E5%BE%90%E5%9C%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B%E4%B8%BB%E6%B0%A6%E9%A3%8E%E6%9C%BA-%E6%B0%A6%E6%B0%94%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%8F%8A%E9%85%8D%E5%A5%97%E6%A0%B8%E7%94%B5%E7%94%B5%E6%9C%BA/ar-AA2hba6f",
+    "source": "证券之星股票频道",
+    "site": "www.msn.cn",
+    "date": "2026-11-10T17:30:20+00:00",
+    "lang": "zh",
+    "summary": "证券之星消息，佳电股份(000922)11月10日在投资者关系平台上答复投资者关心的问题。",
+    "ai": {
+     "summary": "佳电股份在投资者关系平台回答投资者提问时表示，公司为徐圩核电站项目供应主氦风机、氦气压缩机及配套核电设备。原文未能读取，以下内容仅根据标题和出版方摘要整理。",
+     "points": [
+      "公司为徐圩核电站项目提供主氦风机和氦气压缩机",
+      "信息发布于11月10日，通过投资者关系平台回复投资者",
+      "股票代码为000922"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
    },
    {
     "id": "3a1337c98d",
@@ -2261,6 +2313,46 @@
     }
    },
    {
+    "id": "2606c998fd",
+    "title": "双杰电气：拟2亿元增资江储新能参与储能电站项目",
+    "link": "https://news.ifeng.com/c/8xwh3v0Rj20",
+    "source": "凤凰网资讯频道",
+    "site": "news.ifeng.com",
+    "date": "2026-11-10T12:30:00+00:00",
+    "lang": "zh",
+    "summary": "每经AI快讯，11月10日，双杰电气(300444.SZ)公告称，公司拟以2亿元货币资金向广州江储新能源科技发展合伙企业(有限合伙)增资，用于江储新能购买广州汇宁时代新能源发展有限公司股权及增资，最终用于汇宁时代江门储能电站项目的开发、建设及运营。",
+    "ai": {
+     "summary": "双杰电气公告称，公司拟以2亿元自有货币资金向一家合伙企业增资，该合伙企业将用于收购广州汇宁时代公司的股权并增资，最终资金投向江门一个储能电站项目的开发、建设和运营。增资完成后，双杰电气将持有该合伙企业约33.21%的股权。",
+     "points": [
+      "双杰电气（300444.SZ）于11月10日发布公告",
+      "拟投入资金2亿元，用于增资广州江储新能源合伙企业",
+      "增资完成后持股约33.21%，项目为江门储能电站"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "d7defa8158",
+    "title": "山东淄博建成六座电动重卡充换电站，两处光储充示范站、有效缓解 ...",
+    "link": "https://news.bjx.com.cn/html/20261111/1519717.shtml",
+    "source": "北极星电力网新闻",
+    "site": "news.bjx.com.cn",
+    "date": "2026-11-10T11:15:00+00:00",
+    "lang": "zh",
+    "summary": "北极星储能网获悉，11月10日，山东省淄博市人民政府召开新闻发布会，介绍推动电动重卡规模化应用工作有关情况。 据了解，山东省日前规划构建高速公路“四纵两横”、普通国省道“四纵三横”电动重卡绿色补能廊道，其中，分别规划建设高速公路24对48座、和普通国省道的107座大功率充换电示范站。其中淄博承担G308、G309、G205、G233四条国道共计6处示范站建设任务。 淄博市交通运输局党组成员、副局长 ...",
+    "ai": {
+     "summary": "山东省淄博市政府近日召开新闻发布会，介绍推动电动重卡规模化应用的进展。当地已建成六座电动重卡充换电站，其中两处是光储充示范站，用来缓解重卡补能难的问题。",
+     "points": [
+      "山东省规划了高速公路“四纵两横”、普通国省道“四纵三横”的电动重卡绿色补能廊道。",
+      "规划建设高速公路24对48座、普通国省道107座大功率充换电示范站。",
+      "淄博承担G308、G309、G205、G233四条国道共计6处示范站建设任务。"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "5bfda9e4c4",
     "title": "河南省发改委《2026年第二批煤电机升级改造新能源项目实施方案》239 ...",
     "link": "https://www.sohu.com/a/1099757294_121124362",
@@ -2282,7 +2374,7 @@
    },
    {
     "id": "cc383944b5",
-    "title": "双杰电气拟2亿元增资江储新能参与储能电站项目",
+    "title": "双杰电气拟2亿元增资江储新能参与储能电站项目 用于汇宁时代江门 ...",
     "link": "https://news.bjx.com.cn/html/20261111/1519687.shtml",
     "source": "北极星电力网新闻",
     "site": "news.bjx.com.cn",
@@ -2381,6 +2473,46 @@
     }
    },
    {
+    "id": "19c0111e1d",
+    "title": "12.4亿元！金风科技预中标大唐800MW风电项目",
+    "link": "https://news.bjx.com.cn/html/20261110/1519537.shtml",
+    "source": "北极星电力网新闻",
+    "site": "news.bjx.com.cn",
+    "date": "2026-11-10T01:06:00+00:00",
+    "lang": "zh",
+    "summary": "北极星风力发电网获悉，11月9日，大唐集团发布《大唐新疆国机850MW新能源项目(800MW)风电项目风力发电机组及附属设备(含塔筒)】中标候选人公示》。 根据《公示》，该项目中标候选人第一名为金风科技，投标报价124080万元。 根据招标公告，该项目总招标容量为 ...",
+    "ai": {
+     "summary": "大唐集团发布了新疆一个800兆瓦风电项目的风机及附属设备（含塔筒）中标候选人公示。根据公示，金风科技排名第一，投标报价为12.408亿元。",
+     "points": [
+      "公示日期为11月9日，由大唐集团发布",
+      "中标候选人第一名为金风科技，投标报价124080万元",
+      "项目为大唐新疆国机850兆瓦新能源项目中的800兆瓦风电部分"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "01de8b46bc",
+    "title": "鸿富瀚(301086.SZ)：公司光伏储能电站项目已实现并网发电",
+    "link": "https://www.sohu.com/a/1099457211_122785878",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-10T01:00:00+00:00",
+    "lang": "zh",
+    "summary": "格隆汇11月10日丨鸿富瀚(301086.SZ)在投资者互动平台表示，公司光伏储能电站项目已实现并网发电，具体经营数据以年度经审计数据为准。国内外业务方面，传统消费电子业务经营保持稳定；同时，公司重点布局液冷、机器人两大新兴业务，培育新的业绩增长点，积极拓展海内外市场。 该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。",
+    "ai": {
+     "summary": "鸿富瀚（301086.SZ）在投资者互动平台上表示，公司的光伏储能电站项目已经成功并网发电。具体经营数据要等年度经审计报告才会公布。公司还说，传统消费电子业务经营稳定，并重点布局液冷和机器人两大新兴业务，积极拓展海内外市场。",
+     "points": [
+      "公司光伏储能电站项目已实现并网发电",
+      "具体经营数据以年度经审计数据为准",
+      "传统消费电子业务保持稳定，重点布局液冷、机器人新业务"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "e665e9fb50",
     "title": "阿拉善高新区新型储能电站并网发电",
     "link": "https://www.msn.cn/zh-cn/news/other/%E9%98%BF%E6%8B%89%E5%96%84%E9%AB%98%E6%96%B0%E5%8C%BA%E6%96%B0%E5%9E%8B%E5%82%A8%E8%83%BD%E7%94%B5%E7%AB%99%E5%B9%B6%E7%BD%91%E5%8F%91%E7%94%B5/ar-AA2h7tCx",
@@ -2401,120 +2533,20 @@
     }
    },
    {
-    "id": "21062bcba4",
+    "id": "0d218894f8",
     "title": "鸿富瀚：公司光伏储能电站项目已实现并网发电",
-    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E9%B8%BF%E5%AF%8C%E7%80%9A-%E5%85%AC%E5%8F%B8%E5%85%89%E4%BC%8F%E5%82%A8%E8%83%BD%E7%94%B5%E7%AB%99%E9%A1%B9%E7%9B%AE%E5%B7%B2%E5%AE%9E%E7%8E%B0%E5%B9%B6%E7%BD%91%E5%8F%91%E7%94%B5/ar-AA2h6CH5",
+    "link": "https://www.msn.cn/zh-cn/news/other/%E9%B8%BF%E5%AF%8C%E7%80%9A-%E5%85%AC%E5%8F%B8%E5%85%89%E4%BC%8F%E5%82%A8%E8%83%BD%E7%94%B5%E7%AB%99%E9%A1%B9%E7%9B%AE%E5%B7%B2%E5%AE%9E%E7%8E%B0%E5%B9%B6%E7%BD%91%E5%8F%91%E7%94%B5/ar-AA2h6CH5",
     "source": "格隆汇",
     "site": "www.msn.cn",
     "date": "2026-11-09T16:54:47+00:00",
     "lang": "zh",
     "summary": "格隆汇11月10日｜有投资者向鸿富瀚（301086.SZ）提问，请问贵公司的光伏储能电站项目当前进度如何？11月10日，公司在互动平台回答表示，公司光伏储能电站项目已实现并网发电，具体经营数据以年度经审计数据为准。国内外业务方面，传统消费电子业务经营保持稳定；同时，公司重点布局液冷、机器人两大新兴业务，培育新的业绩增长点，积极拓展海内外市场。相关业务如达到信息披露标准，公司将及时履行披露义务。",
     "ai": {
-     "summary": "鸿富瀚（301086.SZ）在投资者互动平台上表示，其光伏储能电站项目已经并网发电，具体经营数据要以年度经审计数据为准。公司同时说，传统消费电子业务经营稳定，并重点布局液冷和机器人两项新业务。",
+     "summary": "鸿富瀚是一家在深交所上市的公司，股票代码301086。公司在互动平台回应投资者提问时表示，其光伏储能电站项目已经并网发电。具体经营数据要等年度经审计报告才会公布。",
      "points": [
-      "光伏储能电站项目已实现并网发电（即接入电网开始供电）",
+      "项目已实现并网发电（11月10日回应）",
       "具体经营数据以年度经审计数据为准",
-      "传统消费电子业务经营保持稳定，重点布局液冷、机器人两大新兴业务"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "7393c82744",
-    "title": "华银电力：下调定增募资上限15亿元缩至6亿元 风电项目募资投入同步 ...",
-    "link": "https://finance.eastmoney.com/a/202611103927117887.html",
-    "source": "东方财富网财经频道",
-    "site": "finance.eastmoney.com",
-    "date": "2026-11-09T16:00:00+00:00",
-    "lang": "zh",
-    "summary": "21财经11月10日电，华银电力（600744.SH）于11月9日召开董事会会议，审议通过调整2025年度向特定对象发行A股股票方案，公司此前已拿到证监会注册批复。本次定增募集资金规模由此前不超过15亿元下调至不超过6亿元，募投项目整体框架不变，但各项目拟投入募集资金额度同步缩减。调整前，桂东普洛、桂阳团结、通道县金坑、芷江县碧涌大树坳四座风电场及补充流动资金，分别计划投入1.5亿元、1.5亿元、 ...",
-    "ai": {
-     "summary": "华银电力计划定向增发A股股票募资，董事会于11月9日通过调整方案，把募资上限从不超过15亿元降到不超过6亿元。各风电项目及补充流动资金的募资额度也同步缩减，项目整体框架不变。定增其余内容保持不变，公司已先前获得证监会注册批复。",
-     "points": [
-      "募资上限由15亿元下调至6亿元",
-      "四座风电场及补充流动资金的募资额度同步减少，补充流动资金降至1.8亿元",
-      "全部项目总投资额仍为29.92亿元，差额由公司自筹"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "fdd644a67e",
-    "title": "云南楚雄州收回南华县五顶山光伏发电项目开发权",
-    "link": "https://www.ne21.com/news/show-232626.html",
-    "source": "世纪新能源网",
-    "site": "www.ne21.com",
-    "date": "2026-11-09T16:00:00+00:00",
-    "lang": "zh",
-    "summary": "公告表示，2025年11月19日，楚雄州发展和改革委员会发布了《楚雄州2025年第二批新能源项目市场化竞争性配置评审结果公示》，对共6个标段、7个新能源项目的第一开发候选企业进行了公示。其中，云南德沪新能源有限责任公司作为第3标段五顶山光伏发电项目（装机2.5万千瓦）的中选企业。近期，云南德沪新能源有限责任公司向楚雄州发展和改革委员会提出申请，主动退出该项目的开发建设。经研究，决定依法依规收回南华 ...",
-    "ai": {
-     "summary": "云南楚雄州发改委宣布收回南华县五顶山光伏发电项目的开发权。原本中选的云南德沪新能源公司，主动向州发改委申请退出该项目的开发建设，州方因此依规收回项目。项目原为2.5万千瓦的光伏电站，是2025年第二批新能源项目竞争性配置中的一个标段。",
-     "points": [
-      "2025年11月19日，楚雄州公示第二批新能源项目评审结果，共6个标段、7个项目",
-      "云南德沪新能源有限责任公司原为第3标段五顶山光伏项目（装机2.5万千瓦）的中选企业",
-      "该公司主动申请退出，州发改委依法依规收回开发权"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "ddb2560c53",
-    "title": "【答疑室】光伏储能电站项目当前进度如何？鸿富瀚回应",
-    "link": "https://finance.eastmoney.com/a/202611103927157210.html",
-    "source": "东方财富网财经频道",
-    "site": "finance.eastmoney.com",
-    "date": "2026-11-09T16:00:00+00:00",
-    "lang": "zh",
-    "summary": "近日，有投资者在互动平台向鸿富瀚提问：公司的光伏储能电站项目当前进度如何？ 11月10日，鸿富瀚回复称，公司光伏储能电站项目已实现并网发电，具体经营数据以年度经审计数据为准。同时，公司重点布局液冷、机器人两大新兴业务，培育新的业绩增长点，积极拓展海内外市场。 消息面上，近日，国家能源局发展规划司副司长邢翼腾在新闻发布会上表示，截至9月底，全国已建成投运新型储能装机规模达1.67亿千瓦/4.35亿千 ...",
-    "ai": {
-     "summary": "有投资者在互动平台问鸿富瀚，光伏储能电站项目进度如何。公司回应称，该项目已经并网发电，具体经营数据要以年度经审计的数据为准。公司同时重点布局液冷和机器人两项新业务，并积极拓展海内外市场。",
-     "points": [
-      "鸿富瀚于11月10日回复投资者提问",
-      "光伏储能电站项目已实现并网发电",
-      "截至9月底，全国新型储能装机规模达1.67亿千瓦，同比增长63%"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "42d3bad3c5",
-    "title": "双杰电气：拟2亿元增资江储新能 旨在参与汇宁时代江门储能电站项目",
-    "link": "https://finance.eastmoney.com/a/202611103927434076.html",
-    "source": "东方财富网财经频道",
-    "site": "finance.eastmoney.com",
-    "date": "2026-11-09T16:00:00+00:00",
-    "lang": "zh",
-    "summary": "人民财讯11月10日电，双杰电气(300444)11月10日公告，公司拟以2亿元货币资金向广州江储新能源科技发展合伙企业（有限合伙）（简称“江储新能”）进行增资，用于江储新能向广州汇宁时代新能源发展有限公司（以下简称“汇宁时代”）的原股东购买汇宁时代股权、向汇宁时代进行增资或本协议及相关交易文件约定的其他用途，并最终用于汇宁时代江门储能电站项目的开发、建设、运营及合伙企业的合理费用。此次增资完成后 ...",
-    "ai": {
-     "summary": "双杰电气公告称，公司拟以2亿元自有资金增资广州江储新能源科技发展合伙企业，即“江储新能”。这笔资金将用于江储新能收购广州汇宁时代新能源公司的股权或对其增资，最终服务于汇宁时代在江门的储能电站项目。增资完成后，双杰电气将持有江储新能33.21%的股权。",
-     "points": [
-      "拟投入资金：2亿元货币资金，公告日期为11月10日",
-      "增资后持股比例：双杰电气将持有江储新能33.21%股权",
-      "投资目的：深度参与江门储能电站的开发与建设，优化公司业务布局"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "f2ffd253d8",
-    "title": "三峡集团“十五五”在滇首个陆上风电项目实现首批并网",
-    "link": "https://www.sohu.com/a/1099268542_121124362",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-09T11:13:00+00:00",
-    "lang": "zh",
-    "summary": "11月6日，三峡能源云南弥勒西54.5万千瓦风电场扩建项目首批18万千瓦风电机组成功并网。 项目场址位于云南省红河州弥勒市境内，分北、中、南三片区，南北长约80公里，东西宽约20公里，海拔1550—2250米，地形地貌复杂，山体垂直梯度大，场址分布范围广，项目建设面临大件运输困难、极端天气频发和多作业面并行等多重挑战，施工难度大。 自开工以来，在地方政府和集团公司相关单位的大力支持下，项目团队始终 ...",
-    "ai": {
-     "summary": "三峡能源在云南弥勒的西侧风电场扩建项目，11月6日有首批18万千瓦风机成功并网发电。这是三峡集团“十五五”期间在云南并网的首个风电项目，项目场址位于红河州弥勒市的山地上，地形复杂，施工难度较大。",
-     "points": [
-      "项目总装机容量54.5万千瓦，共96台风机",
-      "首批并网容量18万千瓦，11月6日完成",
-      "投产后预计年发电量超13亿千瓦时，每年可节约标准煤约40万吨"
+      "公司重点布局液冷、机器人两大新兴业务"
      ],
      "why": "",
      "title_zh": ""
@@ -2531,26 +2563,6 @@
     "summary": "Queensland has Australia’s longest average wind farm project completion time, while accounting for half of the country’s planned onshore wind capacity."
    },
    {
-    "id": "6aa64ffbba",
-    "title": "Thirsty farms, slowing turbines: how depleting dams threaten power, harvest",
-    "link": "https://www.livemint.com/economy/thirsty-farms-slowing-turbines-how-depleting-dams-threaten-power-harvest-11794307889982.html",
-    "source": "Mint",
-    "site": "www.livemint.com",
-    "date": "2026-11-10T16:25:00+00:00",
-    "lang": "en",
-    "summary": "India’s depleted reservoirs are threatening agriculture and hydropower after one of the driest monsoon seasons in decades. Rabi planting has fallen behind last year, with wheat, rice and pulses ..."
-   },
-   {
-    "id": "bab9bb12b4",
-    "title": "New estimates show farm fires may be vastly undercounted in Punjab, Haryana",
-    "link": "https://www.hindustantimes.com/india-news/new-estimates-show-farm-fires-may-be-vastly-undercounted-in-punjab-haryana-101794354472902.html",
-    "source": "Hindustan Times",
-    "site": "www.hindustantimes.com",
-    "date": "2026-11-10T16:01:00+00:00",
-    "lang": "en",
-    "summary": "An empirical estimate puts the total near 34,000 by November 9. Winds carrying smoke toward Delhi are forecast to return Wednesday and Thursday. | India News ..."
-   },
-   {
     "id": "e288cc3640",
     "title": "Sun powers savings for Johor aquaculture farmers",
     "link": "https://www.thestar.com.my/metro/metro-news/2026/11/11/sun-powers-savings-for-johor-aquaculture-farmers",
@@ -2561,24 +2573,14 @@
     "summary": "MARINE aquaculture operators in Johor can cut fuel costs by more than 90% through adoption of solar energy systems under an initiative to modernise the state's fish farming industry ..."
    },
    {
-    "id": "ccfe3860c5",
-    "title": "REFA 2026 to bring Africa’s renewable energy investors and developers together in Lagos",
-    "link": "https://www.greenbuildingafrica.co.za/refa-2026-to-bring-africas-renewable-energy-investors-and-developers-together-in-lagos/",
-    "source": "greenbuildingafrica",
-    "site": "www.greenbuildingafrica.co.za",
+    "id": "9671596ab3",
+    "title": "ACEN 9-month profit surges 84% as renewable energy expansion pays off",
+    "link": "https://insiderph.com/acen-9-month-profit-surges-84-as-renewable-energy-expansion-pays-off",
+    "source": "insiderph",
+    "site": "insiderph.com",
     "date": "2026-11-10T16:00:00+00:00",
     "lang": "en",
-    "summary": "The Renewable Energy Forum Africa (REFA) will take place on 25 and 26 November 2026 at the Radisson Blu Anchorage Hotel, Victoria Island, Lagos. The ..."
-   },
-   {
-    "id": "a56d19ee9e",
-    "title": "Host Turkiye pushes ‘age of electricity’, green goals",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/11/host-turkiye-pushes-age-of-electricity-green-goals",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-10T16:00:00+00:00",
-    "lang": "en",
-    "summary": "COP31 host Turkiye will urge countries to put a goal to increase the share of electricity in global energy use at the centre of the conference's final agreement, despite criticism the plan could do ..."
+    "summary": "Ayala Group's renewable energy arm ACEN nearly doubled its nine-month profit as new power plants, stronger electricity sales and higher output across its international operations drove earnings growth ..."
    },
    {
     "id": "2961e22a7f",
@@ -2591,24 +2593,24 @@
     "summary": "The Taranaki Offshore Partnership is refusing to confirm that it will apply for an offshore wind farm feasibility permit, despite the passing of enabling legislation in July."
    },
    {
-    "id": "c340461401",
-    "title": "Queensland wind pipeline faces delays amid policy and community hurdles",
-    "link": "https://tradersunion.com/news/companies/show/4188869-queensland-wind-project-delays/",
-    "source": "tradersunion",
-    "site": "tradersunion.com",
+    "id": "cb8c42f2eb",
+    "title": "No mention of grey nomads as state planning authority gives hybrid wind project the all-clear",
+    "link": "https://reneweconomy.com.au/no-mention-of-grey-nomads-as-state-planning-authority-gives-hybrid-wind-project-the-all-clear/",
+    "source": "RenewEconomy",
+    "site": "reneweconomy.com.au",
     "date": "2026-11-10T16:00:00+00:00",
     "lang": "en",
-    "summary": "Queensland's wind energy projects face delays from policy changes, higher costs, and community resistance, risking lost investment and slow progress."
+    "summary": "Ground-breaking hybrid wind and battery storage project gets green light from IPC, with all merit appeals now completely blocked after a ministerial intervention."
    },
    {
-    "id": "eb450d430f",
-    "title": "Cloudy pricing obscures solar, wind payments",
-    "link": "https://www.farmersweekly.co.nz/news/energy-companies-reluctant-to-disclose-farm-lease-payments/",
-    "source": "Farmers Weekly",
-    "site": "www.farmersweekly.co.nz",
-    "date": "2026-11-10T15:10:00+00:00",
+    "id": "fa12611565",
+    "title": "Green hydrogen demand slump delays electrolyser projects to August 2027",
+    "link": "https://energy.economictimes.indiatimes.com/news/renewable/green-hydrogen-demand-slump-delays-electrolyser-projects-to-august-2027/135723449",
+    "source": "ET EnergyWorld",
+    "site": "energy.economictimes.indiatimes.com",
+    "date": "2026-11-10T16:00:00+00:00",
     "lang": "en",
-    "summary": "Companies won’t be drawn on what leasing land for an on-farm renewables site is typically worth to the landowner."
+    "summary": "Several companies are postponing the commissioning of electrolyser manufacturing facilities to August 2027 as green hydrogen demand drops. The Ministry of New and Renewable Energy gives firms an ..."
    },
    {
     "id": "58b02ec9e8",
@@ -2619,16 +2621,6 @@
     "date": "2026-11-10T14:25:02+00:00",
     "lang": "en",
     "summary": "Twenty-three of 24 wind turbines are in place. The Port Hawkesbury Paper Mill says it will use the turbines for most of their energy. The CBC's Ethan Hunt has the story."
-   },
-   {
-    "id": "e477cd1cc6",
-    "title": "Lydian Energy Fires Up 150-MW Utah Battery, But Its Capacity Figures Don't Quite Add Up",
-    "link": "https://hoodline.com/2026/11/lydian-energy-fires-up-150-mw-utah-battery-but-its-capacity-figures-don-t-quite-add-up/",
-    "source": "Hoodline",
-    "site": "hoodline.com",
-    "date": "2026-11-10T14:19:00+00:00",
-    "lang": "en",
-    "summary": "A 150-megawatt battery storage system in Utah County has reportedly started running, with Lydian Energy behind the project known as Faraday BESS. The news comes amid a wave of battery buildout across ..."
    },
    {
     "id": "453f40defe",
@@ -2661,6 +2653,16 @@
     "summary": "Pakistan's solar boom is reducing fuel imports and electricity costs, but power shortages, circular debt and weak grid infrastructure threaten energy security."
    },
    {
+    "id": "38d565a292",
+    "title": "After Terafab Chips, Tesla’s $10 Billion Crystal Sun Solar Factory Breaks Ground",
+    "link": "https://finance.yahoo.com/energy/articles/terafab-chips-tesla-10-billion-013600345.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-10T14:00:00+00:00",
+    "lang": "en",
+    "summary": "Tesla has started building Crystal Sun, a $10 billion solar factory near Houston, Texas, that will make panels from ingot to module by 2029."
+   },
+   {
     "id": "568c1feee6",
     "title": "Malaysia to Split Electricity Market as Data Centre Demand Tests Grid Capacity",
     "link": "https://www.briefasia.com/en/article/malaysia-split-electricity-market-data-centre-demand",
@@ -2669,33 +2671,63 @@
     "date": "2026-11-10T14:00:00+00:00",
     "lang": "en",
     "summary": "Energy Commission says wholesale market for industrial users will launch by 2030, protecting household costs while accommodating large consumers ..."
+   },
+   {
+    "id": "30eaa7c191",
+    "title": "TGI Solar Power Group Publishes Research on Global Gas Turbine Shortage and Launches TGI Gas Turbine Exchange",
+    "link": "https://www.usatoday.com/press-release/story/56903/tgi-solar-power-group-publishes-research-on-global-gas-turbine-shortage-and-launches-tgi-gas-turbine-exchange/",
+    "source": "USA TODAY",
+    "site": "www.usatoday.com",
+    "date": "2026-11-10T13:25:00+00:00",
+    "lang": "en",
+    "summary": "Research finds refurbished and aviation-derived turbines are the fastest route to firm power for data centers, and that ..."
+   },
+   {
+    "id": "356e2ba8e3",
+    "title": "Space-Based Solar Power Race Heats Up: ETFs to Play a New Growth Theme",
+    "link": "https://www.theglobeandmail.com/investing/markets/stocks/SPCX/pressreleases/8765911/space-based-solar-power-race-heats-up-etfs-to-play-a-new-growth-theme/",
+    "source": "The Globe and Mail",
+    "site": "www.theglobeandmail.com",
+    "date": "2026-11-10T13:14:00+00:00",
+    "lang": "en",
+    "summary": "The race to harness solar energy from space is gaining momentum, with several countries stepping up efforts to develop space-based solar power (SBSP) technology. According to OilPrice.com, governments ..."
+   },
+   {
+    "id": "9f7681e1be",
+    "title": "Kazakhstan invests $2.1B in renewable energy over 12 years - Kazenergy",
+    "link": "https://www.trend.az/casia/kazakhstan/4244617.html",
+    "source": "Trend News Agency",
+    "site": "www.trend.az",
+    "date": "2026-11-10T13:11:00+00:00",
+    "lang": "en",
+    "summary": "BAKU, Azerbaijan, November 10. Kazakhstan invested a total of 917 billion tenge (approximately $2.1 billion) in renewable energy development between January 2014 and December 2025, according to ..."
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-11T09:24+08:00",
+  "updated": "2026-11-11T12:14+08:00",
   "items": {
    "klci": {
-    "value": 1599.34,
-    "asof": "2026-11-11T09:09:30+08:00",
-    "change": -17.24,
-    "pct": -1.07
+    "value": 1593.33,
+    "asof": "2026-11-11T11:58:15+08:00",
+    "change": -10.74,
+    "pct": -0.67
    },
    "usdmyr": {
-    "value": 4.068,
-    "asof": "2026-11-11T09:20:25+08:00",
-    "change": 0.0125,
-    "pct": 0.31
+    "value": 4.0725,
+    "asof": "2026-11-11T12:06:10+08:00",
+    "change": 0.017,
+    "pct": 0.42
    },
    "brent": {
-    "value": 92.2,
-    "asof": "2026-11-11T09:14:17+08:00",
-    "change": -0.37,
-    "pct": -0.4
+    "value": 92.39,
+    "asof": "2026-11-11T12:01:35+08:00",
+    "change": 0.9,
+    "pct": 0.98
    },
    "spx": {
     "value": 7520.93,
-    "asof": "2026-11-11T06:00:31+08:00",
+    "asof": "2026-11-11T05:00:00+08:00",
     "change": -29.01,
     "pct": -0.38
    },
@@ -2706,9 +2738,9 @@
     "pct": -0.74
    },
    "dji": {
-    "value": 52231.89,
-    "asof": "2026-11-11T06:00:40+08:00",
-    "change": -157.86,
+    "value": 52231.9,
+    "asof": "2026-11-11T05:00:00+08:00",
+    "change": -157.85,
     "pct": -0.3
    },
    "us10y": {
@@ -2718,14 +2750,14 @@
     "pct": 2.45
    },
    "dxy": {
-    "value": 102.27,
-    "asof": "2026-11-11T09:14:32+08:00",
-    "change": 0.62,
-    "pct": 0.61
+    "value": 102.26,
+    "asof": "2026-11-11T12:03:36+08:00",
+    "change": 0.03,
+    "pct": 0.03
    },
    "vix": {
     "value": 19.46,
-    "asof": "2026-11-11T05:15:01+08:00",
+    "asof": "2026-11-11T05:15:00+08:00",
     "change": -0.46,
     "pct": -2.31
    },
