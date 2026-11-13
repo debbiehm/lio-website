@@ -60,8 +60,8 @@ AGENT: { name: "CHENG HSZE MIN", iac: "6950741", whatsapp: "60123456789" },
    名称 `ANTHROPIC_API_KEY`，内容贴上 key。
 3. 之后每 3 小时更新新闻时，只总结**新的**新闻（每次最多 60 则），总结过的会存在 `summaries.json` 不重复收费。
 
-只总结**中文**新闻（英文新闻显示媒体自己的摘要）。费用（大约）：用 Claude Haiku 5.5，每月约 US$1–3。
-想连英文也总结：在 Variables 加 `LIO_SUMMARY_LANGS` = `zh,en`（费用约加倍）。
+每则新闻（中文和英文）都写中文狮爷摘要；英文新闻另外写中文标题，所以中文网站只显示中文。费用（大约）：用 Claude Haiku 5.5，每月约 US$2–6。
+想省钱只总结中文新闻：在 Variables 加 `LIO_SUMMARY_LANGS` = `zh`（中文网站会少一些新闻）。
 想要写得更好可以换 Claude Opus 5.5（约 US$0.02 / 则，每月约 US$75–110）：同一个页面加一个 **Variables**（不是 Secret）：`LIO_SUMMARY_MODEL` = `claude-opus-5-5`。
 没有设 key 也没关系：网站会显示媒体自己的简短摘要。
 

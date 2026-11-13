@@ -163,7 +163,8 @@
     for (const [c, list] of Object.entries(news.categories || {}))
       if (cat === "all" || cat === c) items.push(...list.map(x => ({ ...x, cat: c })));
     const mine = items.filter(x => x.lang === lang || (lang === "zh" && x.ai && x.ai.title_zh));   // English sources, in Chinese
-    items = (mine.length >= 6 ? mine : items).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+    // Chinese site: never untranslated English; English site: fall back to all when few English stories
+    items = (lang === "zh" && mine.length ? mine : mine.length >= 6 ? mine : items).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
     if (cat === "all") {   // take turns, local news first, so one busy topic doesn't fill the page
       const by = c => items.filter(x => x.cat === c), q = ["ipo", "finance", "energy", "policy", "insurance", "health"].map(by), mix = [];
       while (q.some(l => l.length)) for (const l of q) if (l.length) mix.push(l.shift());
@@ -207,7 +208,7 @@
     if (!x) { box.innerHTML = `<p class="muted">${t("story_gone")}</p><a class="btn primary" href="#home">${t("back_home")}</a>`; return; }
     document.title = title(x) + " · 狮爷谈金融 Lio Talk";
     if (viewed !== x.id) { viewed = x.id; track("ViewContent", { content_category: x.cat }); }
-    const more = (news.categories[x.cat] || []).filter(y => y.id !== x.id && (y.lang === x.lang || (lang === "zh" && y.ai && y.ai.title_zh))).slice(0, 6)
+    const more = (news.categories[x.cat] || []).filter(y => y.id !== x.id && (lang === "zh" ? y.lang === "zh" || (y.ai && y.ai.title_zh) : y.lang === x.lang)).slice(0, 6)
       .map(y => `<a class="news" style="--c:${CAT_COLOR[x.cat]}" href="#a/${y.id}"><b>${esc(title(y))}</b>${metaOf(y)}</a>`).join("");
     box.style.setProperty("--c", CAT_COLOR[x.cat]);
     box.innerHTML = `<p class="crumb"><a href="#home">${t("home")}</a> › <a href="#home" data-cat="${x.cat}">${t("cat_" + x.cat)}</a></p>

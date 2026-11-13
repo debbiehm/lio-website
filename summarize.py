@@ -20,7 +20,9 @@ ANGLE = {}
 CACHE = os.path.join(HERE, "summaries.json")
 MODEL = os.environ.get("LIO_SUMMARY_MODEL") or "claude-haiku-5-5"
 MAX_NEW = int(os.environ.get("LIO_SUMMARY_MAX") or 100)
-LANGS = (os.environ.get("LIO_SUMMARY_LANGS") or "zh").split(",")   # only Chinese stories get a summary (English shows the publisher's)   # new stories per run: keeps the cost predictable
+# Every story gets a Chinese 狮爷摘要; English stories also get a Chinese headline, so the Chinese site stays Chinese
+# (the English site shows the publisher's own summary). LIO_SUMMARY_LANGS=zh limits it to Chinese stories again.
+LANGS = (os.environ.get("LIO_SUMMARY_LANGS") or "zh,en").split(",")
 ARTICLE_CHARS = 12000
 
 SCHEMA = {
@@ -96,7 +98,7 @@ def article_text(url):
 def summarise(client, item):
     import anthropic
     text = article_text(item["link"])
-    lang = "Simplified Chinese" if item["lang"] == "zh" or item.get("src") else "English"   # the table's sources: always Chinese
+    lang = "Simplified Chinese"   # always: 狮爷摘要 is read on the Chinese site
     angle = ANGLE.get(item.get("src"), "")
     prompt = (f"Write in {lang}." + (f" Shape it as: {angle}." if angle else "")
               + f"\n\nHeadline: {item['title']}\nSource: {item['source']}\n"
