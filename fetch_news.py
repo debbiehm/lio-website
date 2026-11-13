@@ -40,7 +40,7 @@ SOURCES = {
         "zh": (["大马 保险", "马来西亚 保险", "大马 伊斯兰保险", "大马 医药卡"], "大马 保险 OR 马来西亚 保险",
                r"保险|保单|保费|医药卡|理赔|寿险|保诚|大东方|友邦|安联|伊斯兰保险|Takaful|Great Eastern"),
         "en": (["Malaysia insurance", "takaful Malaysia", "Malaysia medical insurance"],
-               "Malaysia insurance OR takaful OR LIAM", r"(?i)insur|takaful|medical|life"),
+               "Malaysia insurance OR takaful OR LIAM", r"(?i)insur|takaful|LIAM|medical (card|plan|cover)|life (cover|plan)|policyholder|MediAsas|premium"),
     },
     "health": {   # health news that matters to a business owner: medical costs, staff cover, healthcare companies
         "zh": (["大马 医疗通胀", "大马 医药卡 保费", "大马 私立医院 收费", "IHH 医院", "KPJ 医院", "大马 雇主 医疗 员工", "大马 社险 PERKESO",
