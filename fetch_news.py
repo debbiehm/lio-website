@@ -40,7 +40,8 @@ SOURCES = {
         "zh": (["大马 保险", "马来西亚 保险", "大马 伊斯兰保险", "大马 医药卡"], "大马 保险 OR 马来西亚 保险",
                r"保险|保单|保费|医药卡|理赔|寿险|保诚|大东方|友邦|安联|伊斯兰保险|Takaful|Great Eastern"),
         "en": (["Malaysia insurance", "takaful Malaysia", "Malaysia medical insurance"],
-               "Malaysia insurance OR takaful OR LIAM", r"(?i)insur|takaful|LIAM|medical (card|plan|cover)|life (cover|plan)|policyholder|MediAsas|premium"),
+               "Malaysia insurance OR takaful OR LIAM", r"(?i)insur|takaful|\bLIAM\b|medical (card|plan|cover)|life (cover|plan)|policyholder|MediAsas|long-term care|"
+               r"\b(FWD|AIA|Prudential|Great Eastern|Allianz|Etiqa|Zurich|Manulife|Tokio Marine|Sun Life|Generali)\b|\bcoverage\b"),
     },
     "health": {   # health news that matters to a business owner: medical costs, staff cover, healthcare companies
         "zh": (["大马 医疗通胀", "大马 医药卡 保费", "大马 私立医院 收费", "IHH 医院", "KPJ 医院", "大马 雇主 医疗 员工", "大马 社险 PERKESO",
@@ -71,7 +72,7 @@ TABLE = [
      "biz", "华语读者容易理解的话题"),
     ("bfm", "BFM 89.9", ["site:bfm.my", "BFM 89.9 business"], r"(?i)\bBFM\b", "finance", "专业知识、观点分析"),
     ("reuters", "Reuters Markets", ["site:reuters.com/markets", "site:reuters.com/markets Fed OR rates OR stocks"],
-     r"(?i)stock|share|market|rate|Fed|bond|yield|dollar|oil|gold|econom|inflation|profit|earnings|fund|invest|"
+     r"(?i)stock|share|market|rate|\bFed\b|bond|yield|dollar|oil|gold|econom|inflation|profit|earnings|fund|invest|"
      r"currenc|bank|price|trade|tariff|IPO|deal|growth|GDP|index|Wall St", "finance", "基金及全球投资教育"),
     ("kwsp", "KWSP / EPF", ["EPF KWSP Malaysia", "大马 公积金 KWSP"], r"(?i)\bEPF\b|KWSP|公积金", "policy", "退休规划"),
     ("bnm", "BNM", ["Bank Negara Malaysia", "Bank Negara insurance OR takaful", "大马 国家银行"],
@@ -91,7 +92,7 @@ GOOGLE = {"zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "en": "hl=en-MY&gl=MY&ceid=MY:
 NOW = datetime.now(timezone.utc)
 # insurance / policy / health stories must be about Malaysia (finance is global)
 LOCAL = (r"(?i)大马|马来西亚|马国|我国|首相|国行|国家银行|令吉|公积金|卫生部|吉隆坡|槟城|雪兰莪|柔佛|霹雳|吉打|彭亨|沙巴|砂拉越|马六甲|森美兰|"
-         r"malaysia|bank negara|ringgit|epf|kwsp|putrajaya|kuala lumpur|penang|selangor|johor|sabah|sarawak|anwar|moh|liam")
+         r"malaysia|bank negara|ringgit|\bepf\b|kwsp|putrajaya|kuala lumpur|penang|selangor|johor|sabah|sarawak|anwar|\bmoh\b|\bliam\b")
 JUNK = r"郑重声明|免责声明|Disclaimer"
 # words that contain 保险 / "insurance-like" text but are not about insurance (a condom is 保险套, a fuse 保险丝, ...)
 NOT_ABOUT = {"insurance": r"(?i)保险套|避孕套|安全套|保险丝|保险箱|保险柜|保险杠|保险栓|condom",
