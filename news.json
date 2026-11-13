@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:12:19+00:00",
+ "updated": "2026-11-13T21:58:21+00:00",
  "categories": {
   "ipo": [
    {
@@ -313,6 +313,72 @@
     }
    },
    {
+    "id": "e708208a94",
+    "title": "Sum Technology secures RM30mil Islamic banking facilities from Maybank Islamic",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/sum-technology-secures-rm30mil-islamic-banking-facilities-from-maybank-islamic",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-13T12:19:00+00:00",
+    "lang": "en",
+    "summary": "PETALING JAYA: Sum Technology Bhd's wholly owned subsidiary, Sum Technic Sdn Bhd (STS), has accepted RM30mil in Islamic banking facilities from Maybank Islamic Bhd. In a filing with Bursa Malaysia, ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "马来西亚上市公司Sum Technology的全资子公司Sum Technic（STS）已接受Maybank Islamic提供的3000万令吉伊斯兰银行融资额度。这笔额度包括400万令吉的现金周转额度，以及2600万令吉的贸易融资，主要用于支付在建和未来合约的货物采购，以及开出投标保证金、履约保证金等担保。",
+     "points": [
+      "融资总额为3000万令吉，由Maybank Islamic Bhd提供",
+      "包括400万令吉合约现金额度和2600万令吉贸易融资",
+      "公司称对2026年12月31日财政年度的盈利和每股净资产没有即时的重大影响"
+     ],
+     "why": "如果是中小企业业主，这类银行融资主要用于周转和承接项目，说明企业在合约和资金流上可能需要更多灵活的银行额度支持。",
+     "title_zh": "Sum Technology从Maybank Islamic获得3000万令吉伊斯兰银行融资额度"
+    }
+   },
+   {
+    "id": "db7c09eb5b",
+    "title": "WCT Holdings appoints Lai Cheng Yee as group MD",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/wct-holdings-appoints-lai-cheng-yee-as-group-md",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-13T12:05:00+00:00",
+    "lang": "en",
+    "summary": "KUALA LUMPUR: WCT Holdings Bhd has appointed Lai Cheng Yee as its group managing director (MD) beginning today. In a filing with Bursa Malaysia, WCT said Lai, 52, has over 20 years of professional ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "WCT Holdings Bhd 已任命 Lai Cheng Yee 为集团董事经理（MD），即日起生效。据向马来西亚交易所提交的文件，52岁的她拥有20多年专业经验，曾在多家本地大企业任职。她自2018年加入公司，目前负责酒店、航空及餐饮等业务板块。",
+     "points": [
+      "任命即日起生效，职位为集团董事经理",
+      "Lai 52岁，拥有20多年专业经验，曾任职 BIG Industries、Pavilion Group、宝洁和 F&N 马来西亚等公司",
+      "她自2024年6月1日起领导酒店、航空及餐饮业务，并监督工程建造与房地产发展板块"
+     ],
+     "why": "",
+     "title_zh": "WCT控股任命赖清怡为集团董事经理"
+    }
+   },
+   {
+    "id": "a3f4d61316",
+    "title": "BCB acquires Johor land for RM110.9mil, eyes RM1.1bil GDV",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/bcb-acquires-johor-land-for-rm1109mil-eyes-rm11bil-gdv",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-13T11:34:00+00:00",
+    "lang": "en",
+    "summary": "BCB Bhd is acquiring four parcels of freehold land spanning about 644,000 sq m in Batu Pahat, Johor, for a combined RM110.9mil, with potential developments on the land carrying a preliminary estimated ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "马来西亚上市地产商BCB Bhd将向Indah Corporation收购柔佛峇株巴辖四块永业地，总面积约64.4万平方米，合计作价1.109亿令吉。公司预估这些地块日后发展的初步总发展价值（GDV，即项目全部完成后的估计总销售额）约11亿令吉。收购资金将来自公司自有资金加银行贷款。",
+     "points": [
+      "四块永业地约64.4万平方米，位于柔佛峇株巴辖，总价1.109亿令吉",
+      "其中7474万令吉由Amber Vista Property Development收购三块地，3617万令吉由Banang Central Development收购一块地",
+      "预计2027年上半年完成收购，对截至2027年6月30日财政年度的盈利影响不大"
+     ],
+     "why": "这显示本地地产商持续囤积土地，为未来项目储备供应，对本地建筑和房地产相关行业的就业与需求可能有间接影响，但对一般家庭的直接影响有限。",
+     "title_zh": "BCB以1.109亿令吉收购柔佛土地，预估发展总值11亿令吉"
+    }
+   },
+   {
     "id": "b3b58b7884",
     "title": "Ringgit ends mostly higher against major currencies, eases versus US dollar",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/13/ringgit-ends-mostly-higher-against-major-currencies-eases-versus-us-dollar",
@@ -401,28 +467,6 @@
     }
    },
    {
-    "id": "f130e4da7e",
-    "title": "MAG to announce long-range widebody aircraft replacement plan next month",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/mag-to-announce-long-range-widebody-aircraft-replacement-plan-next-month",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-13T09:02:00+00:00",
-    "lang": "en",
-    "summary": "KUALA LUMPUR: Malaysia Aviation Group (MAG) is expected to announce its long-range widebody aircraft replacement plans next month, said president and group chief executive officer Captain Nasaruddin A ...",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "马来西亚航空集团（MAG）预计下个月公布长途宽体客机的更换计划。总裁兼集团行政总裁纳萨鲁丁表示，飞机交付延迟部分源于制造商供应链受限，可能打乱航班规划和运力，公司需要把部分乘客转到其他机型上。他同时提到，燃油价格大涨，航空业利润率受压。",
-     "points": [
-      "MAG预计下个月公布长途宽体客机更换计划",
-      "飞机交付延迟会影响航班按计划运营，公司需把部分乘客转机型安排",
-      "燃油价格较战前约上涨90%，MAG平均机票价格已提高20%至30%，2026年航空公司利润率仅略低于1%"
-     ],
-     "why": "飞机交付和燃油成本的变化，可能影响商务差旅的票价与航班安排，企业在规划出差预算时可留意。",
-     "title_zh": "马航集团下月将公布长途宽体客机更换计划"
-    }
-   },
-   {
     "id": "022bff2470",
     "title": "Shipping firm CMA CGM buoyed by brisk demand and high freight rates",
     "link": "https://www.reuters.com/markets/europe/shipping-firm-cma-cgm-buoyed-by-brisk-demand-high-freight-rates-2026-11-13/",
@@ -442,28 +486,6 @@
      ],
      "why": "运费与全球贸易走势会影响进出口物流成本，中小企业若依赖海运，可留意运输报价的变化。",
      "title_zh": "航运公司CMA CGM受惠于旺盛需求与高运费率"
-    }
-   },
-   {
-    "id": "a608c6daa4",
-    "title": "Malaysian palm oil seen between RM4,500-RM5,000/tonne until April, analyst Mistry says",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/malaysian-palm-oil-seen-between-rm4500-rm5000tonne-until-april-analyst-mistry-says",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-13T08:41:00+00:00",
-    "lang": "en",
-    "summary": "Malaysian palm oil prices are expected to be in a range of RM4,500 to RM5,000 per metric tonne until April 2027 as the production cycle of oil palm fruit is expected to enter a low-yield phase in ...",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "马来西亚棕榈油价格预计到2027年4月前会维持在每吨4500至5000令吉之间，分析师Dorab Mistry星期五这样表示。他解释，受今年厄尔尼诺引发的干旱影响，棕榈果产量周期预计2月转入低产期。市场此前担心产量受损，但他认为交易员对影响看得太急，前段时间的价格涨幅也过早。",
-     "points": [
-      "基准棕榈油合约星期五午间报4447令吉，自10月底以来大幅下跌，马来西亚库存上升是主因。",
-      "今年价格曾在8月底升至5018令吉每吨的高位，今年迄今仍有约9%的涨幅。",
-      "Mistry预计2027年全球棕榈油产量将减少270万公吨，低产期约从2月持续到11月，印尼受旱灾影响可能更大。"
-     ],
-     "why": "如果棕榈油价格维持高位波动，马来西亚食品、化工或相关行业的原料成本可能随之变化，企业可留意采购预算的安排。",
-     "title_zh": "分析师Mistry：马来西亚棕榈油价格至4月料在每吨4500至5000令吉之间"
     }
    },
    {
@@ -489,28 +511,6 @@
     }
    },
    {
-    "id": "26db73b822",
-    "title": "More than 30 local ATE companies in Penang, at least 10 listed on Bursa Malaysia",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/more-than-30-local-ate-companies-in-penang-at-least-10-listed-on-bursa-malaysia",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-13T07:55:00+00:00",
-    "lang": "en",
-    "summary": "Penang is currently home to more than 30 local Automated Test Equipment (ATE) companies, at least 10 of which are listed on Bursa Malaysia, with a combined market capitalisation of approximately RM40 ...",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "槟城目前有30多家本地自动化测试设备（ATE）公司，其中至少10家在马来西亚交易所挂牌，总市值约400亿令吉。首席部长周冠尧表示，本地ATE公司能力提升，在半导体与先进制造供应链中角色日益重要。ATE是指用来检测芯片和电子产品是否合格的设备。",
-     "points": [
-      "槟城有30多家本地ATE公司，至少10家在马交所上市，合计市值约400亿令吉",
-      "机械与设备行业自2020年起持续位居槟城批准制造业投资前三名，2020年至2026年上半年达300亿令吉",
-      "槟城已有4家本地ATE公司年营收超过5亿令吉，目标朝10亿令吉迈进"
-     ],
-     "why": "对槟城的本地制造商和相关中小企业而言，政府正推动产业生态与合作机会，未来供应链和技术合作的方向可能随之变化。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "eff9bab17c",
     "title": "Hwang Capital Bhd",
     "link": "https://theedgemalaysia.com/my/article/stocks-likelihood-corporate-exercise-hwang-capital",
@@ -533,9 +533,9 @@
     }
    },
    {
-    "id": "5371cb2619",
+    "id": "479c06a869",
     "title": "EVENING 5: Some RM18 bil missing from GST fund",
-    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/evening-5-some-rm18-bil-missing-gst-fund-0",
+    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/evening-5-some-rm18-bil-missing-gst-fund-1",
     "source": "The Edge Malaysia",
     "site": "theedgemalaysia.com",
     "date": "2026-11-12T16:00:00+00:00",
@@ -544,14 +544,14 @@
     "src": "edge",
     "src_name": "The Edge",
     "ai": {
-     "summary": "财政部长林冠英表示，约180亿令吉，也就是93%的商品及服务税（GST）进项税抵免，已经不见了。进项税抵免指企业可以抵扣自己已付的税款。报道同时提到，前首相纳吉布再次被带上法庭，以及MRCB该季度表现稳健。由于原文内容缺失，以上信息仅根据标题和摘要整理。",
+     "summary": "据报道，财政部长林冠英表示，约180亿令吉，即消费税（GST）进项税抵免的约93%，目前下落不明。同一则新闻摘要还提到前首相纳吉布再度出庭，以及MRCB该季度表现稳健。进项税抵免指企业在购买货物或服务时，可用来抵扣的已付消费税。",
      "points": [
-      "财政部长林冠英指出，约180亿令吉或93%的GST进项税抵免不见了",
-      "前首相纳吉布再次被带上法庭",
-      "MRCB该季度表现稳健"
+      "涉及金额约180亿令吉，约占GST进项税抵免的93%",
+      "消息来自财政部长林冠英的说法",
+      "同一批新闻还包括纳吉布再度出庭和MRCB季度业绩"
      ],
-     "why": "",
-     "title_zh": "约180亿令吉的GST基金不见了"
+     "why": "对企业主而言，进项税抵免关系到企业可抵扣的税款，相关报道可能促使企业更留意自身的GST申报与税务记录是否完整。",
+     "title_zh": "晚间5点：约180亿令吉消费税基金款项不见踪影"
     }
    },
    {
@@ -1185,22 +1185,22 @@
     }
    },
    {
-    "id": "4df1deabfd",
-    "title": "电动车水灾保险索赔金额比燃油车低4倍！PIAM 解释背后原因",
-    "link": "https://paultan.org/cn/2026/11/10/average-ev-flood-insurance-claims-cost-4x-lower-than-ice-cars-in-malaysia-heres-why-according-to-piam/",
-    "source": "Paul Tan's Automotive News",
-    "site": "paultan.org",
-    "date": "2026-11-10T08:19:00+00:00",
+    "id": "02b8ed94d4",
+    "title": "保险开销带动价格 大马去年医疗通胀涨3%",
+    "link": "https://www.orientaldaily.com.my/news/business/2026/11/10/861792",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-11-10T01:21:00+00:00",
     "lang": "zh",
-    "summary": "马来西亚普通保险公会（PIAM）上周举行媒体圆桌会议，探讨当前东北季候风季节所带来的水灾风险，并公布了一项可能颠覆不少人认知的数据：在马来西亚，电动车（BEV）的平均水灾保险索赔金额，竟然比传统燃油车（ICE）低了整整四倍。 首先，根据PIAM公布的数据，截至2026年第二季度，马来西亚有50%的电动车购买了水灾保险，反观传统燃油车，相关投保比例仅有13%。值得注意的是，水灾保障并不包含在一般综合 ...",
+    "summary": "（吉隆坡10日讯）统计局公布，大马2025年医疗通胀率增长3%，高于2024年的1.3%。统计局表示，这一增长是由医疗服务类别所推动，录得4.4%的显著增长，远高于2024年的0.9%。“主要受到医疗相关保险开销类别在2025年增长9.1%的推动。”药物类别通胀涨2.8%另一方面，占医疗价格指数比重最大的药物类别（占38.9%），在2025年录得2.8%的增长，而前一年则为2.2%。“这项增长是由 ...",
     "ai": {
-     "summary": "马来西亚普通保险公会（PIAM）上周召开媒体圆桌会议，讨论东北季候风期间的水灾风险，并公布数据显示，电动车平均水灾保险索赔金额比燃油车低约四倍。",
+     "summary": "统计局公布，大马2025年医疗通胀率升至3%，高于2024年的1.3%。涨幅主要来自医疗服务类别，增长4.4%，其中与医疗相关的保险开销大增9.1%。药物类别也有2.8%的涨幅。",
      "points": [
-      "截至2026年第二季度，50%的电动车购买了水灾保险，燃油车的投保比例仅13%。",
-      "水灾保障通常不包含在一般综合保险之内，需要另外投保。",
-      "报道来源为Paul Tan's Automotive News，发布日期为2026年11月10日。"
+      "2025年医疗通胀率3%，2024年为1.3%",
+      "医疗服务类别增长4.4%，医疗相关保险开销增9.1%",
+      "药物类别占医疗价格指数最大比重（38.9%），涨2.8%"
      ],
-     "why": "",
+     "why": "医疗相关保险的开销涨幅较快，中小企业若为员工提供医疗保险或医药福利，相关成本可能随之上升。",
      "title_zh": ""
     }
    },
@@ -1225,46 +1225,6 @@
     }
    },
    {
-    "id": "153e1b30f0",
-    "title": "买下政治保险？大马首相安华密签13名在野议员，仍不保任期届满",
-    "link": "https://www.sohu.com/a/1097065313_122743681",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-04T06:10:00+00:00",
-    "lang": "zh",
-    "summary": "新加坡联合早报11月3 日报道，面对巫统在多州选举告捷后步步紧逼的施压，马来西亚以希望联盟为首的团结政府抢在马六甲州选举提名前夕，与13名在野党国会议员签署信任与拨款协议。",
-    "ai": {
-     "summary": "马来西亚希望联盟领导的团结政府，在马六甲州选举提名前两天（10月29日）与13名在野党国会议员签署信任与拨款协议。这些议员承诺支持政府至国会任期届满、支持2027年财政预算案，以及部分体制改革法案；作为交换，他们将获得与执政党议员同等的选区发展拨款。",
-     "points": [
-      "签约日期为10月29日，涉及13名国会议员，其中包括土团党议员与前土团党议员，以及睦达党一名议员",
-      "团结政府在222席下议院中掌握156席，超过三分之二修宪门槛",
-      "马来西亚本届国会任期最迟于明年12月19日届满"
-     ],
-     "why": "若政局变化影响2027年财政预算和政府拨款方向，相关行业与公共项目的资金安排也可能随之调整，企业可留意后续政策动向。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "d3334c1fe9",
-    "title": "【尼泊尔-西藏山洪】28个遇难者家庭符合资格 可获社险赔偿金",
-    "link": "https://www.orientaldaily.com.my/news/stories/2026/11/04/860380",
-    "source": "东方网",
-    "site": "www.orientaldaily.com.my",
-    "date": "2026-11-04T01:51:00+00:00",
-    "lang": "zh",
-    "summary": "（吉隆坡4日讯）今年8月26日发生在尼泊尔与西藏的山洪，造成54名马来西亚公民下落不明，其中有28个家庭符合资格，可获得社会保险机构（PERKESO）发放的抚恤金。人力资源部长拿督斯里拉玛南表示，社险机构已对54名遇难者进行审核，当中有28人符合缴纳社会保险的资格条件，因此他们的家属可获得相关抚恤金。他说，28个家庭共获得了17万4000令吉的抚恤金。他表示，今天只有16个家庭到场领取，其馀家庭的 ...",
-    "ai": {
-     "summary": "今年8月26日尼泊尔与西藏发生山洪，54名马来西亚公民下落不明。社会保险机构（PERKESO）审核后，有28个遇难者家庭符合领取抚恤金的资格，共获得17万4000令吉。人力资源部长拿督斯里拉玛南在吉隆坡社险大厦主持移交仪式，当天有16个家庭领取，其余家庭将分批发放。",
-     "points": [
-      "山洪发生于今年8月26日，54名马来西亚公民下落不明",
-      "28个家庭符合资格，共获得17万4000令吉抚恤金",
-      "今天16个家庭到场领取，其余12户由社险人员上门拜访"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "d6afa3ac9c",
     "title": "New professional designation launched to enhance agency leadership in insurance and takaful industry",
     "link": "https://thesun.my/business/new-professional-designation-launched-to-enhance-agency-leadership-in-insurance-and-takaful-industry/",
@@ -1285,6 +1245,16 @@
     "summary": "Only 30.3% of working-age B40 Malaysians have insurance or takaful coverage, compared with 50.4% of the national working population, highlighting a significant protection gap that FWD Insurance hopes ..."
    },
    {
+    "id": "322121dffb",
+    "title": "MediAsas: What Malaysians need to know about the new basic medical insurance plan",
+    "link": "https://www.malaymail.com/news/malaysia/2026/11/13/mediasas-what-malaysians-need-to-know-about-the-new-basic-medical-insurance-plan/242126",
+    "source": "Malay Mail",
+    "site": "www.malaymail.com",
+    "date": "2026-11-12T23:00:00+00:00",
+    "lang": "en",
+    "summary": "Malaysians struggling with rising medical insurance premiums may have a more affordable option when MediAsas, a basic medical insurance and takaful ..."
+   },
+   {
     "id": "101710f6f2",
     "title": "Can an ageing Malaysia take inspiration from super-aged Japan’s LTC insurance?",
     "link": "https://www.malaymail.com/news/malaysia/2026/11/13/can-an-ageing-malaysia-take-inspiration-from-super-aged-japans-ltc-insurance/242209",
@@ -1295,24 +1265,24 @@
     "summary": "It is very likely that a significant proportion of Malaysians will need long-term care as Malaysia becomes an aged nation in 2048 — just 22 years ..."
    },
    {
-    "id": "3f010574c3",
-    "title": "2027 ZXMOTO 820RR arrives in Malaysian showrooms next Monday – 134 hp triple, RM39,888",
-    "link": "https://paultan.org/2026/11/13/2027-zxmoto-820rr-arrives-in-malaysian-showrooms-next-monday-134-hp-triple-rm39888/",
-    "source": "Paul Tan's Automotive News",
-    "site": "paultan.org",
-    "date": "2026-11-12T21:47:00+00:00",
+    "id": "dadf3f4fbc",
+    "title": "FWD Insurance and BSN Celebrate Malaysia’s Young Financial Literacy Champions at Camp Millionaire 2026",
+    "link": "https://www.malaymail.com/news/life/2026/11/12/wd-insurance-and-bsn-celebrate-malaysias-young-financial-literacy-champions-at-camp-millionaire-2026/242904",
+    "source": "CILISOS",
+    "site": "www.malaymail.com",
+    "date": "2026-11-12T07:03:45+00:00",
     "lang": "en",
-    "summary": "Malaysian buyers can get the 2027 ZXMOTO 820RR from next Monday, November 16, priced at RM39,888, excluding road tax and insurance. Introduced locally in September, the inline-three cylinder ..."
+    "summary": "FWD Insurance Berhad (“FWD Insurance”) and Bank Simpanan Nasional (“BSN”) have announced the winners of Camp Millionaire 2026, an ..."
    },
    {
-    "id": "22f86a504c",
-    "title": "MediAsas: What Malaysians need to know about the new basic medical insurance plan",
-    "link": "https://malaysia.news.yahoo.com/mediasas-malaysians-know-basic-medical-230000025.html",
-    "source": "Yahoo Malaysia",
-    "site": "malaysia.news.yahoo.com",
-    "date": "2026-11-12T15:01:00+00:00",
+    "id": "8413ef8273",
+    "title": "Malaysia: Central bank releases strategy paper on Shariah contract applications",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/03/bnm-issues-strategy-paper-on-advancing-shariah-contract-applications",
+    "source": "Asia Insurance Review",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-12T05:31:02+00:00",
     "lang": "en",
-    "summary": "Malaysians struggling with rising medical insurance premiums may have a more affordable option when MediAsas, a basic medical insurance and takaful plan, is rolled out nationwide in late January 2027."
+    "summary": "Bank Negara Malaysia (BNM) has issued a Strategy Paper on advancing shariah contract applications for a more productive and inclusive economy in line with shariah objectives."
    },
    {
     "id": "f5f803f7b1",
@@ -1323,16 +1293,6 @@
     "date": "2026-11-12T04:10:00+00:00",
     "lang": "en",
     "summary": "KUCHING: Health insurance-related prices in Malaysia rose 9.1 per cent in 2025 after remaining unchanged the previous year, according to the Department of ..."
-   },
-   {
-    "id": "dadf3f4fbc",
-    "title": "FWD Insurance and BSN celebrate Malaysia’s young financial literacy champions at Camp Millionaire 2026",
-    "link": "https://www.malaymail.com/news/life/2026/11/12/wd-insurance-and-bsn-celebrate-malaysias-young-financial-literacy-champions-at-camp-millionaire-2026/242904",
-    "source": "Malay Mail",
-    "site": "www.malaymail.com",
-    "date": "2026-11-12T02:53:00+00:00",
-    "lang": "en",
-    "summary": "FWD Insurance Berhad (“FWD Insurance”) and Bank Simpanan Nasional (“BSN”) have announced the winners of Camp Millionaire 2026, an ..."
    },
    {
     "id": "55179f3a31",
@@ -1375,6 +1335,26 @@
     "summary": "Medicines, which carry the largest weighting at 38.9 per cent, recorded a 2.8 per cent increase last year compared with 2.2 per cent in 2024, DOSM finds ..."
    },
    {
+    "id": "0ef419ea82",
+    "title": "Average EV flood insurance claims cost 4x lower than ICE cars in Malaysia? Here's why, according to PIAM",
+    "link": "https://paultan.org/2026/11/10/average-ev-flood-insurance-claims-cost-4x-lower-than-ice-cars-in-malaysia-heres-why-according-to-piam/",
+    "source": "Paul Tan's Automotive News",
+    "site": "paultan.org",
+    "date": "2026-11-10T05:03:40+00:00",
+    "lang": "en",
+    "summary": "The General Insurance Association of Malaysia (PIAM) held a media roundtable last week on the risks of the current monsoon season, and one statistic stood out because it’s contrary to popular belief."
+   },
+   {
+    "id": "9db915978c",
+    "title": "If Malaysia plans to roll out a new long-term care insurance, what lessons can be learned from Singapore?",
+    "link": "https://www.malaymail.com/news/malaysia/2026/11/07/if-malaysia-plans-to-roll-out-a-new-long-term-care-insurance-what-lessons-can-be-learned-from-singapore/241731",
+    "source": "Malay Mail",
+    "site": "www.malaymail.com",
+    "date": "2026-11-06T23:01:33+00:00",
+    "lang": "en",
+    "summary": "If Malaysia was to introduce its own national insurance for long-term care (especially for older persons), could the Singapore experience be a ..."
+   },
+   {
     "id": "730305cf0c",
     "title": "SYARIKAT TAKAFUL MALAYSIA KELUARGA BERHAD",
     "link": "https://www.klsescreener.com/v2/stocks/view/6139/syarikat-takaful-malaysia-keluarga-berhad",
@@ -1383,16 +1363,6 @@
     "date": "2026-11-06T05:05:00+00:00",
     "lang": "en",
     "summary": "11 Sep 2026 08 Sep 2026 Acquired 224,700 EMPLOYEES PROVIDENT FUND BOARD 08 Sep 2026 03 Sep 2026 Acquired 414,000 EMPLOYEES PROVIDENT FUND BOARD 07 Sep 2026 02 Sep 2026 Acquired 492,500 EMPLOYEES ..."
-   },
-   {
-    "id": "b641f3d78e",
-    "title": "INCEIF, PruBSN Study Sustainable Social Takaful Model For Vulnerable Malaysians",
-    "link": "https://www.businesstoday.com.my/2026/11/04/inceif-prubsn-study-sustainable-social-takaful-model-for-vulnerable-malaysians/",
-    "source": "BusinessToday",
-    "site": "www.businesstoday.com.my",
-    "date": "2026-11-03T20:58:00+00:00",
-    "lang": "en",
-    "summary": "INCEIF University and Prudential BSN Takaful Berhad (PruBSN) have launched a RM500,000 research project to develop a sustainable social takaful framework aimed at extending financial protection to ..."
    }
   ],
   "health": [
@@ -1787,17 +1757,117 @@
     "summary": "Around 380 employees will leave the healthcare group as part of a business support consolidation exercise, with affected staff offered enhanced severance packages and career transition support."
    },
    {
-    "id": "7e230abde1",
-    "title": "IHH Healthcare to cut about 380 jobs across three markets",
-    "link": "https://sbr.com.sg/healthcare/news/ihh-healthcare-cut-about-380-jobs-across-three-markets",
-    "source": "Singapore Business Review",
-    "site": "sbr.com.sg",
-    "date": "2026-11-05T17:44:00+00:00",
+    "id": "d4c89a66fe",
+    "title": "Humana raises full-year profit forecast on lower medical costs",
+    "link": "https://malaysia.news.yahoo.com/humana-raises-full-profit-forecast-113148812.html",
+    "source": "Yahoo Malaysia",
+    "site": "malaysia.news.yahoo.com",
+    "date": "2026-11-05T19:31:00+00:00",
     "lang": "en",
-    "summary": "IHH Healthcare will reduce its workforce by approximately 0.5%, or around 380 of its 76,000 employees, across Singapore, Hong Kong, and Malaysia."
+    "summary": "Humana raised its annual profit forecast on Friday as it expects medical costs to remain in check during the year."
    }
   ],
   "energy": [
+   {
+    "id": "e05916e599",
+    "title": "马斯克“全复用火箭”雄心迎验证！SpaceX星舰明日试飞挑战“双回收 ...",
+    "link": "https://news.qq.com/rain/a/20261113A0EB6400",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-11-13T13:40:00+00:00",
+    "lang": "zh",
+    "summary": "智通财经APP获悉，SpaceX(SPCX.US)第 15 次星舰试飞将在北京时间 11 月 14 日 06:45 开启窗口，窗口长 75 分钟。简单来说，SpaceX此次的目标是在最新任务中将星舰的两个部分完好无损地降落在地球上，这是一次可重复使用火箭技术的测试。如果成功，这将为星舰(Starship)的概念验证提供重要依据，埃隆·马斯克曾承诺星舰将是世界上第一枚完全可重复使用的火箭。 第二级回 ...",
+    "ai": {
+     "summary": "SpaceX计划在北京时间11月14日06:45开启的75分钟窗口内进行第15次星舰试飞，目标是让助推器和飞船两部分都完好返回并被发射塔机械臂夹住，以测试整枚火箭复用。若成功，将为马斯克“全复用火箭”的说法提供重要验证，但飞船能否再次飞行、翻修成本如何，仍有待观察。",
+     "points": [
+      "试飞窗口为北京时间11月14日06:45起，长75分钟",
+      "助推器约6分35秒后返回并被机械臂捕获，飞船绕地约14圈后尝试同样回收",
+      "摩根士丹利认为成功率不足50%，关键在执行门槛与引擎可靠性"
+     ],
+     "why": "对企业主而言，此次试验若成功，长远可能影响航天相关服务与卫星通信的成本走向，但目前尚无定论，短期不会直接改变本地企业的费用。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "754a67c11a",
+    "title": "马斯克“全复用火箭”雄心迎验证！SpaceX(SPCX.US)星舰明日试飞挑战 ...",
+    "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-13/doc-iniyrazv1176715.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-13T13:31:00+00:00",
+    "lang": "zh",
+    "summary": "SpaceX(SPCX.US)第 15 次星舰试飞将在北京时间 11 月 14 日 06:45 开启窗口，窗口长 75 分钟。简单来说，SpaceX此次的目标是在最新任务中将星舰的两个部分完好无损地降落在地球上，这是一次可重复使用火箭技术的测试。如果成功，这将为星舰(Starship)的概念验证提供重要依据，埃隆·马斯克曾承诺星舰将是世界上第一枚完全可重复使用的火箭。 第二级回收，是一道算了十年的 ...",
+    "ai": {
+     "summary": "SpaceX的第15次星舰试飞将于北京时间11月14日早上6点45分开启75分钟的发射窗口。此次测试目标是让星舰的助推器和飞船都能完好回收，若成功，将为“完全可重复使用火箭”的设想提供重要依据。",
+     "points": [
+      "助推器计划在起飞约6分半后返回，由发射塔机械臂夹住回收",
+      "飞船将绕地球约14圈后再入，同样尝试被机械臂接住，属前所未有的尝试",
+      "摩根士丹利认为捕获成功率不足50%，但捕获中止本属常态测试环节"
+     ],
+     "why": "若全复用技术逐步成熟，未来发射成本与卫星服务的价格结构可能随之变化，但目前翻修成本未公开，相关影响仍有不确定性。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "f93f356f8f",
+    "title": "SpaceX计划在本次试飞中让星舰两级完整返回地球",
+    "link": "https://www.sohu.com/a/1101246746_122785878",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-13T13:08:00+00:00",
+    "lang": "zh",
+    "summary": "格隆汇11月13日｜SpaceX计划在最新一次任务中，让星舰的两级箭体完整降落回地球，这是可复用火箭技术的关键测试，而该技术是埃隆·马斯克布局人工智能与太空探索愿景的核心。星舰号称人类史上最高、推力最强的火箭，最早将于当地时间周五下午4点45分，从位于得克萨斯州南部的星基地发射场升空。本次是SpaceX的第15次试飞，星舰飞船将由超重助推器搭载送入轨道。发射数分钟后，公司将尝试在超重助推器返回发射 ...",
+    "ai": {
+     "summary": "SpaceX计划在最新一次任务中，让星舰火箭的两级箭体都完整返回地球，这是可重复使用火箭技术的关键测试。星舰最早将于当地时间周五下午4点45分从得克萨斯州南部的星基地发射场升空，这是该公司第15次试飞。发射几分钟后，公司还计划用发射塔的机械臂“捕获”返回的超重助推器，这项操作此前已演示过。",
+     "points": [
+      "星舰计划让两级箭体完整返回地球，属于可复用火箭的关键测试",
+      "最早发射时间为当地时间周五下午4点45分，地点在得克萨斯州南部星基地",
+      "本次是SpaceX第15次试飞，助推器返回时由发射塔机械臂尝试捕获"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "6ac84c65b0",
+    "title": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的",
+    "link": "https://www.ithome.com/1/026/944.htm",
+    "source": "IT之家",
+    "site": "www.ithome.com",
+    "date": "2026-11-13T12:31:00+00:00",
+    "lang": "zh",
+    "summary": "片段中，马特 · 达蒙饰演的耐克高管桑尼 · 瓦卡罗试图说服年轻的乔丹签下球鞋代言合同，并发表了一段仿佛预见未来的独白。“当他们把你捧到最高处，接下来就会把你拉下来。 你能不能鼓起勇气，忍受所有痛苦，继续奋战，再次站起来？ ” ...",
+    "ai": {
+     "summary": "马斯克在X上转发了一段两分钟的电影《气垫传奇》片段，以此致敬英伟达前CEO黄仁勋。黄仁勋日前辞去英伟达职务，马斯克此前也曾表示若有机会愿意聘用他。马斯克转发时只附上了“Jensen”一个名字，没有多作评论。",
+     "points": [
+      "片段出自2023年上映的电影，讲述耐克与乔丹合作、Air Jordan品牌诞生的故事",
+      "马斯克转发时只写了“Jensen”，未作额外评论",
+      "黄仁勋辞职当天英伟达股价跌4%，此前一周多数时间也在下跌"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "89a93cf202",
+    "title": "德国小厂拿下马斯克光伏订单，中国设备商为何未在列？",
+    "link": "https://cj.sina.com.cn/articles/view/6192937794/17120bb4202002wg4c",
+    "source": "cj",
+    "site": "cj.sina.com.cn",
+    "date": "2026-11-13T12:15:00+00:00",
+    "lang": "zh",
+    "summary": "界面新闻记者 | 席菁华马斯克的一则订单，引发A股光伏设备板震荡。北京时间11月11日，埃隆·马斯克在社交媒体平台X上转发SpaceX推文称：“SpaceX已向德国SINGULUS订购了每年100 GW产能的HJT太阳能电池制造设备。",
+    "ai": {
+     "summary": "马斯克旗下SpaceX向德国设备商SINGULUS订购首条HJT太阳能电池整线设备，合同金额超过6000万欧元，计划2027年上半年交付。该订单用于太空卫星电池，与特斯拉地面光伏工厂项目不同，且没有流向中国设备商。HJT是一种高效晶硅电池技术路线。",
+     "points": [
+      "订单金额超过6000万欧元，计划2027年上半年交付",
+      "买方为SpaceX，用于Starmind太空卫星电池，与特斯拉项目非同一项目",
+      "分析认为此次未流向中国厂商主要因美国税收抵免的合规门槛，而非技术或价格问题"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
    {
     "id": "80e52e894c",
     "title": "同是“私生活”风波：为何马斯克没事 黄仁勋辞职？",
@@ -1833,6 +1903,26 @@
       "消息来源为知情人士，报道时间为当地时间12日",
       "截至12日美股收盘，SpaceX市值约1.90万亿美元，特斯拉约1.57万亿美元，合计约3.47万亿美元",
       "马斯克表示两家公司董事会已各自成立独立董事特别委员会研究此事，他因同时担任两家公司首席执行官而不参与讨论"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "bcc36a4c77",
+    "title": "马斯克公开说想聘请黄仁勋，这事到底靠谱不啊？",
+    "link": "https://cj.sina.com.cn/articles/view/8465553428/1f896181407202uqo8",
+    "source": "cj",
+    "site": "cj.sina.com.cn",
+    "date": "2026-11-13T10:32:00+00:00",
+    "lang": "zh",
+    "summary": "黄仁勋刚从英伟达卸任，马斯克就公开表态，说如果有机会能聘请到他会是一份荣幸。这话听起来分量很足，但真要落地，恐怕没那么简单。先看两边的业务底色。黄仁勋过去33年在英伟达做的核心事，是把GPU从游戏配件推成AI基础设施的核心，靠的是芯片架构、软件生态和长期技术路线的把控。",
+    "ai": {
+     "summary": "英伟达创办人黄仁勋刚卸任，马斯克就公开表示，若有机会聘请他会是荣幸。文章分析认为，两人的业务重心和角色定位差异不小，实际落地恐怕没那么简单，目前也没有披露实质接触的消息。",
+     "points": [
+      "黄仁勋在英伟达工作33年，主要推动GPU发展成AI基础设施核心",
+      "马斯克旗下业务分散，涵盖新能源汽车、航天和人形机器人等",
+      "目前讨论仍停留在公开表态层面，没有实质接触的信息披露"
      ],
      "why": "",
      "title_zh": ""
@@ -1879,46 +1969,6 @@
     }
    },
    {
-    "id": "f4a8e11262",
-    "title": "刚刚！特斯拉马斯克公开雇佣黄仁勋",
-    "link": "https://news.qq.com/rain/a/20261113A0BNU000",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-13T09:55:00+00:00",
-    "lang": "zh",
-    "summary": "老黄要杀入车圈啦？11月12日，英伟达公告称，黄仁勋辞去总裁、CEO和董事职务，结束了长达33年的掌舵生涯。公司CFO科莱特·克雷斯暂代CEO。有网友在X上喊话马斯克：请把黄仁勋招过来。马斯克回复：“That would be an ...",
-    "ai": {
-     "summary": "英伟达公告，黄仁勋辞去总裁、CEO及董事职务，结束33年掌舵，由CFO克雷斯暂代CEO。网上有人请马斯克招揽黄仁勋，马斯克回复“那将是我的荣幸”，但文章并未提及任何正式聘用消息，标题的“雇佣”说法缺乏依据。",
-     "points": [
-      "11月12日，英伟达宣布黄仁勋辞去总裁、CEO和董事职务",
-      "公司CFO科莱特·克雷斯暂代CEO，黄仁勋掌舵英伟达33年",
-      "马斯克仅回应网友留言，文中没有正式雇佣的消息"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "fef9dfc80c",
-    "title": "马斯克把AI搬上太空，万亿帝国正在收官！",
-    "link": "https://www.sohu.com/a/1101133951_120231872",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-13T08:30:00+00:00",
-    "lang": "zh",
-    "summary": "一切都指向一个令人瞠目结舌的结局。当同行们还在争抢地面算力资源的时候，马斯克已经把目光投向了九霄之上。 今年2月初，一个足以震动全球科技圈的消息传出：太空探索技术公司SpaceX正式宣布全资收购人工智能公司xAI，新实体整体估值高达1.25万亿美元。作为参照，特斯拉当前市值也不过1.3万亿美元上下，两者几乎比肩。换句话说，一个全新的\"第二帝国\"已然成形。 一场\"反常\"的合并 按常理，航天企业和AI ...",
-    "ai": {
-     "summary": "据报道，SpaceX今年2月初宣布全资收购人工智能公司xAI，合并后估值约1.25万亿美元，交易只用股票、不涉及现金。5月，xAI正式更名为SpaceXAI，成为SpaceX旗下的AI业务线。马斯克的构想是把AI算力搬到太空，利用太空的日照能源突破地面电力限制。",
-     "points": [
-      "2月初宣布，SpaceX全资收购xAI，新实体估值约1.25万亿美元",
-      "合并中SpaceX作价1万亿美元，xAI作价2500亿美元，全部以股票完成",
-      "5月xAI更名为SpaceXAI；SpaceX已向美国联邦通信委员会提交轨道数据中心系统申请"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "fb9ae4bc2c",
     "title": "马斯克再为黄仁勋发声 支持其加入特斯拉",
     "link": "https://news.china.com/socialgd/10000169/20261113/49870144.html",
@@ -1933,66 +1983,6 @@
       "黄仁勋辞去英伟达总裁、首席执行官及董事会成员职务，即刻生效",
       "英伟达执行副总裁兼首席财务官科莱特·克雷斯暂任临时CEO",
       "网友建议特斯拉为计划中的2纳米芯片超级工厂Terafab聘请黄仁勋，马斯克表示赞同"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "2ab9a351b5",
-    "title": "最快下月官宣！马斯克加速合并特斯拉SpaceX",
-    "link": "https://www.163.com/tech/article/LBJV4M0P00097U7T.html",
-    "source": "网易",
-    "site": "www.163.com",
-    "date": "2026-11-13T07:32:00+00:00",
-    "lang": "zh",
-    "summary": "最快下月官宣！马斯克加速合并特斯拉SpaceX,马斯克,特斯拉,spacex,自动驾驶 ...",
-    "ai": {
-     "summary": "据彭博社援引知情人士报道，特斯拉与SpaceX正在加快合并谈判，双方最快可能在今年12月宣布交易，备选时间是2027年初。两家公司合计市值超过3.4万亿美元，目前董事会和顾问正在磋商交易条款和合并后的治理架构。",
-     "points": [
-      "最快今年12月宣布，备选为2027年初",
-      "按彭博社报道时市值，SpaceX超过1.9万亿美元，特斯拉约1.5万亿美元",
-      "特斯拉已将年度股东大会定在12月3日举行"
-     ],
-     "why": "如果两家公司合并，电动车、储能电池、火箭、卫星与AI算力业务将归入同一集团，相关采购与合作也可能随之调整，对供应链相关的企业可能有间接影响。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "821a6965ce",
-    "title": "马斯克回应黄仁勋辞职称将永远被铭记",
-    "link": "https://cj.sina.com.cn/articles/view/5993531560/1653e08a804001qffs",
-    "source": "cj",
-    "site": "cj.sina.com.cn",
-    "date": "2026-11-13T06:33:00+00:00",
-    "lang": "zh",
-    "summary": "【#马斯克称黄仁勋将永远被铭记#】#马斯克再回应黄仁勋辞职#北京时间12日晚间，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。13日，有网友在X平台上分享2023年传记电影《AIR》 （气垫传奇）中的台词“你将永远被铭记，因为有些东西是永恒的”。",
-    "ai": {
-     "summary": "英伟达宣布，董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。随后有网友在X平台分享电影《AIR》中的台词，马斯克回应称“老黄”，并表示黄仁勋将永远被铭记。",
-     "points": [
-      "英伟达于北京时间12日晚间宣布黄仁勋辞去总裁、首席执行官及董事职务，即刻生效",
-      "13日有网友在X平台分享2023年传记电影《AIR》的台词",
-      "马斯克回应“老黄（Jensen）”，英伟达同时更新黄仁勋为公司创始人"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "c4a8124fb6",
-    "title": "马斯克裁撤大批Grok AI图像生成员工 收紧AI研发方向",
-    "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyrazr0903439.shtml",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-13T06:11:00+00:00",
-    "lang": "zh",
-    "summary": "马斯克收紧AI团队研发方向，和OpenAI此前的路线修正十分相似。今年早些时候，OpenAI关停了一度火爆的视频生成工具Sora，原因就是算力成本过高。与此同时，OpenAI把重心转向企业业务和AI代码应用。",
-    "ai": {
-     "summary": "据知情人士透露，SpaceX的人工智能团队裁撤了Grok Imagine大部分研发人员。Grok Imagine是用于生成视频和图像的AI工具，目前仍可使用，但失去专职研发团队后，前景不明。公司战略重心转向AI代码工具和Grok Bot智能体产品，这一调整与OpenAI此前关停Sora的做法相似。",
-     "points": [
-      "上周约60名Grok Imagine相关员工被裁，仅留少量人员维持运转",
-      "SpaceX今年2月以2500亿美元股票收购xAI，8月斥资600亿美元收购AI代码初创公司Cursor",
-      "OpenAI今年早些时候关停视频生成工具Sora，原因是算力成本过高"
      ],
      "why": "",
      "title_zh": ""
@@ -2019,66 +2009,6 @@
     }
    },
    {
-    "id": "f792fd2705",
-    "title": "马斯克称黄仁勋将永远被铭记",
-    "link": "https://wap.cj.sina.cn/pc/7x24/5212375",
-    "source": "wap.cj",
-    "site": "wap.cj.sina.cn",
-    "date": "2026-11-13T05:57:00+00:00",
-    "lang": "zh",
-    "summary": "有网友在X平台上分享2023年传记电影《AIR》 （气垫传奇）中的台词“你将永远被铭记，因为有些东西是永恒的”。马斯克回应：“老黄（Jensen）。” ...",
-    "ai": {
-     "summary": "有网友在X平台分享电影《AIR》中的一句台词，大意是“你会被永远铭记，因为有些东西是永恒的”。马斯克看到后回应，提到了英伟达创办人黄仁勋（Jensen）。文章主要是社交媒体上的互动，并无更多背景细节。",
-     "points": [
-      "网友在X平台分享2023年传记电影《AIR》的台词",
-      "马斯克在帖文下回应，提到黄仁勋",
-      "报道来源仅有摘要，正文无法读取"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "ec8c255447",
-    "title": "3.4万亿，超级科技帝国，马斯克来真的",
-    "link": "https://news.pedaily.cn/202611/571815.shtml",
-    "source": "投资界",
-    "site": "news.pedaily.cn",
-    "date": "2026-11-13T05:21:00+00:00",
-    "lang": "zh",
-    "summary": "特斯拉即将于十二月三日召开年度股东大会，这一关键时间节点与潜在的合并公告窗口高度重合。届时包括埃隆·马斯克、董事长罗宾·丹霍姆以及JB·斯特劳贝尔在内的多位核心董事将面临新一轮任期至2029年的选举表决。",
-    "ai": {
-     "summary": "市场传出消息称，SpaceX与特斯拉的合并谈判取得实质进展，知情人士说双方最快可能在今年12月宣布这项并购。报道估计合并后总市值可达3.4万亿至3.6万亿美元，但这些说法未经官方确认。",
-     "points": [
-      "据报道，合并公告最快可能在今年12月宣布，比此前预测的明年上半年更早。",
-      "特斯拉年度股东大会定于12月3日举行，董事选举也会在当天进行。",
-      "报道估计SpaceX估值约1.9万亿美元以上，特斯拉市值约1.5万亿美元，合并后总市值3.4万亿至3.6万亿美元。"
-     ],
-     "why": "如果这类大型并购真的进行，相关公司的股权结构、供应链和成本安排都可能改变，不过目前仍只是传闻，尚未有官方公告。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "23154256df",
-    "title": "马斯克：能聘请黄仁勋，将是我的荣幸！",
-    "link": "https://view.inews.qq.com/a/20261113A07F5C00",
-    "source": "腾讯网",
-    "site": "view.inews.qq.com",
-    "date": "2026-11-13T05:11:00+00:00",
-    "lang": "zh",
-    "summary": "当地时间11月12日，英伟达官宣，创始人黄仁勋辞去总裁、首席执行官以及董事职务，即时生效，结束其执掌英伟达33年的历程。消息迅速在硅谷科技圈引发广泛讨论，马斯克在社交平台X上接连留下两条引发市场关注的表态。早前有网友在X平台向马斯克提议，希望他聘用黄仁勋。马斯克直接回复原文：That would be an ...",
-    "ai": {
-     "summary": "英伟达官方宣布，创始人黄仁勋即时辞去总裁、首席执行官及董事职务，结束其执掌该公司33年的历程。消息在硅谷科技圈引发热议，马斯克在社交平台X上发表两条引人关注的表态，并回应网友提议聘用黄仁勋的说法。",
-     "points": [
-      "时间：当地时间11月12日，职务变动即时生效",
-      "黄仁勋执掌英伟达33年",
-      "马斯克在X平台连发两条表态"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "e0614090c1",
     "title": "为什么黄仁勋出轨直接下台，马斯克孩子都生了4个了也没事？",
     "link": "https://news.ifeng.com/c/8y19qNZj5uf",
@@ -2099,154 +2029,214 @@
     }
    },
    {
-    "id": "cc4e8f3645",
-    "title": "SpaceX Calling! Starlink Looks to Door-to-Door Sales to Lure New Users",
-    "link": "https://au.pcmag.com/networking/120901/spacex-calling-starlink-looks-to-door-to-door-sales-to-lure-new-users",
-    "source": "PC Magazine",
-    "site": "au.pcmag.com",
-    "date": "2026-11-13T10:28:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX, known for its cutting-edge rockets and satellites, is venturing into the old-school method of door-to-door sales to attract more Starlink users in the US. Several new job listings say SpaceX ..."
+    "id": "4b02a9108c",
+    "title": "SpaceX星舰第15次试飞!这次要接住的不只是助推器，还有飞船自重",
+    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/spacex%E6%98%9F%E8%88%B0%E7%AC%AC15%E6%AC%A1%E8%AF%95%E9%A3%9E-%E8%BF%99%E6%AC%A1%E8%A6%81%E6%8E%A5%E4%BD%8F%E7%9A%84%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%8A%A9%E6%8E%A8%E5%99%A8-%E8%BF%98%E6%9C%89%E9%A3%9E%E8%88%B9%E8%87%AA%E9%87%8D/ar-AA2hmlyq",
+    "source": "一点资讯",
+    "site": "www.msn.cn",
+    "date": "2026-11-13T04:12:00+00:00",
+    "lang": "zh",
+    "summary": "一枚火箭升空六分多钟后被接住，已经足够惊险。但这一次，SpaceX真正要过的难关，要等到约22小时之后才会出现：从地球轨道返回的飞船，能不能也落进发射塔的机械臂里。",
+    "ai": {
+     "summary": "SpaceX的星舰第15次试飞中，助推器升空六分多钟后已被发射塔的机械臂接住。接下来更大的挑战是飞船从地球轨道返回，约22小时后，要看它能否同样被机械臂接住。",
+     "points": [
+      "助推器升空六分多钟后被机械臂接住",
+      "真正的难关是飞船从地球轨道返回",
+      "飞船返回约22小时后才会出现这一考验"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
    },
    {
-    "id": "9ac4b941ec",
-    "title": "SpaceX chases rocket reusability with upcoming Starship Flight 15 launch",
-    "link": "https://www.msn.com/en-us/video/other/spacex-chases-rocket-reusability-with-upcoming-starship-flight-15-launch/vi-AA2hokoo",
-    "source": "CBS News",
+    "id": "9c4c4dc067",
+    "title": "突发，马斯克裁掉了整个多模态团队",
+    "link": "https://news.qq.com/rain/a/20261113A06O7C00",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-11-13T04:08:00+00:00",
+    "lang": "zh",
+    "summary": "硅谷这么大瓜，也没耽误马斯克又把麾下一个部门整窝端了。 量子位获悉，老马近期裁撤了xAI的整个multimodal团队，团队约70人无一幸免。 多模态不做了？ 但几乎同时，xAI官方招聘立刻上新了“Model Engineer, Multimodal Understanding”岗位，base地在加州Palo Alto。 JD显示，该岗位覆盖图像、视频、音频、文本的理解与生成全栈，从数据、toke ...",
+    "ai": {
+     "summary": "据量子位报道，马斯克近期裁撤了xAI的整个多模态（multimodal）团队，约70人全部受影响。几乎同时，xAI却在官网招聘一个多模态理解方面的工程师岗位，工作地点在美国加州。文章把这类做法放在马斯克过去多次调整团队的脉络中来看。",
+     "points": [
+      "被裁撤的是xAI的multimodal团队，约70人",
+      "同期xAI发布了Model Engineer, Multimodal Understanding岗位，地点为加州Palo Alto",
+      "报道称岗位年薪区间为16万至25万美元，另有股权和医疗福利"
+     ],
+     "why": "这类组织大调整说明科技公司的业务重心可能快速变化，对于依赖外部技术或人才的本地企业而言，合作方的方向与人员安排或会随之改变，值得留意。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "c35a47e9cd",
+    "title": "Starship Flight 15: Live updates from Starbase, Texas, as SpaceX attempts its most ambitious mission yet",
+    "link": "https://starlust.org/live/starship-flight-15-live-updates-from-starbase-texas-as-spacex-attempts-its-most-ambitious-mission-ye-mwfhzf1o/",
+    "source": "starlust",
+    "site": "starlust.org",
+    "date": "2026-11-13T13:49:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX is attempting to make history with the fifteenth test flight of its 407-foot Starship. If all things go as planned, the mission could end with the first full recovery of an orbital-class rocket ..."
+   },
+   {
+    "id": "fcc12c7b67",
+    "title": "SpaceX Starship to launch from Texas today, attempt double catch: Live updates",
+    "link": "https://www.msn.com/en-us/news/other/spacex-starship-to-launch-from-texas-today-attempt-double-catch-live-updates/ar-AA2hocyn",
+    "source": "Florida Today",
     "site": "www.msn.com",
-    "date": "2026-11-13T10:15:41+00:00",
+    "date": "2026-11-13T13:45:14+00:00",
     "lang": "en",
-    "summary": "SpaceX looks to make history with its upcoming Starship Flight 15 launch. CBS News' Jason Allen explains more."
+    "summary": "SpaceX plans to launch its 15th Starship flight on Friday, Nov. 13 from Texas. This mission aims to return both the booster and upper-stage to the launch site."
    },
    {
-    "id": "0175ce8f9e",
-    "title": "Iberia completes Starlink installation on Airbus A321XLRs",
-    "link": "https://www.msn.com/en-us/technology/aviation/iberia-completes-starlink-installation-on-airbus-a321xlrs/ar-AA2hnB9X",
-    "source": "Upgraded Points",
-    "site": "www.msn.com",
-    "date": "2026-11-13T10:10:56+00:00",
+    "id": "a3e3b2e3f4",
+    "title": "SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says",
+    "link": "https://www.investors.com/news/spacex-tesla-merger-grok-optimus-robotics-engineering-starship-spcx-stock-tsla/",
+    "source": "Investor's Business Daily",
+    "site": "www.investors.com",
+    "date": "2026-11-13T13:43:00+00:00",
     "lang": "en",
-    "summary": "Spain’s flag carrier, Iberia, has announced that it has installed high-speed Starlink inflight Wi-Fi on its entire fleet of Airbus A321XLR aircraft, which operate some long-haul routes from its Madrid ..."
+    "summary": "Analyst touts the potential benefits of combining SpaceX's AI offerings, Tesla robotics as merger expectations grow."
    },
    {
-    "id": "5343d89d4c",
-    "title": "Starship Flight 15: SpaceX Plans Historic Spacecraft Recovery Attempt",
-    "link": "https://www.analyticsinsight.net/news/starship-flight-15-spacex-plans-historic-spacecraft-recovery-attempt",
-    "source": "Analytics Insight",
-    "site": "www.analyticsinsight.net",
-    "date": "2026-11-13T10:00:00+00:00",
+    "id": "924c82df08",
+    "title": "Watch LIVE: SpaceX to launch and catch both Starship and Super Heavy rocket",
+    "link": "https://www.indiatoday.in/science/story/watch-live-spacex-to-launch-and-catch-both-starship-and-super-heavy-rocket-3038297-2026-11-14",
+    "source": "India Today",
+    "site": "www.indiatoday.in",
+    "date": "2026-11-13T13:29:00+00:00",
     "lang": "en",
-    "summary": "SpaceX's 15th Starship test flight is set to test a major part of Elon Musk's reusable rocket ambitions: bringing the spacecraft's upper stage back to its launc ..."
+    "summary": "SpaceX will attempt to catch both Super Heavy and Starship during Flight 15. Success would demonstrate the first full recovery of an orbital launch system."
    },
    {
-    "id": "7c3ce95223",
-    "title": "Live / SpaceX launches Starship on Flight 15 mission",
-    "link": "https://www.nbcnews.com/video/watch-live-spacex-launches-starship-on-flight-15-mission-273420869630",
-    "source": "NBC News",
-    "site": "www.nbcnews.com",
-    "date": "2026-11-13T09:58:00+00:00",
+    "id": "8871221637",
+    "title": "Tesla’s (NASDAQ: TSLA) China Operations Emerge As Key Obstacle In Potential SpaceX Merger Deal",
+    "link": "https://www.foreignpolicyjournal.com/2026/11/13/teslas-nasdaq-tsla-china-operations-emerge-as-key-obstacle-in-potential-spacex-merger-deal/",
+    "source": "Foreign Policy Journal",
+    "site": "www.foreignpolicyjournal.com",
+    "date": "2026-11-13T13:17:00+00:00",
     "lang": "en",
-    "summary": "Watch live coverage as SpaceX launches its Starship rocket on its first flight to return both Starship and Super Heavy to the launch site. Starship is expected to orbit Earth over a more than 22-hour ..."
+    "summary": "Beneath the headline-grabbing prospect of a Tesla (NASDAQ: TSLA) and SpaceX (NASDAQ: SPCX) merger lies a structural problem that analysts say could prove ..."
    },
    {
-    "id": "a618c1faa9",
-    "title": "Final preparations underway for SpaceX Starship Flight 15",
-    "link": "https://www.yahoo.com/news/videos/final-preparations-underway-spacex-starship-175632712.html",
-    "source": "Yahoo",
-    "site": "www.yahoo.com",
-    "date": "2026-11-13T09:56:00+00:00",
+    "id": "779119fa7d",
+    "title": "SpaceX aims to catch and reuse all parts of Starship",
+    "link": "https://www.canberratimes.com.au/story/9391526/spacex-aims-to-catch-and-reuse-all-parts-of-starship/",
+    "source": "The Canberra Times",
+    "site": "www.canberratimes.com.au",
+    "date": "2026-11-13T12:57:00+00:00",
     "lang": "en",
-    "summary": "SpaceX is preparing to make history with its latest Starship launch. The rocket is expected to orbit Earth over a more than 22-hour flight. NBC News’ Gadi Schwartz details the risks associated with ..."
+    "summary": "SpaceX's latest Starship launch aims to recapture both parts of the rocket, ultimately to lead to reusable spacecraft."
    },
    {
-    "id": "8e6b53559d",
-    "title": "Sunil Bharti Mittal on AI, 6G, Starlink and the future of Airtel | Walk the Talk",
-    "link": "https://www.msn.com/en-in/money/technology/sunil-bharti-mittal-on-ai-6g-starlink-and-the-future-of-airtel-walk-the-talk/vi-AA2hnNLP",
-    "source": "NDTV",
-    "site": "www.msn.com",
-    "date": "2026-11-13T09:55:35+00:00",
-    "lang": "en",
-    "summary": "As Bharti Enterprises marks 50 years, Chairman Sunil Bharti Mittal joins NDTV CEO and Editor-In-Chief Rahul Kanwal for an exclusive conversation on the future of technology and business. From AI ..."
-   },
-   {
-    "id": "3de64e2863",
-    "title": "Tesla Pulls $42K Model Y AWD From US Website Amid Musk’s Pivot Toward Robotaxis",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-pulls-42k-model-y-175108217.html",
+    "id": "76e7754284",
+    "title": "Elon Musk Must Extend an ‘Olive Branch’ to Texas to Secure SpaceX’s Data Center Future After Democrat Election Wins, Says Dan Ives: ‘He Needs Texas. Texas Needs Him’",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-must-extend-olive-203005347.html",
     "source": "Yahoo Finance",
     "site": "finance.yahoo.com",
-    "date": "2026-11-13T09:51:00+00:00",
+    "date": "2026-11-13T12:30:00+00:00",
     "lang": "en",
-    "summary": "The disappearance of one of the Model Y variants from the company website comes on the heels of the company discontinuing production of its more premium vehicles. With the removal ..."
+    "summary": "Technology analyst Dan Ives says Elon Musk must seek a political compromise with Texas officials to protect Space Exploration Technologies Corp.’s artificial intelligence data-center ambitions ..."
    },
    {
-    "id": "8223d8b4b0",
-    "title": "SpaceX, Tesla merger could hit Democratic roadblock: Jay Woods unsure if Elon Musk can work his magic",
-    "link": "https://www.msn.com/en-us/money/general/spacex-tesla-merger-could-hit-democratic-roadblock-jay-woods-unsure-if-elon-musk-can-work-his-magic/ar-AA2hnGuI",
-    "source": "Benzinga",
+    "id": "32420bad5a",
+    "title": "SpaceX to attempt double catch of huge Starship rocket",
+    "link": "https://www.msn.com/en-ca/technology/space-exploration/spacex-to-attempt-double-catch-of-huge-starship-rocket/ar-AA2ho12d",
+    "source": "BBC",
     "site": "www.msn.com",
-    "date": "2026-11-13T09:39:39+00:00",
+    "date": "2026-11-13T12:12:02+00:00",
     "lang": "en",
-    "summary": "A political changing of the guard could complicate a potential merger of Elon Musk‘s businesses, Tesla Inc (NASDAQ:TSLA) and SpaceX (NASDAQ:SPCX), according to Freedom Capital Markets Chief Market ..."
+    "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
    },
    {
-    "id": "9e7f1cebc6",
-    "title": "SpaceX aims for first double catch of Starship in its most ambitious test flight yet",
-    "link": "https://www.msn.com/en-us/technology/space-exploration/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet/ar-AA2hnUXr",
-    "source": "Associated Press News",
-    "site": "www.msn.com",
-    "date": "2026-11-13T09:30:02+00:00",
+    "id": "7b1c71e0d5",
+    "title": "FAA revises SpaceX Starship license, authorizes single Flight 15 launch",
+    "link": "https://seekingalpha.com/news/4672602-faa-revises-spacex-starship-license-authorizes-single-flight-15-launch",
+    "source": "Seeking Alpha",
+    "site": "seekingalpha.com",
+    "date": "2026-11-13T12:06:00+00:00",
     "lang": "en",
-    "summary": "SpaceX is launching Starship into orbit on Friday in its boldest test yet: a 22-hour flight that aims to recapture the entire rocket in a move meant to accelerate moon and Mars travel. If all goes ..."
+    "summary": "FAA authorizes SpaceX to conduct one Starship Flight 15 launch and reentry, requiring $500 million in liability insurance for launch and reentry claims."
    },
    {
-    "id": "bee650d173",
-    "title": "SpaceX Targets First Starship Spacecraft Catch In South Texas",
-    "link": "https://tech.yahoo.com/science/articles/spacex-targets-first-starship-spacecraft-172859080.html",
-    "source": "YAHOO!",
-    "site": "tech.yahoo.com",
-    "date": "2026-11-13T09:28:00+00:00",
+    "id": "35f104afd7",
+    "title": "House Republican invites Elon Musk to move Tesla HQ to Florida after Texas turns blue",
+    "link": "https://www.cltampa.com/news/house-republican-invites-elon-musk-to-move-tesla-hq-to-florida-after-texas-turns-blue/",
+    "source": "Creative Loafing Tampa Bay",
+    "site": "www.cltampa.com",
+    "date": "2026-11-13T12:04:00+00:00",
     "lang": "en",
-    "summary": "SpaceX targets a Friday Starship launch from South Texas, with its first spacecraft tower catch planned for Saturday."
+    "summary": "President Donald Trump participates in a press conference with departing DOGE adviser Elon Musk, Friday, May 30, 2025. Florida Representative Carlos A."
    },
    {
-    "id": "e135019749",
-    "title": "Elon Musk’s SpaceX Has Spent $15 Billion on Starship. Tonight Could Change Everything",
-    "link": "https://finance.yahoo.com/technology/articles/elon-musk-spacex-spent-15-172148325.html",
+    "id": "3ce9a1a238",
+    "title": "Elon Musk's SpaceX–Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-tesla-merger-194506369.html",
     "source": "Yahoo Finance",
     "site": "finance.yahoo.com",
-    "date": "2026-11-13T09:20:00+00:00",
+    "date": "2026-11-13T11:45:00+00:00",
     "lang": "en",
-    "summary": "The space business is moving beyond simply getting rockets off the ground. The next challenge is making launches cheap enough to support businesses that need thousands of satellites in orbit. Reusable ..."
+    "summary": "Elon Musk’s biographer believes Tesla and SpaceX are destined to merge, arguing their increasingly intertwined technology ambitions make keeping them separate almost impossible. “It’s almost ..."
    },
    {
-    "id": "717dc8c934",
-    "title": "FCC Green-Lights 36 Next-Gen Starlink Gateways for Gigabit Speeds",
-    "link": "https://www.pcmag.com/news/fcc-green-lights-36-next-gen-starlink-gateways-for-gigabit-speeds",
-    "source": "PCMag",
-    "site": "www.pcmag.com",
-    "date": "2026-11-13T08:33:00+00:00",
+    "id": "0fb76a643b",
+    "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
+    "link": "https://finance.yahoo.com/technology/ai/articles/spacex-big-day-historic-starship-194502498.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-13T11:45:00+00:00",
     "lang": "en",
-    "summary": "Iridium initially protested the new gateways on interference grounds before withdrawing its petition. The FCC says it doesn't expect interference with other satellite networks."
+    "summary": "SpaceX is preparing to try catching both Starship stages with its launch tower, right after announcing more than $74 billion in new AI campuses, but a possible Tesla merger now has a skeptic in Texas’ ..."
    },
    {
-    "id": "17a14719ed",
-    "title": "Zelensky says Starlink limits continued in the middle of his talks with U.S., Russia",
-    "link": "https://www.washingtonpost.com/world/2026/11/13/zelensky-says-starlink-limits-continued-ukraine/",
-    "source": "The Washington Post",
-    "site": "www.washingtonpost.com",
-    "date": "2026-11-13T08:19:00+00:00",
+    "id": "cccbed65b4",
+    "title": "Elon Musk Says It Would Be an 'Honor' to Hire Nvidia CEO Jensen Huang Amid Chinese Spy Row, as Dan Ives Flags 'Black Eye Moment'",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-honor-hire-193005822.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-13T11:30:00+00:00",
     "lang": "en",
-    "summary": "Ukraine’s Defense Ministry said it had reached out to SpaceX and the U.S. Defense Department to seek an explanation and resolve the situation."
+    "summary": "Billionaire and Space Exploration Technologies Corp. CEO Elon Musk said on Wednesday that he would be open to working with Nvidia Corp. CEO Jensen Huang amid fallout from the latter’s relationship ..."
    },
    {
-    "id": "1833f2aa07",
-    "title": "United’s Free Starlink WiFi Now On Over 50% Of Daily Flights As Delta Bets On Amazon Leo",
-    "link": "https://simpleflying.com/united-starlink-wifi-half-daily-flights-delta-amazon-leo/",
-    "source": "Simple Flying",
-    "site": "simpleflying.com",
-    "date": "2026-11-13T08:17:00+00:00",
+    "id": "32ea7fff38",
+    "title": "Watch Live as SpaceX Tries to Catch Both Starship Stages for the First Time",
+    "link": "https://gizmodo.com/watch-live-as-spacex-tries-to-catch-both-starship-stages-for-the-first-time-2000839576",
+    "source": "Gizmodo",
+    "site": "gizmodo.com",
+    "date": "2026-11-13T11:30:00+00:00",
     "lang": "en",
-    "summary": "United's Starlink rollout passes a major milestone, widening its lead over American and Southwest as Delta pursues Amazon Leo ..."
+    "summary": "If all goes according to plan, this mission will mark a major step toward what SpaceX calls the \"holy grail of rocketry.\" ..."
+   },
+   {
+    "id": "dcbba3f231",
+    "title": "SpaceX Starship’s First Double Catch Is ‘Massive’ For Orbital AI Data Centers, Says Market Strategist",
+    "link": "https://finance.yahoo.com/technology/ai/articles/spacex-starship-first-double-catch-193040829.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-13T11:30:00+00:00",
+    "lang": "en",
+    "summary": "Shay Boloor was referring to Starmind satellites, slated to operate as data centers in space by utilizing constant solar energy from the Sun."
+   },
+   {
+    "id": "93afc90a27",
+    "title": "青海德令哈60万千瓦抽水蓄能电站开工建设",
+    "link": "https://www.sohu.com/a/1101212790_122014422",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-13T11:30:00+00:00",
+    "lang": "zh",
+    "summary": "11月10日，我国西北地区海拔最高抽水蓄能工程——青海海西州德令哈60万千瓦抽水蓄能电站举行开工仪式，该项目总投资52.27亿元，是青海省级标杆储能工程，是德令哈市深度融入青海“四地”建设，服务国家新型电力系统建设的关键支撑项目。 该项目为日调节纯抽水蓄能电站，总装机容量60万千瓦，配置2台单机容量30万千瓦立轴单级混流可逆式蓄能机组，额定水头652米，设计年发电量12亿千瓦时，年抽水电量16亿千 ...",
+    "ai": {
+     "summary": "青海海西州德令哈市一座60万千瓦抽水蓄能电站在11月10日举行开工仪式，总投资52.27亿元，是青海省级标杆储能项目，也是西北地区海拔最高的此类工程。抽水蓄能是指在用电低谷时把水抽到高处水库，用电高峰时放水发电，用来平衡电网供需。",
+     "points": [
+      "项目总投资52.27亿元，总装机60万千瓦，配2台30万千瓦机组",
+      "设计年发电量12亿千瓦时，预计2034年建成投运",
+      "投运后将承担青海电网调峰、调频、储能和紧急事故备用等任务"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
    },
    {
     "id": "7f0b38f9f4",
@@ -2323,26 +2313,6 @@
       "11月13日完成拖带护航任务，平台长宽均为33.1米、型深13.5米",
       "平台集成电解水制氢、制甲醇、储氢等多套系统",
       "海事部门采用无人机巡查、海巡船护航和远程监控相结合的方式护航"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "93afc90a27",
-    "title": "青海德令哈60万千瓦抽水蓄能电站开工建设",
-    "link": "https://www.sohu.com/a/1101212790_122014422",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-12T21:30:00+00:00",
-    "lang": "zh",
-    "summary": "11月10日，我国西北地区海拔最高抽水蓄能工程——青海海西州德令哈60万千瓦抽水蓄能电站举行开工仪式，该项目总投资52.27亿元，是青海省级标杆储能工程，是德令哈市深度融入青海“四地”建设，服务国家新型电力系统建设的关键支撑项目。 该项目为日调节纯抽水蓄能电站，总装机容量60万千瓦，配置2台单机容量30万千瓦立轴单级混流可逆式蓄能机组，额定水头652米，设计年发电量12亿千瓦时，年抽水电量16亿千 ...",
-    "ai": {
-     "summary": "青海海西州德令哈市一座60万千瓦抽水蓄能电站在11月10日举行开工仪式，总投资52.27亿元，是青海省级标杆储能项目，也是西北地区海拔最高的此类工程。抽水蓄能是指在用电低谷时把水抽到高处水库，用电高峰时放水发电，用来平衡电网供需。",
-     "points": [
-      "项目总投资52.27亿元，总装机60万千瓦，配2台30万千瓦机组",
-      "设计年发电量12亿千瓦时，预计2034年建成投运",
-      "投运后将承担青海电网调峰、调频、储能和紧急事故备用等任务"
      ],
      "why": "",
      "title_zh": ""
@@ -2449,6 +2419,26 @@
     }
    },
    {
+    "id": "2b99c10fc1",
+    "title": "立新能源：拟投资73.2亿元建设250万千瓦风电项目",
+    "link": "https://news.ifeng.com/c/8xzuuejLF6i",
+    "source": "凤凰网资讯频道",
+    "site": "news.ifeng.com",
+    "date": "2026-11-12T11:07:00+00:00",
+    "lang": "zh",
+    "summary": "每经AI快讯，11月12日，立新能源(001258.SZ)公告称，公司董事会审议通过控股子公司投资建设250万千瓦风电项目的议案，项目总投资预计73.2亿元，自有资金占20%，其余为银行贷款等。 每日经济新闻 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。",
+    "ai": {
+     "summary": "立新能源（深交所上市代码001258）公告，董事会已通过议案，同意控股子公司投资建设一个250万千瓦的风电项目。项目总投资预计73.2亿元，其中自有资金占两成，其余主要靠银行贷款等方式筹集。",
+     "points": [
+      "项目规模：250万千瓦风电项目",
+      "项目总投资预计73.2亿元",
+      "自有资金占20%，其余为银行贷款等"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "e51a7667dd",
     "title": "立新能源(001258.SZ)：控股子公司拟投资建设250万千瓦风电项目",
     "link": "https://www.msn.cn/zh-cn/news/other/%E7%AB%8B%E6%96%B0%E8%83%BD%E6%BA%90001258sz-%E6%8E%A7%E8%82%A1%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8B%9F%E6%8A%95%E8%B5%84%E5%BB%BA%E8%AE%BE250%E4%B8%87%E5%8D%83%E7%93%A6%E9%A3%8E%E7%94%B5%E9%A1%B9%E7%9B%AE/ar-AA2hhLlw",
@@ -2529,24 +2519,34 @@
     }
    },
    {
-    "id": "c3c8d2f6e6",
-    "title": "分布式电池正在被当电站用：从北美储能展看虚拟电厂的规模化拐点",
-    "link": "https://www.sohu.com/a/1100423439_122902240",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-12T01:32:00+00:00",
-    "lang": "zh",
-    "summary": "美国储能行业正在出现一个此前专属大型电站的能力：聚合化的家用电池，开始在用电高峰时段承担电网级供电职能。2027年2月9日至11日，北美储能展Energy Storage North America（ESNA）将在加州圣迭戈会展中心举办，与Intersolar North America同期同馆运作，虚拟电厂（VPP）与数据中心供电预计成为本届会议议程的核心议题。 一、政策豁免与配套率抬升：储能市 ...",
-    "ai": {
-     "summary": "美国储能行业出现新变化：大量家用电池通过虚拟电厂聚合起来，在用电高峰时段也能像大型电站一样供电。2027年2月北美储能展将在加州圣迭戈举办，虚拟电厂和数据中心供电是会议重点议题之一。",
-     "points": [
-      "2025年生效的美国税改法案对储能给予豁免，抵免至2034年才开始退坡",
-      "据文中行业信息，特斯拉虚拟电厂聚合了全球超过150万台家用电池，单次高峰可放出超过600兆瓦",
-      "北美储能展2027年2月9日至11日在加州圣迭戈会展中心举办"
-     ],
-     "why": "如果企业考虑太阳能加储能等用电方案，政策与电价的变化可能影响长期用电成本，但具体决策应咨询专业人士。",
-     "title_zh": ""
-    }
+    "id": "2f294c8f11",
+    "title": "eDNA shows sharks return to offshore wind farms despite EMFs",
+    "link": "https://www.msn.com/en-us/news/other/edna-shows-sharks-return-to-offshore-wind-farms-despite-emfs/vi-AA2hoHrL",
+    "source": "SHARK BYTES",
+    "site": "www.msn.com",
+    "date": "2026-11-13T12:12:09+00:00",
+    "lang": "en",
+    "summary": "Kristian Parton examines a study led by Ann Miek-Hermans that used environmental DNA (eDNA) from Dutch offshore wind farms to test whether man-made electromagnetic fields influence shark and ray ..."
+   },
+   {
+    "id": "f13446fad3",
+    "title": "Sunrun (RUN) CEO Makes TIME100 Climate List As Financing Deal Expands Solar Reach",
+    "link": "https://finance.yahoo.com/energy/articles/sunrun-run-ceo-makes-time100-200948461.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-13T12:09:00+00:00",
+    "lang": "en",
+    "summary": "CEO Mary Powell was named to the 2026 TIME100 Climate List, recognizing her climate leadership role. Sunrun announced a new partnership with Captona involving a preferred equity project finance ..."
+   },
+   {
+    "id": "e82fff5a14",
+    "title": "AGEL rejects allegations over Tarali pumped storage project costs",
+    "link": "https://www.msn.com/en-in/news/other/agel-rejects-allegations-over-tarali-pumped-storage-project-costs/ar-AA2hnBAI",
+    "source": "Asianet Newsable",
+    "site": "www.msn.com",
+    "date": "2026-11-13T12:00:04+00:00",
+    "lang": "en",
+    "summary": "Adani Green Energy Limited has refuted allegations that it undervalued the Tarali Pumped Storage Project to evade costs, clarifying that the cited lower figure represented only site investigation and ..."
    },
    {
     "id": "6758ab8053",
@@ -2589,26 +2589,6 @@
     "summary": "CLEVELAND, Ohio — Senate Bill 294 would give Ohio a new energy policy for power plant reviews. The bill says the rules and deadlines the state uses to approve projects would stay the same. Proposed ..."
    },
    {
-    "id": "619426096e",
-    "title": "[Vattenfall Uses SSAB Zero Steel at German Solar Plant, Cutting Steel Carbon Footprint 67%]",
-    "link": "https://news.metal.com/newscontent/IYEDDN2OYQJKGK4WDUNLMTVHFU4PPK5HAUQNAKI-vattenfall-uses-ssab-zero-steel-at-german-solar-plant-cutting-steel-carbon-footprint-67",
-    "source": "Shanghai Metals Market",
-    "site": "news.metal.com",
-    "date": "2026-11-13T06:27:00+00:00",
-    "lang": "en",
-    "summary": "Swedish energy company Vattenfall has used low-emission steel produced by SSAB, SSAB Zero, for the solar panel support structures at its Juliusburg/Krukow solar plant in Germany. Vattenfall ..."
-   },
-   {
-    "id": "f19664da3a",
-    "title": "Polyplex decides not to proceed with solar power investment",
-    "link": "https://www.investywise.com/polyplex-withdraws-solar-power-investment-proposal/",
-    "source": "investywise",
-    "site": "www.investywise.com",
-    "date": "2026-11-13T06:19:00+00:00",
-    "lang": "en",
-    "summary": "Polyplex Corporation Limited announced its decision to withdraw from a previously proposed investment of up to Rs. 1,100 Lakh for an equity stake in Clean Max Neht Private Limited. This SPV was ..."
-   },
-   {
     "id": "7485853631",
     "title": "Supreme Court denies Laois residents wind farm appeal",
     "link": "https://www.laois-nationalist.ie/news/supreme-court-denies-laois-residents-wind-farm-appeal_arid-20333279.html",
@@ -2629,14 +2609,24 @@
     "summary": "On November 3, Prime Minister Narendra Modi inaugurated and laid the foundation stones for Pune Metro projects worth around Rs 21,800 crore."
    },
    {
-    "id": "1b917edde0",
-    "title": "Masdar completes $950m solar and battery storage project in US",
-    "link": "https://www.msn.com/en-ae/news/other/masdar-completes-950m-solar-and-battery-storage-project-in-us/ar-AA2hmvzc",
-    "source": "The National",
-    "site": "www.msn.com",
-    "date": "2026-11-13T04:14:51+00:00",
+    "id": "5a6b54053f",
+    "title": "Metlen starts construction at 252MW/375MWh solar-plus-storage plant in Greece",
+    "link": "https://www.pv-tech.org/metlen-starts-construction-at-252mw-375mwh-solar-plus-storage-plant-in-greece/",
+    "source": "PV Tech",
+    "site": "www.pv-tech.org",
+    "date": "2026-11-13T04:42:00+00:00",
     "lang": "en",
-    "summary": "Abu Dhabi clean energy company aims to grow its US portfolio to up to 25GW by 2030 ..."
+    "summary": "Metlen Energy and Metals and Greek maritime company Tsakos Group have started construction at a 251.9MW solar-plus-storage project in Greece."
+   },
+   {
+    "id": "1c3d2bb474",
+    "title": "Masdar completes $950m solar and battery storage project in US",
+    "link": "https://www.thenationalnews.com/business/energy/2026/11/13/masdar-completes-950m-solar-and-battery-storage-project-in-us/",
+    "source": "thenationalnews",
+    "site": "www.thenationalnews.com",
+    "date": "2026-11-13T04:14:00+00:00",
+    "lang": "en",
+    "summary": "Masdar has completed its $950 million Lockhart Solar and Storage complex in California as the Abu Dhabi clean energy company continues to expand its renewable energy portfolio in the US. With 365 ..."
    },
    {
     "id": "61d5ba0a76",
@@ -2677,31 +2667,11 @@
     "date": "2026-11-13T02:50:00+00:00",
     "lang": "en",
     "summary": "Green Volt did not win its capacity contract cheaply. Fixed bottom offshore wind cleared the same government auction at 58.87 pounds per megawatt hour, a price floating wind projects further out in ..."
-   },
-   {
-    "id": "58d57489c5",
-    "title": "Spanish wind farm replaces 27 old turbines with three that can power twice as many homes, recovering 99.82% of dismantled materials",
-    "link": "https://energiesmedia.com/wind-farm-replaces-old-turbines/",
-    "source": "energiesmedia",
-    "site": "energiesmedia.com",
-    "date": "2026-11-13T02:40:00+00:00",
-    "lang": "en",
-    "summary": "What happens to ageing wind infrastructure? A 27-year-old wind farm has been given an upgrade that proves that fewer, modern machines can generate more power."
-   },
-   {
-    "id": "b4150e09cb",
-    "title": "Oman awards 2 green hydrogen projects in Duqm, Round 4 launched",
-    "link": "https://www.qcintel.com/ammonia/article/oman-awards-2-green-hydrogen-projects-in-duqm-round-4-launched-77448.html",
-    "source": "qcintel",
-    "site": "www.qcintel.com",
-    "date": "2026-11-13T02:28:00+00:00",
-    "lang": "en",
-    "summary": "Oman has awarded two integrated green hydrogen projects in Duqm under Round 3 and has also opened Round 4... Please Register or Sign in to view this content. Quantum Commodity Intelligence is a ..."
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-14T03:14+08:00",
+  "updated": "2026-11-14T06:00+08:00",
   "items": {
    "klci": {
     "value": 1582.59,
@@ -2711,51 +2681,51 @@
    },
    "usdmyr": {
     "value": 4.085,
-    "asof": "2026-11-13T22:39:32+08:00",
+    "asof": "2026-11-14T05:26:44+08:00",
     "change": 0.0142,
     "pct": 0.35
    },
    "brent": {
-    "value": 95.89,
-    "asof": "2026-11-14T03:04:06+08:00",
-    "change": 0.07,
-    "pct": 0.07
+    "value": 96.26,
+    "asof": "2026-11-14T05:48:06+08:00",
+    "change": 0.44,
+    "pct": 0.46
    },
    "spx": {
-    "value": 7551.57,
-    "asof": "2026-11-14T03:14:19+08:00",
-    "change": -40.83,
-    "pct": -0.54
+    "value": 7561.67,
+    "asof": "2026-11-14T05:43:19+08:00",
+    "change": -30.73,
+    "pct": -0.4
    },
    "ndx": {
-    "value": 25119.88,
-    "asof": "2026-11-14T03:14:17+08:00",
-    "change": -246.2,
-    "pct": -0.97
+    "value": 25136.27,
+    "asof": "2026-11-14T05:59:45+08:00",
+    "change": -229.82,
+    "pct": -0.91
    },
    "dji": {
-    "value": 52284.23,
-    "asof": "2026-11-14T03:14:19+08:00",
-    "change": -12.86,
-    "pct": -0.02
+    "value": 52347.55,
+    "asof": "2026-11-14T05:43:26+08:00",
+    "change": 50.46,
+    "pct": 0.1
    },
    "us10y": {
-    "value": 5.14,
-    "asof": "2026-11-14T02:59:14+08:00",
-    "change": 0.04,
-    "pct": 0.82
+    "value": 5.15,
+    "asof": "2026-11-14T03:59:54+08:00",
+    "change": 0.05,
+    "pct": 1.0
    },
    "dxy": {
-    "value": 103.39,
-    "asof": "2026-11-14T03:04:19+08:00",
-    "change": 0.22,
-    "pct": 0.21
+    "value": 103.43,
+    "asof": "2026-11-14T05:49:45+08:00",
+    "change": 0.26,
+    "pct": 0.25
    },
    "vix": {
-    "value": 19.23,
-    "asof": "2026-11-14T02:59:16+08:00",
-    "change": 0.53,
-    "pct": 2.83
+    "value": 19.3,
+    "asof": "2026-11-14T05:15:01+08:00",
+    "change": 0.6,
+    "pct": 3.21
    },
    "opr": {
     "value": 2.75,
