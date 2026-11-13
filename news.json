@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:48:29+00:00",
+ "updated": "2026-11-13T23:50:45+00:00",
  "categories": {
   "ipo": [
    {
@@ -335,25 +335,25 @@
     }
    },
    {
-    "id": "a3f4d61316",
-    "title": "BCB acquires Johor land for RM110.9mil, eyes RM1.1bil GDV",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/bcb-acquires-johor-land-for-rm1109mil-eyes-rm11bil-gdv",
+    "id": "db7c09eb5b",
+    "title": "WCT Holdings appoints Lai Cheng Yee as group MD",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/wct-holdings-appoints-lai-cheng-yee-as-group-md",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-13T11:34:00+00:00",
+    "date": "2026-11-13T12:05:00+00:00",
     "lang": "en",
-    "summary": "BCB Bhd is acquiring four parcels of freehold land spanning about 644,000 sq m in Batu Pahat, Johor, for a combined RM110.9mil, with potential developments on the land carrying a preliminary estimated ...",
+    "summary": "KUALA LUMPUR: WCT Holdings Bhd has appointed Lai Cheng Yee as its group managing director (MD) beginning today. In a filing with Bursa Malaysia, WCT said Lai, 52, has over 20 years of professional ...",
     "src": "star",
     "src_name": "The Star Business",
     "ai": {
-     "summary": "BCB Bhd 将向 Indah Corporation Bhd 收购柔佛峇株巴辖区四块永久业权土地，总面积约64.4万平方米，总价令吉1.109亿。公司预估这些土地上未来项目的初步总开发价值（GDV，即项目全部完成后的估计总值）约为11亿令吉。收购资金将来自内部资金与银行贷款。",
+     "summary": "WCT Holdings Bhd（一家在马来西亚上市的大型集团）宣布，黎清怡从今天起出任集团董事经理。据向马来西亚交易所提交的文件，52岁的她拥有超过20年专业经验，曾任职多家本地大企业。",
      "points": [
-      "四块土地由两家全资附属公司分别收购，总价1.109亿令吉",
-      "其中三块土地价值约7474万令吉，另一块约3617万令吉",
-      "收购预计2027年上半年完成，对截至2027年6月30日财年的盈利影响不大"
+      "黎清怡今年52岁，自2018年8月15日起加入WCT，此前主管酒店、航空及餐饮业务",
+      "她自2024年6月1日起负责集团酒店、航空及餐饮部门，并监督工程建造与房地产发展部门",
+      "她目前是马来西亚旅游局董事，并担任Paradigm房地产投资信托管理公司的非独立非执行董事"
      ],
-     "why": "此消息主要关乎上市发展商的土地储备与项目规划，对一般中小企业东主的直接影响有限，可留意本地房地产市场与建材、劳工成本的长期变化。",
-     "title_zh": "BCB以1.109亿令吉收购柔佛土地 预估开发总值11亿令吉"
+     "why": "",
+     "title_zh": "WCT控股任命黎清怡为集团董事经理"
     }
    },
    {
@@ -645,9 +645,9 @@
   ],
   "policy": [
    {
-    "id": "f0ff7456d1",
+    "id": "88f2478c74",
     "title": "财政部研究扩大i-Sayang计划 大马丈夫或可为外籍妻子缴公积金",
-    "link": "https://www.klsescreener.com/v2/news/view/1825937/%E8%B4%A2%E6%94%BF%E9%83%A8%E7%A0%94%E7%A9%B6%E6%89%A9%E5%A4%A7i-sayang%E8%AE%A1%E5%88%92-%E5%A4%A7%E9%A9%AC%E4%B8%88%E5%A4%AB%E6%88%96%E5%8F%AF%E4%B8%BA%E5%A4%96%E7%B1%8D%E5%A6%BB%E5%AD%90%E7%BC%B4%E5%85%AC%E7%A7%AF%E9%87%91",
+    "link": "https://www.klsescreener.com/v2/news/view/1825937/%E8%B4%A2%E6%94%BF%E9%83%A8%E7%A0%94%E7%A9%B6%E6%89%A9%E5%A4%A7i_Sayang%E8%AE%A1%E5%88%92_%E5%A4%A7%E9%A9%AC%E4%B8%88%E5%A4%AB%E6%88%96%E5%8F%AF%E4%B8%BA%E5%A4%96%E7%B1%8D%E5%A6%BB%E5%AD%90%E7%BC%B4%E5%85%AC%E7%A7%AF%E9%87%91",
     "source": "KLSE Screener",
     "site": "www.klsescreener.com",
     "date": "2026-11-12T01:43:00+00:00",
@@ -656,13 +656,35 @@
     "src": "kwsp",
     "src_name": "KWSP / EPF",
     "ai": {
-     "summary": "财政部表示，政府正透过公积金局（EPF）研究扩大i-Sayang计划的受惠范围。这项计划让大马籍丈夫把部分公积金缴纳额转入非大马公民妻子的公积金户头，帮助妻子累积退休储蓄。目前仍属研究阶段。",
+     "summary": "财政部表示，政府正通过公积金局（EPF）研究扩大i-Sayang计划的受惠范围。若获采纳，大马籍丈夫或可把部分公积金缴纳额转入非大马公民妻子的公积金户头，帮助妻子累积退休储蓄。",
      "points": [
-      "财政部表示政府正研究扩大i-Sayang计划的受惠范围",
-      "大马籍丈夫未来或可为外籍妻子缴纳公积金",
-      "目前仍在研究阶段，细节尚未公布"
+      "由财政部指出，政府仍在研究阶段",
+      "计划涉及公积金局（EPF）的i-Sayang计划",
+      "对象是大马籍丈夫及其非大马公民妻子"
      ],
-     "why": "若公司有员工的配偶是外籍人士，这项政策若落实，可能影响员工家庭的退休储蓄安排，企业可留意后续公布的细则。",
+     "why": "若公司有员工的配偶是非大马公民，这项计划若落实，或会影响员工的退休储蓄安排，目前仍需等待正式细则。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "4b8395e083",
+    "title": "扩大i-Sayang至非公民妻子 财政部：需全面研究",
+    "link": "https://www.kwongwah.com.my/20261112/%e6%89%a9%e5%a4%a7i-sayang%e8%87%b3%e9%9d%9e%e5%85%ac%e6%b0%91%e5%a6%bb%e5%ad%90-%e8%b4%a2%e6%94%bf%e9%83%a8%ef%bc%9a%e9%9c%80%e5%85%a8%e9%9d%a2%e7%a0%94%e7%a9%b6/",
+    "source": "光华网",
+    "site": "www.kwongwah.com.my",
+    "date": "2026-11-11T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "财政部指出，目前允许丈夫自愿将其雇员缴纳部分的2%转移至妻子的公积金账户“i-Sayang”计划，妻子必须是马来西亚公民及公积金局会员。 财政部透过国会书面答复安邦国会议员罗兹雅询问时，如是表示。 罗兹雅询问政府是否有意扩大i-Sayang计划，让马来西亚籍丈夫也能为非公民妻子自愿缴纳公积金。 财政部指出，i-Sayang自2023年3月推行以来，全国共有23万3371名丈夫登记成为缴纳者，将公积 ...",
+    "src": "kwsp",
+    "src_name": "KWSP / EPF",
+    "ai": {
+     "summary": "财政部在国会书面答复中表示，目前的i-Sayang计划允许丈夫自愿把雇员公积金缴纳额的2%转入妻子的公积金账户，但妻子必须是马来西亚公民并是公积金局会员。安邦议员罗兹雅询问是否会扩大至马来西亚籍丈夫为非公民妻子缴纳，财政部回应需要全面研究。",
+     "points": [
+      "i-Sayang自2023年3月推行，截至答复时全国有23万3371名丈夫登记成为缴纳者",
+      "现行规定要求妻子必须是马来西亚公民及公积金局会员",
+      "财政部对扩大至非公民妻子一事表示需要全面研究，尚无定案"
+     ],
+     "why": "",
      "title_zh": ""
     }
    },
@@ -1119,25 +1141,25 @@
     }
    },
    {
-    "id": "1a0afc9ee9",
-    "title": "BNM Warns of Fake Websites and Apps Stealing Banking Details",
-    "link": "https://fintechnews.my/62194/various/bnm-scam-warning-fake-websites-apps/",
-    "source": "Fintech News Malaysia",
-    "site": "fintechnews.my",
-    "date": "2026-11-06T01:12:00+00:00",
+    "id": "01b89207ce",
+    "title": "Bank Negara Raids Four Premises In Kedah, Perak Over Suspected Illegal Forex Advertising",
+    "link": "https://www.businesstoday.com.my/2026/11/06/bank-negara-raids-four-premises-in-kedah-perak-over-suspected-illegal-forex-advertising/",
+    "source": "BusinessToday",
+    "site": "www.businesstoday.com.my",
+    "date": "2026-11-06T02:40:00+00:00",
     "lang": "en",
-    "summary": "BNM scam warning: fake websites and malicious apps are impersonating the central bank to steal Malaysians’ banking details.",
+    "summary": "Bank Negara Malaysia (BNM) has taken enforcement action against Najmuldin Exchanger and Nusantara Global Network over suspected violations of the Financial Services Act 2013 involving the unauthorised ...",
     "src": "bnm",
     "src_name": "BNM",
     "ai": {
-     "summary": "马来西亚国家银行提醒公众，诈骗者冒充央行，利用假网站和恶意应用程序窃取个人及银行资料。央行表示，网站看起来官方不代表真实可靠，民众遇到可疑信息可到其核实页面查询。",
+     "summary": "国家银行（中央银行）近日在吉打和霹雳的四处场所进行突击搜查，针对两家机构涉嫌违反《2013年金融服务法令》、未经许可从事外汇业务的情况展开执法。原文全文无法读取，以下内容仅依据标题与出版方摘要整理。",
      "points": [
-      "央行在X平台发文提醒，并列出核实网址bnm.gov.my/verify",
-      "诈骗手法包括冒用行长形象的深伪广告、冒充央行的电邮和信件，以及冒充高级职员的讯息",
-      "央行表示绝不会以任何调查为由要求民众转账或透露个人银行资料"
+      "国家银行对Najmuldin Exchanger和Nusantara Global Network采取执法行动",
+      "搜查范围涉及吉打和霹雳共四处场所",
+      "涉嫌未经授权进行外汇广告与业务"
      ],
-     "why": "企业主与员工应留意假冒官方的电邮、讯息或应用程序，避免在未经核实的渠道上提供公司或个人的银行资料。",
-     "title_zh": "马来西亚国行警告假网站与应用程序盗取银行资料"
+     "why": "",
+     "title_zh": "国家银行突击搜查吉打与霹雳四处场所，涉嫌非法外汇广告"
     }
    }
   ],
@@ -1262,6 +1284,26 @@
      ],
      "why": "",
      "title_zh": ""
+    }
+   },
+   {
+    "id": "307fb82f66",
+    "title": "Designing the money part of Malaysia’s long-term care system: Economists share what to look out for",
+    "link": "https://malaysia.news.yahoo.com/designing-money-part-malaysia-long-230000366.html",
+    "source": "Yahoo Malaysia",
+    "site": "malaysia.news.yahoo.com",
+    "date": "2026-11-13T15:00:00+00:00",
+    "lang": "en",
+    "summary": "It may be \"tricky\" for Malaysia to figure out who or what will be paying for the long-term care and support of older Malaysians in their day-to-day life, an economist has said. \"I think the financing ...",
+    "ai": {
+     "summary": "马来西亚要为长者日常照护找出由谁付费的方式，仍面临不小难题。世界银行经济学家认为，可以用税收拨款，或强制性保险，但两者都有挑战。世卫组织经济学家则建议先定下要涵盖哪些照护服务，再从小规模起步逐步扩充。",
+     "points": [
+      "世行经济学家Matthew Dornan指出，马来西亚没有可作为基础的全国健保体系，公积金制度也未涵盖所有人。",
+      "税收方案的主要难题是财政空间有限，税收基础偏低。",
+      "世卫组织经济学家Debbie Muirhead建议先确定服务范围，并指出照护也包括社交支持，不只是机构照护。"
+     ],
+     "why": "这些讨论仍在早期阶段，尚未有定案；对企业主而言，未来若推出强制性照护制度，可能影响员工福利与薪资成本，但目前并无明确影响。",
+     "title_zh": "规划马来西亚长期照护体系的资金部分：经济学家分享值得关注的重点"
     }
    },
    {
@@ -1637,6 +1679,26 @@
     }
    },
    {
+    "id": "c7693f85c5",
+    "title": "“别当剥削家佣帮凶”，NGO促高官显要以身作则缴社险",
+    "link": "https://www.malaysiakini.com/news/888553-ngo%E4%BF%83%E9%AB%98%E5%AE%98%E6%98%BE%E8%A6%81%E4%BB%A5%E8%BA%AB%E4%BD%9C%E5%88%99%E7%BC%B4%E7%A4%BE%E9%99%A9%E5%88%AB%E5%BD%93%E5%89%A5%E5%89%8A%E5%AE%B6%E4%BD%A3%E5%B8%AE%E5%87%B6",
+    "source": "当今大马",
+    "site": "www.malaysiakini.com",
+    "date": "2026-11-05T02:18:00+00:00",
+    "lang": "zh",
+    "summary": "拉玛南（上图）昨日 揭露 ，截至11月1日，社险机构初步排查发现，共有1万零33名雇主未履行缴纳社险的义务，而598名包括国州议员在内的高官显要名列其中；另有2万6669名雇主有欠缴记录。",
+    "ai": {
+     "summary": "人力资源部长拉玛南披露，截至11月1日，社会保险机构初步排查发现，约1万33名雇主未依法为家佣缴纳社险（Socso），其中598名高官显要（包括国州议员）也在名单内。移民权益组织妇女力量对此表示震惊，认为为帮佣缴社险是雇主的基本法律义务，要求政府透明且一致地执法。",
+     "points": [
+      "截至11月1日，共1万零33名雇主未履行缴社险义务",
+      "598名高官显要（含国州议员）名列其中，另2万6669名雇主有欠缴记录",
+      "涉事者若未在12月7日前履行义务，当局将展开执法行动"
+     ],
+     "why": "家佣的社险供款属于雇主法律义务，雇主若有家佣应留意相关缴付要求及12月7日的期限。",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "61ea274fa3",
     "title": "推动医疗改革保障永续发展 MediAsas设独立董事会",
     "link": "https://www.klsescreener.com/v2/news/view/1821875/%E6%8E%A8%E5%8A%A8%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9%E4%BF%9D%E9%9A%9C%E6%B0%B8%E7%BB%AD%E5%8F%91%E5%B1%95-mediasas%E8%AE%BE%E7%8B%AC%E7%AB%8B%E8%91%A3%E4%BA%8B%E4%BC%9A",
@@ -1651,6 +1713,26 @@
       "由私立医疗成本跨部门部长级委员会（JBMKKS）宣布成立",
       "董事会负责战略领导、监督及监测MediAsas计划",
       "重点事项包括计划落实、行政管理和表现，目标是长期永续发展"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "d3334c1fe9",
+    "title": "【尼泊尔-西藏山洪】28个遇难者家庭符合资格 可获社险赔偿金",
+    "link": "https://www.orientaldaily.com.my/news/stories/2026/11/04/860380",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-11-04T01:51:00+00:00",
+    "lang": "zh",
+    "summary": "（吉隆坡4日讯）今年8月26日发生在尼泊尔与西藏的山洪，造成54名马来西亚公民下落不明，其中有28个家庭符合资格，可获得社会保险机构（PERKESO）发放的抚恤金。人力资源部长拿督斯里拉玛南表示，社险机构已对54名遇难者进行审核，当中有28人符合缴纳社会保险的资格条件，因此他们的家属可获得相关抚恤金。他说，28个家庭共获得了17万4000令吉的抚恤金。他表示，今天只有16个家庭到场领取，其馀家庭的 ...",
+    "ai": {
+     "summary": "今年8月26日尼泊尔与西藏发生山洪，54名马来西亚公民下落不明。社会保险机构（PERKESO）审核后，有28个遇难者家庭符合领取抚恤金的资格，共获得17万4000令吉。人力资源部长拿督斯里拉玛南在吉隆坡社险大厦主持移交仪式，当天有16个家庭领取，其余家庭将分批发放。",
+     "points": [
+      "山洪发生于今年8月26日，54名马来西亚公民下落不明",
+      "28个家庭符合资格，共获得17万4000令吉抚恤金",
+      "今天16个家庭到场领取，其余12户由社险人员上门拜访"
      ],
      "why": "",
      "title_zh": ""
@@ -1954,7 +2036,7 @@
     "link": "https://ua.news/cn/dovkolo-svitu/spacex-zapustila-starship-u-15-i-testovii-polit-u-tekhasi-cnbc",
     "source": "UA.NEWS",
     "site": "ua.news",
-    "date": "2026-11-13T15:47:00+00:00",
+    "date": "2026-11-13T15:50:00+00:00",
     "lang": "zh",
     "summary": "SpaceX在美国得克萨斯州进行了超重型火箭“星舰”的第15次测试飞行。该火箭于当地时间16时47分，即美国东部时间17时47分，从Starbase发射场升空。据 CNBC报道 ，这是该公司首次尝试在发射台同时捕获Super Heavy助推器和火箭上级。",
     "ai": {
@@ -2109,6 +2191,26 @@
     }
    },
    {
+    "id": "4e477d3d01",
+    "title": "马斯克公开说想招黄仁勋，他真会去特斯拉搞AI吗？",
+    "link": "https://cj.sina.com.cn/articles/view/9028722496/21a275f4007201ctmm",
+    "source": "cj",
+    "site": "cj.sina.com.cn",
+    "date": "2026-11-13T13:54:00+00:00",
+    "lang": "zh",
+    "summary": "黄仁勋刚从英伟达卸任，马斯克就在社交平台回应网友招揽提议，说“那将是我的荣幸”。一句话把外界的猜测直接拉满：这位把英伟达推到AI算力核心位置的创始人，真的会转头去特斯拉搞AI吗？先得说清楚，马斯克的表态更像公开场合的礼貌性回应，离实质性合作还差得远。",
+    "ai": {
+     "summary": "英伟达创始人黄仁勋刚卸任，马斯克在社交平台上回应网友招揽他的提议，说“那将是我的荣幸”。这更像是公开场合的礼貌回应，离真正的合作还有很大距离，外界对黄仁勋去向的猜测也还为时尚早。",
+     "points": [
+      "黄仁勋刚从英伟达卸任，马斯克在社交平台公开回应招揽提议",
+      "报道称黄仁勋近期离职仓促，后续事务较多，短期内难以敲定新去向",
+      "特斯拉在自动驾驶和人形机器人方面有大量AI算力需求"
+     ],
+     "why": "这类人事与产业动向主要是新闻层面的观察，对一般企业主的日常经营暂时没有直接影响，可以持续关注AI算力市场的走向。",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "e05916e599",
     "title": "马斯克“全复用火箭”雄心迎验证！SpaceX星舰明日试飞挑战“双回收 ...",
     "link": "https://news.qq.com/rain/a/20261113A0EB6400",
@@ -2229,43 +2331,23 @@
     }
    },
    {
-    "id": "65dfccc7c6",
-    "title": "马斯克旗下两大巨头SpaceX与特斯拉或最快12月合并",
-    "link": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqwtt0932639.shtml",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-13T10:56:00+00:00",
-    "lang": "zh",
-    "summary": "当地时间12日，据知情人士透露，美国企业家马斯克旗下两家公司太空探索技术公司（SpaceX）与特斯拉的合并谈判正在推进，双方董事会及顾问正敲定交易条款和合并后公司的治理架构等事项，双方最快可能于12月宣布这笔交易，也可能推迟至2027年初。",
+    "id": "e68b425448",
+    "title": "SpaceX’s Starship soars into orbit after double catch thwarted by booster malfunction",
+    "link": "https://www.msn.com/en-us/science/general/spacex-s-starship-soars-into-orbit-after-double-catch-thwarted-by-booster-malfunction/ar-AA2ho7H4",
+    "source": "MSN",
+    "site": "www.msn.com",
+    "date": "2026-11-13T15:36:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster malfunctioned and ended up in the water Friday, but the spacecraft still soared into orbit in its ...",
     "ai": {
-     "summary": "据知情人士透露，马斯克旗下的SpaceX与特斯拉正在推进合并谈判，双方董事会和顾问正在敲定交易条款和合并后的管理架构。交易最快可能在12月宣布，也可能推迟到2027年初。合并后将整合电动车、储能电池、火箭和卫星业务，但仍需通过监管和股东审批。",
+     "summary": "SpaceX的星舰（Starship）成功升空并进入轨道，但原计划的“双重回收”未能完成：助推器出现故障，最终落入海中。根据摘要，飞船本身仍按计划飞行。",
      "points": [
-      "消息来源为知情人士，报道时间为当地时间12日",
-      "截至12日美股收盘，SpaceX市值约1.90万亿美元，特斯拉约1.57万亿美元，合计约3.47万亿美元",
-      "马斯克表示两家公司董事会已各自成立独立董事特别委员会研究此事，他因同时担任两家公司首席执行官而不参与讨论"
+      "星舰飞船已进入轨道",
+      "原计划让助推器和飞船都返回发射台回收，未能成功",
+      "助推器故障后落入水中"
      ],
      "why": "",
      "title_zh": ""
-    }
-   },
-   {
-    "id": "1181113181",
-    "title": "SpaceX’s attempt for a Starship double catch is thwarted when the booster ends up in Gulf of Mexico",
-    "link": "https://www.msn.com/en-us/technology/space-exploration/spacex-s-starship-soars-into-orbit-after-double-catch-thwarted-by-booster-malfunction/ar-AA2ho2Bz",
-    "source": "Associated Press News",
-    "site": "www.msn.com",
-    "date": "2026-11-13T15:34:44+00:00",
-    "lang": "en",
-    "summary": "SpaceX launched Starship toward orbit Friday in its boldest test yet: a 22-hour flight that aimed to capture the entire rocket in a move meant to accelerate moon and Mars travel. But Elon Musk’s ...",
-    "ai": {
-     "summary": "SpaceX launched its Starship rocket on a test flight toward orbit, aiming to catch both the upper stage and the booster back at the launch site. The booster did not make it back and ended up in the Gulf of Mexico, so the planned double catch failed.",
-     "points": [
-      "SpaceX 的星舰在周五发射，是其迄今最大胆的测试，飞行时长约22小时。",
-      "计划是同时回收整枚火箭，以加快月球和火星任务的进度。",
-      "助推器最终落入墨西哥湾，未能被成功回收。"
-     ],
-     "why": "这次测试属于太空科技领域的新闻，对马来西亚的一般企业主影响有限，暂无明确关联。",
-     "title_zh": "SpaceX星舰双回收尝试受挫 助推器落入墨西哥湾"
     }
    },
    {
@@ -2309,86 +2391,6 @@
     }
    },
    {
-    "id": "f394bc493f",
-    "title": "SpaceX Starship 15’s Super Heavy booster skips tower catch, heads for Gulf splashdown",
-    "link": "https://interestingengineering.com/space/spacex-starship-15th-flight-booster-catch-skipped",
-    "source": "Interesting Engineering",
-    "site": "interestingengineering.com",
-    "date": "2026-11-13T15:27:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX skips a Super Heavy booster catch during Starship's 15th flight, sending the massive rocket into the Gulf of Mexico instead.",
-    "ai": {
-     "summary": "SpaceX launched its 15th Starship test flight from Starbase in South Texas. It skipped the planned catch of the Super Heavy booster by the launch tower and instead let the booster land in the Gulf of Mexico. Attention now turns to the upper stage, which aims to return to its launch site.",
-     "points": [
-      "Starship's 15th test flight lifted off from Starbase, South Texas, on a Friday",
-      "The Super Heavy booster, using 33 Raptor engines, was planned for a tower catch but was sent to a Gulf of Mexico splashdown instead",
-      "The upper stage is targeting a return to the launch tower about 22 hours after liftoff, with mechanical arms known as chopsticks to catch it"
-     ],
-     "why": "For Malaysian business owners, this is a mainly technical space-industry update with no direct effect on local costs or staff; it is only a remote signal of how the satellite internet market may develop.",
-     "title_zh": "SpaceX星舰15号超重型助推器放弃塔架回收，改为海上溅落墨西哥湾"
-    }
-   },
-   {
-    "id": "18fccb400b",
-    "title": "SpaceX launches Starship test flight as company pushes satellite and reusability goals",
-    "link": "https://tradersunion.com/news/companies/show/4240193-spacex-starship-test-satellite-reuse/",
-    "source": "tradersunion",
-    "site": "tradersunion.com",
-    "date": "2026-11-13T15:24:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX launches its 15th Starship test flight in Texas, aiming for stage reusability and deploying new Starlink v3 satellites to boost commercial growth.",
-    "ai": {
-     "summary": "SpaceX 在德州发射了第15次星舰测试飞行。这次任务的目标之一是测试火箭各级的可回收性，并部署新一代星链 v3 卫星，以推动公司的商业业务增长。",
-     "points": [
-      "第15次星舰测试飞行，地点在德州",
-      "目标包括验证火箭各级可重复使用",
-      "任务中将部署新一代星链 v3 卫星"
-     ],
-     "why": "",
-     "title_zh": "SpaceX 发射星舰测试飞行，推进卫星与可重复使用目标"
-    }
-   },
-   {
-    "id": "e5c8b3ed19",
-    "title": "SpaceX launches first-of-its-kind Starship test flight",
-    "link": "https://tech.yahoo.com/science/articles/spacex-launches-first-kind-starship-232045701.html",
-    "source": "YAHOO!",
-    "site": "tech.yahoo.com",
-    "date": "2026-11-13T15:21:00+00:00",
-    "lang": "en",
-    "summary": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
-    "ai": {
-     "summary": "SpaceX launched its giant Starship rocket on its 15th test flight. The booster could not return to the launch pad for a mechanical-arm catch, so it splashed down in the Gulf of Mexico off Texas and burned, while the upper stage kept climbing toward orbit.",
-     "points": [
-      "The upper stage was planned to deploy the first of 26 upgraded Starlink internet satellites.",
-      "The booster was diverted to a Gulf Coast splashdown after a technical problem about six minutes into flight.",
-      "A Starship upper-stage pad catch was still planned for Saturday, with a return to Starbase in Texas."
-     ],
-     "why": "The article covers a space company's technical test and does not link to costs, staff or family matters for Malaysian businesses.",
-     "title_zh": "SpaceX 星舰进行首次测试飞行"
-    }
-   },
-   {
-    "id": "c33fedf3ba",
-    "title": "SpaceX launches 15th Starship flight; aborts booster recovery maneuver",
-    "link": "https://www.nbcnews.com/science/space/spacex-launches-15th-starship-flight-aborts-booster-recovery-maneuver-rcna609274",
-    "source": "NBC News",
-    "site": "www.nbcnews.com",
-    "date": "2026-11-13T15:21:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX planned to use the same return-flight and “chopstick”-arm technology to recover Starship’s lower-stage booster rocket, but the maneuver was aborted shortly after launch.",
-    "ai": {
-     "summary": "SpaceX launched its 15th uncrewed Starship test flight from Texas on Friday, aiming for the first round-trip to orbit that returns to the launch site. The planned catch of the lower booster stage was aborted shortly after launch, so the booster splashed down in the Gulf of Mexico instead, and the reason was not immediately clear.",
-     "points": [
-      "Friday evening launch from SpaceX's Starbase site in South Texas; the flight carried a batch of operational Starlink satellites",
-      "The booster recovery maneuver using mechanical 'chopsticks' arms was aborted; the booster landed in the Gulf of Mexico",
-      "NASA has paid SpaceX roughly $3.2 billion since 2021 for Starship's role as a moon lander"
-     ],
-     "why": "For Malaysian business owners, this is a space-industry development with little direct effect on local costs or operations, though it shows how fast satellite internet infrastructure is expanding.",
-     "title_zh": "SpaceX第15次星舰发射 助推器回收操作中止"
-    }
-   },
-   {
     "id": "1ecbf48026",
     "title": "SpaceX unveils Starlink Mini 2 with a removable battery that can last up to 4.5 hours",
     "link": "https://www.msn.com/en-us/technology/space-exploration/spacex-unveils-starlink-mini-2-with-a-removable-battery-that-can-last-up-to-4-5-hours/ar-AA2hoyEm",
@@ -2407,16 +2409,6 @@
      "why": "对于经常在工地、外勤或户外作业的中小企业来说，便携式卫星网络或许能作为备用联网方案，但具体价格和服务条款仍需以官方公布为准。",
      "title_zh": "SpaceX 推出可拆卸电池的 Starlink Mini 2，续航最长约 4.5 小时"
     }
-   },
-   {
-    "id": "009152e0b3",
-    "title": "SpaceX launch attempts to bring Starship back to South Texas",
-    "link": "https://myrgv.com/alerts-brh/2026/11/13/spacex-launch-attempts-to-bring-starship-back-to-south-texas/",
-    "source": "MyRGV.com",
-    "site": "myrgv.com",
-    "date": "2026-11-13T15:18:00+00:00",
-    "lang": "en",
-    "summary": "Instead, SpaceX opted to land Super Heavy offshore in the Gulf of Mexico. SpaceX has retrieved the booster at the launch site on three occasions previously. Following stage separation, Starship ..."
    },
    {
     "id": "36f620dfec",
@@ -2539,6 +2531,106 @@
     }
    },
    {
+    "id": "35f104afd7",
+    "title": "House Republican invites Elon Musk to move Tesla HQ to Florida after Texas turns blue",
+    "link": "https://www.cltampa.com/news/house-republican-invites-elon-musk-to-move-tesla-hq-to-florida-after-texas-turns-blue/",
+    "source": "Creative Loafing Tampa Bay",
+    "site": "www.cltampa.com",
+    "date": "2026-11-13T12:04:00+00:00",
+    "lang": "en",
+    "summary": "President Donald Trump participates in a press conference with departing DOGE adviser Elon Musk, Friday, May 30, 2025. Florida Representative Carlos A.",
+    "ai": {
+     "summary": "佛州联邦众议员吉门内斯致信特斯拉创办人马斯克，邀请他把特斯拉总部迁往佛罗里达州。他称佛州不会像其他州那样“调查和惩罚成功者”。此前马斯克曾表示德州的营商环境对特斯拉和SpaceX很有利，而德州新当选的民主党州长候选人希诺霍萨已提出暂停兴建数据中心。马斯克尚未回应这项邀请。",
+     "points": [
+      "吉门内斯在本月中期选举后致函马斯克，正式邀请迁总部到佛州",
+      "德州民主党人希诺霍萨赢得选举，她主张暂停兴建数据中心",
+      "马斯克宣布将在德州和亚利桑那州投资740亿美元兴建SpaceX数据中心"
+     ],
+     "why": "",
+     "title_zh": "佛州联邦众议员邀请马斯克把特斯拉总部迁往佛州，德州转蓝后"
+    }
+   },
+   {
+    "id": "3ce9a1a238",
+    "title": "Elon Musk's SpaceX–Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-tesla-merger-194506369.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-13T11:45:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk’s biographer believes Tesla and SpaceX are destined to merge, arguing their increasingly intertwined technology ambitions make keeping them separate almost impossible. “It’s almost ...",
+    "ai": {
+     "summary": "特斯拉传记作者、Walter Isaacson认为，特斯拉与SpaceX迟早会合并，因为两家公司在技术方向上越来越紧密相连。据报道，两家公司正在洽谈合并，最快可能12月宣布，但马斯克本人态度较为谨慎。",
+     "points": [
+      "Polymarket上，2025年底前正式宣布合并的概率从约10%升至31%",
+      "市场预期2027年底前合并的概率为81%",
+      "两家公司合并后总估值约3.45万亿美元，若成功可能是史上最大并购"
+     ],
+     "why": "这类大型并购若成真，可能影响相关科技股的股东与供应链，但目前仍只是传闻与讨论阶段，对一般中小企业的直接影响有限。",
+     "title_zh": "马斯克SpaceX与特斯拉合并“几乎不可避免”，传记作者称"
+    }
+   },
+   {
+    "id": "c8ac64ad89",
+    "title": "Elon Musk’s Biggest Rocket Launch Yet Could Change the Economics of Space Travel—If It Works",
+    "link": "https://www.inc.com/kit-eaton/elon-musks-biggest-rocket-launch-yet-could-change-the-economics-of-space-travel-if-it-works/91436353",
+    "source": "Inc.com",
+    "site": "www.inc.com",
+    "date": "2026-11-13T10:52:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX is planning to launch Starship today and bring both parts of it back to Earth in reusable form. Not even the Space Shuttle did that.",
+    "ai": {
+     "summary": "SpaceX计划今天发射其大型火箭Starship，并希望让火箭的两个部分都能回收再次使用。发布方指出，连航天飞机都没有做到这一点。这次发射若成功，可能改变太空飞行的成本结构，但结果尚未确定。",
+     "points": [
+      "SpaceX计划发射Starship火箭",
+      "目标是让火箭两个部分都能以可重复使用的形式返回地球",
+      "报道称即使是航天飞机也未做到这一点"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "cc4e8f3645",
+    "title": "SpaceX Calling! Starlink Looks to Door-to-Door Sales to Lure New Users",
+    "link": "https://au.pcmag.com/networking/120901/spacex-calling-starlink-looks-to-door-to-door-sales-to-lure-new-users",
+    "source": "PC Magazine",
+    "site": "au.pcmag.com",
+    "date": "2026-11-13T10:28:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX, known for its cutting-edge rockets and satellites, is venturing into the old-school method of door-to-door sales to attract more Starlink users in the US. Several new job listings say SpaceX ...",
+    "ai": {
+     "summary": "SpaceX, the rocket and satellite company behind Starlink, is reportedly trying an old-fashioned approach: sending salespeople door to door to sign up new US internet customers. Several new job listings are said to point to this effort, which would add to Starlink's usual online and retail marketing.",
+     "points": [
+      "The move is aimed at attracting more Starlink users in the US.",
+      "Several new job listings are the basis for the report.",
+      "The publisher summary describes it as a return to traditional door-to-door sales."
+     ],
+     "why": "",
+     "title_zh": "SpaceX 上门推销？Starlink 考虑挨家挨户拉新用户"
+    }
+   },
+   {
+    "id": "46f29d9ef3",
+    "title": "Elon Musk's ex Ashley St. Clair claims White House staffer Dan Scavino's wife had multiple affairs with both men and women: I would know",
+    "link": "https://www.msn.com/en-ca/news/other/elon-musk-s-ex-ashley-st-clair-claims-white-house-staffer-dan-scavino-s-wife-had-multiple-affairs-with-both-men-and-women-i-would-know/ar-AA2hnjoG",
+    "source": "OK Magazine",
+    "site": "www.msn.com",
+    "date": "2026-11-13T10:13:00+00:00",
+    "lang": "en",
+    "summary": "Ashley St. Clair made sweeping claims about Dan Scavino's marriage. The former conservative influencer alleged that the White House Deputy Chief of Staff's wife had been unfaithful in past ...",
+    "ai": {
+     "summary": "前X平台网红阿什莉·圣克莱尔（Ashley St. Clair）是马斯克的前伴侣，她公开指称白宫副幕僚长丹·斯卡维诺（Dan Scavino）的妻子过去曾多次出轨，对象包括男性和女性。她还说“我会知道”，以此增加可信度。这些说法目前只是她的个人指控，报道所依据的文章内容无法读取，外界尚无可核实的证据。",
+     "points": [
+      "指控人为马斯克前伴侣阿什莉·圣克莱尔",
+      "被指控对象是白宫副幕僚长丹·斯卡维诺的妻子",
+      "指控称涉及男女对象，属于个人私生活层面的说法"
+     ],
+     "why": "",
+     "title_zh": "马斯克前伴侣指称白宫幕僚丹·斯卡维诺的妻子曾与男女多次出轨：我会知道"
+    }
+   },
+   {
     "id": "12e04e061b",
     "title": "全球首座半潜式风电制氢平台拖航启程",
     "link": "https://www.chinanews.com/cj/2026/11-13/10731848.shtml",
@@ -2619,6 +2711,26 @@
     }
    },
    {
+    "id": "1f1668a250",
+    "title": "新华能源周报丨《“十五五”新型储能实施方案》印发；全国首个具 ...",
+    "link": "http://www3.xinhuanet.com/energy/20261113/a21164da2a31467f8fe5720b7b024fbd/c.html",
+    "source": "新华网",
+    "site": "www3.xinhuanet.com",
+    "date": "2026-11-13T07:54:00+00:00",
+    "lang": "zh",
+    "summary": "本周（11月9日-11月13日），能源领域热点频发。国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》，方案提出，到2030年，新型储能由规模化发展阶段步入市场化发展阶段，全国新型储能装机规模达到3亿千瓦，平均储能时长3小时左右。企业方面，中国石化牵头成功研发国内首个具身智能压力表全自动检定装置，全程只需5~6分钟，大幅提升工作效率，标志着指针压力表检定从“人测”走向“机测”。 11月9 ...",
+    "ai": {
+     "summary": "国家发展改革委和国家能源局印发《“十五五”新型储能实施方案》，提出到2030年，全国新型储能装机规模达到3亿千瓦，平均储能时长约3小时，新型储能将从规模化阶段进入市场化发展阶段。同一周内，多项能源领域政策与项目相继公布，包括医疗机构节能降碳通知、国内成品油价格下调等。",
+     "points": [
+      "方案目标：2030年全国新型储能装机3亿千瓦，平均储能约3小时",
+      "发布单位：国家发展改革委、国家能源局，文件日期为11月13日",
+      "同期：11月12日起国内汽、柴油标准品价格每吨分别下调645元、625元"
+     ],
+     "why": "新型储能和电价调整可能影响用电成本与能源相关业务的布局，企业主可留意后续细则与市场变化。",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "76918f47c2",
     "title": "【阳光之城 富强华坪】华坪西风电场150兆瓦风电项目首台风机顺利 ...",
     "link": "https://finance.sina.com.cn/wm/2026-11-13/doc-iniyqwtz3579106.shtml",
@@ -2633,6 +2745,26 @@
       "项目规划总装机150兆瓦，共24台风机，配套新建一座220千伏升压站",
       "项目总投资约7.05亿元，建成后年均上网电量约2.87亿千瓦时",
       "送出线路工程2026年7月完成，主体工程2026年9月进场，目前进入设备安装阶段"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "9fa3a06221",
+    "title": "【早报】新型储能重磅实施方案印发；TCL中环、中国稀土下周一复牌",
+    "link": "https://finance.eastmoney.com/a/202611143931108285.html",
+    "source": "东方财富网财经频道",
+    "site": "finance.eastmoney.com",
+    "date": "2026-11-13T02:00:00+00:00",
+    "lang": "zh",
+    "summary": "1、央行数据显示，初步统计，2026年前十个月社会融资规模增量累计为28.61万亿元，比上年同期少2.29万亿元。10月末，广义货币(M2)余额359.06万亿元，同比增长7.1%。10月末，本外币贷款余额287.25万亿元，同比增长4.6%。月末人民币贷款余额283.33万亿元，同比增长4.7%。前十个月人民币贷款增加11.42万亿元。 2、外交部发言人毛宁昨日主持例行记者会。记者提问称，美国议 ...",
+    "ai": {
+     "summary": "这是一篇综合财经早报，内容涵盖央行金融数据、新型储能政策、国际油价与市场动态等。央行初步统计显示，2026年前十个月社会融资规模增量为28.61万亿元，比上年同期少2.29万亿元。国家发改委和国家能源局印发了“十五五”新型储能实施方案，提出到2030年全国新型储能装机规模达到3亿千瓦。",
+     "points": [
+      "前十个月社会融资规模增量28.61万亿元，比上年同期少2.29万亿元",
+      "10月末M2余额359.06万亿元，同比增长7.1%",
+      "到2030年全国新型储能装机规模目标为3亿千瓦"
      ],
      "why": "",
      "title_zh": ""
@@ -2699,6 +2831,26 @@
     }
    },
    {
+    "id": "f4fd2956f3",
+    "title": "建投能源6.81亿元竞得三峡蒙能22%股权 将参股投资库布齐基地项目",
+    "link": "https://finance.ifeng.com/c/8y04s9EzS8j",
+    "source": "凤凰网财经",
+    "site": "finance.ifeng.com",
+    "date": "2026-11-12T13:39:00+00:00",
+    "lang": "zh",
+    "summary": "11月12日晚间，建投能源(000600)公告，为实现源荷互动，优化公司资产结构，扩大新能源权益装机，公司于近日在北京产权交易所竞得三峡陆上能投公司和蒙能集团公开转让的三峡蒙能22%股权，实现参股投资内蒙古库布齐沙漠鄂尔多斯中北部新能源基地项目（下称“库布齐基地项目”）。",
+    "ai": {
+     "summary": "建投能源公告称，公司通过北京产权交易所竞得三峡蒙能22%股权，底价及成交价均为6.81亿元，借此参股内蒙古库布齐沙漠的新能源基地项目。公司表示此举旨在促进电源与用电负荷互动、扩大新能源权益装机规模。",
+     "points": [
+      "成交价6.81亿元，即挂牌底价，11月11日确定受让方身份",
+      "三峡蒙能股权比例调整后，三峡陆上能投持股51%，蒙能集团不再直接持股",
+      "库布齐基地项目位于鄂尔多斯达拉特旗，规划光伏800万千瓦、风电400万千瓦"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "98fff7dca5",
     "title": "拟投资73亿元！新疆风光储龙头立新能源：子公司拟建250万千瓦风电 ...",
     "link": "https://news.qq.com/rain/a/20261112A0E07100",
@@ -2759,80 +2911,20 @@
     }
    },
    {
-    "id": "e51a7667dd",
-    "title": "立新能源(001258.SZ)：控股子公司拟投资建设250万千瓦风电项目",
-    "link": "https://www.msn.cn/zh-cn/news/other/%E7%AB%8B%E6%96%B0%E8%83%BD%E6%BA%90001258sz-%E6%8E%A7%E8%82%A1%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8B%9F%E6%8A%95%E8%B5%84%E5%BB%BA%E8%AE%BE250%E4%B8%87%E5%8D%83%E7%93%A6%E9%A3%8E%E7%94%B5%E9%A1%B9%E7%9B%AE/ar-AA2hhLlw",
-    "source": "格隆汇",
-    "site": "www.msn.cn",
-    "date": "2026-11-12T03:33:02+00:00",
+    "id": "59f3f052ba",
+    "title": "建投能源：竞得三峡蒙能22%股权",
+    "link": "https://m.jiemian.com/article/15327156_sina.html",
+    "source": "界面新闻",
+    "site": "m.jiemian.com",
+    "date": "2026-11-12T07:03:00+00:00",
     "lang": "zh",
-    "summary": "格隆汇11月12日丨立新能源(001258.SZ)公布，根据公司发展战略规划，为进一步扩大公司新能源发电装机规模，做大做强主营业务，提升核心竞争力，立新能源控股子公司奇台能投拟投资建设奇台250万千瓦新能源项目，其中包括能投合创奇台县75万千瓦风电项目、新疆能源北疆投资奇台县75万千瓦风电项目、新疆能源奇台县100万千瓦风电项目共计3个子项目。项目总投资预计73.20亿元。资本金占总投资的20%， ...",
+    "summary": "建投能源11月12日公告，公司于近日在北京产权交易所竞得三峡陆上新能源投资有限公司和内蒙古能源集团有限公司公开转让的内蒙古三峡蒙能能源有限公司22%股权，实现参股投资内蒙古库布齐沙漠鄂尔多斯中北部新能源基地项目，受让价格为挂牌底价6.81亿元。库布齐基地项目位于鄂尔多斯达拉特旗，建设光伏800万千瓦、风电400万千瓦，配置400万千瓦煤电、500万千瓦时新型储能及20万千瓦光热。",
     "ai": {
-     "summary": "立新能源（001258.SZ）公告称，其控股子公司奇台能投计划投资建设奇台县250万千瓦新能源项目，以扩大公司发电装机规模、强化主营业务。项目由三个风电子项目组成，合计规模250万千瓦。",
+     "summary": "建投能源公告称，公司在北京产权交易所竞得内蒙古三峡蒙能能源有限公司22%股权，以挂牌底价6.81亿元成交，属于参股投资。该公司所在的库布齐沙漠新能源基地位于鄂尔多斯达拉特旗，规划光伏和风电等项目。",
      "points": [
-      "项目规模共250万千瓦，分三个风电子项目建设",
-      "三个子项目分别为75万千瓦、75万千瓦和100万千瓦",
-      "项目总投资预计73.20亿元，资本金占总投资的20%"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "f15e5fd383",
-    "title": "我国纬度最高风电项目投产运行",
-    "link": "https://news.bjx.com.cn/html/20261112/1519932.shtml",
-    "source": "北极星电力网新闻",
-    "site": "news.bjx.com.cn",
-    "date": "2026-11-12T03:16:00+00:00",
-    "lang": "zh",
-    "summary": "北极星风力发电网获悉，近日，中国电建公司电建新能源公司投资建设的大兴安岭塔河县十八站50兆瓦风电项目正式投产运行。该项目是我国纬度最高、地处最北端的风电项目，项目投产标志着大兴安岭地区清洁能源开发利用迈出重要一步。 项目坐落于黑龙江塔河县十八站区域，总规划容量50兆瓦，共安装8台单机容量6.25兆瓦风电机组，轮毂高度140米，风轮直径200米，同步配套建设一座220千伏升压站；项目配置5兆瓦/10 ...",
-    "ai": {
-     "summary": "中国电建新能源公司投资建设的黑龙江塔河县十八站50兆瓦风电项目已正式投产运行。该项目是中国纬度最高、位置最北的风电项目，标志着大兴安岭地区清洁能源开发迈出重要一步。",
-     "points": [
-      "项目位于黑龙江塔河县十八站，总规划容量50兆瓦",
-      "共安装8台单机6.25兆瓦风电机组，轮毂高度140米，风轮直径200米",
-      "同步配套建设一座220千伏升压站"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "0872ef775f",
-    "title": "立新能源：控股子公司拟投建250万千瓦风电项目",
-    "link": "https://www.msn.cn/zh-cn/news/other/%E7%AB%8B%E6%96%B0%E8%83%BD%E6%BA%90-%E6%8E%A7%E8%82%A1%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8B%9F%E6%8A%95%E5%BB%BA250%E4%B8%87%E5%8D%83%E7%93%A6%E9%A3%8E%E7%94%B5%E9%A1%B9%E7%9B%AE/ar-AA2hicic",
-    "source": "格隆汇",
-    "site": "www.msn.cn",
-    "date": "2026-11-12T03:12:23+00:00",
-    "lang": "zh",
-    "summary": "格隆汇11月12日｜立新能源公告，公司董事会审议通过控股子公司奇台县能投合创发电有限公司投资建设奇台250万千瓦新能源项目的议案，含三个风电项目，总投资预计73.20亿元，自有资金占20%，其余为银行贷款等，拟申请新型政策性金融工具以权益性资金注入该子公司。该议案尚需提交股东会审议。此外，董事会审议通过延长2023年度向特定对象发行A股股票决议及授权有效期各12个月的议案，尚需股东会审议。公司拟于 ...",
-    "ai": {
-     "summary": "立新能源公告，董事会通过了控股子公司拟投建奇台250万千瓦新能源项目的议案，项目包含三个风电项目，总投资约73.20亿元。其中自有资金占20%，其余主要靠银行贷款等方式筹集，公司还计划通过新型政策性金融工具以权益资金注入该子公司。此外，董事会同意将2023年度向特定对象发行A股股票决议及授权的有效期各延长12个月。以上两项议案都还需提交股东会审议。",
-     "points": [
-      "奇台250万千瓦新能源项目含三个风电项目，总投资预计73.20亿元",
-      "自有资金占20%，其余为银行贷款等融资",
-      "2023年度定向增发A股决议及授权有效期各延长12个月，两项议案均待股东会审议"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "41bec987f6",
-    "title": "再获越南市场信任——远景与Tai Tam集团签署45MW风电项目与在运风场15 ...",
-    "link": "https://news.bjx.com.cn/html/20261112/1519897.shtml",
-    "source": "北极星电力网新闻",
-    "site": "news.bjx.com.cn",
-    "date": "2026-11-12T01:47:00+00:00",
-    "lang": "zh",
-    "summary": "近日，远景能源与越南 Tai Tam 集团股份公司正式签署Phuoc Dan 45MW 项目风机供货合同。与此同时，针对2021年已投运的Hoang Hai 50MW和Tai Tam 50MW 项目，鉴于建设期与5年运行期内业主对远景产品与服务的高度认可，双方还签署了两个项目15年长期服务合同（LTSA），进一步强化风电场全生命周期战略合作。 越南《第八版电力发展规划（PDP VIII）》将风电列 ...",
-    "ai": {
-     "summary": "远景能源与越南Tai Tam集团签署了Phuoc Dan 45MW风电项目的风机供货合同。同时，双方还为两个已于2021年投运的风电项目（Hoang Hai 50MW和Tai Tam 50MW）签署了15年长期服务合同（LTSA，即长期运维保养协议），以延长风场全生命周期的合作。",
-     "points": [
-      "新项目为Phuoc Dan 45MW风电场，涉及风机供货",
-      "Hoang Hai 50MW和Tai Tam 50MW两个项目已于2021年投运",
-      "两个在运项目各签署15年长期服务合同"
+      "受让价格为挂牌底价6.81亿元，股权比例22%",
+      "标的公司为内蒙古三峡蒙能能源有限公司，转让方为三峡陆上新能源投资有限公司和内蒙古能源集团有限公司",
+      "基地规划光伏800万千瓦、风电400万千瓦，并配置400万千瓦煤电、500万千瓦时新型储能及20万千瓦光热"
      ],
      "why": "",
      "title_zh": ""
@@ -2844,7 +2936,7 @@
     "link": "https://www.thestar.com.my/business/business-news/2026/11/14/aredcs-driving-upenergy-tariffs",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-13T15:47:00+00:00",
+    "date": "2026-11-13T15:51:00+00:00",
     "lang": "en",
     "summary": "ONE of the biggest grouses among those opposed to data centres (DCs) relates to energy consumption. Their concern is that meeting the voracious electricity demand of these facilities will require the ...",
     "ai": {
@@ -2856,6 +2948,26 @@
      ],
      "why": "如果天然气价格或令吉汇率变动，电费可能通过每月的燃料调整机制影响企业的用电成本，中小企业主可留意相关变化。",
      "title_zh": "数据中心会推高电价吗？"
+    }
+   },
+   {
+    "id": "a8f3f1212b",
+    "title": "Ashurst, Perkins Coie Advise on Financing of Egypt Wind Farm",
+    "link": "https://www.miragenews.com/ashurst-perkins-coie-advise-on-financing-of-1777141/",
+    "source": "Mirage News",
+    "site": "www.miragenews.com",
+    "date": "2026-11-13T15:51:00+00:00",
+    "lang": "en",
+    "summary": "Global law firm Ashurst Perkins Coie has advised ENGIE, Orascom Construction and Aeolus (the Sponsors) on the financing of the Gulf of Suez III Wind ...",
+    "ai": {
+     "summary": "国际律所Ashurst Perkins Coie担任法律顾问，协助ENGIE、Orascom Construction和Aeolus三家发起方为埃及苏伊士湾III风电场筹集资金。这座900兆瓦的陆上风电项目位于埃及苏伊士湾沿岸，是非洲规模较大的风电项目之一。项目已于2026年11月12日完成融资交割（financial close，即资金正式到位、可以开工建设）。",
+     "points": [
+      "项目装机容量900兆瓦，建成后发起方在埃及的风电装机将翻倍至约1.8吉瓦",
+      "2026年11月12日完成融资交割",
+      "融资由日本国际协力银行（JBIC）、法国Proparco、荷兰FMO、法国兴业银行等多家国际机构和银行提供，部分商业贷款获日本出口保险机构NEXI承保"
+     ],
+     "why": "",
+     "title_zh": "Ashurst与Perkins Coie为埃及风电场融资提供法律顾问服务"
     }
    },
    {
@@ -3117,31 +3229,11 @@
      "why": "",
      "title_zh": "东米沙鄢州立大学研发太阳能海水淡化技术，供离岛社区使用"
     }
-   },
-   {
-    "id": "9d6c34e2dc",
-    "title": "Oman signs green hydrogen deals at COP31 in Türkiye",
-    "link": "https://www.msn.com/en-us/news/other/oman-signs-green-hydrogen-deals-at-cop31-in-t%C3%BCrkiye/ar-AA2hocu1",
-    "source": "Energy Monitor",
-    "site": "www.msn.com",
-    "date": "2026-11-13T03:15:26+00:00",
-    "lang": "en",
-    "summary": "Duqm developments will combine renewable power, electrolysis, and downstream ammonia production, while a new auction targets data-centre demand.",
-    "ai": {
-     "summary": "阿曼在土耳其举行的COP31气候大会上签署了绿色氢能协议。据报道，杜卦（Duqm）的项目将结合再生能源发电、电解制氢，以及下游的氨生产。另外，阿曼还将推出新的竞标，针对数据中心的用电需求。",
-     "points": [
-      "项目地点为阿曼杜卦（Duqm）",
-      "项目结合再生能源、电解制氢与氨生产",
-      "新竞标针对数据中心的电力需求"
-     ],
-     "why": "",
-     "title_zh": "阿曼在土耳其COP31大会签署绿色氢能协议"
-    }
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-14T07:50+08:00",
+  "updated": "2026-11-14T07:52+08:00",
   "items": {
    "klci": {
     "value": 1582.59,
