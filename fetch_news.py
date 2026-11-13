@@ -95,7 +95,7 @@ LOCAL = (r"(?i)大马|马来西亚|马国|我国|首相|国行|国家银行|令�
          r"malaysia|bank negara|ringgit|\bepf\b|kwsp|putrajaya|kuala lumpur|penang|selangor|johor|sabah|sarawak|anwar|\bmoh\b|\bliam\b")
 JUNK = r"郑重声明|免责声明|Disclaimer"
 # words that contain 保险 / "insurance-like" text but are not about insurance (a condom is 保险套, a fuse 保险丝, ...)
-NOT_ABOUT = {"insurance": r"(?i)保险套|避孕套|安全套|保险丝|保险箱|保险柜|保险杠|保险栓|condom",
+NOT_ABOUT = {"insurance": r"(?i)保险套|避孕套|安全套|保险丝|保险箱|保险柜|保险杠|保险栓|政治保险|condom",
              # China A-share broker ratings and chatter: not for Malaysian business readers
              "finance": r"评级|A股|沪指|深成指|创业板指|沪深|北向资金|中证|券商|涨停|跌停|龙虎榜",
              # sports and gossip that only name-drop Musk
@@ -192,7 +192,9 @@ def ok(x, lang, must, cat):
     if cat in NOT_ABOUT and re.search(NOT_ABOUT[cat], x["title"] + " " + x["summary"]):
         return False
     musts = must if isinstance(must, list) else [must] if must else []
-    return all(re.search(m, text) for m in musts) and (cat in GLOBAL or x.get("src") or re.search(LOCAL, text))
+    # insurance: the headline must be about it (a car review's summary can mention insurance in passing)
+    judged = x["title"] if cat == "insurance" else text
+    return all(re.search(m, judged) for m in musts) and (cat in GLOBAL or x.get("src") or re.search(LOCAL, text))
 
 
 def lhdn_feed():
