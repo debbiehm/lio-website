@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:25:11+00:00",
+ "updated": "2026-11-15T04:08:23+00:00",
  "categories": {
   "ipo": [
    {
@@ -335,6 +335,18 @@
     }
    },
    {
+    "id": "28dcf9c052",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "link": "https://www.reuters.com/markets/portfolio/",
+    "source": "Reuters",
+    "site": "www.reuters.com",
+    "date": "2026-11-14T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news ...",
+    "src": "reuters",
+    "src_name": "Reuters Markets"
+   },
+   {
     "id": "ab0a2228bc",
     "title": "Heritage, hazards and hard hats",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/15/heritage-hazards-and-hard-hats",
@@ -597,28 +609,6 @@
      "why": "运费与全球贸易走势会影响进出口物流成本，中小企业若依赖海运，可留意运输报价的变化。",
      "title_zh": "航运公司CMA CGM受惠于旺盛需求与高运费率"
     }
-   },
-   {
-    "id": "bdc588ae28",
-    "title": "Fed's Collins says more rate hikes are coming, Bloomberg Television reports",
-    "link": "https://www.reuters.com/markets/us/feds-collins-says-more-rate-hikes-are-coming-bloomberg-television-reports-2026-11-13/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-13T08:33:00+00:00",
-    "lang": "en",
-    "summary": "Boston Federal Reserve President Susan Collins ​said on Friday that tighter monetary policy is coming because of high inflation, ‌in comments that suggested the US central bank may have to raise ...",
-    "src": "reuters",
-    "src_name": "Reuters Markets",
-    "ai": {
-     "summary": "波士顿联储主席柯林斯周五表示，由于通胀居高不下，紧缩货币政策即将到来，这暗示美国联邦储备局（美联储）可能还要加息。本摘要仅依据标题和出版方摘要整理，正文未能读取。",
-     "points": [
-      "消息来源为路透社，引述彭博电视台报道",
-      "柯林斯于周五发表上述言论",
-      "原因是通胀偏高，言论暗示美联储或需进一步加息"
-     ],
-     "why": "",
-     "title_zh": "波士顿联储主席柯林斯称将有更多加息，彭博电视台报道"
-    }
    }
   ],
   "policy": [
@@ -645,24 +635,24 @@
     }
    },
    {
-    "id": "224b7e53a4",
-    "title": "收到CP500不代表限制出国 · 欠税未缴半年未回应才行动",
-    "link": "https://www.bernama.com/man/news.php?id=2632685",
-    "source": "BERNAMA",
-    "site": "www.bernama.com",
-    "date": "2026-11-11T04:34:00+00:00",
+    "id": "e7569551ff",
+    "title": "百格｜巫统代纳吉缴罚 潘俭伟质疑资金是否合法",
+    "link": "https://pocketimes.sinchew.com.my/news/20261106/pocketimes/8044313",
+    "source": "百格",
+    "site": "pocketimes.sinchew.com.my",
+    "date": "2026-11-06T12:57:00+00:00",
     "lang": "zh",
-    "summary": "（吉隆坡11日马新社讯）财政部副部长刘镇东说，收到分期缴税通知（CP500）而无法缴税的纳税人，不会因此被限制出国，因为该笔款项并非最终确定的税额。 他说，只有在纳税人提交所得税申报表（BNCP）后，才会实施出国限制，因为届时才能确定实际应纳税总额。 “根据所提交的所得税申报表，实际应纳税额将重新计算，并扣除已缴付的CP500分期税款。” 他今日在国会下议院的问答环节，回答人民公正党劳勿区国会议员 ...",
-    "src": "lhdn",
-    "src_name": "LHDN",
+    "summary": "巫统宣布愿意代前首相纳吉缴付5000万令吉罚款，引起行动党前白沙罗国会议员潘俭伟批评。他质疑巫统为何不将这笔巨款用于帮助普通人民，反而选择协助纳吉争取自由，并呼吁国家银行及反贪污委员会审查相关捐款账户的资金流向，确保款项来源合法。",
+    "src": "bnm",
+    "src_name": "BNM",
     "ai": {
-     "summary": "财政部副部长刘镇东在国会表示，收到CP500（分期缴税通知）而暂时无法缴税的纳税人，不会因此被限制出国，因为这笔款项还不是最终税额。只有在纳税人提交所得税申报表后，税务局才会确定实际应缴总额；若仍欠税且半年内没有任何回应，才会采取出国限制行动。",
+     "summary": "巫统宣布愿意代前首相纳吉支付5000万令吉罚款。行动党前白沙罗国会议员潘俭伟批评此举，质疑巫统为何不把这笔钱用于普通民众，反而协助纳吉争取自由。他还呼吁国家银行和反贪污委员会审查相关捐款账户的资金流向，确认款项来源合法。",
      "points": [
-      "CP500只是分期缴税通知，并非最终确定的税额",
-      "提交所得税申报表后，税额会重新计算并扣除已缴的分期税款",
-      "若欠税未缴且半年未回应，通常会在6个月后采取出国限制行动"
+      "巫统愿意代纳吉缴付5000万令吉罚款",
+      "潘俭伟质疑这笔资金的用途和合法性",
+      "他呼吁国家银行与反贪污委员会审查捐款账户"
      ],
-     "why": "企业主如有分期缴税安排，应定期查询欠税与出国限制状况（可通过MyTax或移民局官网），在计划出国前先确认，以免影响行程。",
+     "why": "",
      "title_zh": ""
     }
    },
@@ -711,24 +701,46 @@
     }
    },
    {
-    "id": "aa47b31472",
-    "title": "马股大涨20点 亚航集团飙升18.68%",
-    "link": "https://www.sinchew.com.my/news/20261105/finance/8036335",
-    "source": "星洲日报",
-    "site": "www.sinchew.com.my",
-    "date": "2026-11-05T03:10:00+00:00",
+    "id": "d627f931cd",
+    "title": "国行：隔夜政策利率维持2.75%",
+    "link": "https://www.malaysiakini.com/news/888598-%E5%9B%BD%E8%A1%8C%E9%9A%94%E5%A4%9C%E6%94%BF%E7%AD%96%E5%88%A9%E7%8E%87%E7%BB%B4%E6%8C%81275",
+    "source": "当今大马",
+    "site": "www.malaysiakini.com",
+    "date": "2026-11-05T08:14:00+00:00",
     "lang": "zh",
-    "summary": "（吉隆坡5日讯）美国民主党在中期选举中大获全胜之后，地缘政治局势有望降温，全球市场情绪改善，区域股市普遍走高，马股在国家银行即将在下午公布隔夜政策利率之际更是冲破1620点和1630点，攀升逾1个月以来新高。富时综指周四早盘牛气冲天，开盘上升6.72点，以1623.28点开启今天交易，之后有银行股强劲上涨带动下，使到走势越战越勇，最高升至1637.23点，攀升20.67点或1.28%，截至上午10 ...",
+    "summary": "国家银行货币政策委员会今日召开今年最后一次会议，议决将隔夜政策利率（OPR）维持在2.75%。 它指出，今年迄今，整体通胀率及核心通胀率平均分别为1.8%及1.9%。 谈及全球经济前景，国行说，地缘政治发展的不确定性将继续拖累经济增长，并加剧通胀压力。不过，科技相关支出持续，以及对供应限制的不断适应，预计可缓解这方面的影响。",
     "src": "bnm",
     "src_name": "BNM",
     "ai": {
-     "summary": "美国民主党在中期选举中获胜后，地缘政治局势有望降温，全球市场情绪转好，区域股市普遍上扬。马来西亚综合指数早盘开高，最高升至1637.23点，升幅超过1%，为一个多月来新高。亚航集团股价据报大涨18.68%。",
+     "summary": "国家银行货币政策委员会今年最后一次会议决定，把隔夜政策利率（OPR，即银行间隔夜借贷的基准利率）维持在2.75%不变。国行表示，今年迄今整体通胀率约1.8%，核心通胀率约1.9%，并预计未来通胀会小幅上升。国行也提到，地缘政治与成本压力仍是需要留意的风险。",
      "points": [
-      "综合指数最高升至1637.23点，上涨20.67点或1.28%",
-      "指数以1623.28点开盘，银行股走强带动升势",
-      "国家银行将在下午公布隔夜政策利率，市场留意此消息"
+      "隔夜政策利率维持在2.75%",
+      "今年迄今整体通胀率平均1.8%，核心通胀率平均1.9%",
+      "国行预计2026年经济增长超过5%，并预计通胀将小幅上升"
      ],
-     "why": "",
+     "why": "利率暂时不变，但国行提醒成本压力可能推高物价，中小企业主可留意原材料与运营成本的变化。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "8d644efeae",
+    "title": "国行连续按兵不动 第8次维持利率不变",
+    "link": "https://atvnewsonline.com/business/%e5%9b%bd%e8%a1%8c%e8%bf%9e%e7%bb%ad%e6%8c%89%e5%85%b5%e4%b8%8d%e5%8a%a8-%e7%ac%ac8%e6%ac%a1%e7%bb%b4%e6%8c%81%e5%88%a9%e7%8e%87%e4%b8%8d%e5%8f%98/",
+    "source": "亚洲电视新闻",
+    "site": "atvnewsonline.com",
+    "date": "2026-11-05T08:10:00+00:00",
+    "lang": "zh",
+    "summary": "国行上一次调整利率是在2025年7月9日，当时出乎市场预料，将OPR下调25个基点，从3%降至2.75%。此后，国行连续8次在货币政策会议上维持利率水平，未再作出调整。",
+    "src": "bnm",
+    "src_name": "BNM",
+    "ai": {
+     "summary": "大马国家银行在2026年最后一次货币政策会议后宣布，隔夜政策利率（OPR，即国行的基准利率）维持在2.75%不变，符合市场预期。这是国行连续第8次维持利率不变，上次调整是在2025年7月降息。",
+     "points": [
+      "国行维持OPR在2.75%，已连续8次会议不变",
+      "2025年7月9日曾意外下调25个基点，由3%降至2.75%",
+      "彭博调查23名经济学家，17人预期维持利率，6人预期升息"
+     ],
+     "why": "利率长期稳定意味着借贷成本暂时不会因国行调整而明显变动，企业可按自身资金安排留意后续经济走势。",
      "title_zh": ""
     }
    },
@@ -1053,8 +1065,6 @@
     "date": "2026-11-10T17:52:00+00:00",
     "lang": "zh",
     "summary": "（吉隆坡11日讯）2026年步入尾声之际，大马金融市场正酝酿一宗足以改变行业版图的年终大戏。随著国家银行批准兴业银行（RHBBANK，1066，主板金融股）与日本东京海上亚洲（Tokio Marine Asia）延长谈判期限至2027年2月，市场有理由相信，双方已取得实质性进展，这宗备受瞩目的保险业务合并案极可能在今年内提前官宣，成为2026年大马金融普险市场的压轴重磅交易。这宗交易的本质，是兴业 ...",
-    "src": "bnm",
-    "src_name": "BNM",
     "ai": {
      "summary": "兴业银行（RHB）计划把旗下兴业保险100%股权卖给日本东京海上亚洲，之后兴业保险将与东京海上在大马的保险公司合并，组成一家更大的普险公司。国家银行已批准双方把谈判期限延至2027年2月，市场认为合并案可能在年内宣布。",
      "points": [
@@ -1144,6 +1154,26 @@
      ],
      "why": "对企业主来说，如果公司车辆或货运牵涉交通意外，此案显示法庭可能关注拖延诉讼的情况，也可能影响诉讼费用与理赔时间的安排。",
      "title_zh": ""
+    }
+   },
+   {
+    "id": "307fb82f66",
+    "title": "Designing the money part of Malaysia’s long-term care system: Economists share what to look out for",
+    "link": "https://malaysia.news.yahoo.com/designing-money-part-malaysia-long-230000366.html",
+    "source": "Yahoo Malaysia",
+    "site": "malaysia.news.yahoo.com",
+    "date": "2026-11-13T15:00:00+00:00",
+    "lang": "en",
+    "summary": "It may be \"tricky\" for Malaysia to figure out who or what will be paying for the long-term care and support of older Malaysians in their day-to-day life, an economist has said. \"I think the financing ...",
+    "ai": {
+     "summary": "马来西亚要为长期照护计划找出资金来源，经济学家认为这会相当棘手。世界银行经济学家Matthew Dornan指出，可以用税收或强制保险来支付，但两者各有挑战；世卫经济学家Debbie Muirhead则建议先确定要覆盖哪些服务，再从小规模起步逐步扩展。",
+     "points": [
+      "世界银行经济学家认为马来西亚没有可依托的全国健康保险体系，以公积金（EPF）为基础也有局限，因为不是所有人都在内。",
+      "税收融资需要财政改革，或扩大税基、检讨补贴，但后者非常不受欢迎。",
+      "世卫经济学家建议先界定福利范围，并指出马来西亚人2026年出生时预期寿命为75.5岁，健康预期寿命约65.5岁。"
+     ],
+     "why": "如果未来长期照护融资方式有所调整，企业主或员工的供款与税负可能会随之变化，但目前文章并未提出具体方案。",
+     "title_zh": "设计马来西亚长期照护制度的资金部分：经济学家分享需要留意的重点"
     }
    },
    {
@@ -1539,26 +1569,6 @@
     }
    },
    {
-    "id": "c7693f85c5",
-    "title": "“别当剥削家佣帮凶”，NGO促高官显要以身作则缴社险",
-    "link": "https://www.malaysiakini.com/news/888553-ngo%E4%BF%83%E9%AB%98%E5%AE%98%E6%98%BE%E8%A6%81%E4%BB%A5%E8%BA%AB%E4%BD%9C%E5%88%99%E7%BC%B4%E7%A4%BE%E9%99%A9%E5%88%AB%E5%BD%93%E5%89%A5%E5%89%8A%E5%AE%B6%E4%BD%A3%E5%B8%AE%E5%87%B6",
-    "source": "当今大马",
-    "site": "www.malaysiakini.com",
-    "date": "2026-11-05T02:18:00+00:00",
-    "lang": "zh",
-    "summary": "拉玛南（上图）昨日 揭露 ，截至11月1日，社险机构初步排查发现，共有1万零33名雇主未履行缴纳社险的义务，而598名包括国州议员在内的高官显要名列其中；另有2万6669名雇主有欠缴记录。",
-    "ai": {
-     "summary": "人力资源部长拉玛南披露，截至11月1日，社会保险机构初步排查发现，有1万零33名雇主未履行为家佣缴纳社险（Socso）的义务，其中598名高官显要（包括国州议员）名列其中。移民权益组织妇女力量对此表示震惊与不安，认为为帮佣缴社险是雇主基本法律义务，并促请政府一致执法。若涉事者未在12月7日前完成缴纳，当局将展开执法行动。",
-     "points": [
-      "截至11月1日，1万零33名雇主未履行缴纳社险义务",
-      "598名高官显要（包括国州议员）名列其中，另有2万6669名雇主有欠缴记录",
-      "涉事者若未在12月7日前履行义务，当局将执法"
-     ],
-     "why": "若您的公司或家中聘有帮佣，应确认是否已为其依法缴纳社险，以免日后面临执法行动。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "b94f288039",
     "title": "KPJ HEALTHCARE BHD",
     "link": "https://www.thestar.com.my/Business/Marketwatch/Stocks?qcounter=KPJ",
@@ -1851,60 +1861,100 @@
   ],
   "energy": [
    {
-    "id": "b88c591035",
-    "title": "马斯克晒 SpaceX 星舰“筷子夹”飞船近距离照片：“我拥抱了它”",
-    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%99%92-spacex-%E6%98%9F%E8%88%B0-%E7%AD%B7%E5%AD%90%E5%A4%B9-%E9%A3%9E%E8%88%B9%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%85%A7%E7%89%87-%E6%88%91%E6%8B%A5%E6%8A%B1%E4%BA%86%E5%AE%83/ar-AA2hrPm2",
-    "source": "一点资讯",
-    "site": "www.msn.cn",
-    "date": "2026-11-14T17:04:54+00:00",
+    "id": "be33ae9a35",
+    "title": "升空约 22.5 小时，SpaceX“星舰”飞船首次被发射塔机械臂“捕获”回收",
+    "link": "https://finance.sina.com.cn/tech/digi/2026-11-15/doc-iniyuinp3459895.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-14T20:08:00+00:00",
     "lang": "zh",
-    "summary": "IT之家消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船，这是星舰飞船首次完成发射塔捕获。 随后，该公司创始人马斯克在社交平台连续发文并分享该飞船近距离照片，他写道：“多亏了 SpaceX 那群才华横溢的团队，这一伟大时刻终于到来了”“当 42 号飞船返回时，我拥抱了它。” ...",
+    "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船，这是星舰飞船首次完成发射塔捕获。 第 15 次试飞的星舰组合体于美国中部时间 13 日下午（北京时间 14 日清晨）从得克萨斯州星际基地升空，由超重型助推器与飞船组成。任务原计划让两级同时返回发射场，由发射塔上俗称“筷子”的机械臂分别捕获。 捕获发生在 ...",
     "ai": {
-     "summary": "SpaceX的星舰第15次试飞中，发射塔上的机械臂首次成功接住了从轨道返回的第二级飞船，这是飞船首次完成发射塔捕获。马斯克随后在社交平台分享了飞船的近距离照片，并称赞团队。",
+     "summary": "SpaceX的超大型火箭星舰第15次试飞中，飞船在轨道飞行约14圈后返回，首次被发射塔上的机械臂成功接住。这次试飞从升空到回收约用了22.5小时。",
      "points": [
-      "时间为当地时间11月14日，属星舰第15次试飞",
-      "这是星舰飞船首次被发射塔机械臂捕获",
-      "马斯克在社交平台连续发文并分享近距离照片"
+      "捕获时间为11月14日（美国时间），北京时间为11月15日清晨5点20分左右",
+      "飞船完成约14圈轨道飞行后离轨、再入大气层，最终落入机械臂之间",
+      "超重型助推器B22因低燃料告警，未能被机械臂捕获，改为在墨西哥湾溅落"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "edfb6b39f5",
-    "title": "SpaceX首次实现“筷子夹飞船”，马斯克称“飞船状态很好”",
-    "link": "https://www.yicai.com/news/103440901.html",
-    "source": "第一财经",
-    "site": "www.yicai.com",
-    "date": "2026-11-14T16:44:00+00:00",
+    "id": "bfa9847c14",
+    "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+    "link": "https://eu.36kr.com/zh/p/4070420134728576",
+    "source": "eu.36kr",
+    "site": "eu.36kr.com",
+    "date": "2026-11-14T20:08:00+00:00",
     "lang": "zh",
-    "summary": "北京时间11月15日，在SpaceX星舰第十五次飞行中，星舰二级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被发射塔“筷子”机械臂捕获。这是SpaceX首次成功捕获从地球轨道返回的星舰飞船。据SpaceX发布信息，星舰飞船从离开同一发射场再到被捕获回收，历经超过22个小时。对于此次任务，SpaceX创始人埃隆·马斯克在社交媒体上发帖祝贺SpaceX团队，并表示：“42号飞船状态看起来很 ...",
+    "summary": "人类的征途是星辰大海——这句承载着人类对宇宙无尽探索热忱的经典宣言，早已成为航天爱好者、科幻迷与前沿科技从业者心中的精神图腾。从远古先民仰望星空萌生的飞天遐想，到当代载人航天工程落地、深空探测任务不断突破，人类从未停止迈向浩瀚星海的脚步。无论是探月工程取回月壤样本、火星探测器传回珍贵星表数据，还是商业航天推动低成本太空旅行逐步成为现实，每一步跨越都印证着：星辰大海不仅是浪漫的精神向往，更是全人类突 ...",
     "ai": {
-     "summary": "北京时间11月15日，SpaceX星舰第十五次试飞中，二级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，被发射塔的“筷子”机械臂成功捕获。这是SpaceX首次捕获从地球轨道返回的星舰飞船。马斯克在社交媒体上祝贺团队，称42号飞船状态很好。",
+     "summary": "SpaceX的巨型星舰飞船完成第15次试飞后，从太空返回得州基地，被发射塔上的两只机械臂成功接住，这是首次用机械臂捕获完成轨道飞行的星舰。同一次任务中，超重型助推器的返回未能成功，最终在墨西哥湾上空自毁。",
      "points": [
-      "飞船从离开发射场到被捕获回收，历时超过22个小时",
-      "这是SpaceX首次成功捕获从地球轨道返回的星舰飞船",
-      "超重型助推器返航时临时改道，最终在墨西哥湾海上溅落"
+      "飞船绕地球14圈，飞行超过22小时，轨道高度约265公里",
+      "当地时间11月13日发射，火箭共有33台猛禽发动机",
+      "超重型助推器回收失败，双重捕获目标未能实现"
+     ],
+     "why": "这类火箭重复使用技术若成熟，长远可能影响太空运输成本，但对一般中小企业的直接影响暂时不明显。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "2084d276e1",
+    "title": "SpaceX首次捕获从轨道返回的星舰飞船，一级助推器溅落",
+    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/spacex%E9%A6%96%E6%AC%A1%E6%8D%95%E8%8E%B7%E4%BB%8E%E8%BD%A8%E9%81%93%E8%BF%94%E5%9B%9E%E7%9A%84%E6%98%9F%E8%88%B0%E9%A3%9E%E8%88%B9-%E4%B8%80%E7%BA%A7%E5%8A%A9%E6%8E%A8%E5%99%A8%E6%BA%85%E8%90%BD/ar-AA2hrXJs",
+    "source": "一点资讯",
+    "site": "www.msn.cn",
+    "date": "2026-11-14T19:31:32+00:00",
+    "lang": "zh",
+    "summary": "北京时间11月15日，SpaceX星舰第15次飞行中，42号飞船返回美国得克萨斯州星港，在着陆点火并翻转至垂直姿态后，被发射塔上俗称“筷子”的机械臂接住，现场响起欢呼声。这是SpaceX首次捕获从地球轨道返回的星舰二级飞船。 SpaceX创始人埃隆·马斯克在社交媒体上发帖祝贺团队，并表示：“42号飞船状态看起来很好”。",
+    "ai": {
+     "summary": "SpaceX星舰第15次飞行中，42号飞船从地球轨道返回美国得克萨斯州星港，在降落点火并翻转至垂直姿态后，被发射塔上的机械臂接住，现场响起欢呼。马斯克在社交媒体上祝贺团队，称飞船状态看起来很好。",
+     "points": [
+      "北京时间11月15日，星舰第15次飞行",
+      "42号飞船在得州星港被发射塔机械臂接住",
+      "这是SpaceX首次捕获从地球轨道返回的星舰二级飞船"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "1cf0698d2d",
-    "title": "SpaceX首次实现“筷子夹星舰”：机械臂接住返回的星舰第二级，马斯 ...",
-    "link": "https://www.msn.cn/zh-cn/news/other/spacex%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0-%E7%AD%B7%E5%AD%90%E5%A4%B9%E6%98%9F%E8%88%B0-%E6%9C%BA%E6%A2%B0%E8%87%82%E6%8E%A5%E4%BD%8F%E8%BF%94%E5%9B%9E%E7%9A%84%E6%98%9F%E8%88%B0%E7%AC%AC%E4%BA%8C%E7%BA%A7-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E8%B4%BA%E5%9B%A2%E9%98%9F/ar-AA2hrMTT",
+    "id": "113a8f4535",
+    "title": "SpaceX星舰重大突破! “筷子夹飞船”落地，下周商业航天要疯狂了",
+    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/spacex%E6%98%9F%E8%88%B0%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4-%E7%AD%B7%E5%AD%90%E5%A4%B9%E9%A3%9E%E8%88%B9-%E8%90%BD%E5%9C%B0-%E4%B8%8B%E5%91%A8%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E8%A6%81%E7%96%AF%E7%8B%82%E4%BA%86/ar-AA2hrAOC",
     "source": "一点资讯",
     "site": "www.msn.cn",
-    "date": "2026-11-14T16:23:35+00:00",
+    "date": "2026-11-14T19:29:16+00:00",
     "lang": "zh",
-    "summary": "星舰二级实现回收 凤凰网科技讯 北京时间11月15日，据彭博社报道，SpaceX在第15次试飞中成功接住了从太空轨道返回得州发射场的星舰火箭第二级。这一前所未有的工程壮举，标志着马斯克朝着开发完全可重复使用系统的目标迈出了重要一步。",
+    "summary": "SpaceX星舰第十五次试飞传来里程碑消息，星舰上面级飞船在轨完成任务返回之后，顺利完成姿态调整，被发射塔的机械臂成功捕获，也就是大家常说的“筷子夹飞船”。这是人类第一次成功捕获从地球轨道归来的星舰上面级，标志着星舰向着完全复用、高频次发射的目标迈出了至关重要的一步。",
     "ai": {
-     "summary": "据彭博社报道，SpaceX在星舰第15次试飞中，用机械臂成功接住了从太空轨道返回得州发射场的星舰第二级火箭。这是该公司在完全可重复使用火箭上迈出的一步。",
+     "summary": "SpaceX的星舰第十五次试飞取得重要进展。上面级飞船完成在轨任务返回后调整姿态，被发射塔上的机械臂成功抓住，俗称“筷子夹飞船”。这是人类首次成功回收从地球轨道归来的星舰上面级。",
      "points": [
-      "事件发生于第15次星舰试飞",
-      "机械臂接住的是返回得州发射场的第二级火箭",
-      "报道时间为北京时间11月15日，来源为彭博社"
+      "星舰上面级在第十五次试飞中完成在轨任务并返回",
+      "发射塔机械臂成功捕获上面级，俗称“筷子夹飞船”",
+      "此举被视为迈向完全复用、高频次发射的重要一步"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "cdefbd3cbb",
+    "title": "SpaceX全球首次回收绕地星舰! 机械臂精准捕获，马斯克团队欢呼",
+    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/spacex%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E5%9B%9E%E6%94%B6%E7%BB%95%E5%9C%B0%E6%98%9F%E8%88%B0-%E6%9C%BA%E6%A2%B0%E8%87%82%E7%B2%BE%E5%87%86%E6%8D%95%E8%8E%B7-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%A2%E9%98%9F%E6%AC%A2%E5%91%BC/ar-AA2hscGv",
+    "source": "一点资讯",
+    "site": "www.msn.cn",
+    "date": "2026-11-14T18:05:14+00:00",
+    "lang": "zh",
+    "summary": "SpaceX全球首次成功回收绕地飞行后的星舰飞船。马斯克的公司未能实现理想中的“双重捕获”——周五发射后，第一级助推器随即爆炸；NASA称这次凯旋“近乎魔法”。SpaceX的星舰飞船于周六荣耀返回地球，在发射台上空被巨大的机械臂精准捕获，完成了22小时前从同一地点启程的旅程。",
+    "ai": {
+     "summary": "SpaceX首次用发射台上方的巨型机械臂，成功捕获绕地飞行后返航的星舰飞船。原计划的“双重捕获”未能实现，周五发射后的第一级助推器随即爆炸。美国航天局称这次凯旋“近乎魔法”。",
+     "points": [
+      "星舰周六返回地球，在发射台上空被机械臂精准捕获",
+      "整趟旅程约22小时，从同一地点出发、回到同一地点",
+      "周五发射后，第一级助推器随即爆炸，双重捕获未能实现"
      ],
      "why": "",
      "title_zh": ""
@@ -1951,26 +2001,6 @@
     }
    },
    {
-    "id": "acf4cfae07",
-    "title": "马斯克力挺黄仁勋 超8.5万人签署公开信希望黄仁勋回归",
-    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E9%A2%86%E5%AF%BC%E8%80%85/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8A%9B%E6%8C%BA%E9%BB%84%E4%BB%81%E5%8B%8B-%E8%B6%858-5%E4%B8%87%E4%BA%BA%E7%AD%BE%E7%BD%B2%E5%85%AC%E5%BC%80%E4%BF%A1%E5%B8%8C%E6%9C%9B%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92/ar-AA2hs1OY",
-    "source": "格隆汇",
-    "site": "www.msn.cn",
-    "date": "2026-11-14T16:06:08+00:00",
-    "lang": "zh",
-    "summary": "格隆汇11月15日｜据央视财经，当地时间11月14日，美国企业家马斯克签署了一封公开信，呼吁英伟达董事会让黄仁勋回归。这封信发布于志愿者运营的网站，签署人数迅速增加。截至北京时间14日21时03分，已有超8.5万人签名，包括部分英伟达现任、前任员工、股东以及多位科技界人士。网站提示，签名信息由申报人自行填写，平台未核验身份。 有分析人士和行业专家表示，黄仁勋的价值不仅限于技术层面，还延伸至供应商关 ...",
-    "ai": {
-     "summary": "据央视财经报道，美国企业家马斯克于11月14日签署一封公开信，呼吁英伟达董事会让黄仁勋回归。这封信放在志愿者运营的网站上，签名人数迅速增加。",
-     "points": [
-      "截至北京时间14日21时03分，已有超过8.5万人签名",
-      "签名者包括部分英伟达现任及前任员工、股东和科技界人士",
-      "网站表示签名信息由申报人自行填写，平台未核验身份"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "0c638a912f",
     "title": "马斯克全球最大火箭“星舰”双着陆失败，原因尚不清楚",
     "link": "https://www.msn.com/zh-cn/%E6%8A%80%E6%9C%AF/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%81%AB%E7%AE%AD-%E6%98%9F%E8%88%B0-%E5%8F%8C%E7%9D%80%E9%99%86%E5%A4%B1%E8%B4%A5-%E5%8E%9F%E5%9B%A0%E5%B0%9A%E4%B8%8D%E6%B8%85%E6%A5%9A/ar-AA2hsgI4",
@@ -1991,6 +2021,46 @@
     }
    },
    {
+    "id": "4d0e1f32ef",
+    "title": "星舰第15次试飞成功部署26颗卫星，首次实现“筷子夹飞船”",
+    "link": "https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuuae6499748.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-14T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "当地时间2026年11月13日，SpaceX星舰从美国得克萨斯州星舰基地2号轨道发射台升空。经过约22.5小时飞行，在轨绕飞14圈后，星舰飞船于当地时间14日返回发射场，首次被发射塔机械臂成功捕获，实现“筷子夹飞船”。其间，飞船完成入轨，并成功部署全部26颗星链V3卫星。 但这次任务也留下遗憾。超重型助推器在返航过程中出现异常，中止了原定的发射塔机械臂捕获，转向墨西哥湾，并在触水前爆炸，未能完成回 ...",
+    "ai": {
+     "summary": "SpaceX星舰第15次试飞中，飞船绕地球约14圈后返回发射场，首次被发射塔的机械臂成功夹住并悬挂在塔架上，并已部署全部26颗星链V3卫星。不过超重型助推器返航时出现异常，未能被捕获，最终在墨西哥湾海面上空爆炸解体。",
+     "points": [
+      "2026年11月13日升空，飞船在轨飞行约22.5小时，绕地约14圈",
+      "飞船于11月14日返回发射场，首次被发射塔机械臂成功捕获",
+      "助推器因燃料余量过低警报提前结束返航点火，未能完成回收"
+     ],
+     "why": "星舰回收技术持续进步，若日后发射成本下降，相关卫星网络服务的价格与供应也可能随之变化，但目前对本地企业的直接影响尚不明确。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "abdba57413",
+    "title": "见证历史性时刻！SpaceX星舰创纪录！",
+    "link": "https://www.aboluowang.com/2026/1115/2457905.html",
+    "source": "阿波罗新闻网",
+    "site": "www.aboluowang.com",
+    "date": "2026-11-14T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "马斯克（Elon Musk）旗下太空探索科技公司（SpaceX）14日创下太空飞行新纪录！旗下星舰（Starship）太空船在完成长达22小时的太空任务后，成功返回美国德州发射基地，首度由发射塔上的机械“筷子臂”直接捕捉回收，成为首艘以这种方式完成轨道返回回收的太空船。不过，这次任务并非全数成功，原定一同回收的超重型助推器（Super Heavy）因异常状况中止回收，最终在墨西哥湾上空爆炸。",
+    "ai": {
+     "summary": "SpaceX的星舰太空船完成约22小时的轨道飞行后返回德州基地，首次由发射塔上的机械“筷子臂”直接抓住回收。这是星舰第15次试飞，太空船在轨道上部署了26颗星链卫星。不过，同场试飞原定一起回收的超重型助推器因异常中止回收，最终在墨西哥湾上空爆炸。",
+     "points": [
+      "太空船飞行约22小时，绕地球14圈，高度约260公里",
+      "首次以“筷子臂”从轨道返回后直接捕捉回收",
+      "超重型助推器回收中止，在墨西哥湾上空爆炸，SpaceX仍在调查原因"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "58867bf6a0",
     "title": "马斯克力挺黄仁勋，签署公开信呼吁英伟达董事会让其回归",
     "link": "https://news.ifeng.com/c/8y3bqZBUpKw",
@@ -2005,6 +2075,26 @@
       "马斯克于当地时间11月14日签署该公开信",
       "截至北京时间14日21时03分，签名超过8.5万人",
       "网站未核验签名者身份，签名信息由申报人自行填写"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "e6511f4b7f",
+    "title": "泽伦斯基表示，乌克兰的“星盾”访问再次受到限制",
+    "link": "https://www.arch-web.com.tw/%e4%b8%96%e7%95%8c%e6%96%b0%e8%81%9e/%e6%b3%bd%e4%bc%a6%e6%96%af%e5%9f%ba%e8%a1%a8%e7%a4%ba%ef%bc%8c%e4%b9%8c%e5%85%8b%e5%85%b0%e7%9a%84%e6%98%9f%e7%9b%be%e8%ae%bf%e9%97%ae%e5%86%8d%e6%ac%a1%e5%8f%97%e5%88%b0%e9%99%90/720440/",
+    "source": "arch-web",
+    "site": "www.arch-web.com.tw",
+    "date": "2026-11-14T15:45:00+00:00",
+    "lang": "zh",
+    "summary": "乌克兰总统泽连斯基周五表示，由于对 StarShield 的限制，乌克兰的军事行动本周再次受到干扰。StarShield 是由埃隆·马斯克 (Elon Musk) 的 SpaceX 建造、由美国政府控制的卫星互联网系统。 泽伦斯基告诉记者，连接到该系统的乌克兰设备的限速约为每小时 100 英里。这是最近几周乌克兰的 StarShield 连接第二次受到限制。由于之前的限制，乌克兰无人机如果飞行速度 ...",
+    "ai": {
+     "summary": "乌克兰总统泽连斯基周五说，美国卫星网络星盾（StarShield）再次被限速，乌克兰的军事行动本周又受到影响。星盾由马斯克的SpaceX建造，但由美国政府控制。限速约为每小时100英里，最新措施周一起针对俄罗斯占领区，无人机在这些地区的作战能力因此受损。",
+     "points": [
+      "限速约每小时100英里，是最近几周的第二次限制",
+      "最新限制周一生效，只适用于俄罗斯占领的领土",
+      "SpaceX和美国国防部暂未对此作出完整回应，美国国防部表示正在调查"
      ],
      "why": "",
      "title_zh": ""
@@ -2051,66 +2141,6 @@
     }
    },
    {
-    "id": "90e99f95b2",
-    "title": "SpaceX星舰被“筷子”回收 人类航天史首次",
-    "link": "https://www.epochtimes.com/gb/26/11/14/n14888962.htm",
-    "source": "大纪元",
-    "site": "www.epochtimes.com",
-    "date": "2026-11-14T15:20:00+00:00",
-    "lang": "zh",
-    "summary": "【大纪元2026年11月15日讯】（大纪元记者高杉编译报导）周六（11月14日），美国太空探索技术公司SpaceX的“星舰”（Starship）飞船精准降落于发射塔，成功被“筷子（机械臂）”接住回收，创下人类航天史新的里程碑。 需要您的 Cookie 同意才能查看此内容。 Cookie 设定 这是SpaceX星舰的第15次试飞。飞船于美东时间周五（11月13日）下午5时47分发射。 当时美国联邦航 ...",
-    "ai": {
-     "summary": "SpaceX的“星舰”飞船第15次试飞后，于周六精准降落在发射塔上，被塔上的机械臂（俗称“筷子”）成功接住回收。这是人类航天史上首次有火箭上面级从轨道安全、直立地返回地面，有望推动飞船重复使用。",
-     "points": [
-      "11月13日美东时间下午5时47分发射，14日约下午4时20分降落",
-      "飞船在着陆前绕地球飞行14圈，全程约22小时",
-      "此前SpaceX的超重型助推器未能成功精准回收，改为溅落在墨西哥湾"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "9d22350ef8",
-    "title": "美星舰飞船首次被捕获回收",
-    "link": "https://www.jiemian.com/article/15333762.html",
-    "source": "界面新闻",
-    "site": "www.jiemian.com",
-    "date": "2026-11-14T15:03:00+00:00",
-    "lang": "zh",
-    "summary": "美国中部时间11月14日下午，美国太空探索技术公司（SpaceX）的“星舰”飞船在执行了大约22个半小时的飞行任务后，返回得克萨斯州的发射基地，并由发射塔机械臂实施“捕获”回收。这是“星舰”飞船首次尝试塔架回收。 “星舰”于当地时间11月13日下午实施第15次试飞，原计划首次尝试助推器和飞船均返回发射场并被“捕获”回收，但助推器未能按计划返回。（CCTV国际时讯） ...",
-    "ai": {
-     "summary": "SpaceX的星舰飞船完成约22个半小时的飞行后，返回得克萨斯州发射基地，被发射塔的机械臂成功“捕获”回收，这是星舰飞船首次尝试这种塔架回收方式。此次是星舰第15次试飞，原计划助推器和飞船都能回到发射场被捕获，但助推器未能按计划返回。",
-     "points": [
-      "飞船在美国中部时间11月14日下午返回发射基地",
-      "本次飞行约22个半小时，试飞于11月13日下午进行",
-      "助推器未能按原计划返回发射场被捕获"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "6dc2baab13",
-    "title": "SpaceX历史性首次接住星舰上级段",
-    "link": "https://www.528btc.com/news/116422287.html",
-    "source": "528btc.com",
-    "site": "www.528btc.com",
-    "date": "2026-11-14T14:58:00+00:00",
-    "lang": "zh",
-    "summary": "SpaceX在周六成功从轨道接住了星舰火箭的上级段，也就是飞船部分，这是该公司的一项历史性里程碑。此前一天，助推器未能回收并在墨西哥湾上空坠海后爆炸 。 币界网报道： 在周五助推器爆炸后，SpaceX周六成功从轨道上接住了其巨型星舰火箭的上级段，也就是飞船部分，这对公司来说是一个胜利性的里程碑。 SpaceX使用其“筷子”机械臂完成了这次历史性回收，这些机械臂安装在公司位于得克萨斯州星舰基地（St ...",
-    "ai": {
-     "summary": "SpaceX在周六成功用机械臂从轨道上接住了星舰火箭的上级段（即飞船部分），这是公司的一项历史性突破。前一天，助推器未能回收，在墨西哥湾上空坠海后爆炸。",
-     "points": [
-      "回收的是星舰火箭的上级段，即飞船部分",
-      "回收工作使用安装在得克萨斯州星舰基地的机械臂完成",
-      "前一天助推器未能回收，在墨西哥湾上空坠海后爆炸"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "176492c37d",
     "title": "马斯克再发声力挺黄仁勋：没有他，英伟达部分关键交易或流失",
     "link": "https://cj.sina.com.cn/articles/view/5115326071/130e5ae77020034kk0",
@@ -2131,303 +2161,292 @@
     }
    },
    {
-    "id": "d803b023c3",
-    "title": "马斯克力挺黄仁勋，签署公开信呼吁英伟达董事会让其回归！已有超8 ...",
-    "link": "https://www.chineseherald.co.nz/news/property/musk-backs-jensen-huang/",
-    "source": "新西兰中文先驱网",
-    "site": "www.chineseherald.co.nz",
-    "date": "2026-11-14T14:33:00+00:00",
-    "lang": "zh",
-    "summary": "当地时间11月14日， 美国企业家马斯克签署了一封公开信，呼吁英伟达董事会让黄仁勋回归。 这封信发布于志愿者运营的网站，签署人数迅速增加。截至北京时间14日21时03分， 已有超8.5万人签名 ，包括部分英伟达现任、前任员工、股东以及多位科技界人士。",
+    "id": "6decedf074",
+    "title": "SpaceX scripts history: Musk’s Starship pulls off first-ever midair 'catch' on return from orbit",
+    "link": "https://www.etnownews.com/technology/spacex-scripts-history-musks-starship-pulls-off-first-ever-midair-catch-on-return-from-orbit-article-156511225",
+    "source": "ET Now",
+    "site": "www.etnownews.com",
+    "date": "2026-11-14T19:46:00+00:00",
+    "lang": "en",
+    "summary": "On the historic feat, SpaceX CEO Musk congratulated the engineers and teams behind the mission, acknowledging their efforts in making what appeared to be a science-fiction-like spectacle a reality.",
     "ai": {
-     "summary": "美国企业家马斯克在11月14日签署了一封公开信，呼吁英伟达董事会让黄仁勋回归。信件放在志愿者运营的网站上，签名人数迅速增加，截至北京时间当晚9点多已超过8.5万人，包括部分现任和前任员工、股东及科技界人士。网站未核验签名者身份。",
+     "summary": "据ET Now报道，SpaceX的星舰（Starship）从轨道返回时，据称完成了首次空中“抓捕”。马斯克（Musk）公开祝贺参与任务的工程师和团队，认为这一成果像科幻场景变成现实。原文正文内容有限，细节主要依据标题和摘要。",
      "points": [
-      "11月14日（当地时间），马斯克签署呼吁黄仁勋回归的公开信",
-      "截至北京时间14日21时03分，签名人数超过8.5万",
-      "签名由申报人自行填写，平台未核验身份"
+      "报道标题称，星舰在从轨道返回途中完成首次空中“抓捕”",
+      "马斯克祝贺工程师和团队完成此次任务"
      ],
      "why": "",
-     "title_zh": ""
+     "title_zh": "SpaceX创造历史：马斯克的星舰从轨道返回时完成首次空中“抓捕”"
     }
    },
    {
-    "id": "7fdef3fb85",
-    "title": "SpaceX recovers Starship with giant tower arms in historic first",
-    "link": "https://nypost.com/2026/11/14/us-news/spacex-recovers-starship-with-giant-tower-arms-in-historic-first/",
-    "source": "New York Post",
-    "site": "nypost.com",
-    "date": "2026-11-14T17:17:00+00:00",
+    "id": "d0357c408f",
+    "title": "SpaceX makes history with Starship's first-ever catch after returning from orbit",
+    "link": "https://economictimes.indiatimes.com/news/short-videos/spacex-makes-history-with-starships-first-ever-catch-after-returning-from-orbit/videoshow/135846356.cms",
+    "source": "The Economic Times",
+    "site": "economictimes.indiatimes.com",
+    "date": "2026-11-14T19:21:00+00:00",
     "lang": "en",
-    "summary": "SpaceX’s Starship returned from more than 22 hours in orbit Saturday and was secured by the launch tower’s giant mechanical arms after a controlled descent — the first time a spacecraft has been ...",
+    "summary": "In a landmark moment for space exploration, SpaceX on Saturday (local time) made history by successfully bringing its Starship spacecraft back from orbit and catching it upright in the mechanical arms ...",
     "ai": {
-     "summary": "SpaceX's Starship rocket flew a test launch from Texas. Its upper section orbited Earth for over 22 hours, then came back down and was caught by the launch tower's mechanical arms, a first for a spacecraft recovered this way. The rocket's lower booster broke apart over the Gulf of Mexico shortly after liftoff, so the planned double catch did not happen.",
+     "summary": "SpaceX的星舰飞船首次完成从轨道返回后，被地面机械臂在半空中稳稳接住。这是太空探索的一个里程碑，意味着飞船可以回收再用。原文未能读取，此摘要仅根据标题和出版方简介撰写。",
      "points": [
-      "这是Starship第15次测试发射，也是其第二次进入轨道，上段绕地球飞行14圈。",
-      "返回的上段速度约每小时17600英里，接近音速的23倍，随后被Mechazilla发射塔的“筷子”机械臂抓住。",
-      "下段超级重型助推器在墨西哥湾上空爆炸，原定的双捕获未能完成。"
-     ],
-     "why": "这次测试显示SpaceX的火箭技术持续进展，NASA也计划在2027年和2028年推进登月任务，对普通马来西亚企业主的直接影响暂时有限。",
-     "title_zh": "SpaceX用发射塔巨型机械臂回收Starship，开创历史首例"
-    }
-   },
-   {
-    "id": "29fb6d5769",
-    "title": "‘Holy Grail of spaceflight’: SpaceX pulls off first-ever midair 'catch' of Starship returning from orbit",
-    "link": "https://www.livemint.com/companies/news/holy-grail-of-spaceflight-spacex-pulls-off-first-ever-midair-catch-of-starship-returning-from-orbit-11794704126187.html",
-    "source": "Mint",
-    "site": "www.livemint.com",
-    "date": "2026-11-14T17:15:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX achieved the first catch of a Starship spacecraft, guiding the 171-foot vehicle into the arms of its launch tower after a 22-hour orbital mission. The ship completed 14 laps around Earth and ...",
-    "ai": {
-     "summary": "SpaceX caught a returning Starship spacecraft in midair with its launch tower's mechanical arms, a first for the industry. The ship had orbited Earth 14 times on a 22-hour mission and released 26 Starlink satellites, though the first-stage booster was destroyed after liftoff. The catch is seen as a step toward fully reusable rockets.",
-     "points": [
-      "Starship returned from orbit and was caught by the Starbase tower on Saturday (US local time)",
-      "The mission lasted 22 hours, with 14 laps around Earth and 26 Starlink satellites deployed",
-      "The booster exploded shortly after liftoff, so the recovery of that stage failed"
+      "事件发生在周六（当地时间）",
+      "星舰从轨道返回后被机械臂直立接住",
+      "据报道这是星舰首次完成此类回收"
      ],
      "why": "",
-     "title_zh": "“太空圣杯”：SpaceX首次在半空中成功“抓住”从轨道返回的星舰"
+     "title_zh": "SpaceX星舰首次从轨道返回后成功空中接住，写下历史新页"
     }
    },
    {
-    "id": "53126e540e",
-    "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-    "link": "https://www.msn.com/en-ca/news/other/spacex-starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-rockets/ar-AA2hs4B2",
-    "source": "Reuters",
+    "id": "2773c3225d",
+    "title": "Elon Musk's SpaceX Pulls Off Historic Feat, Giant Tower Arms Catch Starship From Sky | Watch",
+    "link": "https://www.thedailyjagran.com/world/news/elon-musk-spacex-pulls-off-historic-feat-giant-tower-arms-catch-starship-rocket-from-sky-in-mechazilla-texas-video-10336329",
+    "source": "thedailyjagran.com",
+    "site": "www.thedailyjagran.com",
+    "date": "2026-11-14T19:21:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX successfully caught its Starship spacecraft with the Mechazilla launch tower's mechanical arms in South Texas, marking a historic first for fully reusable rocket technology.This achievement ...",
+    "ai": {
+     "summary": "SpaceX在德州南部用发射塔上的机械臂成功抓住了返回地球的Starship飞船,这是完全可重复使用火箭技术上的首次。飞船在太空飞行约22小时,绕地球14圈并释放了Starlink卫星,随后穿越大气层返回发射场上空被机械臂稳稳接住。",
+     "points": [
+      "飞船于周五美国东部时间下午5点47分发射,周六当地时间约下午3点20分被接住",
+      "飞船高171英尺,是Starship火箭的上级",
+      "负责抓取下方助推器的尝试失败,助推器在接近海面前爆炸"
+     ],
+     "why": "",
+     "title_zh": "马斯克SpaceX创历史壮举:巨型发射塔机械臂半空接住Starship飞船"
+    }
+   },
+   {
+    "id": "c57537cd24",
+    "title": "SpaceX Catches Starship Rocket Upper Stage Using Giant 'Chopsticks' In Historic First: WATCH",
+    "link": "https://news.abplive.com/science/elon-musk-spacex-catches-starship-rocket-upper-stage-using-giant-chopsticks-mechazilla-historic-first-video-1876001",
+    "source": "ABP News",
+    "site": "news.abplive.com",
+    "date": "2026-11-14T19:10:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX on Friday failed to catch and recover the rocket’s booster, which later exploded over the Gulf of Mexico ahead of its splash down.",
+    "ai": {
+     "summary": "SpaceX成功用发射塔上的巨型机械臂“筷子”抓住了星舰的上级火箭（Ship 42），地点在德克萨斯州的发射场。这艘飞船先进入低地球轨道飞行超过22小时，绕地球约14圈，并释放了26颗新一代星链V3卫星，随后返回并被抓住。这是星舰上级火箭首次在发射场完成轨道飞行后的回收。",
+     "points": [
+      "回收时间为11月15日（马来西亚时间约凌晨2时52分），属于第15次整体飞行测试",
+      "飞船在轨道上飞行超过22小时，绕地球约14圈，部署26颗星链V3卫星",
+      "原定同时回收助推器和上级火箭的目标未能实现，助推器在墨西哥湾海面上空爆炸"
+     ],
+     "why": "此次成功回收显示星舰有望实现重复使用，长远可能降低发射成本，并扩大星链卫星网络，但对马来西亚企业的直接影响目前并不明确。",
+     "title_zh": "SpaceX用巨型“筷子”抓住星舰上级火箭，开创历史首例"
+    }
+   },
+   {
+    "id": "fed287a174",
+    "title": "SpaceX Starship returns from orbit, gets caught by giant mechanical arms (watch)",
+    "link": "https://www.msn.com/en-in/news/other/spacex-starship-returns-from-orbit-gets-caught-by-giant-mechanical-arms-watch/ar-AA2hs7Mx",
+    "source": "Asianet Newsable",
     "site": "www.msn.com",
-    "date": "2026-11-14T17:05:33+00:00",
+    "date": "2026-11-14T19:09:20+00:00",
     "lang": "en",
-    "summary": "By Joey Roulette STARBASE, Texas, Nov 14 (Reuters) - SpaceX's Starship spacecraft on Saturday returned from a 22-hour voyage in orbit and descended for the first time into the grasp of giant ...",
+    "summary": "SpaceX achieved a major milestone by successfully returning the Starship spacecraft from orbit and catching it with mechanical arms at the launch tower. During this fifteenth test flight, the ...",
     "ai": {
-     "summary": "SpaceX的星舰飞船周六完成了一次约22小时的轨道飞行后返回地面，并首次被发射塔的机械臂稳稳接住，降落在发射场附近。这次测试被视为可重复使用火箭技术的一次重要验证。",
+     "summary": "SpaceX的Starship飞船完成了一次重要测试：从轨道返回后，被发射塔上的巨型机械臂成功抓住。这是第十五次试飞。由于原文无法读取，内容仅依据标题和出版方摘要整理。",
      "points": [
-      "飞行时长约22小时，飞船在轨道上完成航行后返回",
-      "飞船首次被发射塔的巨型机械臂抓住并回收",
-      "报道来自路透社，发布日期为11月14日，地点在得克萨斯州星基"
+      "Starship飞船从轨道返回地面附近",
+      "由发射塔上的机械臂成功捕获",
+      "这是该飞船的第十五次测试飞行"
      ],
      "why": "",
-     "title_zh": "SpaceX星舰从轨道返回发射塔，可重复使用火箭测试成功"
+     "title_zh": "SpaceX星舰从轨道返回，被巨型机械臂抓住（视频）"
     }
    },
    {
-    "id": "f42b6d028b",
-    "title": "SpaceX’s Starship returns from orbit, caught mid-air by launch pad arms in a milestone first",
-    "link": "https://english.mathrubhumi.com/technology/science/spacex-starship-caught-mid-air-launch-pad-arms-first-ptiiyvm1e27",
-    "source": "Mathrubhumi English",
-    "site": "english.mathrubhumi.com",
-    "date": "2026-11-14T16:59:00+00:00",
+    "id": "e7eb36e829",
+    "title": "'Stand with Jensen': Over 100,000 Sign Petition Urging NVIDIA to Reinstate Huang, Elon Musk Among Supporters",
+    "link": "https://www.timesnownews.com/world/us/us-news/stand-with-jensen-over-100000-sign-petition-urging-nvidia-to-reinstate-huang-elon-musk-among-supporters-article-156511322",
+    "source": "Times Now",
+    "site": "www.timesnownews.com",
+    "date": "2026-11-14T19:04:00+00:00",
     "lang": "en",
-    "summary": "SpaceX's Starship spacecraft has returned from orbit and achieved a historic first midair catch by mechanical launch pad arms following a 22-hour spaceflight.",
+    "summary": "A campaign to reinstate Jensen Huang as NVIDIA's CEO has gained traction, with over 108,000 signatures on a petition. , US News, Times Now ...",
     "ai": {
-     "summary": "SpaceX的星舰（Starship）完成太空飞行后返回地面，在发射台上被巨型机械臂在半空中接住，这是首次有飞船以这种方式回收。飞船在轨道上绕地球14圈，约22小时后返回。但前面的第一级助推器在返回途中自毁，未能成功回收，因此公司没有完成原定的双重回收目标。",
+     "summary": "一项名为“Stand with Jensen”的请愿活动声称已有超过10万8千人签名，要求英伟达（NVIDIA）董事会重新考虑黄仁勋的离职决定。特斯拉CEO马斯克等科技界人士也在X平台上支持这项请愿。英伟达目前由财务总监Colette Kress暂代首席执行官，董事会已开始寻找正式接任人选。",
      "points": [
-      "星舰绕地球14圈后，在发射台上被机械臂接住，这是首次太空返回后半空回收",
-      "飞船发射后释放了26颗星链卫星，隔热罩等系统表现良好",
-      "助推器发动机过早熄火，在海上自毁，工程师仍在调查原因"
-     ],
-     "why": "星舰若能全面重复使用，未来太空运输成本可能下降，相关航天产业的发展也会更快，但对本地企业和家庭目前没有直接影响。",
-     "title_zh": "星舰从轨道返回，在发射台被机械臂半空接住，creating首次里程碑"
-    }
-   },
-   {
-    "id": "64fb7e00a8",
-    "title": "Watch: SpaceX's Starship completes first-ever midair catch on return from orbit",
-    "link": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
-    "source": "The Times of India",
-    "site": "timesofindia.indiatimes.com",
-    "date": "2026-11-14T16:44:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX's Starship spacecraft returned from a 22-hour journey in orbit on Saturday and was caught by giant mechanical arms at the Texas launch tower from which it had taken off a day earlier, marking ...",
-    "ai": {
-     "summary": "SpaceX的星舰（Starship）飞船完成了一次22小时的轨道飞行后返回，并在得克萨斯州发射塔上被巨型机械臂“抓住”。这是该公司首次在空中完成此类捕获。",
-     "points": [
-      "飞船在轨道上飞行约22小时后返回",
-      "由发射塔上的巨型机械臂在空中捕获",
-      "飞船是在前一天从同一发射塔起飞的"
+      "请愿声称签名者包括逾5万8千名英伟达股东和超过5600名现任员工",
+      "请愿者呼吁董事会在调查厘清事实前，不要急于让黄仁勋离职",
+      "董事会已委托律师事务所Wachtell, Lipton, Rosen & Katz展开调查"
      ],
      "why": "",
-     "title_zh": "SpaceX星舰完成首次从轨道返回时的空中捕获"
+     "title_zh": "“与黄仁勋同在”：超过十万人签名请愿，促英伟达让黄仁勋复职，马斯克也表示支持"
     }
    },
    {
-    "id": "8582474463",
-    "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-    "link": "https://www.msn.com/en-us/news/other/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry/ar-AA2hrK8k",
-    "source": "MarketWatch",
+    "id": "fce130106d",
+    "title": "SpaceX Starship snatched from sky by mechanical arms in historic first",
+    "link": "https://www.express.co.uk/news/world/2266283/spacex-starship-snatched-sky-mechanical",
+    "source": "Daily Express",
+    "site": "www.express.co.uk",
+    "date": "2026-11-14T18:56:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX's Starship has made a historic return to Earth, caught in mid-air by giant mechanical arms in a milestone for reusable rocket technology - though the first-stage booster exploded and fell into ...",
+    "ai": {
+     "summary": "SpaceX的星舰（Starship）完成了返回地球的历史性一步，巨型机械臂在半空中成功抓住了这艘飞船。不过第一级助推器在发射后不久爆炸坠海，公司未能同时完成双抓回收的目标。",
+     "points": [
+      "星舰在空中被机械臂成功捕获，是星舰首次从太空返回后被抓住",
+      "第一级助推器在德州发射后不久爆炸，残骸落在墨西哥湾",
+      "星舰此次绕地球飞行14圈，并部署了26颗新一代星链卫星"
+     ],
+     "why": "",
+     "title_zh": "SpaceX星舰在半空中被机械臂抓住，开创历史首例"
+    }
+   },
+   {
+    "id": "d03d2d5be6",
+    "title": "'Holy Grail of spaceflight': Elon Musk's SpaceX pulls off first-ever starship 'Catch'; Watch dramatic return video",
+    "link": "https://news24online.com/world/holy-grail-of-spaceflight-elon-musks-spacex-pulls-off-first-ever-starship-catch-watch-dramatic-return-video/953605/",
+    "source": "News24",
+    "site": "news24online.com",
+    "date": "2026-11-14T18:52:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk's SpaceX on Saturday, November 14, marked a major breakthrough by successfully pulling off the first-ever 'catch' of its Starship spacecraft.",
+    "ai": {
+     "summary": "马斯克的SpaceX在11月14日成功用机械臂在半空中“抓住”了星舰飞船，这是首次完成此类回收。星舰穿过大气层高温后，被德州星际基地发射台上的两条巨型机械臂接住。这项技术意味着火箭有望全部重复使用，从而降低太空飞行成本。",
+     "points": [
+      "星舰在第15次试飞中完成回收，飞行约22小时，绕地球14圈",
+      "飞船途中成功部署26颗星链（Starlink）卫星",
+      "NASA署长艾萨克曼称这一回收“几乎像魔法”"
+     ],
+     "why": "",
+     "title_zh": "“太空圣杯”：马斯克SpaceX首次成功“抓住”星舰"
+    }
+   },
+   {
+    "id": "19249e7312",
+    "title": "Trump unlikely to raise Jensen Huang spy allegations with Xi Jinping, Elon Musk to join China trip",
+    "link": "https://www.moneycontrol.com/news/business/trump-unlikely-to-raise-jensen-huang-spy-allegations-with-xi-jinping-elon-musk-to-join-china-trip-14080310.html",
+    "source": "Moneycontrol",
+    "site": "www.moneycontrol.com",
+    "date": "2026-11-14T18:42:00+00:00",
+    "lang": "en",
+    "summary": "Senior US officials said Trump is unlikely to discuss the Jensen Huang espionage allegations with Xi Jinping at the November 18-19 APEC summit. Elon Musk will join the China visit.",
+    "ai": {
+     "summary": "美国官员称，特朗普下周与中国国家主席习近平会面时，大概不会提出涉及前英伟达首席执行官黄仁勋的中国情报行动指控。会谈重点是落实两国贸易协议，芯片出口管制不在谈判范围内。特斯拉和SpaceX首席执行官马斯克也将随行前往深圳。",
+     "points": [
+      "会面安排在11月18至19日的亚太经合组织（APEC）峰会期间，地点是深圳。",
+      "黄仁勋已辞去英伟达首席执行官，相关女商人艾丽斯·黄（与黄仁勋无亲属关系）被怀疑向北京传递信息，中国否认指控。",
+      "马斯克将随行，但官员称他不会参加特朗普、习近平与普京的三方会谈。"
+     ],
+     "why": "",
+     "title_zh": "特朗普不太可能与习近平提及黄仁勋间谍指控，马斯克将随访中国"
+    }
+   },
+   {
+    "id": "aeec9eddfd",
+    "title": "SpaceX launches 28 Starlink satellites, nails rocket landing",
+    "link": "https://www.msn.com/en-gb/video/other/spacex-launches-28-starlink-satellites-nails-rocket-landing/vi-AA2hrV3r",
+    "source": "YouTube",
     "site": "www.msn.com",
-    "date": "2026-11-14T16:33:00+00:00",
+    "date": "2026-11-14T18:34:27+00:00",
     "lang": "en",
-    "summary": "The historic first gets SpaceX closer to “rapid reusability” of rockets.",
+    "summary": "SpaceX Falcon 9 rocket successfully launches 28 Starlink satellites and achieves a booster landing.",
     "ai": {
-     "summary": "SpaceX的星舰火箭据报道成功被“接住”，这是太空产业的一个重要里程碑。这一首次成功让SpaceX离火箭“快速重复使用”更近一步，即火箭落回后可以迅速再次投入使用。",
+     "summary": "SpaceX的猎鹰9号火箭成功发射了28颗星链（Starlink）卫星，并且第一级火箭顺利回收着陆。星链是SpaceX的卫星网络，用于提供互联网服务。由于原文无法读取，以上内容仅依据标题和出版方摘要。",
      "points": [
-      "星舰火箭被成功回收并接住，属于首次成功",
-      "此举被视为朝火箭快速重复使用迈进的一步",
-      "消息来源为MarketWatch，全文未能读取，细节以原报道为准"
+      "火箭型号为猎鹰9号（Falcon 9）",
+      "本次共发射28颗星链卫星",
+      "第一级火箭（助推器）成功着陆"
      ],
      "why": "",
-     "title_zh": "SpaceX成功接住星舰火箭，太空产业迎来重大里程碑"
+     "title_zh": "SpaceX发射28颗星链卫星，火箭成功回收着陆"
     }
    },
    {
-    "id": "50d7a0e2c8",
-    "title": "Starship makes historic return as SpaceX catches spacecraft midair, booster explodes",
-    "link": "https://www.firstpost.com/world/starship-makes-historic-return-as-spacex-catches-spacecraft-midair-booster-explodes-14060041.html",
-    "source": "Firstpost",
-    "site": "www.firstpost.com",
-    "date": "2026-11-14T16:22:00+00:00",
+    "id": "6e21e0d2ba",
+    "title": "Elon Musk’s SpaceX catches Starship spacecraft mid-air, achieves historic first: Video",
+    "link": "https://indianexpress.com/article/world/elon-musk-space-x-catches-starship-spacecraft-mid-air-10963568/",
+    "source": "The Indian Express",
+    "site": "indianexpress.com",
+    "date": "2026-11-14T18:33:00+00:00",
     "lang": "en",
-    "summary": "SpaceX’s Starship made a triumphant return to Earth on Saturday, caught in midair by giant mechanical arms where its journey began 22 hours earlier.",
-    "ai": {
-     "summary": "SpaceX的星舰飞船完成一次返回任务，周六时被巨型机械臂在半空中接住，回到发射起点附近。publisher摘要提到这次飞行历时约22小时，但文章正文无法读取，因此无法确认更多细节。",
-     "points": [
-      "星舰在周六返回地球，被机械臂在半空中捕获",
-      "据摘要，整个飞行历时约22小时",
-      "标题称助推器在过程中爆炸，正文无法核实"
-     ],
-     "why": "",
-     "title_zh": "星舰历史性返航，SpaceX半空中捕获飞船，助推器爆炸"
-    }
+    "summary": "SpaceX's official livestream accompanied the spacecraft's final descent with the 1977 hit song 'Baby Come Back' ..."
    },
    {
-    "id": "7eb57af922",
-    "title": "SpaceX Just Made Starship History — What Wall Street Sees Next for SPCX Stock",
-    "link": "https://www.tipranks.com/news/article/spacex-just-made-starship-history-what-wall-street-sees-next-for-spcx-stock",
-    "source": "TipRanks",
-    "site": "www.tipranks.com",
-    "date": "2026-11-14T16:12:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX (NASDAQ:SPCX) has just achieved something no aerospace company has ever accomplished, successfully returning its Starship spacecraft from orbit and securing ..."
-   },
-   {
-    "id": "65f7894e13",
-    "title": "Is Jensen Huang making a comeback? Ex-Nvidia CEO reinstatement petition nears 100,000 signatures as Elon Musk joins campaign",
-    "link": "https://www.msn.com/en-in/money/general/is-jensen-huang-making-a-comeback-ex-nvidia-ceo-reinstatement-petition-nears-100-000-signatures-as-elon-musk-joins-campaign/ar-AA2hrBsv",
-    "source": "Indiatimes",
+    "id": "0267998bb6",
+    "title": "Elon Musk's SpaceX pulls off first-ever spaceship catch",
+    "link": "https://www.msn.com/en-in/science/general/elon-musk-s-spacex-pulls-off-first-ever-spaceship-catch/ar-AA2hs9WH",
+    "source": "The Tribune",
     "site": "www.msn.com",
-    "date": "2026-11-14T16:09:26+00:00",
+    "date": "2026-11-14T18:29:33+00:00",
     "lang": "en",
-    "summary": "Jensen Huang could make a return to Nvidia as a petition demanding his reinstatement nears 100,000 signatures. With Elon Musk and thousands of employees backing the campaign, could the former CEO get ..."
-   },
-   {
-    "id": "dc5bde81a0",
-    "title": "Elon Musk's SpaceX makes history with incredible pinpoint Starship landing in Texas as NASA boss praises 'magic' feat",
-    "link": "https://www.dailymail.com/sciencetech/article-16293307/Elon-Musk-SpaceX-history-rocket-landing.html",
-    "source": "Daily Mail",
-    "site": "www.dailymail.com",
-    "date": "2026-11-14T16:00:00+00:00",
-    "lang": "en",
-    "summary": "Astonishing footage emerged shortly after the feat on Saturday showing the Starship descending slowly over a launch pad and being caught between the two arms.",
+    "summary": "In a landmark moment for space exploration, SpaceX on Saturday (local time) made history by successfully bringing its Starship spacecraft back from orbit and catching it upright in the mechanical arms ...",
     "ai": {
-     "summary": "SpaceX成功用机械臂在得州发射场半空中接住了Starship星舰，这是该类飞船首次在返回地球后被“抓住”回收。星舰先绕地球飞行14圈，之后缓缓降落在发射台上方，被两条像筷子一样的机械臂夹住。不过，第一级助推器升空后不久就爆炸坠入墨西哥湾，原因仍在调查中。",
+     "summary": "美国SpaceX公司周六（当地时间）完成了一项首创：把其星舰（Starship）飞船从轨道返回后，用机械臂在半空中将其直立接住。报道称这是太空探索的一个里程碑，但文章正文无法读取，内容仅依据标题和摘要。",
      "points": [
-      "星舰在周五从得州发射，于周六完成回收，是SpaceX第15次全尺寸星舰飞行。",
-      "飞船绕地球飞行14圈，并释放了26颗Starlink卫星。",
-      "助推器引擎过早熄火，导致其自动引爆；美国国家航空航天局局长艾萨克曼称赞这次成功“近乎魔法”。"
-     ],
-     "why": "此次成功显示星舰可以完整重复使用，若未来能降低发射成本，相关航天产业的供应链与合作机会可能会随之变化，但目前对马来西亚企业的直接影响尚不明确。",
-     "title_zh": "马斯克SpaceX星舰得州半空回收成功，NASA局长赞“近乎魔法”"
-    }
-   },
-   {
-    "id": "62de02d1de",
-    "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-    "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
-    "source": "Al Jazeera",
-    "site": "www.aljazeera.com",
-    "date": "2026-11-14T16:00:00+00:00",
-    "lang": "en",
-    "summary": "The spaceship emerged from a cloudy sky on Saturday, descending slowly over Starbase before slipping smoothly between mechanical “chopstick arms” above Launch Pad 2 in Texas – the first-ever capture ...",
-    "ai": {
-     "summary": "SpaceX的星舰飞船完成太空飞行后返回地球，在得州发射台上空被巨大的机械臂成功抓住，这是首次成功抓回从太空返回的星舰。不过同一任务中，第一级助推器在发射后不久爆炸，公司未能达成同时抓回两个部件的目标。",
-     "points": [
-      "飞船飞行约22小时，绕地球14圈，抵达约265公里高度的轨道。",
-      "飞船在轨道上释放了26颗星链卫星，隔热罩等系统表现良好。",
-      "助推器因引擎过早停止点火，自动引导系统启动自毁，工程师仍在调查原因。"
-     ],
-     "why": "这显示可重复使用火箭技术持续进步，长远或有助降低太空运输成本，但对一般马来西亚企业的直接影响目前并不明显。",
-     "title_zh": "SpaceX星舰在发射台机械臂中被首次成功抓回"
-    }
-   },
-   {
-    "id": "bee0597341",
-    "title": "SpaceX catches Starship at launch tower for first time",
-    "link": "https://tech.yahoo.com/science/articles/spacex-catches-starship-launch-tower-005824403.html",
-    "source": "YAHOO!",
-    "site": "tech.yahoo.com",
-    "date": "2026-11-14T16:00:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX caught its Starship spacecraft at its launch tower, the first time the company has recovered the upper stage of a rocket after a flight.",
-    "ai": {
-     "summary": "SpaceX成功用发射塔的机械臂接住了星舰(Starship)飞船,这是该公司首次回收火箭上面一级的飞船。飞船在轨道上飞行了22小时以上,绕地球14圈后返回德州的发射基地。",
-     "points": [
-      "星舰第15次试飞中完成回收,飞船绕地球14圈后返回",
-      "飞船在轨道上停留超过22小时,并成功部署星链卫星",
-      "助推器未能按计划返回发射塔,在墨西哥湾爆炸"
+      "主角为埃隆·马斯克旗下的SpaceX公司",
+      "飞船为星舰，从轨道返回",
+      "以机械臂直立接住，属于首次"
      ],
      "why": "",
-     "title_zh": "SpaceX首次在发射塔上接住星舰飞船"
+     "title_zh": "埃隆·马斯克旗下SpaceX首次成功以机械臂接住星舰飞船"
     }
    },
    {
-    "id": "fbec7c6487",
-    "title": "SpaceX pulls off first-ever spaceship ‘catch’",
-    "link": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/spacex-first-spaceship-catch/",
-    "source": "The Japan Times",
-    "site": "www.japantimes.co.jp",
-    "date": "2026-11-14T16:00:00+00:00",
+    "id": "44e1578ec9",
+    "title": "SpaceX Starship makes dramatic return to Earth after being 'caught' in mid-air by mechanical arms",
+    "link": "https://www.mirror.co.uk/news/world-news/space-x-starship-elon-musk-37878434",
+    "source": "The Mirror",
+    "site": "www.mirror.co.uk",
+    "date": "2026-11-14T18:19:00+00:00",
     "lang": "en",
-    "summary": "Starbase, Texas – Elon Musk’s SpaceX on Saturday carried out the first-ever recovery of a spaceship, pulling off a successful “catch” of its Starship vessel as it returned to its launch site after a ...",
+    "summary": "Nasa administrator Jared Isaacman called the feat 'almost magic' after a set back on Friday, when the first stage booster exploded after a lift-off from Texas ...",
     "ai": {
-     "summary": "SpaceX, Elon Musk's rocket company, on Saturday caught a Starship spaceship for the first time as it returned to its launch site in Starbase, Texas, after about a day in orbit. The ship came down slowly and was caught by mechanical arms above Launch Pad 2. The aim is to make rockets fully reusable, which could greatly lower the cost of missions.",
+     "summary": "SpaceX的Starship太空船从太空返回后，被发射塔的机械臂在半空中成功接住，这是首次有飞船从太空返回时被这样捕获。不过，同一天发射的第一级助推器在离开德州发射场后不久爆炸，未能完成原定的双重捕获目标。Starship从太空返回后，各系统看来运作正常，包括隔热罩。",
      "points": [
-      "SpaceX carried out the first-ever catch of a spaceship on Saturday",
-      "The Starship returned from about a day in orbit and survived re-entry heat",
-      "The mechanical 'chopstick arms' caught it above Launch Pad 2 in Starbase, Texas"
+      "太空船在空中被机械臂接住，助推器在发射后不久爆炸入海",
+      "太空船绕地球14圈，并释放了26颗Starlink卫星",
+      "NASA计划最快在2028年执行Artemis IV登月任务"
      ],
      "why": "",
-     "title_zh": "SpaceX首次成功“接住”太空飞船"
+     "title_zh": "SpaceX星舰被机械臂半空接住，成功返回地球"
     }
    },
    {
-    "id": "11980d4353",
-    "title": "Elon Musk’s SpaceX carries out first-ever recovery of a spaceship with successful Starship catch",
-    "link": "https://www.hindustantimes.com/world-news/us-news/elon-musk-s-spacex-carries-out-first-ever-recovery-of-a-spaceship-with-successful-starship-catch-101794693499743.html",
-    "source": "Hindustan Times",
-    "site": "www.hindustantimes.com",
-    "date": "2026-11-14T14:59:00+00:00",
+    "id": "645933f989",
+    "title": "SpaceX makes history as Starship returns from orbit and is caught by launch tower",
+    "link": "https://www.theweek.in/news/sci-tech/2026/11/15/spacex-starship-caught-by-launch-tower.html",
+    "source": "The Week",
+    "site": "www.theweek.in",
+    "date": "2026-11-14T18:19:00+00:00",
     "lang": "en",
-    "summary": "The initial attempt failed and was called off, with the booster redirected toward the ocean, where it erupted into flames just above the water's surface.",
+    "summary": "SpaceX successfully brought its Starship spacecraft back from orbit and caught it upright in the mechanical arms of its launch tower. This achievement marks the first ...",
     "ai": {
-     "summary": "SpaceX's Starship upper stage returned from orbit and was caught by mechanical arms on the launch tower in Texas, a first for the company. The booster failed to be caught and was steered toward the Gulf of Mexico, where it burst into flames before reaching the water.",
+     "summary": "SpaceX成功让其星舰飞船从轨道返回，并在发射塔的机械臂上将其垂直接住。publisher摘要称这是此类首次成就。文章正文无法获取，以下内容仅依据标题和摘要整理。",
      "points": [
-      "The spacecraft completed 14 orbits before being caught on Saturday, during Test Flight 15.",
-      "The booster was redirected to an offshore landing and burst into flames above the water.",
-      "Test Flight 15 also deployed 26 more Starlink v3 satellites."
+      "星舰飞船从轨道返回并被发射塔机械臂接住",
+      "据摘要，这是此类操作的首次成功",
+      "消息来源为The Week"
      ],
      "why": "",
-     "title_zh": "SpaceX星舰上级首次成功被发射塔机械臂回收"
+     "title_zh": "SpaceX星舰从轨道返回并被发射塔接住，创下历史"
     }
    },
    {
-    "id": "84169d43dc",
-    "title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional ...",
-    "link": "https://www.fool.com/investing/2026/11/14/elon-musks-tesla-and-spacex-lost-more-than-420-billion-in-combined-market-value-in-two-days-after-democrats-swept-the-midterms-with-investors-fearing-new-congressional-probes-heres-why-that-political-risk-matters-for-shareholders/",
-    "source": "The Motley Fool",
-    "site": "www.fool.com",
-    "date": "2026-11-14T14:29:00+00:00",
+    "id": "83d92e8357",
+    "title": "SpaceX makes first launch pad catch of Starship after its orbital return",
+    "link": "https://www.business-standard.com/world-news/spacex-makes-first-launch-pad-catch-of-starship-after-its-orbital-return-126111500023_1.html",
+    "source": "Business Standard",
+    "site": "www.business-standard.com",
+    "date": "2026-11-14T18:18:00+00:00",
     "lang": "en",
-    "summary": "Given the nature of their businesses, Tesla and SpaceX's exposure to political risk won't subside anytime soon.",
+    "summary": "It was the grand finale that Elon Musk and his team hoped for - the first-ever capture of a Starship flying back from space ...",
     "ai": {
-     "summary": "特斯拉和SpaceX在美国中期选举后两天内，合计市值蒸发约4200亿美元，主要因为投资者担心选后新国会可能展开调查或限制数据中心扩张。两家公司之后大部分跌幅已收复，股价回到选前水平附近。",
+     "summary": "SpaceX's Starship rocket returned from orbit on Saturday and was caught midair by giant mechanical arms at the Texas launch pad it left from about 22 hours earlier. The first-stage booster, however, exploded after separating, so the planned double catch did not happen. The upper spacecraft completed 14 laps around Earth and released 26 Starlink satellites.",
      "points": [
-      "特斯拉与SpaceX在选后两天合计市值下跌约4200亿美元",
-      "两家公司的前景很大程度取决于人工智能相关投资，如特斯拉的机器人出租车和SpaceX的算力扩张",
-      "选举中当选者有人主张限制数据中心扩张，两家公司都可能面对监管审查"
+      "Starship was caught midair at the launch pad, the first such capture of a spacecraft returning from space.",
+      "The booster exploded in the Gulf of Mexico after its engines stopped firing too soon; engineers are still investigating.",
+      "SpaceX expects to begin launching Starships from Florida's Kennedy Space Center within the next few months."
      ],
      "why": "",
-     "title_zh": "特斯拉与SpaceX在美国中期选举后两天合计蒸发逾4200亿美元市值，投资者担忧国会新一轮调查"
+     "title_zh": "SpaceX 星舰从轨道返回后首次在发射塔被空中捕获"
     }
    },
    {
@@ -2465,26 +2484,6 @@
       "项目总装机64.8万千瓦，共108台单机6兆瓦风机",
       "2023年10月开工，是三峡集团最大的海外绿地风电项目",
       "按设计测算，每年可减少约212.5万吨二氧化碳排放"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "b098bc3e68",
-    "title": "【跨越赶超·项目攻坚】年产15000吨新能源锂电池壳铝原片项目签约 ...",
-    "link": "https://finance.sina.com.cn/wm/2026-11-14/doc-iniytfyz3928527.shtml",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-14T03:21:00+00:00",
-    "lang": "zh",
-    "summary": "县审计局在获悉企业扩产布局需求后，立足盱眙产业配套基础、区位交通与营商环境优势，对项目投资规模、产能效益、运营成本开展多轮研判，以专业严谨的对接、细致周到的全流程服务，推动项目从意向洽谈快速落地签约，与地方携手推动锂电配套产业蓬勃发展、攀高比强。” 本次签约项目是该公司在盱投资的第三个项目，既是企业深耕盱眙、持续加码的生动印证，也是对盱眙营商环境和发展前景的充分认可。",
-    "ai": {
-     "summary": "盱眙县一家铝材企业签约建设年产15000吨的新能源锂电池壳专用铝原片项目。项目将配置4条自动化精密压延生产线，产品主要供应比亚迪等新能源汽车的锂电池外壳，预计年产值3亿元。县审计局在前期协助项目从洽谈到签约。",
-     "points": [
-      "规划年产15000吨锂电池壳专用铝原片，配置4条自动化生产线",
-      "预计年产值3亿元，主要供应比亚迪等新能源汽车电池外壳",
-      "这是该公司在盱眙投资的第三个项目"
      ],
      "why": "",
      "title_zh": ""
@@ -2731,6 +2730,46 @@
     }
    },
    {
+    "id": "41bea821d6",
+    "title": "立新能源：控股子公司拟73.2亿元投建250万千瓦风电项目",
+    "link": "https://finance.ifeng.com/c/8xzwqpMnNda",
+    "source": "凤凰网财经",
+    "site": "finance.ifeng.com",
+    "date": "2026-11-12T11:47:00+00:00",
+    "lang": "zh",
+    "summary": "人民财讯11月12日电，立新能源(001258)11月12日公告，控股子公司奇台县能投合创发电有限公司拟投资建设奇台250万千瓦新能源项目，其中包括能投合创奇台县75万千瓦风电项目、新疆能源北疆投资奇台县75万千瓦风电项目、新疆能源奇台县100万千瓦风电项目共计3个子项目。",
+    "ai": {
+     "summary": "立新能源（001258）公告称，其控股子公司奇台县能投合创发电有限公司拟投资建设奇台250万千瓦新能源项目，项目包括3个风电子项目，每个子项目分别为75万千瓦、75万千瓦和100万千瓦。项目总投资预计73.2亿令吉以外的人民币73.2亿元。",
+     "points": [
+      "项目名称为奇台250万千瓦新能源项目，由3个风电子项目组成",
+      "子项目规模分别为75万千瓦、75万千瓦和100万千瓦",
+      "项目总投资预计73.2亿元，公告日期为11月12日"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "25a6b6c5d6",
+    "title": "Today I learned why wind farms paint one turbine blade black",
+    "link": "https://www.yahoo.com/news/science/articles/today-learned-why-wind-farms-012500057.html",
+    "source": "Yahoo",
+    "site": "www.yahoo.com",
+    "date": "2026-11-14T17:26:00+00:00",
+    "lang": "en",
+    "summary": "A Norwegian trial cut bird deaths by about 72% with one black blade but a Dutch follow-up experiment found no effect, so newer offshore farms are now trying red.",
+    "ai": {
+     "summary": "挪威Smøla风电场在2013年8月把每台风机的一片叶片涂成黑色,之后三年鸟类尸体数量下降约70%。但荷兰的后续实验却没有看到同样效果,显示效果可能取决于当地鸟类种类和数量。新的海上风场因此开始尝试改用红色叶片。",
+     "points": [
+      "挪威Smøla风电场共68台风机,研究比较了4台涂黑与4台普通风机",
+      "研究人员统计风场100米范围内的鸟尸,并在2020年发表论文",
+      "荷兰Ecowende项目将为7台风机各装一片红色叶片"
+     ],
+     "why": "",
+     "title_zh": "今天我学到:为什么风电场要把一片风机叶片涂成黑色"
+    }
+   },
+   {
     "id": "332cadd8cc",
     "title": "Rs 40k to Rs 4 lakh: How farmers grow food below, generate power above, earn 10x",
     "link": "https://www.indiatoday.in/sunday-special/story/india-farmers-solar-panels-agrivoltaics-crops-electricity-income-pm-kusum-itspc-3038272-2026-11-15",
@@ -2768,6 +2807,26 @@
      ],
      "why": "",
      "title_zh": "EAAIF、Ninety One、IFC与IDA支持加纳一座100兆瓦工业太阳能电站"
+    }
+   },
+   {
+    "id": "3b95e8f0b1",
+    "title": "Engie-led consortium reaches financial close on 900 MW Ras Shokeir wind farm",
+    "link": "https://enterpriseam.com/egypt/2026/11/15/engie-led-consortium-reaches-financial-close-on-900-mw-ras-shokeir-wind-farm/",
+    "source": "enterpriseam",
+    "site": "enterpriseam.com",
+    "date": "2026-11-14T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Shokeir Wind Energy reached financial close on its 900 MW plant near Ras Shokeir in the Gulf of Suez, according to the sponsors’ joint statement (pdf), and once it’s running, ...",
+    "ai": {
+     "summary": "埃及Ras Shokeir附近的900兆瓦风电场（Shokeir Wind Energy）已完成财务交割，即项目融资到位。由法国Engie领导的财团持股，融资约5.88亿美元的无追索权贷款，由多家银行与日本机构提供，埃及财政部为国家方面的购电协议提供担保。该电场预计2028年投入运营。",
+     "points": [
+      "融资约5.88亿美元，日本国际协力银行最多出资2.85亿美元",
+      "25年购电协议于今年3月签署，国家电网购买全部发电量",
+      "风场预计2028年投入运营，较原定时间晚了约四个月完成财务交割"
+     ],
+     "why": "这类大型能源项目显示埃及电力供应与可再生能源目标正在推进，但对一般本地企业的直接影响有限，可留意未来电价与电力供应的变化。",
+     "title_zh": "Engie领导的财团完成900兆瓦Ras Shokeir风电场财务交割"
     }
    },
    {
@@ -2871,6 +2930,26 @@
     }
    },
    {
+    "id": "94b166e6af",
+    "title": "Lovina Recalls Laundry Days Without a Motor and Appreciates Her Solar Power",
+    "link": "https://www.emporiagazette.com/free/article_35f817a0-47c3-4100-ae6f-112c33fcd91c.html",
+    "source": "Emporia Gazette",
+    "site": "www.emporiagazette.com",
+    "date": "2026-11-14T10:08:00+00:00",
+    "lang": "en",
+    "summary": "We entered the month of November. Saturday, we cleared out the rest of the garden beds with only green peppers and hot peppers left. We didn't have a killing frost, ...",
+    "ai": {
+     "summary": "一位阿米绪作者分享了11月的家务与生活日常：她清理了菜园，用太阳能板供电洗衣，因为阴天发电不足，改用丈夫的发电机，并回顾了过去没有电动机、靠手动和煤油炉洗衣的日子。文章最后附上一道墨西哥卷饼食谱。",
+     "points": [
+      "文章以11月初的家务为主，包括清理菜园、整地、拆旧谷仓和清扫落叶。",
+      "阴天太阳能发电不足，她等太阳能指示灯变绿后才洗衣，并借用家人的发电机。",
+      "作者感叹现在用太阳能和自来水洗衣，比以前靠一台马达与水泵轮流供电的日子方便很多。"
+     ],
+     "why": "",
+     "title_zh": "洗衣不再靠马达：作者感谢太阳能带来的便利"
+    }
+   },
+   {
     "id": "8c7cf5b002",
     "title": "Ghana plans to switch off its costly emergency power plants by 2030, Budget says",
     "link": "https://3news.com/business/energy/budget-2027-emergency-power-plants-phase-out-2030",
@@ -2969,71 +3048,11 @@
      "why": "",
      "title_zh": "埃及富豪Hassan Allam的太阳能与电池电站获欧洲复兴开发银行6350万美元融资"
     }
-   },
-   {
-    "id": "3bed264b05",
-    "title": "Nara Lokesh: Andhra Pradesh To Become 'Saudi Arabia Of Clean Energy', Targets Energy Self-Reliance",
-    "link": "https://www.outlookindia.com/announcements/nara-lokesh-andhra-pradesh-to-become-saudi-arabia-of-clean-energy-targets-energy-self-reliance",
-    "source": "Outlook India",
-    "site": "www.outlookindia.com",
-    "date": "2026-11-14T08:08:00+00:00",
-    "lang": "en",
-    "summary": "Nara Lokesh says Andhra Pradesh aims to become a clean energy powerhouse, boost energy self-reliance and attract green energy investments.",
-    "ai": {
-     "summary": "印度安得拉邦部长纳拉·洛克什在维萨卡帕特南的CII合作峰会上表示，邦政府要把该邦打造成清洁能源强邦，目标是像沙特阿拉伯那样成为能源输出地。他认为印度应提高能源自给率，并把风能、太阳能和抽水蓄能电力转化为绿色分子（如绿氨）出口或供国内使用。他还提到，该邦近一年新增约480万千瓦可再生能源装机，并称政策稳定是吸引投资的关键。",
-     "points": [
-      "该邦近一年新增约4.8吉瓦可再生能源装机，此前五年仅新增6兆瓦",
-      "邦内用电量去年增长约30%，电力需求可能在2028年前接近翻倍",
-      "洛克什称已创造约50万个就业，目标是五年内创造200万个"
-     ],
-     "why": "如果您在安得拉邦有业务或计划投资，当地电价政策和绿色能源供应可能影响营运成本，但文章并未提供具体电价调整的最终安排。",
-     "title_zh": "洛克什：安得拉邦要成为“清洁能源的沙特阿拉伯”，目标是能源自给自足"
-    }
-   },
-   {
-    "id": "49a402ff37",
-    "title": "Giant Calderdale wind farm plan delayed by eight months",
-    "link": "https://www.msn.com/en-gb/money/general/giant-calderdale-wind-farm-plan-delayed-by-eight-months/ar-AA2hr13e",
-    "source": "Halifax Courier",
-    "site": "www.msn.com",
-    "date": "2026-11-14T06:00:00+00:00",
-    "lang": "en",
-    "summary": "Contentious plans for a Calderdale wind farm that could become England’s largest have been delayed by around eight months.",
-    "ai": {
-     "summary": "位于英国卡尔德代尔（Calderdale）的一项风电场计划被推迟了约八个月。该计划存在较大争议，若建成可能成为英格兰规模最大的风电场之一。由于原文无法读取，以上内容仅依据标题和出版方摘要整理。",
-     "points": [
-      "推迟时间约为八个月",
-      "该风电场计划存有争议",
-      "若建成，可能成为英格兰最大规模的风电场"
-     ],
-     "why": "",
-     "title_zh": "卡尔德代尔巨型风电场计划推迟八个月"
-    }
-   },
-   {
-    "id": "cbb64d9328",
-    "title": "New Jersey Regulators Approve Battery Storage and Virtual Power Plant Programs Statewide",
-    "link": "https://hoodline.com/2026/11/new-jersey-regulators-approve-battery-storage-and-virtual-power-plant-programs-statewide/",
-    "source": "Hoodline",
-    "site": "hoodline.com",
-    "date": "2026-11-14T05:22:00+00:00",
-    "lang": "en",
-    "summary": "The vote, approved by the New Jersey Board of Public Utilities, covers both an interim virtual power plant program and the first block of the second phase of the state's energy storage program, ...",
-    "ai": {
-     "summary": "新泽西州监管机构一致投票通过，推出临时“虚拟电厂”计划和储能计划的第二阶段首批项目。居民和企业若把电池、智能设备或太阳能板的电力回送电网，或减少用电，就能获得补偿，以减轻用电高峰时段的压力。",
-     "points": [
-      "目标是让州内四家受监管电力公司的用电高峰减少3%",
-      "各电力公司须在2027年10月1日前建立临时虚拟电厂项目，运行至2029年9月30日",
-      "新储能项目对新增住宅或小型商用储能每千瓦支付200令吉，对已登记的现有储能每千瓦支付100令吉（注：原文为美元，应以美元计）"
-     ],
-     "why": "如果公司拥有可接入电网的储能或太阳能设备，未来可能有机会参与补偿计划，但具体条件和收益仍需以官方公布的细则为准。",
-     "title_zh": "新泽西州批准全州电池储能与虚拟电厂计划"
-    }
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-15T09:29+08:00",
+  "updated": "2026-11-15T12:10+08:00",
   "items": {
    "klci": {
     "value": 1582.59,
@@ -3043,7 +3062,7 @@
    },
    "usdmyr": {
     "value": 4.0845,
-    "asof": "2026-11-14T11:30:48+08:00",
+    "asof": "2026-11-15T11:30:49+08:00",
     "change": 0.0071,
     "pct": 0.17
    },
