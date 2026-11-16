@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:14:32+00:00",
+ "updated": "2026-11-16T22:01:40+00:00",
  "categories": {
   "ipo": [
    {
@@ -91,28 +91,6 @@
     }
    },
    {
-    "id": "47df01476d",
-    "title": "Malayan Flour Mills records higher 3Q net profit of RM41.76mil",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/malayan-flour-mills-records-higher-3q-net-profit-of-rm4176mil",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-16T09:47:00+00:00",
-    "lang": "en",
-    "summary": "Malayan Flour Mills Bhd (MFM) is optimistic about its performance for the financial year ending 2026, with its flour and poultry segments contributing to a strong performance.",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "马来亚面粉厂（MFM）公布第三季净利润为4176万令吉，高于去年同期的3579万令吉。季度营收也从去年同期的7.73亿令吉升至8.79亿令吉，主要受面粉与谷物贸易销量增加带动。前九个月净利润同样增长，管理层对本财年余下时间的前景表示乐观。",
-     "points": [
-      "第三季（截至2026年9月30日）净利润4176万令吉，去年同期为3579万令吉",
-      "前九个月净利润1.27亿令吉，去年同期为9695万令吉",
-      "家禽业务合资公司Dindings Tyson的净利润升至5300万令吉，MFM所占份额约2700万令吉"
-     ],
-     "why": "",
-     "title_zh": "马来亚面粉厂第三季净利润升至4176万令吉"
-    }
-   },
-   {
     "id": "4416301a5c",
     "title": "Affin Bank reports RM113.57mil net profit in 3Q",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/16/affin-bank-reports-rm11357mil-net-profit-in-3q",
@@ -176,6 +154,28 @@
      ],
      "why": "",
      "title_zh": "Anthropic首次公开募股引发投资者高度兴趣"
+    }
+   },
+   {
+    "id": "b70e0c3585",
+    "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-15T16:00:00+00:00",
+    "lang": "en",
+    "summary": "The artificial intelligence (AI) trade that has fuelled the rising stock market in recent years but has lately shown signs of vulnerability faces twin tests this week: the highly anticipated initial ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "人工智能概念股近来带动美股上涨，但最近出现动摇。本周有两项关键考验：芯片巨头英伟达公布季度业绩，以及Claude聊天机器人开发商Anthropic首次公开招股（IPO，即股票首次上市）。英伟达股价上周因创始人兼首席执行官黄仁勋的私人丑闻而大跌，他已辞任，由临时首席执行官Colette Kress接手。",
+     "points": [
+      "Anthropic拟借出售约8.25亿股筹资最多644亿美元，估值最高达1.4万亿美元。",
+      "英伟达市值从10月初约5.8万亿美元降至上周五约3.9万亿美元。",
+      "分析师预期英伟达本财季营收约1090亿美元，盈利增长约90%。"
+     ],
+     "why": "如果人工智能相关股票出现大幅波动，企业在科技设备、云服务或投资相关的费用与规划上可能需要多留意。",
+     "title_zh": "英伟达业绩与Anthropic上市 成人工智能交易的两项考验"
     }
    }
   ],
@@ -313,6 +313,28 @@
     }
    },
    {
+    "id": "b4ec50a198",
+    "title": "NCT Alliance plans RM152mil share placement",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/nct-alliance-plans-rm152mil-share-placement",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T11:41:00+00:00",
+    "lang": "en",
+    "summary": "NCT Alliance Bhd (NCT) has proposed a private placement to raise up to RM152.47mil, with 70% of the proceeds earmarked for two industrial parks in Selangor and Kedah.",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "NCT Alliance Bhd 向马来西亚交易所提交文件，提议进行私下配股，最多募资约1億5247萬令吉。其中70%的资金将用于雪兰莪和吉打两个工业园的发展。公司表示，这笔资金属于股权融资，不会增加有息借款。",
+     "points": [
+      "最多发行3亿0494万股新股，给独立第三方投资者，假设发行价为每股5仙",
+      "两个工业园剩余的估计发展总价值约38.2億令吉",
+      "公司预计于2027年上半年完成配股，但需获得相关批准"
+     ],
+     "why": "",
+     "title_zh": "NCT Alliance拟进行1億5247萬令吉私下配股"
+    }
+   },
+   {
     "id": "053ba56364",
     "title": "Ringgit ends mostly higher against major currencies, slips against greenback",
     "link": "https://www.thestar.com.my/business/business-news/2026/11/16/ringgit-ends-mostly-higher-against-major-currencies-slips-against-greenback",
@@ -377,6 +399,18 @@
      "why": "股市短期波动主要影响投资组合，对一般企业的营运成本和员工福利影响不大，无需因单日行情而改变经营安排。",
      "title_zh": "马股连跌五日后逢低买盘回升"
     }
+   },
+   {
+    "id": "28dcf9c052",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "link": "https://www.reuters.com/markets/portfolio/",
+    "source": "Reuters",
+    "site": "www.reuters.com",
+    "date": "2026-11-16T10:34:00+00:00",
+    "lang": "en",
+    "summary": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news ...",
+    "src": "reuters",
+    "src_name": "Reuters Markets"
    },
    {
     "id": "766229d371",
@@ -467,16 +501,26 @@
     }
    },
    {
-    "id": "28dcf9c052",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "link": "https://www.reuters.com/markets/portfolio/",
+    "id": "1ddb277b57",
+    "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
+    "link": "https://www.reuters.com/markets/europe/gold-sinks-1-year-low-treasury-yields-dollar-bite-set-worst-year-since-2015-2026-11-16/",
     "source": "Reuters",
     "site": "www.reuters.com",
-    "date": "2026-11-16T08:48:00+00:00",
+    "date": "2026-11-16T09:47:00+00:00",
     "lang": "en",
-    "summary": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news ...",
+    "summary": "Gold sank to a one-year low on Monday, battered by a mix of high Treasury yields, a strong dollar and expectations of tighter monetary policy, putting bullion on ​course for further losses and its ...",
     "src": "reuters",
-    "src_name": "Reuters Markets"
+    "src_name": "Reuters Markets",
+    "ai": {
+     "summary": "国际金价周一跌至一年来的低点，主要受美国国债收益率高企、美元走强，以及市场预期央行将收紧货币政策所压制。金价若维持目前走势，今年可能是2015年以来表现最差的一年。",
+     "points": [
+      "金价周一跌至一年低位",
+      "压力来自高企的美国国债收益率和强势美元",
+      "市场预期货币政策将收紧，金价可能继续下跌，年度跌幅或为2015年以来最差"
+     ],
+     "why": "",
+     "title_zh": "金价跌至一年新低，国债收益率与美元施压，或创2015年以来最差年度表现"
+    }
    },
    {
     "id": "d461229d00",
@@ -498,28 +542,6 @@
      ],
      "why": "若企业与印尼有贸易往来，或有以美元计价的进口成本与开支，区域货币波动可能影响成本与报价，值得留意。",
      "title_zh": "印尼盾因联储加息押注推动美元走强而跌至历史新低"
-    }
-   },
-   {
-    "id": "63aa0c3cb8",
-    "title": "Bursa Malaysia's key index stays higher at midday",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/bursa-malaysia039s-key-index-stays-higher-at-midday",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-16T05:55:00+00:00",
-    "lang": "en",
-    "summary": "Bursa Malaysia's key index was higher at midday on buying activities in selected heavyweight counters, particularly in the utilities and financial services sectors.",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "马来西亚股市主要指数FBM KLCI在中午时段走高，约到1590.54点，比上周五收盘高出约7.95点。这主要是因为公用事业和金融服务板块的几只大型股获得买盘，例如YTL Power、Maybank和Public Bank。不过整体上跌的股票仍多于涨的，市场气氛偏谨慎。",
-     "points": [
-      "中午12点30分，FBM KLCI报1590.54点，较上周五收盘1582.59点上升7.95点",
-      "YTL Power涨14仙至4.49令吉，Maybank涨10仙至10.04令吉，Public Bank涨6仙至4.60令吉",
-      "下跌股票670只，上涨股票293只，成交额约11亿令吉"
-     ],
-     "why": "",
-     "title_zh": "马来西亚股市中午时段指数走高"
     }
    },
    {
@@ -567,28 +589,6 @@
     }
    },
    {
-    "id": "72c85ee1d0",
-    "title": "TSX futures slip on weaker oil, gold; inflation data eyed",
-    "link": "https://www.reuters.com/markets/europe/tsx-futures-slip-weaker-oil-gold-inflation-data-eyed-2026-11-16/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-16T02:58:00+00:00",
-    "lang": "en",
-    "summary": "Futures tracking Canada's commodity-heavy stock index edged lower on Monday as oil and gold prices slipped, while investors awaited key domestic ​inflation data due later in the day.",
-    "src": "reuters",
-    "src_name": "Reuters Markets",
-    "ai": {
-     "summary": "加拿大多伦多证券交易所综合指数期货周一小幅下跌，原因是油价和金价走弱。投资者也在等待当天稍后公布的加拿大通胀数据，即消费物价的变化情况。",
-     "points": [
-      "标的是以大宗商品股为主的加拿大股指期货，周一走低",
-      "油价和金价同时下滑，带动期货小幅回落",
-      "市场正等待当天稍后公布的加拿大国内通胀数据"
-     ],
-     "why": "",
-     "title_zh": "多伦多股指期货因油金走弱小幅下跌，市场关注通胀数据"
-    }
-   },
-   {
     "id": "d009277ed7",
     "title": "Tong’s Portfolio: More graduates. But what have they learnt?",
     "link": "https://theedgemalaysia.com/edge-tv-detail?id=node/825947",
@@ -611,25 +611,25 @@
     }
    },
    {
-    "id": "e930cfd430",
-    "title": "E5: EPF flags 3Q income growth slowdown",
-    "link": "https://theedgemalaysia.com/edge-tv-detail?id=node/826002",
+    "id": "6cca909d10",
+    "title": "EVENING 5: Govt wants living cost index",
+    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/evening-5-govt-wants-living-cost-index-1",
     "source": "The Edge Malaysia",
     "site": "theedgemalaysia.com",
     "date": "2026-11-15T16:00:00+00:00",
     "lang": "en",
-    "summary": "The EPF says its investment income grew just 3% in the third quarter, and warns that the slowdown could persist. More in our quick round-up of some of today’s biggest stories on theedgemalaysia.com ...",
+    "summary": "Putrajaya wants a new index to accurately measure the cost of living to help firms to decide salary increases. Meanwhile, the MACC is investigating the Penang undersea tunnel project; and the wife of ...",
     "src": "edge",
     "src_name": "The Edge",
     "ai": {
-     "summary": "公积金局（EPF）表示，第三季度的投资收益只增长了3%，并警告这种放缓可能会持续一段时间。这条新闻来自《The Edge》的每日精选简报，文章正文缺失，内容主要依据标题和摘要。",
+     "summary": "政府希望推出一套新的生活成本指数，更准确地衡量民众的生活开销，让企业在决定加薪时有更可靠的参考。同时，反贪污委员会（MACC）正在调查槟城海底隧道项目。此外，摘要还提到另一则新闻，但内容不完整。",
      "points": [
-      "EPF第三季度投资收益同比增长约3%",
-      "EPF警告收入增长放缓可能持续",
-      "原文正文缺失，细节有限"
+      "政府计划推出新的生活成本指数",
+      "该指数旨在协助企业决定薪资调整",
+      "反贪污委员会正调查槟城海底隧道项目"
      ],
-     "why": "对企业主而言，公积金投资回报放缓可能影响员工对退休储蓄的看法，人力资源方面或需留意员工关切；但目前信息有限，暂无明确直接影响。",
-     "title_zh": "E5：公积金局预警第三季度收入增长放缓"
+     "why": "如果新指数推出，企业主在制定员工薪资调整方案时，或许会多一项参考依据。",
+     "title_zh": "晚间五则：政府拟推生活成本指数"
     }
    }
   ],
@@ -1107,8 +1107,6 @@
     "date": "2026-11-10T17:52:00+00:00",
     "lang": "zh",
     "summary": "（吉隆坡11日讯）2026年步入尾声之际，大马金融市场正酝酿一宗足以改变行业版图的年终大戏。随著国家银行批准兴业银行（RHBBANK，1066，主板金融股）与日本东京海上亚洲（Tokio Marine Asia）延长谈判期限至2027年2月，市场有理由相信，双方已取得实质性进展，这宗备受瞩目的保险业务合并案极可能在今年内提前官宣，成为2026年大马金融普险市场的压轴重磅交易。这宗交易的本质，是兴业 ...",
-    "src": "bnm",
-    "src_name": "BNM",
     "ai": {
      "summary": "兴业银行（RHB）计划把旗下兴业保险100%股权卖给日本东京海上亚洲，之后兴业保险将与东京海上在大马的保险公司合并，组成一家更大的普险公司。国家银行已批准双方把谈判期限延至2027年2月，市场认为合并案可能在年内宣布。",
      "points": [
@@ -1191,26 +1189,6 @@
     "summary": "Click to enlarge The current monsoon season we’re facing, and its dangers, should need no explanation. Now that everyone’s a citizen journalist on social media, our feeds have been full of instances ..."
    },
    {
-    "id": "5b953f98a7",
-    "title": "Takaful Ikhlas Pays RM105,000 In Claims To ASNB COVR Beneficiary",
-    "link": "https://www.bernama.com/en/general/news.php?id=2635026",
-    "source": "BERNAMA",
-    "site": "www.bernama.com",
-    "date": "2026-11-16T07:11:00+00:00",
-    "lang": "en",
-    "summary": "KUALA LUMPUR, Nov 16 (Bernama) -- Takaful Ikhlas Family Berhad (Takaful IKHLAS Family), a wholly-owned subsidiary of MNRB Holdings Berhad, has paid RM105,000 in claims to the beneficiary of a ...",
-    "ai": {
-     "summary": "马来西亚伊斯兰保险公司 Takaful Ikhlas Family（Takaful IKHLAS）向 ASNB COVR 计划一位参与者的受益人支付了 105,000 令吉理赔。赔付包括 10 万令吉身故保障和 5,000 令吉的即时丧葬费用（IDE）援助，用以减轻家属的经济负担。COVR 是结合基金投资与伊斯兰家庭保障（takaful）的混合计划。",
-     "points": [
-      "理赔总额为 105,000 令吉，其中 100,000 令吉为身故保障，5,000 令吉为即时丧葬费用",
-      "理赔由 Takaful IKHLAS 总裁兼行政总裁移交给 ASNB 行政总裁，代表受益人接收",
-      "截至 9 月 30 日，ASNB COVR 共有 5,062 名单位持有人，累计供款约 250 万令吉"
-     ],
-     "why": "对企业主而言，此新闻主要反映伊斯兰保险与投资结合的产品形式，可作为了解家庭保障与员工福利选项的背景资料，但并不直接涉及公司成本或政策变化。",
-     "title_zh": "Takaful Ikhlas 向 ASNB COVR 受益人支付 10.5 万令吉理赔"
-    }
-   },
-   {
     "id": "40e2f8d58b",
     "title": "MediAsas To Reshape Private Healthcare Financing Through Insurance, Healthcare Reforms – BNM Deputy Governor",
     "link": "https://www.bernama.com/en/region/news.php?id=2634977",
@@ -1233,43 +1211,43 @@
     }
    },
    {
-    "id": "26f4e6d687",
+    "id": "4befd4ede0",
     "title": "Beyond Malaysia: How FWD Malaysia Draws Strength from a Pan-Asian Network",
-    "link": "https://www.klsescreener.com/v2/news/view/1828069/beyond-malaysia-how-fwd-malaysia-draws-strength-from-a-pan-asian-network",
+    "link": "https://www.klsescreener.com/v2/news/view/1828069/Beyond_Malaysia_How_FWD_Malaysia_Draws_Strength_from_a_Pan_Asian_Network",
     "source": "KLSE Screener",
     "site": "www.klsescreener.com",
     "date": "2026-11-16T03:12:00+00:00",
     "lang": "en",
     "summary": "When it comes to protecting and growing wealth across generations, many affluent Malaysian families seek financial institutions that combine strong local expertise with regional scale, financial ...",
     "ai": {
-     "summary": "FWD Malaysia, a life insurance and family takaful (Shariah-compliant family protection) company, says its link to the wider FWD Group in Asia helps it serve affluent families who plan wealth and legacy across borders. The article is a promotional piece about the company's regional backing and financial strength.",
+     "summary": "FWD Malaysia, a life insurance and family takaful (Shariah-compliant family protection) provider, promotes how its link to the wider FWD Group in Asia helps affluent Malaysian families. The article is a company-written piece highlighting the group's listing, asset size and credit ratings, and its regional expertise in products and digital services.",
      "points": [
-      "FWD Group entered Malaysia's family takaful market in 2019 and expanded into life insurance in 2023.",
-      "As of 30 June 2026, FWD Group reported total assets of US$64.5 billion and holds investment-grade credit ratings.",
-      "FWD Group has been listed in Hong Kong under stock code 1828 since 2025."
+      "FWD Group entered Malaysia via family takaful in 2019 and added life insurance in 2023",
+      "FWD Group was listed in Hong Kong in 2025 under stock code 1828, with total assets of US$64.5 billion as of 30 June 2026",
+      "FWD Malaysia is regulated by Bank Negara Malaysia"
      ],
-     "why": "Malaysian business owners comparing insurance or group protection options may want to check the insurer's regulator and product details directly, since this article is promotional rather than an independent assessment.",
-     "title_zh": "超越马来西亚：FWD马来西亚如何借助泛亚洲网络获得实力"
+     "why": "The article is mainly marketing and gives no costs or policy changes that would affect business owners directly, so readers should check the original source before acting.",
+     "title_zh": "超越马来西亚：FWD马来西亚如何借助泛亚网络赢得实力"
     }
    },
    {
-    "id": "efaedfdd25",
+    "id": "7d9765a5d7",
     "title": "Malaysia Proposes To Involve Agriculture, Insurance And Health Sectors To Address Haze Funding Efforts",
-    "link": "https://www.bernama.com/en/news.php?id=2635337",
+    "link": "https://www.bernama.com/en/region/news.php?id=2635337",
     "source": "BERNAMA",
     "site": "www.bernama.com",
-    "date": "2026-11-15T16:00:00+00:00",
+    "date": "2026-11-16T03:09:00+00:00",
     "lang": "en",
     "summary": "Malaysia has proposed that the potential involvement of the agriculture, insurance sectors and health-related entities be explored to strengthen funding efforts to address transboundary haze pollution ...",
     "ai": {
-     "summary": "马来西亚向东盟提议，探讨让农业、保险业以及与健康相关的机构参与，以加强应对跨境烟霾污染的资金筹措。环境部表示，这项提议符合东盟跨境烟霾污染协定第20条，并已获得次区域部长级指导委员会成员国支持。东盟秘书处将评估其可行性，相关讨论会在2026年12月于越南举行的会议上继续。",
+     "summary": "马来西亚建议探讨让农业、保险业和健康相关机构参与，以加强东盟层面应对跨境烟霾的资金筹措。环境部表示，这项建议符合《东盟跨境烟霾污染协定》第20条，潜在资金来源包括国际组织、区域金融机构和捐助机构。",
      "points": [
-      "马来西亚提议探讨农业、保险及健康相关机构的参与",
-      "提议已获次区域部长级指导委员会成员国支持，东盟秘书处负责评估可行性",
-      "相关讨论将在2026年12月于越南举行的第21届会议上继续"
+      "建议已获得次区域部长级指导委员会成员国支持，并同意由东盟秘书处评估可行性",
+      "相关讨论将在2026年12月于越南举行的第21届协定缔约方会议续谈",
+      "该建议是环境部在国会下议院的书面回复中提出的"
      ],
-     "why": "这属于东盟层面的政策讨论，目前尚未有具体的实施安排，对企业的成本或员工的直接影响暂不明确。",
-     "title_zh": "马来西亚提议引入农业、保险与医疗领域参与烟霾应对资金筹措"
+     "why": "",
+     "title_zh": "马来西亚建议邀请农业、保险和健康领域参与应对烟霾资金筹措"
     }
    },
    {
@@ -1565,6 +1543,16 @@
     }
    },
    {
+    "id": "b94f288039",
+    "title": "KPJ HEALTHCARE BHD",
+    "link": "https://www.thestar.com.my/Business/Marketwatch/Stocks?qcounter=KPJ",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T11:12:00+00:00",
+    "lang": "en",
+    "summary": "Stock overview for KPJ HEALTHCARE BHD (KPJ, 5878) on Bursa Malaysia including stock price, stock chart, shareholding changes, company news, key ratios, and fundamentals."
+   },
+   {
     "id": "40e2f8d58b",
     "title": "MediAsas To Reshape Private Healthcare Financing Through Insurance, Healthcare Reforms – BNM Deputy Governor",
     "link": "https://www.bernama.com/en/region/news.php?id=2634977",
@@ -1602,6 +1590,26 @@
      ],
      "why": "",
      "title_zh": "私立医院供过于求的隐忧？"
+    }
+   },
+   {
+    "id": "4f524b52dc",
+    "title": "Healthy profits, costly care",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/14/healthy-profits-costly-care",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-13T16:00:00+00:00",
+    "lang": "en",
+    "summary": "AMID escalating healthcare costs, with Malaysia's medical inflation estimated to surge 16% this year, according to a BIMB Securities Research report, recent developments involving private hospital ...",
+    "ai": {
+     "summary": "据BIMB证券研究报告估计，马来西亚今年的医疗通胀可能高达16%，医疗费用持续攀升。文章提到近期私立医院的投资交易值得关注，主要担心是这些交易之后医疗费用会涨多少，因为投资者自然会追求回报。",
+     "points": [
+      "BIMB证券研究报告估计马来西亚今年医疗通胀达16%",
+      "焦点是私立医院投资交易后，医疗费用可能上涨的幅度",
+      "投资者追求回报，可能推动收费上升"
+     ],
+     "why": "若私立医院收费随投资回报而上涨，企业为员工购买医疗保障的成本也可能随之增加，值得留意相关保单的续保条件。",
+     "title_zh": "盈利亮眼，医疗昂贵"
     }
    },
    {
@@ -1685,6 +1693,46 @@
     }
    },
    {
+    "id": "c314e99112",
+    "title": "KPJ Healthcare Leads ASEAN in Healthcare Brand Strength, Ranks Second in Brand Value",
+    "link": "https://sg.finance.yahoo.com/news/kpj-healthcare-leads-asean-healthcare-104500153.html",
+    "source": "Yahoo Finance Singapore",
+    "site": "sg.finance.yahoo.com",
+    "date": "2026-11-10T10:45:00+00:00",
+    "lang": "en",
+    "summary": "Malaysia's first private academic health system, has emerged as ASEAN's strongest healthcare facilities brand in the Brand Finance ASEAN 500 2026 report, with a Brand Strength Index score of 86.8 out ...",
+    "ai": {
+     "summary": "马来西亚私立医疗集团KPJ Healthcare在Brand Finance发布的《2026年东盟500强》报告中,医疗机构品牌实力排名东盟第一,品牌价值排名第二。品牌价值较2025年增长45%,至3.05亿美元。集团在东盟500强总排名中从第231位升至第182位。",
+     "points": [
+      "品牌实力指数86.8分(满分100分),位居东盟医疗机构品牌之首",
+      "品牌价值从2.11亿美元升至3.05亿美元,增长45%,为连续第二年增长",
+      "整体排名从第231位升至第182位"
+     ],
+     "why": "这份报告反映的是品牌价值与声誉,与一般企业的成本、员工或家庭医疗安排并无直接关联,因此暂无明确的影响。",
+     "title_zh": "KPJ Healthcare品牌实力居东盟医疗榜首 品牌价值排第二"
+    }
+   },
+   {
+    "id": "1b56eec6ab",
+    "title": "Malaysia's health inflation accelerates to 3 pct in 2025",
+    "link": "https://www.malaysiasun.com/news/279423634/malaysia-health-inflation-accelerates-to-3-pct-in-2025",
+    "source": "Malaysia Sun",
+    "site": "www.malaysiasun.com",
+    "date": "2026-11-10T08:02:00+00:00",
+    "lang": "en",
+    "summary": "Malaysia's health inflation accelerated to 3 percent in 2025 from 1.3 percent in 2024, driven mainly by higher ...",
+    "ai": {
+     "summary": "据报道，马来西亚2025年医疗通胀率升至3%，高于2024年的1.3%。通胀指物价整体上涨的速度，医疗通胀指看病和医疗服务费用的涨幅。报道称，此次上升主要受医疗相关价格上涨推动，但原文内容无法读取，细节有限。",
+     "points": [
+      "2025年医疗通胀率约为3%",
+      "2024年医疗通胀率为1.3%",
+      "主要推动因素是医疗相关价格上涨（具体细节未能核实）"
+     ],
+     "why": "医疗费用上涨可能使企业的员工医疗福利或团体保险成本增加，老板也可考虑家人的医疗开支规划。",
+     "title_zh": "马来西亚2025年医疗通胀率升至3%"
+    }
+   },
+   {
     "id": "32a1a0b82d",
     "title": "Health insurance costs surge 9.1% as Malaysia’s healthcare inflation hits 3%",
     "link": "https://www.thevibes.com/index.php/articles/news/129373/health-insurance-costs-surge-9.1-as-malaysias-healthcare-inflation-hits-3",
@@ -1727,22 +1775,102 @@
   ],
   "energy": [
    {
-    "id": "d17c8473f8",
+    "id": "2064c786b0",
+    "title": "担惊受怕的马斯克",
+    "link": "https://www.sohu.com/a/1102362700_616701",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-16T12:15:00+00:00",
+    "lang": "zh",
+    "summary": "马斯克的押注失败，除了市值下滑之外，他还被列入“头号清算名单”，据悉，众议院监督委员会负责人当晚就放了一句狠话“找好律师”，参议员更是调侃硅谷大佬恐怕要“多种几片树林”。",
+    "ai": {
+     "summary": "据报道，马斯克押注的得州州长阿博特和参议员候选人帕克斯顿在11月4日选举中落败，民主党夺回参众两院控制权。随后特斯拉和SpaceX股价下跌，马斯克个人身家据称一周内缩水约900亿美元。文章还提到，相关议员和监管人士对他的业务与政府合同可能展开审查。",
+     "points": [
+      "11月4日选举后，特斯拉盘前跌5%，SpaceX场外交易跌6.9%",
+      "据彭博亿万富豪榜，马斯克一周内身家缩水约900亿美元",
+      "得州新州长已起诉前政府给马斯克的16亿美元税收减免，并暂停其数据中心项目审批"
+     ],
+     "why": "如果得州的数据中心和科技税收优惠等政策出现变化，依赖相关基建、能源或科技服务的本地企业，成本与合作安排可能需要留意。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "476d792051",
+    "title": "马斯克身陷2大绝境，中国只能救他一次，美国布局完毕，该动手了",
+    "link": "https://www.sohu.com/a/1102354968_122772585",
+    "source": "搜狐",
+    "site": "www.sohu.com",
+    "date": "2026-11-16T11:38:00+00:00",
+    "lang": "zh",
+    "summary": "我认为，马斯克此次遭遇的困境非同寻常。 此次问题已超越企业间的商业竞争，他以往所依赖的政治联系以及背后的庞大商业体系，均开始面临新的未知因素。 2026年11月，美国中期选举落幕，民主党重新夺回国会控制权。马斯克先前投入巨资支持共和党，如今政治格局生变，以往的一些悬而未决的问题，或许将再次被提上议程。 尤其引人注目的是，民主党计划于2027年1月新一届国会履职后，对马斯克展开调查。这预示着，马斯克 ...",
+    "ai": {
+     "summary": "文章是一篇评论，认为2026年11月美国中期选举后民主党重新掌握国会，可能对马斯克展开调查，重点涉及他在DOGE（政府效率部门）的角色及旗下企业与联邦项目的关系。文章也分析中国供应链对特斯拉的作用，但指出中国无法干预美国国会调查。",
+     "points": [
+      "民主党计划在2027年1月新一届国会履职后对马斯克展开调查",
+      "调查可能涉及SpaceX的联邦合同及马斯克在DOGE期间是否存在利益冲突",
+      "文章称上海超级工厂对特斯拉的全球制造体系很重要，但中国无法替马斯克处理美国国会调查"
+     ],
+     "why": "对马斯克这类跨国企业而言，美国政治和监管环境变化可能影响合同、合规与供应链成本，但具体结果仍需正式程序确定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "7d112cb497",
+    "title": "深情挽留黄仁勋的马斯克，忙着“背刺”英伟达",
+    "link": "https://news.qq.com/rain/a/20261116A0BW7U00",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-11-16T10:04:00+00:00",
+    "lang": "zh",
+    "summary": "没想到，在黄仁勋“众叛亲离”之际，最爱他的，却是马斯克。 11月12日黄仁勋辞职后，马斯克公开表态，自己也会签署联署信，支持黄仁勋重新执掌英伟达。此前，当有网友建议马斯克直接把黄仁勋挖到自己公司时，他也回应称：“那将是一种荣幸。” 据《金融时报》报道，黄仁勋已经与身边亲信讨论重返英伟达的可能性，其硅谷盟友也正在组建游说团队，希望推动英伟达董事会让他复职。看来马斯克的“虔诚祈祷”，总算听到了点回音。",
+    "ai": {
+     "summary": "英伟达首席执行官黄仁勋11月12日辞职后，马斯克公开表态支持他重新执掌英伟达，并称会签署支持信。与此同时，据报道SpaceX正开发定制AI服务器Kessel，改为直接采购芯片封装件，不再买英伟达整套计算板卡，显示马斯克想掌控更多硬件与供应链环节。",
+     "points": [
+      "黄仁勋11月12日辞职，马斯克表示会签署联署信支持其复职",
+      "SpaceX的Kessel服务器仍用英伟达Rubin芯片，但不买L6计算板卡",
+      "马斯克的Terafab芯片制造计划目标是2028年下半年量产"
+     ],
+     "why": "对企业主而言，AI算力的采购方式和供应商格局可能持续变化，相关硬件成本与供应链选择值得留意，但文章并未涉及具体的本地企业影响。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "d96c5f3a76",
     "title": "马斯克旗下AI团队大规模裁撤Grok视频生成项目",
-    "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpwx1134073.shtml",
+    "link": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxpwx1134073.d.html?vt=4",
     "source": "新浪财经",
-    "site": "finance.sina.com.cn",
+    "site": "finance.sina.cn",
     "date": "2026-11-16T09:16:00+00:00",
     "lang": "zh",
-    "summary": "知情人士表示，SpaceX 在今年 2 月以 2500 亿美元股票对价收购马斯克旗下 AI 公司 xAI 之后，业务重心已经转移，优先发展 AI 编程工具以及智能体产品 Grok Bot，其他产品的优先级被降低。作为战略转向的一环，SpaceX 在 8 月斥资 600 亿美元收购 AI 编程初创公司 Cursor。",
+    "summary": "中国企业正领跑 AI 视频生成模型赛道 作者：艾伦・蒂利、克劳迪娅・庄、大泽次郎 据知情人士透露，SpaceX 人工智能部门裁撤了旗下图像视频生成 AI 工具 Grok Imagine 的绝大部分研发团队。 过去一周，SpaceX 超级智能部门大约 60 名 ...",
     "ai": {
-     "summary": "据知情人士透露，SpaceX旗下人工智能部门裁撤了图像视频生成工具Grok Imagine的大部分研发团队，约60名员工被裁，仅留少数人维持产品基本运行。该工具仍对用户开放，但未来发展充满不确定性。业务重心已转向AI编程工具和智能体产品，视频生成的优先级被降低。",
+     "summary": "据知情人士透露，SpaceX人工智能部门裁撤了Grok Imagine图像视频生成工具的绝大部分研发团队，只留下少数人维持产品基本运行。该工具仍对用户开放，但未来发展充满不确定性。业内分析认为，这与OpenAI此前停掉Sora视频项目的做法相似，公司业务重心正转向AI编程工具和智能体产品。",
      "points": [
-      "约60名Grok Imagine项目员工在过去一周被裁",
-      "SpaceX在今年2月以2500亿美元股票收购xAI，并在8月斥资600亿美元收购AI编程初创公司Cursor",
-      "OpenAI今年早些时候叫停了视频生成工具Sora，马斯克的团队则一度加码视频生成业务"
+      "过去一周约60名Grok Imagine项目员工被裁",
+      "SpaceX在今年2月以2500亿美元股票收购xAI，8月斥资600亿美元收购Cursor",
+      "多项独立榜单显示，Grok Imagine在视频生成排行中的名次低于多家中国竞品"
      ],
      "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "a64fee66d0",
+    "title": "马斯克，被盯上了！",
+    "link": "https://news.qq.com/rain/a/20261116A03PZC00?adChannelId=news",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-11-16T09:07:00+00:00",
+    "lang": "zh",
+    "summary": "美国又一位科技大佬被盯上了。两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求其保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。欧美媒体提到，在赢得中期选举后，民主党承诺将对特朗普政府和与特朗普关系密切的知名商业高管展开全面调查，其中包括马斯克。《纽约时报》称，民主党人已开始制定一项针对特朗普政府的强硬监督议程。随着美国总统的商业伙伴和盟友在法庭上对 ...",
+    "ai": {
+     "summary": "两名美国民主党参议员正式致信SpaceX首席执行官马斯克，要求他保留与乌克兰使用“星链”(Starlink)和“星盾”(Starshield)卫星系统限速相关的所有记录。在赢得中期选举后，民主党表示将全面调查特朗普政府及与特朗普关系密切的商界人士，马斯克也在其列。",
+     "points": [
+      "两名参议员指“星链”在10月13日至24日及11月12日出现中断，影响乌克兰军事行动",
+      "马斯克与白宫对限速由谁决定各执一词，双方说法相互矛盾",
+      "民主党在新国会可能掌握多数席位及传唤权，马斯克被列为调查对象之一"
+     ],
+     "why": "这类政治调查可能让大型科技企业的政府合作、供应链和合规要求变得更受关注，中小企业主可留意相关规范是否会有变化。",
      "title_zh": ""
     }
    },
@@ -1807,6 +1935,26 @@
     }
    },
    {
+    "id": "2145e083ee",
+    "title": "AI“教父”辛顿最新表态：相比奥特曼、扎克伯格、马斯克，我更 ...",
+    "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxiqz1157671.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-16T06:52:00+00:00",
+    "lang": "zh",
+    "summary": "被誉为“AI教父”的杰弗里・辛顿在最新采访中，对英伟达前CEO黄仁勋给出了与众不同的评价。辛顿表示，“我对黄仁勋有一点了解。”，“我的印象里，他是个正派的人。”，不会将其与OpenAI首席执行官山姆・奥特曼、Meta创始人马克・扎克伯格、特斯拉CEO埃隆・马斯克归为同一类人。 “我信任黄仁勋得多。”辛顿同时坦言，“我认为他犯了一个重大错误，但我猜想英伟达能扛过去。”。 值得注意的是，辛顿此前在接受 ...",
+    "ai": {
+     "summary": "AI领域的“教父”杰弗里·辛顿在最新采访中谈到英伟达前CEO黄仁勋，称对方是个正派的人，并表示自己比较信任他。辛顿同时认为黄仁勋犯过一个重大错误，但猜想英伟达能够渡过难关。此前辛顿在英国媒体采访中批评了几家大型AI公司的高管，认为他们更看重赚钱而非风险。",
+     "points": [
+      "辛顿称对黄仁勋“有一点了解”，印象中他是正派之人",
+      "辛顿表示自己比奥特曼、扎克伯格、马斯克更信任黄仁勋",
+      "辛顿认为黄仁勋犯了重大错误，但猜测英伟达能扛过去"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "75959aedb8",
     "title": "马斯克公布 SpaceX 星舰 V4 细节：长度增加 40%，推进剂载荷提升超 60%",
     "link": "https://news.qq.com/rain/a/20261116A09B5V00",
@@ -1847,20 +1995,40 @@
     }
    },
    {
-    "id": "3d9c414305",
-    "title": "星舰要长到五十层楼高? 只加长度不加粗，SpaceX这算盘打得真精",
-    "link": "https://www.msn.com/zh-cn/%E7%A7%91%E5%AD%A6/%E9%80%9A%E7%94%A8/%E6%98%9F%E8%88%B0%E8%A6%81%E9%95%BF%E5%88%B0%E4%BA%94%E5%8D%81%E5%B1%82%E6%A5%BC%E9%AB%98-%E5%8F%AA%E5%8A%A0%E9%95%BF%E5%BA%A6%E4%B8%8D%E5%8A%A0%E7%B2%97-spacex%E8%BF%99%E7%AE%97%E7%9B%98%E6%89%93%E5%BE%97%E7%9C%9F%E7%B2%BE/ar-AA2hwHJm",
-    "source": "一点资讯",
-    "site": "www.msn.com",
-    "date": "2026-11-16T02:56:05+00:00",
+    "id": "d81c6c38ad",
+    "title": "利刃劈向马斯克",
+    "link": "https://huacheng.gz-cmc.com/pages/2026/11/16/84129fd6b1fd49db932acde043cb62e8.html",
+    "source": "huacheng.gz-cmc",
+    "site": "huacheng.gz-cmc.com",
+    "date": "2026-11-16T05:41:00+00:00",
     "lang": "zh",
-    "summary": "星舰的第十五次试飞刚刚结束，德克萨斯州的海滩上还留着发射之后的热气。马斯克在网上发了一张对比的图，接着说出了下一代星舰 V4 的技术规格。当大家都在为现在的成功高兴的时候，他已经把眼光放到了更远的将来，这中间包含着很深的看法。 有一张关于尺寸对比的图在网上传开，图里把星舰跟波音 737 ...",
+    "summary": "美国中期选举这场“烧钱大战”，马斯克被认为是除总统特朗普之外的“最大输家”。 作为共和党头号“金主”，他豪掷的近5亿美元选举捐款，几乎“打了水漂”；其商业大本营、传统“深红”州得克萨斯州，历史性“翻蓝”；国会山监管利刃，更将直指其万亿商业帝国的新支柱——AI基建。 民主党将在特朗普本届任期的剩余两年，主导国会参众两院。随着政治风向突变，与特朗普政府的深度绑定正成为马斯克的“回旋镖”。 马斯克的事业 ...",
     "ai": {
-     "summary": "SpaceX的星舰刚完成第十五次试飞，德克萨斯州海滩上仍留着发射后的热气。马斯克在网上发出一张尺寸对比图，把星舰和波音737放在一起，并谈到下一代星舰V4的技术规格。",
+     "summary": "美国中期选举后，马斯克被认为是除特朗普外的最大输家。他在共和党候选人身上投入近5亿美元，但得州等地的结果并不理想，民主党将主导国会两院剩余任期。外界也预计国会调查和监管会更多针对他的企业，包括AI基础设施业务。",
      "points": [
-      "星舰第十五次试飞刚结束，地点在德克萨斯州海滩",
-      "网上流传的对比图把星舰与波音737并列比较",
-      "马斯克提到了下一代星舰V4的技术规格"
+      "马斯克本选举周期向共和党捐款近5亿美元，据报道是单一周期公开记录中个人捐款最多的",
+      "民主党候选人在得州赢得参议院席位，并当选首位民主党籍州长（近30年来首次）",
+      "民主党将在特朗普剩余任期内主导国会参众两院，并计划调查马斯克在政府效率部的角色"
+     ],
+     "why": "若监管趋严，依赖AI、数据中心或跨州业务的企业，未来在土地、电力和审批方面可能面临更多不确定性。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "42926a4958",
+    "title": "新浪马斯克热点小时报丨2026年11月17日02时_今日实时马斯克热点速递",
+    "link": "https://auto.sina.cn/2026-11-17/detail-iniyymar2076848.d.html?vt=4",
+    "source": "手机新浪汽车",
+    "site": "auto.sina.cn",
+    "date": "2026-11-16T05:37:00+00:00",
+    "lang": "zh",
+    "summary": "1、紫牛后续︱上海高架特斯拉“路怒”引发事故后续来了，其中一名驾驶员涉嫌寻衅滋事罪被移送审查起诉 转自：扬子晚报扬子晚报网11月16日讯（记者 郭一鹏） 扬子晚报/紫牛新闻10月10日刊登了《上海高架上特斯拉“路怒”引发事故，一名司机被采取刑事强制措施！交警：随意变道极易诱发此类事故》一文，讲述了两辆特斯拉在上海高架上因为变道引发了“开斗气车”行为，结果发生了碰擦事故。紫牛新闻记者今天（16日）获 ...",
+    "ai": {
+     "summary": "这是一份关于马斯克及其公司的热点新闻汇总，涵盖多条消息：上海一起特斯拉路怒事故后续，一名驾驶员因涉嫌寻衅滋事被移送起诉；特斯拉Cybercab开放邀请制个人订购，售价约2.999万美元并需每月299美元订阅；Cybertruck将停产，改装商提议接手产线；有预测市场显示特斯拉与SpaceX合并概率上升。",
+     "points": [
+      "上海浦东交警处理结果：驾驶员李某涉嫌寻衅滋事罪被移送审查起诉，另一名驾驶员张某被处罚款",
+      "Cybercab邀请制订购，定金1000美元不可退，交付最早2026年12月",
+      "Cybertruck将于2027年年中停产，改装商Unplugged Performance提议自筹资金接手"
      ],
      "why": "",
      "title_zh": ""
@@ -1907,422 +2075,313 @@
     }
    },
    {
-    "id": "4f0a07f95d",
-    "title": "创造历史！SpaceX首次用“筷子”接住从太空返回的星舰！精准降落 ...",
-    "link": "https://www.chineseherald.co.nz/news/international/spacex-catches-returning-starship-rocket/",
-    "source": "新西兰中文先驱网",
-    "site": "www.chineseherald.co.nz",
-    "date": "2026-11-16T02:04:00+00:00",
-    "lang": "zh",
-    "summary": "当地时间11月14日，SpaceX的星舰（Starship）迎来了它的第15次试飞。与以往不同的是，这一次，位于得克萨斯州发射基地的那座庞然大物创造了历史——SpaceX 首次成功利用发射塔上的两支巨型机械臂，在半空中精准“夹住”了一艘从地球轨道返回的星舰飞船。",
-    "ai": {
-     "summary": "SpaceX的星舰第15次试飞后，在得克萨斯州发射基地，发射塔上的两支机械臂首次在半空中接住了从地球轨道返回的星舰上段飞船。这次试飞同时把26颗第三代星链卫星送入轨道，但助推器因燃料不足警报未能按计划回收，最终在海面附近解体。",
-     "points": [
-      "星舰于美东时间11月13日升空，11月14日下午在半空被机械臂夹住",
-      "本次任务送入26颗第三代星链卫星，飞船在轨道上绕地约22.5小时",
-      "助推器因燃料警报和位置异常未能回收，SpaceX正在调查原因"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "470c9435d0",
-    "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿 ...",
-    "link": "https://www.taibo.cn/p/99892",
-    "source": "泰伯网",
-    "site": "www.taibo.cn",
-    "date": "2026-11-16T01:48:00+00:00",
-    "lang": "zh",
-    "summary": "SpaceX 首次成功用发射塔机械臂在空中接住星舰（Starship）的上级飞船，这是全球航天史上第一次从轨道返回的飞船被塔架“夹”住回收，也让马斯克公司距离“快速复用”的目标近了一大步，而分析师认为，这正是支撑其数万亿美元估值叙事的关键一环。",
-    "ai": {
-     "summary": "SpaceX 的星舰上级飞船完成绕地飞行后重返大气层，在得克萨斯州发射塔上被机械臂稳稳接住，这是航天史上首次有轨道返回的飞船被塔架“夹”回。同一次试飞中，一级助推器因发动机提前关机未能回收，最终落入墨西哥湾爆炸。分析师认为，飞船可复用是降低入轨成本、支撑公司高估值叙事的关键一步。",
-     "points": [
-      "上级飞船完成14圈绕地飞行后被发射塔机械臂“Mechazilla”接住，时间为北京时间11月15日",
-      "这是星舰第15次试飞，助推器Booster 22未能回收，溅落墨西哥湾并爆炸",
-      "摩根士丹利认为，飞船本体的捕获难度高于助推器，这一步对完全复用体系很关键"
-     ],
-     "why": "若火箭能在地面完成检修并快速再次发射，未来发射成本与服务价格的变化或会影响相关行业的成本与竞争格局，但目前仍属长期观察。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "d90e54fff5",
-    "title": "马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获",
-    "link": "https://www.51cto.com/article/861252.html",
-    "source": "51CTO",
-    "site": "www.51cto.com",
-    "date": "2026-11-16T01:12:00+00:00",
-    "lang": "zh",
-    "summary": "这是人类首次成功用发射塔机械臂捕获一艘从地球轨道返回的星舰，也意味着 SpaceX 距离完全可重复使用的轨道运输系统，又近了一大步。 SpaceX 再次上演了堪称科幻电影的一幕。 在经历超过 22 小时的太空飞行、绕地球飞行 14 圈后，一艘高约 52 米的巨型飞船，重新穿过大气层，飞回美国得克萨斯州的星舰基地。 在距离地面不远的地方，星舰重新点燃发动机，完成最后的翻转与减速，精准进入发射塔两条巨 ...",
-    "ai": {
-     "summary": "SpaceX的巨型星舰飞船完成太空飞行后返回得州基地，并首次被发射塔的机械臂成功捕获。飞船在太空飞行超过22小时、绕地球14圈后重新进入大气层，靠近地面时重新点火减速，精准对准发射塔的两条臂。这被视为朝完全可重复使用的太空运输系统迈进了一大步。",
-     "points": [
-      "飞船高约52米，在太空飞行超过22小时、绕地球14圈",
-      "飞船返回美国得克萨斯州的星舰基地",
-      "这是人类首次用发射塔机械臂捕获从地球轨道返回的星舰"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "0779e4fb12",
-    "title": "SpaceX“星舰”返回创造历史！美防长：马斯克是“伟大的美国人”",
-    "link": "https://www.sohu.com/a/1102036120_122658627",
-    "source": "搜狐",
-    "site": "www.sohu.com",
-    "date": "2026-11-16T00:30:00+00:00",
-    "lang": "zh",
-    "summary": "华盛顿特区：美国国防部长皮特·赫格塞思在SpaceX取得历史性航空航天里程碑后，带头对其表示国际赞誉，并与全球领导人一道，称赞这一前所未有的技术飞跃推动了现代火箭技术的边界。 “祝贺@elonmusk——一位伟大的美国人。继续引领前沿……”赫格塞思在社交媒体上发文称。 谷歌首席执行官桑达尔·皮查伊也加入全球反应，称这一壮举仍让人感觉像科幻小说。当地时间周六，SpaceX创造历史，成功让“星舰”飞船 ...",
-    "ai": {
-     "summary": "美国SpaceX的“星舰”飞船完成第15次飞行，从太空返回得州星基地，并被发射塔的机械臂在空中直立捕获，这是首次有轨道级上面级做到这一点。美国国防部长赫格塞思、谷歌行政总裁皮查伊和NASA局长艾萨克曼等人纷纷在社交媒体上表示祝贺。",
-     "points": [
-      "星舰于周五升空，当地时间周六完成捕获，飞船在轨停留超过20小时后返回",
-      "飞船部署了26颗Starlink V3卫星，并执行受控返回地球的任务",
-      "SpaceX希望星舰的两个级段都能回收并可能复用，减少丢弃昂贵硬件"
-     ],
-     "why": "若火箭硬件能回收复用，未来太空相关服务的成本与供应格局可能出现变化，但对本地企业的直接影响目前尚不明确。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "19c520cf15",
-    "title": "马斯克，猛踹孙正义那条好腿",
-    "link": "https://tech.ifeng.com/c/8y6iyqj4lgB",
-    "source": "凤凰网科技",
-    "site": "tech.ifeng.com",
-    "date": "2026-11-16T00:08:00+00:00",
-    "lang": "zh",
-    "summary": "11月6日，美国首富马斯克在社交媒体暴起发难，矛头直指日本前首富（现为第二富豪）、软银集团董事长孙正义。马斯克称，“软银的燃气轮机订单发生违约”，7个英文单词将软银股价单日砸下近11%。",
-    "ai": {
-     "summary": "美国首富马斯克在社交媒体指称软银的燃气轮机订单违约，消息一出软银股价单日跌近11%。软银11月10日公布财报，当季亏损约1.115万亿日元，主要受约37亿美元的燃气轮机采购违约金拖累。燃气轮机是大型发电设备，常用于给数据中心供电。",
-     "points": [
-      "马斯克于11月6日发帖，软银股价当日下跌近11%",
-      "软银2026财年第二季度亏损约1.115万亿日元（约70亿美元）",
-      "软银因退掉燃气轮机订单，产生约37亿美元违约金"
-     ],
-     "why": "文章显示，AI数据中心的供电与建设成本正受政策审查影响，若企业业务涉及大型基建或能源设备，相关成本与审批可能随之变化。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "44a96350e8",
-    "title": "SpaceX星舰成功回收 联合发射联盟“火神”复飞失败损失40颗亚马逊卫星",
-    "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsti1292477.shtml",
-    "source": "新浪财经",
-    "site": "finance.sina.com.cn",
-    "date": "2026-11-15T23:52:00+00:00",
-    "lang": "zh",
-    "summary": "这次失败与SpaceX本周末的星舰任务形成鲜明对比。马斯克的公司让星舰从轨道返回，并在德克萨斯州发射场利用巨型机械臂将其在空中接住。这一操作是前所未有的工程壮举，一名目击者形容，仿佛亲眼看见科幻场景成为现实。",
-    "ai": {
-     "summary": "联合发射联盟的“火神”火箭周日执行发射任务时，升空约10分钟后出现不明故障，搭载的40颗亚马逊卫星全部损失。这是这家公司自2006年成立以来首次出现任务彻底失败，复飞计划也可能因此推迟。",
-     "points": [
-      "故障发生在“火神”火箭升空约10分钟后，40颗亚马逊卫星全部损失",
-      "亚马逊已预订38次“火神”发射任务，发射延误是更大的担忧",
-      "公司称目前尚无足够数据确定原因，故障是否与发动机或上面级有关仍不清楚"
-     ],
-     "why": "对依赖卫星服务或火箭发射的企业来说，航天发射供应紧张可能让相关通信与卫星服务的推进速度放慢。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "67d968a96e",
-    "title": "Elon Musk Claims His ‘SNL’ Parody Lacks Imagination",
-    "link": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-claims-snl-parody-183200939.html",
-    "source": "Yahoo",
-    "site": "www.yahoo.com",
-    "date": "2026-11-16T10:33:00+00:00",
+    "id": "5841e84b4a",
+    "title": "Tesla opens Cybercab orders with strict ownership rules",
+    "link": "https://www.ttnews.com/articles/tesla-opens-cybercab-orders",
+    "source": "Transport Topics",
+    "site": "www.ttnews.com",
+    "date": "2026-11-16T13:43:00+00:00",
     "lang": "en",
-    "summary": "Following Jeremy Culhane’s second performance as Elon Musk in as many Saturday Night Live episodes, the real-life Tesla founder and political bankroller dismissed the parody as low-effort and ...",
+    "summary": "Among the strict rules and stipulations: no modifications or reselling, and Tesla may buy the vehicle back at any time (at the buyer’s cost to ship it).",
     "ai": {
-     "summary": "美国综艺节目《周六夜现场》(SNL)近期再次以马斯克为讽刺对象,由杰里米·库尔汉扮演他。马斯克在推特上回应,称节目作品“不够努力”,认为对方的模仿缺乏创意。文章作者则认为这可能引发双方更长久的喜剧互动。",
+     "summary": "特斯拉开始接受 Cybercab 无人驾驶出租车的订购，但附带严格的拥有条款。买家不得改装或转售车辆，特斯拉还可在任何时候把车买回，运费由买家负担。",
      "points": [
-      "库尔汉是第二次在SNL中扮演马斯克",
-      "马斯克在一系列推文中表示“他们需要更努力一点”",
-      "本集主持人为约翰·穆拉尼,是他第七次主持该节目"
+      "订购附带严格条款，包括禁止改装和转售",
+      "特斯拉可随时回购车辆",
+      "回购的运输费用由买家承担"
      ],
-     "why": "",
-     "title_zh": "马斯克称《周六夜现场》的恶搞缺乏想象力"
+     "why": "如果公司未来考虑购买这类车辆用于运营，应留意转售受限和回购条款对资产安排的影响。",
+     "title_zh": "特斯拉开放 Cybercab 订购，附严格拥有条款"
     }
    },
    {
-    "id": "f00b69cc11",
-    "title": "‘They need to try harder’: Elon Musk reacts to ‘Saturday Night Live’ sketch",
-    "link": "https://www.yahoo.com/entertainment/celebrity/articles/try-harder-elon-musk-reacts-182233340.html",
-    "source": "Yahoo",
-    "site": "www.yahoo.com",
-    "date": "2026-11-16T10:22:00+00:00",
-    "lang": "en",
-    "summary": "In this week’s episode, Saturday Night Live took aim at some of the biggest names in tech over the weekend, and Elon Musk was one of the billionaires who ended up on the receiving end of the parody.",
-    "ai": {
-     "summary": "Saturday Night Live ran a cold-open sketch with host John Mulaney, mocking top tech billionaires after Nvidia CEO Jensen Huang stepped down amid an affair scandal. Elon Musk, played by Jeremy Culhane, was among those parodied. Musk replied on X, giving the impression a lukewarm rating and saying the show needs to try harder.",
-     "points": [
-      "Musk rated Culhane's impression about 5 out of 10 in a reply on X",
-      "The sketch also imitated Mark Zuckerberg, Sam Altman, Peter Thiel and Dario Amodei, and drew over 4 million views",
-      "Musk then linked to the episode he hosted in May 2021"
-     ],
-     "why": "",
-     "title_zh": "“他们得再努力点”：马斯克回应《周六夜现场》讽刺短剧"
-    }
-   },
-   {
-    "id": "984d83a627",
-    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-    "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-    "source": "TechCrunch",
-    "site": "techcrunch.com",
-    "date": "2026-11-16T10:22:00+00:00",
-    "lang": "en",
-    "summary": "Just two months after putting its first Cybercabs on the road, Tesla is making a multibillion-dollar bet on mass production of the golden-hued, two-seat autonomous vehicles. The company announced ...",
-    "ai": {
-     "summary": "特斯拉宣布投资30亿欧元扩建德国柏林格吕内海德的超级工厂，计划2029年开始生产无方向盘的双座自动驾驶车Cybercab。新厂房预计年产能最高可达100万辆，施工预计2027年上半年开始。",
-     "points": [
-      "投资金额为30亿欧元（约33亿美元），施工预计2027年上半年展开",
-      "Cybercab计划2029年在柏林工厂开始生产，产能最高每年100万辆",
-      "特斯拉已宣布明年停产Cybertruck，部分原因是为德州奥斯汀工厂腾出空间生产Cybercab"
-     ],
-     "why": "",
-     "title_zh": "特斯拉押注Cybercab，柏林超级工厂将投资30亿欧元扩建"
-    }
-   },
-   {
-    "id": "fdfc02e57d",
-    "title": "Elon Musk tells ‘SNL’ to ‘try harder’ after show mocks him",
-    "link": "https://www.nydailynews.com/2026/11/16/elon-musk-saturday-night-live/",
-    "source": "New York Daily News",
-    "site": "www.nydailynews.com",
-    "date": "2026-11-16T10:08:00+00:00",
-    "lang": "en",
-    "summary": "Billionaire entrepreneur Elon Musk challenges “Saturday Night Live” to “try harder” after the NBC show mocked him and other tech executives.",
-    "ai": {
-     "summary": "马斯克在社交平台X上回应《周六夜现场》的讽刺短剧，认为节目只值5分（满分10分），还说对方需要更努力。短剧讽刺他和其他科技高管，起因是英伟达CEO黄仁勋的一段绯闻。马斯克也发了一张文氏图，暗示自己只觉得节目里一小部分内容好笑。",
-     "points": [
-      "短剧由演员Jeremy Culhane扮演马斯克，马斯克被描绘成兴奋、幼稚又笨拙",
-      "马斯克在X上表示节目只值5分（满分10分），并说“需要更努力”",
-      "节目多次拿马斯克开玩笑，包括他2021年主持该节目的那一期"
-     ],
-     "why": "",
-     "title_zh": "马斯克对《周六夜现场》说：你们需要更努力"
-    }
-   },
-   {
-    "id": "8ee48777b2",
-    "title": "Grok Bot Is Now on the Las Vegas Sphere: What to Know",
-    "link": "https://www.basenor.com/blogs/news/grok-bot-is-now-on-the-las-vegas-sphere-what-to-know",
-    "source": "basenor",
-    "site": "www.basenor.com",
-    "date": "2026-11-16T10:04:00+00:00",
-    "lang": "en",
-    "summary": "Grok Bot has made it to one of the most visible advertising surfaces on the planet. Spotted on November 16, the Las Vegas Sphere is now displaying xAI's AI agent product — a striking escalation in the ...",
-    "ai": {
-     "summary": "据报道，xAI旗下的AI代理产品Grok Bot于11月16日出现在拉斯维加斯Sphere大型显示屏上。这是Grok Bot在11月2日推出两周后的大规模广告动作。目前xAI或Sphere尚未正式发布声明，但有视频佐证。",
-     "points": [
-      "Grok Bot是xAI的自主AI代理产品，不同于一般的Grok聊天机器人",
-      "11月16日被拍到在拉斯维加斯Sphere展示广告，报道称另有人归因于SpaceX",
-      "产品提供7天免费试用，之后每月30美元或每年300美元"
-     ],
-     "why": "",
-     "title_zh": "Grok Bot登上拉斯维加斯Sphere：你需要知道什么"
-    }
-   },
-   {
-    "id": "03486c8b7b",
-    "title": "SpaceX advances Starship reusability with successful upper-stage catch, says Bank of America",
-    "link": "https://finance.yahoo.com/technology/articles/spacex-advances-starship-reusability-successful-175900015.html",
+    "id": "5ba48a5ef2",
+    "title": "Tesla's Cybertruck exit reveals an expensive gamble",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-cybertruck-exit-reveals-expensive-213300163.html",
     "source": "Yahoo Finance",
     "site": "finance.yahoo.com",
-    "date": "2026-11-16T10:00:00+00:00",
+    "date": "2026-11-16T13:33:00+00:00",
     "lang": "en",
-    "summary": "SpaceX Corp (NASDAQ:SPCX) has taken a major step toward developing a fully reusable orbital rocket after Starship Flight 15 successfully demonstrated the recovery and catch of its upper stage, ...",
+    "summary": "Elon Musk is sacrificing his futuristic pickup to make room for a vehicle with a much bigger financial question.",
     "ai": {
-     "summary": "SpaceX的星舰第15次飞行中，上级火箭成功被发射塔的机械臂抓住，被摩根大通的同行美国银行（BoA）视为可重复使用火箭研发的重要一步。美国银行维持对SpaceX的“买入”评级。任务中星舰还成功部署了26颗新一代星链V3卫星。",
+     "summary": "特斯拉CEO马斯克计划在2027年停止生产Cybertruck电动皮卡，把德州工厂的产能转去生产无方向盘的无人驾驶出租车Cybercab。Cybertruck销量不理想，2025年美国销量同比下滑48%，只卖出约2万多辆。",
      "points": [
-      "星舰Ship 42于美国东部时间11月13日从德州星基基地升空，任务约22.5小时",
-      "上级火箭被发射塔机械臂成功抓住，这是首次成功回收",
-      "助推器因导航问题和燃料不足中止回收，最终在墨西哥湾上空爆炸"
+      "2025年美国Cybertruck销量同比下降48%，只有20,237辆",
+      "生产将延长至2027年夏末，以完成尚未交付的订单",
+      "未能取车的客户将获退还订金"
+     ],
+     "why": "这件事主要关乎特斯拉的投资方向与股东回报，对马来西亚企业主的直接影响有限，但可留意大型企业如何调整产能与投资重点。",
+     "title_zh": "特斯拉Cybertruck退场，暴露一场代价高昂的赌注"
+    }
+   },
+   {
+    "id": "d357f9d560",
+    "title": "Elon Musk Revisits 2014 ULA Dispute After 40 Amazon Satellites are Lost",
+    "link": "https://www.analyticsinsight.net/news/elon-musk-revisits-2014-ula-dispute-after-40-amazon-satellites-are-lost",
+    "source": "Analytics Insight",
+    "site": "www.analyticsinsight.net",
+    "date": "2026-11-16T13:30:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk has revisited a dispute dating back to 2014 after a United Launch Alliance (ULA) rocket failed to deliver 40 Amazon Leo satellites into orbit. Followi ...",
+    "ai": {
+     "summary": "联合发射联盟（ULA）的火箭Vulcan在发射后约10分钟出现异常，未能把40颗亚马逊Leo卫星送入预定轨道，等于整次任务失败。事发后马斯克转发了2014年的旧帖，回顾他当年在美国参议院反对ULA独揽国家安全发射合同的言论，但他本人在回应中只说了关心的话，没有直接批评ULA。",
+     "points": [
+      "失败的发射日期为11月15日，火箭从美国佛罗里达州卡纳维拉尔角升空。",
+      "40颗卫星全部未能进入预定轨道，这是ULA约二十年营运史上首次完全任务失败。",
+      "亚马逊计划部署3200颗以上的Leo卫星提供宽带网络，已预订38次Vulcan发射，也与Blue Origin、Arianespace和SpaceX合作；ULA正与包括亚马逊在内的合作伙伴调查原因。"
      ],
      "why": "",
-     "title_zh": "SpaceX星舰上级火箭成功回收，美国银行称可重复使用技术迈进一步"
+     "title_zh": "马斯克在40颗亚马逊卫星损失后重提2014年与ULA的争议"
     }
    },
    {
-    "id": "a23a95ecc7",
-    "title": "Elon Musk Rates Jeremy Culhane’s ‘SNL’ Impression of Him",
-    "link": "https://www.justjared.com/2026/11/16/elon-musk-rates-jeremy-culhanes-snl-impression-of-him/",
-    "source": "Just Jared",
-    "site": "www.justjared.com",
-    "date": "2026-11-16T09:57:00+00:00",
-    "lang": "en",
-    "summary": "Elon Musk is sharing his thoughts on Jeremy Culhane's SNL impression. If you don't know, in the latest cold open during the November 14 episode, Jeremy ...",
-    "ai": {
-     "summary": "马斯克在社交平台X上评价了Jeremy Culhane在《周六夜现场》（SNL）模仿他的表演。Jeremy在11月14日那期节目的开场短剧中扮演了他，剧情是一名虚构的美国中情局官员召集科技富豪测试国家安全训练，背景是Nvidia黄仁勳相关争议。马斯克只给了5分（满分10分），并呼吁对方再努力些。",
-     "points": [
-      "马斯克给这次模仿打了5分（满分10分）",
-      "模仿出现在11月14日那期SNL的开场短剧中",
-      "马斯克曾在2021年以主持人身份登上该节目"
-     ],
-     "why": "",
-     "title_zh": "马斯克给Jeremy Culhane的SNL模仿打分"
-    }
-   },
-   {
-    "id": "6cc14f8413",
-    "title": "WATCH: Historic Moment SpaceX's \"Mechazilla\" Catches Starship",
-    "link": "https://www.actionnewsnow.com/video/watch-historic-moment-spacexs-mechazilla-catches-starship/video_86d3136b-51de-574b-b0ce-716afef0699b.html",
-    "source": "Action News Now",
-    "site": "www.actionnewsnow.com",
-    "date": "2026-11-16T09:53:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX pulled off an unprecedented landing maneuver over the weekend when its massive Starship spacecraft—the upper stage of the launch system—was caught in midair by the arms of the company's ...",
-    "ai": {
-     "summary": "SpaceX的星舰（Starship）第15次整体测试飞行中，飞船在得州星际基地（Starbase）被发射塔“Mechazilla”的机械臂在半空中接住，这是前所未有的着陆方式。星舰先前进入轨道并释放了星链卫星，再重返大气层后精准降回发射塔。前NASA宇航员Mike Massimino称这是“近乎科幻”的场面。",
-     "points": [
-      "接住星舰的行动发生在周六，得州星际基地。",
-      "星舰前一天（周五13号）发射，在轨道上飞行约22小时，并释放星链卫星。",
-      "不需要笨重的着陆架，有助于减轻重量、节省燃料，并便于快速重复使用。"
-     ],
-     "why": "",
-     "title_zh": "直播：SpaceX“Mechazilla”发射塔历史性接住星舰"
-    }
-   },
-   {
-    "id": "a12aff6e51",
-    "title": "Tesla (TSLA) Opens Cybercab Purchases to Select Customers for Personal Use",
-    "link": "https://blockonomi.com/tesla-tsla-opens-cybercab-purchases-to-select-customers-for-personal-use/",
-    "source": "Blockonomi",
-    "site": "blockonomi.com",
-    "date": "2026-11-16T09:51:00+00:00",
-    "lang": "en",
-    "summary": "Tesla (TSLA) stock fell 3% to about $378 as Cybercab sales opened to select buyers at $29,990, with a $299 monthly autonomous driving fee.",
-    "ai": {
-     "summary": "特斯拉（TSLA）开始让部分“精选客户”购买Cybercab无方向盘、无踏板的自动驾驶车，用于个人用途，售价2万9990美元，另需每月299美元自动驾驶费。消息公布后，特斯拉股价早盘下跌约3%，报377.96美元。",
-     "points": [
-      "售价29990美元，每月自动驾驶费299美元",
-      "该月费是特斯拉全自动驾驶辅助软件99美元月费的三倍",
-      "股价早盘跌3.1%，今年以来已下跌约13%"
-     ],
-     "why": "这显示汽车与自动驾驶的收费模式可能转变，对关注科技股或车队成本的企业主而言，属于行业动向的观察，目前与一般马来西亚企业的成本关联不大。",
-     "title_zh": "特斯拉开放Cybercab向部分客户个人购买"
-    }
-   },
-   {
-    "id": "300e57b91c",
-    "title": "Elon Musk joining Trump in China",
-    "link": "https://www.foxnews.com/video/6408460307112",
-    "source": "Fox News",
-    "site": "www.foxnews.com",
-    "date": "2026-11-16T09:47:00+00:00",
-    "lang": "en",
-    "summary": "Elon Musk will join the president's China talks, according to the White House.",
-    "ai": {
-     "summary": "白宫表示，埃隆·马斯克将随同美国总统参加对华会谈。文章内容只有这一句话，没有提供会谈的具体议题、时间或结果。",
-     "points": [
-      "白宫方面确认马斯克将加入总统的中国会谈",
-      "报道只有一句话，未提供更多细节"
-     ],
-     "why": "",
-     "title_zh": "马斯克将随特朗普出席中国会谈"
-    }
-   },
-   {
-    "id": "1aa5099929",
-    "title": "SpaceX’s Starship makes first Starbase landing after 22 hours in orbit, with Super Heavy diverted to the Gulf of Mexico",
-    "link": "https://defence-industry.eu/spacexs-starship-makes-first-starbase-landing-after-22-hours-in-orbit-with-super-heavy-diverted-to-the-gulf-of-mexico/",
-    "source": "defence-industry",
-    "site": "defence-industry.eu",
-    "date": "2026-11-16T09:45:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX’s Starship S-42 deployed 26 Starlink v3 satellites and spent 22 hours in orbit before landing at Starbase in Texas, according to the account of the Nov. 13–14 test flight.",
-    "ai": {
-     "summary": "SpaceX的星舰S-42测试飞行中，部署了26颗Starlink v3卫星，并在轨道上运行了22小时，之后在德州Starbase基地着陆，这是星舰上面级首次在该基地着陆。原计划两个级段都由发射塔“机械臂”回收，但分离后，超重型助推器被改为在墨西哥湾海面迫降，原因是有报道称其引擎燃料可能不足。",
-     "points": [
-      "测试飞行时间为11月13至14日，上面级在轨完成剩余测试后返回德州",
-      "26颗Starlink v3卫星成功部署",
-      "超重型助推器改在墨西哥湾海面降落；SpaceX计划今年底前在佛州卡纳维拉尔角新址再次发射"
-     ],
-     "why": "这属于太空航天产业的技术进展，与马来西亚企业的日常成本、员工或家庭关系不大，暂无明确直接影响。",
-     "title_zh": "SpaceX星舰在轨道运行22小时后首次在Starbase基地着陆，超重型助推器改降墨西哥湾"
-    }
-   },
-   {
-    "id": "67b115a51e",
-    "title": "SpaceX Starship makes historic landing at Texas launch pad after 22 hours in orbit",
-    "link": "https://www.41nbc.com/spacex-starship-historic-landing-15th-test-flight-texas/",
-    "source": "41NBC News",
-    "site": "www.41nbc.com",
-    "date": "2026-11-16T09:36:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX's Starship completes a historic landing in Texas after spending 22 hours in orbit, marking a major milestone for reusable spacecraft.",
-    "ai": {
-     "summary": "SpaceX的星舰（Starship）在第15次试飞后，于周六在得州发射台完成历史性回收。飞船在轨道上飞行约22小时，期间释放了星链（Starlink）互联网卫星。回收时飞船重返大气层，由发射塔的机械臂抓住，直接回到发射台。",
-     "points": [
-      "星舰第15次试飞于11月13日（周五）从得州Starbase基地发射",
-      "飞船在轨道上飞行约22小时，并释放星链卫星",
-      "飞船由发射塔的机械臂抓住完成回收，无需起落架"
-     ],
-     "why": "",
-     "title_zh": "星舰在22小时轨道飞行后，于得州发射台完成历史性回收"
-    }
-   },
-   {
-    "id": "1de6feff4e",
-    "title": "Elon Musk criticizes SNL over tech billionaire sketch featuring himself",
-    "link": "https://www.msn.com/en-us/entertainment/celebrities/elon-musk-criticizes-snl-over-tech-billionaire-sketch-featuring-himself/ar-AA2hynJ5",
-    "source": "Mount Olive Chronicle",
-    "site": "www.msn.com",
-    "date": "2026-11-16T09:24:26+00:00",
-    "lang": "en",
-    "summary": "Elon Musk slammed Saturday Night Live after a sketch mocked him and other tech billionaires, responding with a sharp critique on X.",
-    "ai": {
-     "summary": "特斯拉与SpaceX创办人马斯克在社交平台X上批评美国电视节目《周六夜现场》(SNL)。该节目一段短剧讽刺了他和其他科技亿万富豪，他因此发文强烈反驳。",
-     "points": [
-      "批评发生在马斯克自己被节目短剧讽刺之后",
-      "马斯克在X平台上公开发表尖锐评论",
-      "报道来源为Mount Olive Chronicle，原文内容无法读取"
-     ],
-     "why": "",
-     "title_zh": "马斯克批评《周六夜现场》讽刺科技富豪的短剧"
-    }
-   },
-   {
-    "id": "18e8c5661d",
-    "title": "‘That’s how it happened’: Elon Musk reveals he recruited SpaceX’s first engineers by telling them ‘we’re probably going to die’",
-    "link": "https://www.hindustantimes.com/trending/us/thats-how-it-happened-elon-musk-reveals-he-recruited-spacex-s-first-engineers-by-telling-them-we-re-probably-going-to-die-101794848833330.html",
-    "source": "Hindustan Times",
-    "site": "www.hindustantimes.com",
-    "date": "2026-11-16T09:23:00+00:00",
-    "lang": "en",
-    "summary": "Elon Musk revealed he eventually took on the role of chief engineer of the rocket because he could not find experienced engineers willing to join the company.",
-    "ai": {
-     "summary": "马斯克在一段重新流传的视频中回忆，他创办SpaceX时曾坦言公司可能失败，招募第一批工程师时也对他们说“我们可能会死”。他在2025年一场AI创业活动上提到，当时自己估计失败概率约九成，后来因为找不到合适的火箭总工程师，只好自己担任。",
-     "points": [
-      "SpaceX于2002年成立，马斯克当时估计失败概率约90%",
-      "他表示找不到愿意加入的资深总工程师，因此自己兼任火箭总工程师",
-      "SpaceX的星舰近期首次在德州发射场被机械臂成功捕获"
-     ],
-     "why": "",
-     "title_zh": "“事情就是这样发生的”：马斯克称招募SpaceX首批工程师时说“我们可能会死”"
-    }
-   },
-   {
-    "id": "00ccce5888",
+    "id": "14462dc4db",
     "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
-    "link": "https://www.aol.com/articles/tesla-announces-3-3-billion-141703000.html",
-    "source": "AOL",
-    "site": "www.aol.com",
-    "date": "2026-11-16T09:21:00+00:00",
+    "link": "https://www.moneycontrol.com/news/business/tesla-plans-3-3-billion-cybercab-boost-for-germany-s-troubled-auto-sector-14081715.html",
+    "source": "Moneycontrol",
+    "site": "www.moneycontrol.com",
+    "date": "2026-11-16T13:23:00+00:00",
     "lang": "en",
-    "summary": "Tesla will invest €3 billion ($3.3 billion) in its German gigafactory, it said on Monday, bucking the downsizing trend among its German ...",
+    "summary": "The planned construction of an additional production facility in Gruenheide on the outskirts of Berlin could make the US company's only European site Germany's largest auto plant by capacity, ...",
     "ai": {
-     "summary": "特斯拉宣布将在德国柏林郊外的格吕恩海德超级工厂投资30亿欧元（约33亿美元）。该厂将新建一条生产线，计划每年生产多达100万辆Cybercab无人驾驶出租车，与德国其他车企裁员和减产的趋势形成对比。",
+     "summary": "特斯拉计划在德国柏林郊外的格吕恩海德工厂旁增建一座新生产设施,用于生产Cybercab(自动驾驶出租车)。据报道,投资规模约33亿美元。如果建成,这将是特斯拉在欧洲唯一的工厂,并可能成为德国产能最大的汽车工厂。",
      "points": [
-      "特斯拉计划2027年上半年开工，2029年开始生产。",
-      "项目若完成，格吕恩海德厂可能成为德国产能最大的汽车工厂，超过大众的沃尔夫斯堡总部。",
-      "特斯拉表示将招聘数百名新员工用于建设初期和生产规划，此前已在该厂招聘超过2000人。"
+      "计划地点:柏林郊外格吕恩海德",
+      "投资规模:约33亿美元",
+      "若建成,或成为德国产能最大的汽车厂"
      ],
-     "why": "德国车企持续裁员，本地供应链与人才市场可能出现新的需求变化，但项目能带来多少长期就业仍有待观察。",
-     "title_zh": "特斯拉为陷入困境的德国汽车业投入33亿美元扩建Cybercab项目"
+     "why": "德国汽车业近来面临困境,此类大型投资若落地,可能影响当地供应链和就业机会,对马来西亚企业的直接影响有限。",
+     "title_zh": "特斯拉计划投资33亿美元扩建Cybercab产能,助力陷入困境的德国汽车业"
+    }
+   },
+   {
+    "id": "711e873b27",
+    "title": "Tesla announces new Robotaxi services around Fort Worth",
+    "link": "https://tcu360.com/2026/11/16/tesla-announces-new-robotaxi-services-around-fort-worth/",
+    "source": "TCU 360",
+    "site": "tcu360.com",
+    "date": "2026-11-16T13:17:00+00:00",
+    "lang": "en",
+    "summary": "If you’ve noticed driverless cars cruising through the streets of Fort Worth, you’re not imagining things. Tesla announced the launch of its Robotaxi and Cybercab services in Fort Worth on Nov. 2, ...",
+    "ai": {
+     "summary": "特斯拉宣布在德州沃斯堡推出自动驾驶出租车Robotaxi，以及无方向盘、无踏板的Cybercab服务，乘客无需司机即可出行。目前沃斯堡主要使用Model Y车型，Cybercab则仍在测试中。",
+     "points": [
+      "特斯拉于11月2日宣布在沃斯堡启动Robotaxi和Cybercab服务",
+      "沃斯堡目前使用Model Y，最多可载四名乘客",
+      "文章称Model Y 15分钟车程约16.99美元，比Uber便宜约19%"
+     ],
+     "why": "",
+     "title_zh": "特斯拉在沃斯堡周边推出新的自动驾驶出租车服务"
+    }
+   },
+   {
+    "id": "0ef4e78655",
+    "title": "Elon Musk criticises Jeremy Culhane’s SNL impression: ‘They need to try harder’",
+    "link": "https://www.msn.com/en-au/entertainment/tv/elon-musk-criticises-jeremy-culhane-s-snl-impression-they-need-to-try-harder/ar-AA2hzEzA",
+    "source": "Variety Australia",
+    "site": "www.msn.com",
+    "date": "2026-11-16T13:11:48+00:00",
+    "lang": "en",
+    "summary": "Elon Musk criticized Jeremy Culhane's impression of him on 'Saturday Night Live,' writing, 'They need to try harder.' The post Elon Musk Criticises Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try ...",
+    "ai": {
+     "summary": "马斯克在社交媒体上评论喜剧演员杰瑞米·卡尔恩（Jeremy Culhane）在《周六夜现场》（SNL）里模仿他的表演，写道对方“需要再努力一点”。这是他对这段模仿的直接反应。",
+     "points": [
+      "马斯克批评的对象是演员杰瑞米·卡尔恩在SNL中的模仿表演",
+      "马斯克的评论是一句简短留言：对方需要再努力一点",
+      "报道来源为Variety Australia，文章正文无法读取，内容主要依据标题与摘要"
+     ],
+     "why": "",
+     "title_zh": "马斯克批评卡尔恩的SNL模仿秀：“他们需要再努力一点”"
+    }
+   },
+   {
+    "id": "70e1d77a18",
+    "title": "Why SpaceX stock is down after its historic Starship catch",
+    "link": "https://www.msn.com/en-us/news/other/why-spacex-stock-is-down-after-its-historic-starship-catch/ar-AA2hxgvH",
+    "source": "Barron's",
+    "site": "www.msn.com",
+    "date": "2026-11-16T13:11:00+00:00",
+    "lang": "en",
+    "summary": "Starship’s upper stage came back to Earth and was caught by the launch tower’s mechanical arms. It was an amazing feat of engineering.",
+    "ai": {
+     "summary": "SpaceX's Starship upper stage returned to Earth and was caught by mechanical arms on the launch tower, a major engineering milestone. Even so, SpaceX's stock has fallen after the achievement. The article text could not be read, so this summary relies only on the headline and publisher summary.",
+     "points": [
+      "Starship's upper stage was caught by the launch tower's mechanical arms after returning to Earth",
+      "The publisher describes the catch as an amazing feat of engineering",
+      "The headline says SpaceX stock fell after the catch"
+     ],
+     "why": "",
+     "title_zh": "SpaceX股价在星舰历史性回收成功后下跌的原因"
+    }
+   },
+   {
+    "id": "259e3d1df0",
+    "title": "SpaceX Starship Flight 5 splashdown and explosion captured by buoy camera",
+    "link": "https://www.msn.com/en-us/news/other/spacex-starship-flight-5-splashdown-and-explosion-captured-by-buoy-camera/vi-AA2hz3Ew",
+    "source": "Space",
+    "site": "www.msn.com",
+    "date": "2026-11-16T13:05:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX's Starship splashed down in the Indian Ocean about an hour after launch. A camera on buoy captured the fireworks. Credit: Space.com | footage courtesy SpaceX | edited by Steve Spaleta ...",
+    "ai": {
+     "summary": "SpaceX的星舰（Starship）第五次试飞后，在印度洋溅落，发射约一小时后出现。一个漂浮在海上的浮标摄像机拍下了溅落和爆炸的画面。",
+     "points": [
+      "星舰在印度洋溅落，发射约一小时后发生",
+      "浮标上的摄像机拍下了爆炸画面",
+      "画面由SpaceX提供，Space.com发布"
+     ],
+     "why": "",
+     "title_zh": "SpaceX星舰第五次试飞溅落与爆炸画面被浮标摄像机拍下"
+    }
+   },
+   {
+    "id": "3f88dbf8a0",
+    "title": "Elon Musk’s policy difficulty prevents Starlink’s South Africa entry",
+    "link": "https://www.semafor.com/article/11/16/2026/musks-policy-difficulty-prevents-starlinks-south-africa-entry",
+    "source": "Semafor",
+    "site": "www.semafor.com",
+    "date": "2026-11-16T13:00:00+00:00",
+    "lang": "en",
+    "summary": "President Cyril Ramaphosa said Elon Musk failed to understand the impact of apartheid on Black South Africans.",
+    "ai": {
+     "summary": "南非总统拉马福萨接受Semafor访问时表示，马斯克对南非一项关键政策“理解有困难”，是星链卫星网络无法在南非落地的主要问题。南非的黑人经济赋权政策（BEE）旨在纠正种族隔离遗留的不平等，要求外资公司在南非的业务至少30%须卖给本地黑人。马斯克曾称该政策“公开的种族主义”，并以此作为星链不在南非运营的原因。",
+     "points": [
+      "南非黑人经济赋权政策要求外资公司在南非业务至少30%卖给本地黑人",
+      "马斯克称该政策“公开种族主义”，并以此解释星链未能进入南非",
+      "拉马福萨表示，各国都有准入政策，公司必须遵守当地规定"
+     ],
+     "why": "这反映南非对外资准入规则的立场，对在南非有业务或考虑进入当地市场的马来西亚企业来说，了解目标市场的本地持股要求很重要。",
+     "title_zh": "马斯克的政策理解困难阻碍星链进入南非"
+    }
+   },
+   {
+    "id": "4497ce357b",
+    "title": "“Maybe don’t be so easy to mock”: Kara Swisher reacts to report Elon Musk was not amused by SNL sketch",
+    "link": "https://www.soapcentral.com/entertainment/news-maybe-don-t-easy-mock-kara-swisher-reacts-report-elon-musk-amused-snl-sketch",
+    "source": "Soap Central",
+    "site": "www.soapcentral.com",
+    "date": "2026-11-16T12:55:00+00:00",
+    "lang": "en",
+    "summary": "Tech billionaire and SpaceX owner, Elon Musk, has taken a shot at NBC's sketch comedy show, Saturday Night Live, after Musk, along with several other billionaire tech CEOs, was made fun of on the Nove ...",
+    "ai": {
+     "summary": "特斯拉和SpaceX老板马斯克不满美国喜剧节目《周六夜现场》(SNL)把他和其他科技富豪拿来讽刺。他在X上回复节目的帖文，用一张文氏图暗示该节目与幽默几乎没有交集，并附上“Lol”。记者Kara Swisher也转发相关帖文讨论此事。",
+     "points": [
+      "讽刺短剧出现在2026年11月14日播出的一集节目中",
+      "马斯克由喜剧演员Jeremy Culhane扮演",
+      "马斯克以文氏图回击，并配上“Lol”字样"
+     ],
+     "why": "",
+     "title_zh": "“别这么容易被取笑”：Kara Swisher回应报道称马斯克对SNL讽刺短剧并不高兴"
+    }
+   },
+   {
+    "id": "bd12588e96",
+    "title": "China’s tech bosses and Elon Musk head to Shenzhen for APEC CEO summit",
+    "link": "https://thenextweb.com/news/apec-ceo-summit-shenzhen-catl-baidu-unitree-musk",
+    "source": "The Next Web",
+    "site": "thenextweb.com",
+    "date": "2026-11-16T12:46:00+00:00",
+    "lang": "en",
+    "summary": "We do not negotiate American export controls,’ a US official says, as China’s tech bosses and Musk head to the APEC CEO summit in Shenzhen.",
+    "ai": {
+     "summary": "APEC（亚太经合组织）工商领袖峰会将于周二在深圳开幕，中国多家大型科技企业负责人及美国企业高管受邀出席，习近平将发表主旨演讲。据报道，特斯拉与SpaceX的马斯克将随美国总统特朗普前往深圳，美方官员称他可能以顾问身份随行。",
+     "points": [
+      "峰会为期两天，17至18日举行，随后APEC领导人会议于18至19日进行，特朗普届时将与习近平会面",
+      "宁德时代、百度、宇树科技等中国企业代表将发言，比亚迪、小米负责人也将出席小组讨论",
+      "预计有2000多名政商领袖出席，其中美国企业约占境外参会者近20%"
+     ],
+     "why": "对马来西亚企业主而言，中美科技与贸易关系的走向可能影响供应链、零部件采购及相关行业的成本与合作机会，但目前尚无明确的直接影响。",
+     "title_zh": "中国科技巨头与马斯克将赴深圳出席APEC工商领袖峰会"
+    }
+   },
+   {
+    "id": "871572327f",
+    "title": "SpaceX's Starship program advances as Amazon Leo suffers another setback",
+    "link": "https://www.lightreading.com/satellite/spacex-s-starship-program-advances-as-amazon-leo-suffers-another-setback",
+    "source": "Light Reading",
+    "site": "www.lightreading.com",
+    "date": "2026-11-16T12:30:00+00:00",
+    "lang": "en",
+    "summary": "SpaceX achieved its first-ever Starship upper-stage catch, a key reusability win, while Amazon Leo lost 40 satellites in a Vulcan rocket 'anomaly.' ...",
+    "ai": {
+     "summary": "SpaceX successfully caught a Starship upper stage for the first time, a step toward reusable rockets. The same weekend, ULA's Vulcan rocket had an in-flight anomaly about ten minutes after liftoff and lost 40 Amazon Leo satellites, raising doubts about Amazon's 2026 service timing.",
+     "points": [
+      "SpaceX's Starship upper stage was caught by the launch tower on Saturday, its first such catch",
+      "Vulcan's first Amazon Leo launch on Sunday lost 40 satellites",
+      "Amazon Leo has about 1,500 satellites contracted on 38 Vulcan flights"
+     ],
+     "why": "",
+     "title_zh": "SpaceX星舰上级首次被塔架成功回收，亚马逊Leo卫星却因火箭故障损失40颗"
+    }
+   },
+   {
+    "id": "11e1a85c33",
+    "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+    "source": "Space.com",
+    "site": "www.space.com",
+    "date": "2026-11-16T12:04:00+00:00",
+    "lang": "en",
+    "summary": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
+    "ai": {
+     "summary": "SpaceX caught the upper stage of its Starship rocket with the launch tower's arms for the first time, a key step toward reusing rockets. Elon Musk then said the next version, V4, will be about 70 metres long, roughly 40% longer, with 9 engines instead of 6.",
+     "points": [
+      "Upper stage (Ship) caught on Nov 14, after the Nov 13 test flight, its 15th",
+      "Musk says V4 Ship will be about 70 m long and carry over 60% more propellant",
+      "V4 engine count rises to 9, with 3 more higher-thrust Raptor-Vacuum engines; debut expected in 2027"
+     ],
+     "why": "For a Malaysian business owner, this is a space-industry milestone with no direct effect on local costs, staff or family matters.",
+     "title_zh": "马斯克称SpaceX星舰将在下一代V4型号上变得更大"
+    }
+   },
+   {
+    "id": "da24c4c53b",
+    "title": "Elon Musk among major tech voices calling for ex-Nvidia CEO Jensen Huang to be reinstated",
+    "link": "https://www.ctvnews.ca/video/2026/11/16/elon-musk-among-major-tech-voices-calling-for-ex-nvidia-ceo-jensen-huang-to-be-reinstated/",
+    "source": "CTV News",
+    "site": "www.ctvnews.ca",
+    "date": "2026-11-16T11:59:00+00:00",
+    "lang": "en",
+    "summary": "Tech analyst Carmi Levy says it’s ‘hard to say’ if tech leaders speaking out will help bring Huang back in the wake of ongoing affair and alleged spy scandals."
+   },
+   {
+    "id": "0a8e8d07ac",
+    "title": "Elon Musk Doesn’t Think ‘SNL’ Is Very Funny When He’s the Joke",
+    "link": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-doesn-t-think-193328434.html",
+    "source": "Yahoo",
+    "site": "www.yahoo.com",
+    "date": "2026-11-16T11:34:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk slammed Saturday Night Live after the show turned its attention to some of the tech world’s most powerful figures. The 55-year-old billionaire wasn’t amused by Jeremy Culhane‘s portrayal of ...",
+    "ai": {
+     "summary": "特斯拉和SpaceX创办人马斯克在社交平台X上批评美国综艺节目《周六夜现场》(SNL)把他和其他科技大亨搬上舞台的讽刺短剧。该节目11月14日一集中,演员Jeremy Culhane扮演马斯克,他对此不满并回击,说这些演员只能打5分,还发了一张嘲讽节目幽默感的文氏图。",
+     "points": [
+      "11月14日那一集的短剧中,Jeremy Culhane扮演马斯克,其他演员分别扮演扎克伯格、Sam Altman、Peter Thiel等科技人物。",
+      "马斯克在X上给演员打了5分,并附上嘲讽SNL幽默感的文氏图,只有少数好笑的短剧落在重叠的小部分。",
+      "马斯克也转发并赞同一则批评节目近年转向政治讽刺的留言。"
+     ],
+     "why": "",
+     "title_zh": "马斯克不觉得《周六夜现场》拿他开玩笑很好笑"
+    }
+   },
+   {
+    "id": "ebd741a608",
+    "title": "全球最大铅碳储能电站陷电池质量诉讼，国家电投旗下企业索赔超1亿元",
+    "link": "https://www.thepaper.cn/newsDetail_forward_34490396",
+    "source": "澎湃新闻",
+    "site": "www.thepaper.cn",
+    "date": "2026-11-16T13:27:00+00:00",
+    "lang": "zh",
+    "summary": "一纸诉讼，牵出投运仅三年多的全球最大铅碳储能电站的电池质量问题。 经纬股份（301390.SZ）11月13日晚公告，全资子公司杭州鸿晟电力设计咨询有限公司（下称鸿晟电力）近期收到浙江省湖州市长兴县人民法院送达的《应诉通知书》等文件，电投浙储（长兴）智慧能源有限公司作为原告，诉浙江太湖能谷科技有限公司（下称太湖能谷）、鸿晟电力和浙江省长兴电气工程有限公司共同赔偿一储能项目因电池质量问题导致的放电量损 ...",
+    "ai": {
+     "summary": "经纬股份旗下子公司鸿晟电力被列为被告，国家电投一家子公司起诉三家公司，指湖州“和平共储”储能电站的电池质量有问题，要求赔偿合计约1.03亿元。案件已立案，尚未开庭。储能电站指用电池把电存起来、需要时再放出的设施。",
+     "points": [
+      "索赔合计10308.43万元，包括放电量损失、更换电池损失及诉讼相关费用",
+      "被告为太湖能谷、鸿晟电力和长兴电气工程公司，三方组成联合体承建该项目",
+      "该电站2023年3月并网运行，是公开资料中全球最大的铅碳储能电站"
+     ],
+     "why": "此案提醒企业在采购大型设备或承包工程时，应留意合同中对设备性能和责任划分的约定。",
+     "title_zh": ""
     }
    },
    {
@@ -2456,20 +2515,20 @@
     }
    },
    {
-    "id": "d011084d35",
-    "title": "新疆哈密龙马160万千瓦风电新能源项目正式开工",
-    "link": "https://www.china5e.com/news/news-1211910-1.html",
-    "source": "中国能源网",
-    "site": "www.china5e.com",
-    "date": "2026-11-16T01:39:00+00:00",
+    "id": "2945442eda",
+    "title": "世界首个300兆瓦人工硐室型压缩空气储能电站并网发电",
+    "link": "https://news.qq.com/rain/a/20261116A05RAY00",
+    "source": "腾讯网",
+    "site": "news.qq.com",
+    "date": "2026-11-16T02:15:00+00:00",
     "lang": "zh",
-    "summary": "北极星风力发电网获悉，11月12日，新疆哈密龙马160万千瓦风电新能源项目在哈密市伊州区双井子戈壁风电场正式开工。 据了解，该项目由中国电建集团江西省电力建设有限公司承建，总装机容量1600兆瓦，共建设160台10兆瓦的钢塔筒风电机组，分布于哈密滴水东、滴水西及野马泉北三个场址，所发电力分别接入梧桐泉、黄山两座220千伏升压汇集站。目前，项目已具备正式开工必要条件。",
+    "summary": "记者今天（16日）从中国能建获悉，世界首个300兆瓦人工硐室型压缩空气储能电站——“源储一号”在甘肃成功并网，标志着人工硐室型压缩空气储能技术实现从试验验证到大型工程应用的跨越，为我国压缩空气储能技术路线多元化发展提供了新的工程实践。压缩空气储能是一种将电能转化为空气压力势能，并在需要时重新转化为电能的 ...",
     "ai": {
-     "summary": "新疆哈密一个大型风电项目于11月12日正式开工，地点在哈密市伊州区双井子戈壁风电场。项目由中国电建集团江西省电力建设有限公司承建，计划装机容量为1600兆瓦，属于新能源发电项目。目前项目已具备开工条件。",
+     "summary": "中国能建宣布，全球首座300兆瓦人工硐室型压缩空气储能电站“源储一号”在甘肃成功并网发电。压缩空气储能是把电力转为空气压力储存起来，需要时再变回电力的一种储能方式。该技术从试验走向大型工程应用，也为国内储能路线增添了新的实践案例。",
      "points": [
-      "项目总装机容量1600兆瓦，共建160台10兆瓦钢塔筒风电机组",
-      "分布于哈密滴水东、滴水西及野马泉北三个场址",
-      "所发电力分别接入梧桐泉、黄山两座220千伏升压汇集站"
+      "电站装机功率300兆瓦，储能规模达1800兆瓦时",
+      "储气硐室建在地下110米深的岩层中，由4个硐室组成",
+      "电-电转换效率达72%，单次可连续发电6小时，年发电量可达6亿千瓦时"
      ],
      "why": "",
      "title_zh": ""
@@ -2520,26 +2579,6 @@
       "项目规划安装17台大功率风电机组，位于萨奇赫雷和奇阿图拉两个市镇的村庄区域",
       "预计2027年完成绝大部分主体工程，2028年初实现全容量并网投运",
       "配套500千伏变电站的投资已计入总预算，且该变电站不产生直接商业收入"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "c0fe16dfc2",
-    "title": "全球最大铅碳储能电站陷电池质量诉讼，国家电投旗下企业索赔超1亿元",
-    "link": "https://news.qq.com/rain/a/20261116A0DSCX00",
-    "source": "腾讯网",
-    "site": "news.qq.com",
-    "date": "2026-11-15T23:28:00+00:00",
-    "lang": "zh",
-    "summary": "一纸诉讼，牵出投运仅三年多的全球最大铅碳储能电站的电池质量问题。经纬股份（301390.SZ）11月13日晚公告，全资子公司杭州鸿晟电力设计咨询有限公司（下称鸿晟电力）近期收到浙江省湖州市长兴县人民法院送达的《应诉通知书》等文件，电投浙储（长兴）智慧能源有限公司作为原告，诉浙江太湖能谷科技有限公司（下称太湖能谷 ...",
-    "ai": {
-     "summary": "经纬股份旗下子公司鸿晟电力收到法院文件，国家电投旗下的电投浙储（长兴）智慧能源公司起诉鸿晟电力及另外两家被告，指涉案储能项目电池质量有问题，索赔合计约1.03亿元。案件已立案，尚未开庭。涉案的是位于浙江湖州、投运三年多的“和平共储”铅碳储能电站，据称是全球最大的同类电站。",
-     "points": [
-      "索赔合计10308.43万元，含放电量损失、更换电池损失及诉讼相关费用",
-      "三被告组成联合体承建该EPC总承包项目，原告要求三方承担连带责任",
-      "这已是太湖能谷、鸿晟电力第二次因类似EPC项目纠纷被国家电投下属企业起诉"
      ],
      "why": "",
      "title_zh": ""
@@ -2606,6 +2645,166 @@
     }
    },
    {
+    "id": "c00007a930",
+    "title": "NC approves Duke Energy plan to extend coal use, add natural gas",
+    "link": "https://www.wral.com/news/local/nc-approves-duke-energy-plan-to-extend-coal-use-add-natural-gas-november-2026/",
+    "source": "WRAL",
+    "site": "www.wral.com",
+    "date": "2026-11-16T13:54:00+00:00",
+    "lang": "en",
+    "summary": "The state's latest Carbon Plan also calls for new solar generation, battery storage, and continued investment in potential nuclear power plants as electricity demand grows.",
+    "ai": {
+     "summary": "北卡罗来纳州公用事业监管委员会周一批准了杜克能源（Duke Energy）的新长期能源计划。该计划延长部分燃煤电厂的运营年限，增加约3850兆瓦的天然气发电，并为未来新建核电站保留空间。",
+     "points": [
+      "计划批准新增约3850兆瓦天然气发电",
+      "部分燃煤电厂运营年限被延长",
+      "委员会将于2027年召开技术会议，再决定是否推进核电建设"
+     ],
+     "why": "若电力需求持续增长，电费与供电稳定性可能受影响，企业在用电成本规划上可留意相关变化。",
+     "title_zh": "北卡批准杜克能源延长燃煤发电并增加天然气发电计划"
+    }
+   },
+   {
+    "id": "43d057ddce",
+    "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
+    "link": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
+    "source": "Electrek",
+    "site": "electrek.co",
+    "date": "2026-11-16T13:42:00+00:00",
+    "lang": "en",
+    "summary": "Wind and solar fill each other’s gaps, making reliable clean power cheaper and reducing the amount of battery storage needed.",
+    "ai": {
+     "summary": "能源智库Ember与全球风能理事会的分析指出，在太阳能和电池储能之外加入风电，可让可靠供电的成本下降近两成。风电通常在太阳能偏弱时补上，因此系统需要的电池储存量也随之减少。",
+     "points": [
+      "满足90%用电需求的中位成本，从每兆瓦时105美元降至86美元",
+      "报告指出，加入风电后，美国、欧洲和中国所需的电池储存时长都会缩短",
+      "有了风电，占全球用电需求75%的地区可以用低于每兆瓦时100美元的成本满足90%用电，未加风电时仅占50%"
+     ],
+     "why": "对经营企业的人来说，未来电力成本的走向可能影响用电开支，但文章并未涉及具体的本地电价或采购建议。",
+     "title_zh": "加入风电可让太阳能加电池储能的供电成本降低近两成"
+    }
+   },
+   {
+    "id": "40116b73f5",
+    "title": "enSights Brings AI-Powered Business Management to Solar and Storage Operations",
+    "link": "https://www.solarpowerworldonline.com/2026/11/ensights-brings-ai-powered-business-management-to-solar-and-storage-operations/",
+    "source": "Solar Power World",
+    "site": "www.solarpowerworldonline.com",
+    "date": "2026-11-16T13:16:00+00:00",
+    "lang": "en",
+    "summary": "Sights launches AI Studio, adding AI-powered asset, financial, and contract management tools for solar and energy storage portfolios.",
+    "ai": {
+     "summary": "enSights推出了名为AI Studio的新功能，加入其能源业务管理平台（EBM）。它提供一组可定制的AI助手，帮助太阳能和储能项目的业主与营运方处理业务与运营流程，并可用日常语言创建报表与仪表板，同时保留用户对权限与审批的控制。",
+     "points": [
+      "该产品于11月10日宣布推出",
+      "AI Studio涵盖监测、营运、收益、保修、许可、贷款方、保险及资产管理等领域的AI代理",
+      "平台据称已部署于全球超过10万个站点，资产规模超过5吉瓦（GW），并计划于RE+ 2026展示"
+     ],
+     "why": "对于拥有太阳能或储能资产的马来西亚企业而言，这类工具若能整合合约、收益与营运数据，或有助于减少人工对账时间，但是否适用仍需视项目规模与实际需求而定。",
+     "title_zh": "enSights为太阳能与储能营运带来AI驱动的业务管理"
+    }
+   },
+   {
+    "id": "91a7f7281b",
+    "title": "Stem and Copec Expand Partnership to Advance Energy Storage and Intelligent Energy Management Across Latin America",
+    "link": "https://finance.yahoo.com/energy/articles/stem-copec-expand-partnership-advance-211200423.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-16T13:12:00+00:00",
+    "lang": "en",
+    "summary": "Stem, Inc. (NYSE: STEM), a global leader in AI-enabled clean energy software and services, today announced a partnership agreement with Copec Flux, the renewable energy subsidiary of Copec S.A., to ...",
+    "ai": {
+     "summary": "美国储能软件公司Stem与智利能源公司Copec旗下的Copec Flux扩大合作，共同提供储能和能源管理方案，首先聚焦智利，并计划探索哥伦比亚等拉丁美洲市场。双方此前已在智利Granja太阳能项目合作，Stem提供控制软件，Copec Flux负责本地工程与项目运营。",
+     "points": [
+      "合作以智利Granja太阳能项目为基础，该项目为135兆瓦太阳能电站加装420兆瓦时电池储能系统",
+      "Stem提供PowerTrack软件与控制技术，Copec Flux负责本地工程、项目交付和运营服务",
+      "服务对象包括大型公用事业开发商，以及工商业客户"
+     ],
+     "why": "",
+     "title_zh": "Stem与Copec扩大合作，推动拉丁美洲储能与智能能源管理"
+    }
+   },
+   {
+    "id": "c5452347d8",
+    "title": "Green hydrogen infrastructure to operate under open-access rules, says minister",
+    "link": "https://www.msn.com/en-ae/money/general/green-hydrogen-infrastructure-to-operate-under-open-access-rules-says-minister/ar-AA2hyO9P",
+    "source": "Jordan News Agency (Petra)",
+    "site": "www.msn.com",
+    "date": "2026-11-16T12:01:34+00:00",
+    "lang": "en",
+    "summary": "Amman, Nov. 16 (Petra) -- Energy and Mineral Resources Minister Saleh Kharabsheh reaffirmed the government's commitment to developing Jordan's green hydrogen industry and its supporting infrastructure ...",
+    "ai": {
+     "summary": "约旦能源和矿产资源大臣萨利赫·哈拉布谢重申，政府将继续发展约旦的绿色氢能产业及相关基础设施。报道提到，这些基础设施将按照开放准入规则运作，即允许多方公平使用。文章正文无法读取，以下内容仅依据标题和出版方摘要。",
+     "points": [
+      "消息来源为约旦通讯社（Petra），发布于11月16日，发布地为安曼。",
+      "大臣是能源和矿产资源大臣萨利赫·哈拉布谢。",
+      "政府重申支持绿色氢能产业及其配套基础设施的发展。"
+     ],
+     "why": "",
+     "title_zh": "部长称绿色氢能基础设施将按开放准入规则运作"
+    }
+   },
+   {
+    "id": "b341f33ad2",
+    "title": "Malaysia targets leadership role in green energy through local expertise",
+    "link": "https://www.malaymail.com/news/malaysia/2026/11/16/malaysia-targets-leadership-role-in-green-energy-through-local-expertise/243524",
+    "source": "Malay Mail",
+    "site": "www.malaymail.com",
+    "date": "2026-11-16T11:26:00+00:00",
+    "lang": "en",
+    "summary": "Malaysia aspires to be more than just a participant in the energy transition landscape, but instead emerge as a leader, technology owner and creator ...",
+    "ai": {
+     "summary": "副首相Fadillah Yusof在主持Gading Kencana太阳能农场开幕时表示，马来西亚希望在绿色能源领域成为领导者和技术拥有者，而不只是参与者。这座农场由本地公司Gading Kencana与英特尔合作开发，通过企业绿色电力计划（CGPP）推动。",
+     "points": [
+      "太阳能农场装机容量为43兆瓦峰值（MWp）",
+      "英特尔与该项目签订为期15年的长期协议，每年购买53,000个可再生能源证书（REC）",
+      "副首相称此项目显示本地公司能赢得国际投资者信任，并拓展高科技领域"
+     ],
+     "why": "本地企业若能参与绿色能源项目，或有机会在高技术领域取得合作与人才发展，但文章未提及对一般企业成本的具体影响。",
+     "title_zh": "马来西亚力争通过本土专业能力在绿色能源领域扮演领导角色"
+    }
+   },
+   {
+    "id": "b123ca1633",
+    "title": "Clean energy companies bat for duty cuts, export relief",
+    "link": "https://economictimes.indiatimes.com/industry/renewables/clean-energy-companies-bat-for-duty-cuts-export-relief/articleshow/135900916.cms",
+    "source": "The Economic Times",
+    "site": "economictimes.indiatimes.com",
+    "date": "2026-11-16T11:03:00+00:00",
+    "lang": "en",
+    "summary": "The green energy industry is seeking customs duty concessions on manufacturing inputs and easing export obligations. Key inputs such as polysilicon and wafers do not have adequate local availability.",
+    "ai": {
+     "summary": "印度的绿色能源行业正在向政府争取两项优惠：一是降低制造所需原材料的海关关税，二是放宽出口义务。多晶硅和硅片等关键原料在当地供应不足，因此业界希望获得支持。此外，业界还希望延长锂电池相关资本设备的关税豁免期，并要求调整影响储能系统的税务分类及利息税。",
+     "points": [
+      "请求降低多晶硅、硅片等制造原料的海关关税",
+      "希望延长锂离子电池相关资本设备的关税豁免",
+      "要求调整储能系统的税务分类并检讨利息课税"
+     ],
+     "why": "",
+     "title_zh": "清洁能源企业争取关税减免与出口纾困"
+    }
+   },
+   {
+    "id": "7a9922f75a",
+    "title": "Malaysia Aims To Become Leader, Technology Owner In Green Energy – Fadillah",
+    "link": "https://www.bernama.com/en/general/news.php?id=2635208",
+    "source": "BERNAMA",
+    "site": "www.bernama.com",
+    "date": "2026-11-16T10:58:00+00:00",
+    "lang": "en",
+    "summary": "KUALA LUMPUR, Nov 16 (Bernama) -- Malaysia aspires to be more than just a participant in the energy transition landscape, but instead emerge as a leader, technology owner and creator of opportunities ...",
+    "ai": {
+     "summary": "马来西亚副首相拿督斯里菲达鲁·尤索夫表示，马来西亚希望在绿色能源领域不只是参与者，而是成为领导者、技术拥有者和机会创造者。他在主持Gading Kencana太阳能农场开幕时发表上述看法，该农场由本地再生能源公司与英特尔合作开发。他认为能源转型也能带动经济增长并创造高价值就业。",
+     "points": [
+      "太阳能农场装机容量为43兆瓦峰值（MWp）",
+      "英特尔与该项目签订为期15年的长期协议，每年购买53,000张可再生能源证书（REC）",
+      "菲达鲁称该项目显示本地企业（包括土著企业）有能力赢得国际投资者信任"
+     ],
+     "why": "对企业主而言，绿色能源领域的本地合作与国际采购可能带来新的合作机会，相关技术和人才需求也可能随之增加。",
+     "title_zh": "马来西亚拟成为绿色能源领导者与技术拥有者——菲达鲁"
+    }
+   },
+   {
     "id": "d9a61a9628",
     "title": "EnBW plans 41-MW BESS project at German pumped-storage hydro plant",
     "link": "https://renewablesnow.com/news/enbw-plans-41-mw-bess-project-at-german-pumped-storage-hydro-plant-1305036/",
@@ -2646,43 +2845,23 @@
     }
    },
    {
-    "id": "0676f91913",
-    "title": "Solar's Growth Continues Despite Sometimes Dark Skies",
-    "link": "https://tech.yahoo.com/science/articles/solars-growth-continues-despite-sometimes-181300189.html",
-    "source": "YAHOO!",
-    "site": "tech.yahoo.com",
-    "date": "2026-11-16T10:13:00+00:00",
+    "id": "bec7d83b54",
+    "title": "SolaREIT Supports Over $8.5 Billion In Clean Energy Project Value",
+    "link": "https://pulse2.com/solareit-supports-over-8-5-billion-in-clean-energy-project-value/",
+    "source": "Pulse 2.0",
+    "site": "pulse2.com",
+    "date": "2026-11-16T09:56:00+00:00",
     "lang": "en",
-    "summary": "Technology breakthroughs, efficiency gains, and the rising need for electricity are all powering solar energy’s continued deployment. Solar power continues to hit historic milestones worldwide, and ce ...",
+    "summary": "SolaREIT has surpassed $8.5 billion in project value supported through its real estate financing, covering approximately 4.6 gigawatts of solar and battery storage capacity.",
     "ai": {
-     "summary": "Solar power keeps expanding worldwide, and in the US the industry group SEIA said solar made up about 60% of new generation capacity added in 2026. Solar paired with battery storage now accounts for more than 70% of new US capacity, even though grid connection queues and equipment tariffs remain obstacles. New technologies such as perovskite tandem cells are pushing panel efficiency above the roughly 22% typical of standard panels.",
+     "summary": "美国弗吉尼亚州的SolaREIT公司表示，通过其房地产融资支持的项目总价值已超过85亿美元，涉及约4.6吉瓦的太阳能和储能电池容量。这一数字衡量的是相关能源项目的价值，并非公司直接提供的融资金额。公司提供土地购买、租赁购买和土地贷款等服务，服务范围覆盖美国50个州。",
      "points": [
-      "SEIA: solar about 60% of new US generation capacity added in 2026",
-      "Solar plus storage makes up more than 70% of new US capacity",
-      "Tandem perovskite-silicon panels reportedly exceed 30% efficiency"
+      "项目价值较2025年11月以来增加超过35亿美元",
+      "涉及约4.6吉瓦太阳能与储能容量",
+      "交易签约后30至45天内可完成，服务覆盖美国全部50州"
      ],
-     "why": "Growing demand from data centers and new solar-plus-storage options may shape future electricity costs and supply planning for businesses that rely on power.",
-     "title_zh": "太阳能持续增长，即使天空时有阴霾"
-    }
-   },
-   {
-    "id": "e845d7bb58",
-    "title": "Kansai Electric Power to Acquire Minority Stake in ArcLight-Backed Virginia Battery Storage Facility",
-    "link": "https://www.citybiz.co/article/934127/kansai-electric-power-to-acquire-minority-stake-in-arclight-backed-virginia-battery-storage-facility/",
-    "source": "citybiz",
-    "site": "www.citybiz.co",
-    "date": "2026-11-16T09:58:00+00:00",
-    "lang": "en",
-    "summary": "Kansai Electric Power Co., one of Japan’s largest electric utilities, has agreed to acquire a minority interest in Prospect Power... Read More ...",
-    "ai": {
-     "summary": "日本大型电力公司关西电力（Kansai Electric Power）同意收购美国弗吉尼亚州一座150兆瓦电池储能设施的少数股权。该设施由ArcLight Capital Partners及其旗下Elevate Infrastructure持有，2026年5月已投入商业运营，用来在电力供需之间起缓冲作用。交易金额与股权比例均未披露。",
-     "points": [
-      "设施名为Prospect Power，储存容量为600兆瓦时，是PJM电网区内目前运营中最大的独立电池储能设施",
-      "设施与Dominion Energy Virginia签有为期15年的购电协议",
-      "这是关西电力在日本以外的第一个电池储能项目"
-     ],
-     "why": "",
-     "title_zh": "关西电力将收购ArcLight支持的弗吉尼亚电池储能设施少数股权"
+     "why": "这类土地融资属于美国的清洁能源项目资金安排，与马来西亚企业的日常成本、员工或家庭直接关联不大，暂无明确影响。",
+     "title_zh": "SolaREIT支持的清洁能源项目价值超过85亿美元"
     }
    },
    {
@@ -2746,169 +2925,29 @@
     }
    },
    {
-    "id": "6efca9ac57",
-    "title": "Greenvolt switches on 4-MWp solar park in Portugal",
-    "link": "https://renewablesnow.com/news/greenvolt-switches-on-4-mwp-solar-park-in-portugal-1305020/",
-    "source": "Renewables Now",
-    "site": "renewablesnow.com",
-    "date": "2026-11-16T08:37:00+00:00",
-    "lang": "en",
-    "summary": "Portuguese renewable energy group Greenvolt, through its unit Greenvolt Next, has commissioned a 4-MWp solar park on the Portuguese island of Porto Santo.",
-    "ai": {
-     "summary": "葡萄牙可再生能源集团Greenvolt旗下的Greenvolt Next，已在葡萄牙的圣港岛（Porto Santo）投入运营一座4兆瓦峰值（MWp）的太阳能发电场。",
-     "points": [
-      "项目规模为4兆瓦峰值（MWp）太阳能发电场",
-      "项目位于葡萄牙的圣港岛",
-      "由Greenvolt集团旗下子公司Greenvolt Next负责完成并投运"
-     ],
-     "why": "",
-     "title_zh": "Greenvolt在葡萄牙启用4兆瓦太阳能电站"
-    }
-   },
-   {
-    "id": "4550eadcd2",
-    "title": "World's first 300-MW artificial-cavern compressed air energy storage plant connected to grid in China",
-    "link": "https://www.globaltimes.cn/page/202611/1374385.shtml?id=12",
-    "source": "Global Times",
-    "site": "www.globaltimes.cn",
-    "date": "2026-11-16T08:33:00+00:00",
-    "lang": "en",
-    "summary": "The world's first 300-megawatt artificial-cavern compressed air energy storage (CAES) power station has been connected to the grid in Northwest China's Gansu Province, marking a major step in bringing ...",
-    "ai": {
-     "summary": "中国西北甘肃省的一座300兆瓦人工洞穴压缩空气储能电站已经并网，据报道是全球首座此规模的同类电站。压缩空气储能是把电力用来压缩空气并储存在洞穴中，需要时再释放空气发电。",
-     "points": [
-      "电站名为Yuanchu No 1，位于中国西北部甘肃省",
-      "装机容量为300兆瓦，已成功连入电网",
-      "此举被视为该技术发展的一大步"
-     ],
-     "why": "",
-     "title_zh": "全球首座300兆瓦人工洞穴压缩空气储能电站在中国并网"
-    }
-   },
-   {
-    "id": "3a93eab8be",
-    "title": "Adani Green Energy clarifies approvals for Tarali storage project",
-    "link": "https://www.msn.com/en-in/money/general/adani-green-energy-clarifies-approvals-for-tarali-storage-project/ar-AA2hyGOI",
-    "source": "Asianet Newsable",
+    "id": "42c3ae4c3d",
+    "title": "Winds weaken, farm fires rise: Delhi's air quality likely to slip into 'very poor' category on Tuesday",
+    "link": "https://www.msn.com/en-in/weather/meteorology/winds-weaken-farm-fires-rise-delhi-s-air-quality-likely-to-slip-into-very-poor-category-on-tuesday/ar-AA2hyZab",
+    "source": "News18",
     "site": "www.msn.com",
-    "date": "2026-11-16T08:30:07+00:00",
+    "date": "2026-11-16T09:29:03+00:00",
     "lang": "en",
-    "summary": "Adani Green Energy Limited confirmed that the 1,500 MW Tarali Pumped Storage Project in Maharashtra followed all statutory requirements, stating the site involves no forest land and holds valid ...",
+    "summary": "Air quality in the national capital is expected to slip into the “Very Poor” category on Tuesday, with weakening winds, falling temperatures and morning fog likely to play a major role in restricting ...",
     "ai": {
-     "summary": "印度阿达尼绿色能源公司（Adani Green Energy）澄清，其位于马哈拉施特拉邦、装机1500兆瓦的Tarali抽水蓄能项目已符合所有法定要求。公司表示，该项目场址不涉及林地，且持有有效的相关许可。",
+     "summary": "德里的空气质量预计周二将恶化至“非常差”等级，原因是风力减弱、气温下降，加上清晨大雾，可能让污染物难以扩散。",
      "points": [
-      "项目为1500兆瓦的抽水蓄能电站，位于印度马哈拉施特拉邦",
-      "公司表示项目已符合全部法定要求",
-      "公司称场址不涉及林地，并持有有效许可"
+      "来源为印度News18，报道对象是印度首都德里",
+      "预计周二空气质量跌入“非常差”类别",
+      "风力减弱、气温下降及晨雾被认为是主要因素"
      ],
      "why": "",
-     "title_zh": "阿达尼绿色能源澄清Tarali储能项目的审批情况"
-    }
-   },
-   {
-    "id": "5834c1196c",
-    "title": "How Ohio’s proposed energy policy could influence power plant reviews without changing permit rules",
-    "link": "https://www.msn.com/en-us/money/general/how-ohio-s-proposed-energy-policy-could-influence-power-plant-reviews-without-changing-permit-rules/ar-AA2hykKY",
-    "source": "cleveland.com",
-    "site": "www.msn.com",
-    "date": "2026-11-16T08:00:00+00:00",
-    "lang": "en",
-    "summary": "CLEVELAND, Ohio — Senate Bill 294 would establish a new Ohio energy policy emphasizing affordable, reliable and clean energy sources when regulators review proposed power plants. But the Senate-passed ...",
-    "ai": {
-     "summary": "俄亥俄州参议院通过的第294号法案提议制定新的州能源政策，要求监管机构审批新电厂时，更重视价格可负担、供电可靠和清洁的能源来源。报道指出，该政策可能影响电厂审查方式，但不会直接改动现有的许可规则。由于原文无法读取，以上内容仅依据标题和出版方摘要整理。",
-     "points": [
-      "法案编号为第294号（Senate Bill 294），已在州参议院通过",
-      "重点是电厂审查时兼顾价格可负担、供电可靠与清洁能源",
-      "标题指出此政策不改变许可规则，影响主要在审查考量层面"
-     ],
-     "why": "",
-     "title_zh": "俄亥俄州拟议能源政策或影响电厂审查，但不改动许可规则"
-    }
-   },
-   {
-    "id": "f5259fb26a",
-    "title": "Frontier Energy starts building 81.5 MW battery in Australia",
-    "link": "https://www.ess-news.com/2026/11/16/frontier-energy-starts-building-81-5-mw-battery-in-australia/",
-    "source": "ess-news",
-    "site": "www.ess-news.com",
-    "date": "2026-11-16T08:00:00+00:00",
-    "lang": "en",
-    "summary": "Australian developer Frontier Energy has begun building the first stage of its Waroona project, combining a 132 MW solar plant with an 81.5 MW battery system south of Perth, with first generation ...",
-    "ai": {
-     "summary": "澳大利亚开发商Frontier Energy已在西澳大利亚州西南部启动Waroona可再生能源项目第一期的主体建设，预计2028年开始发电。第一期包括132兆瓦太阳能电站和81.5兆瓦/6.9小时的电池储能系统，白天储存太阳能，在用电需求高峰时段送入电网。",
-     "points": [
-      "项目位于珀斯以南约120公里，第一期预计取代Collie燃煤电厂约三分之一的发电量，该电厂预计2027年关闭",
-      "项目已签下最多2.8亿澳元的银团项目融资协议，并获得澳洲政府的容量投资计划支持，收入保障至2042年",
-      "项目第一期的太阳能与电池建设由Monford Group承包，电池系统由Trina Storage供应"
-     ],
-     "why": "这类大型能源项目主要由开发商与大型承包商和金融机构推动，对中小企业的直接影响有限，主要是了解澳洲与区域能源市场的发展趋势。",
-     "title_zh": "Frontier Energy在澳大利亚开始建设81.5兆瓦电池项目"
-    }
-   },
-   {
-    "id": "93f31233c4",
-    "title": "TotalEnergies abandons $16 billion green hydrogen project in Chile",
-    "link": "https://www.upstreamonline.com/hydrogen/totalenergies-abandons-16-billion-green-hydrogen-project-in-chile/2-1-2074922",
-    "source": "Upstream Online",
-    "site": "www.upstreamonline.com",
-    "date": "2026-11-16T07:40:00+00:00",
-    "lang": "en",
-    "summary": "TE H2, majority-owned by the oil major, has cited high equipment costs and a lack of demand in its request to withdraw the project from environmental permitting ...",
-    "ai": {
-     "summary": "法国石油巨头道达尔能源旗下的TE H2公司，已向环境许可审批部门申请撤回其在智利的绿氢项目，该项目估值约160亿美元。公司表示，设备成本高企，加上市场需求不足，是撤回的主要原因。绿氢是用可再生电力电解水制成的清洁氢气，常被视为未来能源转型的重要方向。",
-     "points": [
-      "项目估值约160亿美元，位于智利",
-      "TE H2由道达尔能源持有多数股权",
-      "撤回理由包括设备成本高和需求不足"
-     ],
-     "why": "这显示绿色能源项目的设备成本和市场需求仍是投资风险，对马来西亚企业而言，相关能源转型的商业机会和成本走向可能需要更谨慎评估。",
-     "title_zh": "道达尔能源放弃智利160亿美元绿氢项目"
-    }
-   },
-   {
-    "id": "a644fa3318",
-    "title": "Parkland targets 30% profit contribution from renewables, bids for first LSS6 project with Samaiden",
-    "link": "https://www.klsescreener.com/v2/news/view/1828313/Parkland_targets_30_profit_contribution_from_renewables_bids_for_first_LSS6_project_with_Samaiden",
-    "source": "KLSE Screener",
-    "site": "www.klsescreener.com",
-    "date": "2026-11-16T07:28:00+00:00",
-    "lang": "en",
-    "summary": "Main Market-bound property developer Parkland Bhd is targeting renewable energy (RE) to contribute up to 30% of its profit after tax and minority interest (Patami) by 2030, as it expands into the ...",
-    "ai": {
-     "summary": "房地产开发商Parkland计划到2030年，让可再生能源业务贡献高达30%的税后及扣除少数股东权益后净利润。公司与Samaiden合作，已为Negeri Sembilan的大型太阳能项目LSS6投标，结果预计明年1月公布。",
-     "points": [
-      "目标：2030年可再生能源贡献税后净利（Patami）的25%至30%",
-      "LSS6项目于10月27日提交投标，结果预计2027年1月前后公布",
-      "双方合作探索彼此州内1000兆瓦交流电装机容量的可再生能源项目"
-     ],
-     "why": "对企业主而言，这显示大型地产商正把可再生能源当作长期收入来源，相关的土地、工程和绿色电力采购安排未来可能增加新的合作机会。",
-     "title_zh": "Parkland目标可再生能源贡献30%利润，与Samaiden合作竞标首个LSS6项目"
-    }
-   },
-   {
-    "id": "d099fb2f8a",
-    "title": "TotalEnergies JV scraps USD-16bn green H2, ammonia project in Chile",
-    "link": "https://renewablesnow.com/news/totalenergies-jv-scraps-usd-16bn-green-h2-ammonia-project-in-chile-1305007/",
-    "source": "Renewables Now",
-    "site": "renewablesnow.com",
-    "date": "2026-11-16T07:07:00+00:00",
-    "lang": "en",
-    "summary": "A joint venture led by TotalEnergies SE (EPA:TTE) has pulled the plug on its USD-16-billion (EUR 14.53bn) green hydrogen and ammonia mega-project in southern Chile citing equipment inflation and a ...",
-    "ai": {
-     "summary": "道达尔能源（TotalEnergies）牵头的合资企业，宣布放弃在智利南部一个价值160亿美元的绿色氢气和氨项目。报道提到的原因包括设备成本上涨等问题，但因原文无法读取，具体细节只能依据标题和摘要。",
-     "points": [
-      "项目规模约160亿美元（约145.3亿欧元）",
-      "项目为智利南部的绿色氢气和氨大型项目",
-      "合资企业由道达尔能源领导，已正式取消该项目"
-     ],
-     "why": "",
-     "title_zh": "道达尔能源合资企业取消智利160亿美元绿色氢气和氨项目"
+     "title_zh": "风力减弱、农田焚烧增加：德里空气质量周二或降至“非常差”等级"
     }
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-17T03:19+08:00",
+  "updated": "2026-11-17T06:05+08:00",
   "items": {
    "klci": {
     "value": 1588.03,
@@ -2918,51 +2957,51 @@
    },
    "usdmyr": {
     "value": 4.093,
-    "asof": "2026-11-17T00:05:32+08:00",
+    "asof": "2026-11-17T05:05:36+08:00",
     "change": 0.0156,
     "pct": 0.38
    },
    "brent": {
-    "value": 92.37,
-    "asof": "2026-11-17T03:07:54+08:00",
-    "change": -3.47,
-    "pct": -3.62
+    "value": 91.86,
+    "asof": "2026-11-17T05:54:55+08:00",
+    "change": -3.98,
+    "pct": -4.15
    },
    "spx": {
-    "value": 7426.56,
-    "asof": "2026-11-17T03:18:40+08:00",
-    "change": -135.11,
-    "pct": -1.79
+    "value": 7416.59,
+    "asof": "2026-11-17T05:20:01+08:00",
+    "change": -145.08,
+    "pct": -1.92
    },
    "ndx": {
-    "value": 24571.95,
-    "asof": "2026-11-17T03:18:39+08:00",
-    "change": -564.32,
-    "pct": -2.25
+    "value": 24509.76,
+    "asof": "2026-11-17T06:05:01+08:00",
+    "change": -626.51,
+    "pct": -2.49
    },
    "dji": {
-    "value": 51657.86,
-    "asof": "2026-11-17T03:18:40+08:00",
-    "change": -689.69,
-    "pct": -1.32
+    "value": 51608.17,
+    "asof": "2026-11-17T05:20:01+08:00",
+    "change": -739.38,
+    "pct": -1.41
    },
    "us10y": {
     "value": 5.12,
-    "asof": "2026-11-17T03:03:33+08:00",
-    "change": -0.04,
-    "pct": -0.72
+    "asof": "2026-11-17T03:59:53+08:00",
+    "change": -0.03,
+    "pct": -0.64
    },
    "dxy": {
     "value": 103.58,
-    "asof": "2026-11-17T03:08:42+08:00",
-    "change": 0.16,
-    "pct": 0.16
+    "asof": "2026-11-17T05:54:59+08:00",
+    "change": 0.17,
+    "pct": 0.17
    },
    "vix": {
-    "value": 23.04,
-    "asof": "2026-11-17T03:03:31+08:00",
-    "change": 3.74,
-    "pct": 19.38
+    "value": 22.91,
+    "asof": "2026-11-17T05:15:01+08:00",
+    "change": 3.61,
+    "pct": 18.7
    },
    "opr": {
     "value": 2.75,
