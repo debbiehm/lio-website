@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:01:40+00:00",
+ "updated": "2026-11-17T01:29:25+00:00",
  "categories": {
   "ipo": [
    {
@@ -47,25 +47,47 @@
     }
    },
    {
-    "id": "869e9d0ad3",
-    "title": "Teo Seng Capital 3Q net profit dips despite higher revenue",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/teo-seng-capital-3q-net-profit-dips-despite-higher-revenue",
+    "id": "b70e0c3585",
+    "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-16T10:45:00+00:00",
+    "date": "2026-11-16T14:32:00+00:00",
     "lang": "en",
-    "summary": "Teo Seng Capital Bhd's net profit for the third quarter ended Sept 30, 2026, slipped to RM21.19mil from RM25.35mil in the previous corresponding period, while revenue rose to RM217.54mil from ...",
+    "summary": "The artificial intelligence (AI) trade that has fuelled the rising stock market in recent years but has lately shown signs of vulnerability faces twin tests this week: the highly anticipated initial ...",
     "src": "star",
     "src_name": "The Star Business",
     "ai": {
-     "summary": "马来西亚禽蛋公司Teo Seng Capital截至2026年9月30日的第三季度净利润，从去年同期的2535万令吉降至2119万令吉，但营业额从2.0155亿令吉增至2.1754亿令吉。公司表示，营业额增长主要来自蛋销量增加和蛋价较好；净利润下滑则主要因为去年同季政府有蛋类补贴入账。",
+     "summary": "人工智能概念股近来带动美股上涨，但最近出现动摇。本周有两项关键考验：芯片巨头英伟达公布季度业绩，以及Claude聊天机器人开发商Anthropic首次公开招股（IPO，即股票首次上市）。英伟达股价上周因创始人兼首席执行官黄仁勋的私人丑闻而大跌，他已辞任，由临时首席执行官Colette Kress接手。",
      "points": [
-      "第三季度净利润：2119万令吉（去年同期2535万令吉）",
-      "第三季度营业额：2.1754亿令吉（去年同期2.0155亿令吉）",
-      "九个月净利润降至4329万令吉，去年同期为1.0857亿令吉"
+      "Anthropic拟借出售约8.25亿股筹资最多644亿美元，估值最高达1.4万亿美元。",
+      "英伟达市值从10月初约5.8万亿美元降至上周五约3.9万亿美元。",
+      "分析师预期英伟达本财季营收约1090亿美元，盈利增长约90%。"
      ],
-     "why": "对经营餐饮、食品或禽蛋相关生意的老板来说，政府补贴等一次性收入的变化，可能影响公司利润表现，因此值得留意成本与收入的结构。",
-     "title_zh": "Teo Seng Capital第三季营业额增长，净利润却下滑"
+     "why": "如果人工智能相关股票出现大幅波动，企业在科技设备、云服务或投资相关的费用与规划上可能需要多留意。",
+     "title_zh": "英伟达业绩与Anthropic上市 成人工智能交易的两项考验"
+    }
+   },
+   {
+    "id": "f324755dab",
+    "title": "Affin Bank reports RM113.57mil net profit in 3Q",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/affin-bank-reports-rm11357mil-net-profit-in-3q",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T10:02:00+00:00",
+    "lang": "en",
+    "summary": "Higher impairment allowances impacted Affin Bank Bhd's earnings in the third quarter ended Sept 30, 2026 (3Q26), amid heightened global geopolitical tensions, energy inflation and a high interest rate ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "Affin Bank 公布2026年第三季（截至9月30日）业绩，净利润为1亿1357万令吉，低于去年同期的1亿4499万令吉。因“减值拨备”（银行为可能收不回的贷款预留的准备金）增加，利润受压。不过季度营收增至6亿9119万令吉，去年同期为5亿8798万令吉。",
+     "points": [
+      "第三季净利润：1亿1357万令吉（去年同期1亿4499万令吉）",
+      "第三季营收：6亿9119万令吉（去年同期5亿8798万令吉）",
+      "前九个月净利润：3亿7659万令吉，低于去年同期的4亿1256万令吉；营业利润同比增长41.5%至7亿2000万令吉"
+     ],
+     "why": "",
+     "title_zh": "Affin Bank第三季净利润为1亿1357万令吉"
     }
    },
    {
@@ -88,28 +110,6 @@
      ],
      "why": "如果您是中小企业主，这次上市显示大型零售连锁如何通过资本市场筹资扩张，可作为了解本地企业融资途径的参考，但与您的业务成本或员工并无直接关系。",
      "title_zh": "KK Mart与大众投行签署零售包销协议 为主板IPO铺路"
-    }
-   },
-   {
-    "id": "4416301a5c",
-    "title": "Affin Bank reports RM113.57mil net profit in 3Q",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/affin-bank-reports-rm11357mil-net-profit-in-3q",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-16T05:18:00+00:00",
-    "lang": "en",
-    "summary": "Higher impairment allowances impacted Affin Bank Bhd's earnings in the third quarter ended Sept 30, 2026 (3QFY26), amid heightened global geopolitical tensions, energy inflation and a high interest ...",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "Affin Bank 第三季（截至2026年9月30日）净利下降到1亿1357万令吉，去年同期为1亿4499万令吉。主要原因是计提的减值准备增加，加上全球地缘政治紧张、能源价格上涨和利率偏高。营业收入却从5亿8798万令吉升至6亿9119万令吉。",
-     "points": [
-      "第三季净利1亿1357万令吉，去年同期1亿4499万令吉",
-      "第三季营收6亿9119万令吉，去年同期5亿8798万令吉",
-      "九个月净利3亿7659万令吉，去年同期4亿1256万令吉；贷款与融资总额增长14%至867亿令吉"
-     ],
-     "why": "银行贷款和存款的变化反映整体融资环境，企业主若有借贷计划，可留意利率与融资条件的变化。",
-     "title_zh": "Affin Bank第三季净利为1亿1357万令吉"
     }
    },
    {
@@ -157,25 +157,25 @@
     }
    },
    {
-    "id": "b70e0c3585",
-    "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade",
+    "id": "fb4a81c45d",
+    "title": "S P Setia on track to submit REIT listing plan",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/13/s-p-setia-on-track-to-submit-reit-listing-plan-",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-15T16:00:00+00:00",
+    "date": "2026-11-12T16:00:00+00:00",
     "lang": "en",
-    "summary": "The artificial intelligence (AI) trade that has fuelled the rising stock market in recent years but has lately shown signs of vulnerability faces twin tests this week: the highly anticipated initial ...",
+    "summary": "S P Setia Bhd is expected to submit plans for its proposed real estate investment trust (REIT) ahead of a targeted listing by the third quarter of 2027.",
     "src": "star",
     "src_name": "The Star Business",
     "ai": {
-     "summary": "人工智能概念股近来带动美股上涨，但最近出现动摇。本周有两项关键考验：芯片巨头英伟达公布季度业绩，以及Claude聊天机器人开发商Anthropic首次公开招股（IPO，即股票首次上市）。英伟达股价上周因创始人兼首席执行官黄仁勋的私人丑闻而大跌，他已辞任，由临时首席执行官Colette Kress接手。",
+     "summary": "S P Setia（马来西亚大型发展商）预计将向证券委员会提交拟议房地产投资信托（REIT）的计划，目标2027年第三季上市。分析员指出，原定10月提交的时间已延至年底，部分延误与一项合资资产及提升收益率有关。",
      "points": [
-      "Anthropic拟借出售约8.25亿股筹资最多644亿美元，估值最高达1.4万亿美元。",
-      "英伟达市值从10月初约5.8万亿美元降至上周五约3.9万亿美元。",
-      "分析师预期英伟达本财季营收约1090亿美元，盈利增长约90%。"
+      "提交时间由原定10月延至年底，上市目标仍是2027年。",
+      "初始资产组合包括六项资产，估值略低于20亿令吉。",
+      "公司3季度核心净利润按年跌54%，至3050万令吉。"
      ],
-     "why": "如果人工智能相关股票出现大幅波动，企业在科技设备、云服务或投资相关的费用与规划上可能需要多留意。",
-     "title_zh": "英伟达业绩与Anthropic上市 成人工智能交易的两项考验"
+     "why": "对企业主而言，这显示大型发展商的资产与融资安排仍在调整中；本文仅为市场报道，并不构成任何投资建议。",
+     "title_zh": ""
     }
    }
   ],
@@ -313,25 +313,113 @@
     }
    },
    {
-    "id": "b4ec50a198",
-    "title": "NCT Alliance plans RM152mil share placement",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/nct-alliance-plans-rm152mil-share-placement",
+    "id": "0e5fc3a229",
+    "title": "Kenanga, Huatai join hands to deepen Malaysia-China market ties",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/kenanga-huatai-join-hands-to-deepen-malaysia-china-market-ties",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-16T11:41:00+00:00",
+    "date": "2026-11-16T16:00:00+00:00",
     "lang": "en",
-    "summary": "NCT Alliance Bhd (NCT) has proposed a private placement to raise up to RM152.47mil, with 70% of the proceeds earmarked for two industrial parks in Selangor and Kedah.",
+    "summary": "Kenanga Investment Bank Bhd has signed a strategic collaboration agreement with Huatai Securities Co Ltd to deepen its engagement with China while creating new investment and capital-raising ...",
     "src": "star",
     "src_name": "The Star Business",
     "ai": {
-     "summary": "NCT Alliance Bhd 向马来西亚交易所提交文件，提议进行私下配股，最多募资约1億5247萬令吉。其中70%的资金将用于雪兰莪和吉打两个工业园的发展。公司表示，这笔资金属于股权融资，不会增加有息借款。",
+     "summary": "马来西亚投资银行Kenanga与中国的华泰证券签署战略合作协议，目的是加深与中国市场的联系，为客户、发行人和投资者带来更多投资与融资机会。Kenanga集团董事经理表示，中国仍是全球重要的资金、创新与投资来源地，两国资本市场连接愈加重要。",
      "points": [
-      "最多发行3亿0494万股新股，给独立第三方投资者，假设发行价为每股5仙",
-      "两个工业园剩余的估计发展总价值约38.2億令吉",
-      "公司预计于2027年上半年完成配股，但需获得相关批准"
+      "Kenanga与华泰证券签署战略合作协议，双方将结合各自的专业、网络与市场渠道",
+      "合作涵盖产品开发与分销、市场研究交流、资本市场交易，以及鼓励更广泛的投资者参与",
+      "此举被视为配合马来西亚2026至2030年资本市场大纲，并与马来西亚交易所和香港交易所的上市合作倡议相呼应"
+     ],
+     "why": "对于马来西亚企业主而言，两国资本市场联系加深，可能让有跨境融资或拓展中国市场需求的企业多一个渠道，但具体影响仍需视后续安排而定。",
+     "title_zh": "Kenanga与华泰携手深化马中市场联系"
+    }
+   },
+   {
+    "id": "fb7b09fe4e",
+    "title": "Nvidia rules out Huang comeback as campaign for his return grows",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/nvidia-rules-out-huang-comeback-as-campaign-for-his-return-grows",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "FILE PHOTO: Nvidia CEO Jensen Huang speaks at Dreamforce 2026 summit in San Francisco, California, US, September 15, 2026. REUTERS/Carlos Barria/File Photo NVIDIA's board is not weighing a return for ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "英伟达（Nvidia）董事会据报道并未考虑让黄仁勋重返CEO职位，消息人士向路透社透露。尽管有超过18万人签名请愿、马斯克和特朗普也表态支持，董事会仍在处理他因办公室恋情及疑似与中国情报有关的问题而辞职后的交接。",
+     "points": [
+      "消息人士称，英伟达董事会目前没有考虑让黄仁勋回任。",
+      "请愿网站签名者超过18万人，但资料未经独立核实。",
+      "英伟达股价周一收跌超过4%，据报市值自事件发生后蒸发8000亿美元。"
      ],
      "why": "",
-     "title_zh": "NCT Alliance拟进行1億5247萬令吉私下配股"
+     "title_zh": "英伟达否认黄仁勋重返 支持其回归的声音仍在升温"
+    }
+   },
+   {
+    "id": "13871a1356",
+    "title": "Press Metal’s growth prospects remain intact",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/press-metals-growth-prospects-remain-intact",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Press Metal Aluminium Holdings Bhd is expected to remain well-positioned to benefit from firm global aluminium prices and improving supply-demand dynamics, with its expansion into alumina refining ...",
+    "src": "star",
+    "src_name": "The Star Business",
+    "ai": {
+     "summary": "大马研究机构RHB Research维持对Press Metal的“买入”评级，但把目标价从9.30令吉下调至9.05令吉。该机构认为，铝价仍处高位，公司在2027年左右投产的氧化铝精炼厂有望提升自给率和成本竞争力。报告同时下调了2026和2027年的盈利预测，主要因原料成本上升和MJP溢价回落。",
+     "points": [
+      "目标价由9.30令吉降至9.05令吉，较现价有约31%上涨空间，股息率约2%",
+      "目标价基于2027年预测市盈率25倍，并下调2026年及2027年盈利预测4.4%和2.7%",
+      "预计第三季度净利润介于6.1亿至6.6亿令吉，按季下降11%至18%"
+     ],
+     "why": "对企业主而言，铝价与原料成本的波动会直接影响这类制造业公司的利润，也可能影响上下游供应链的价格与合作环境。",
+     "title_zh": "Press Metal的增长前景依然稳固"
+    }
+   },
+   {
+    "id": "56254b4913",
+    "title": "Taiwan stock exchange says it will take stabilisation measures if needed",
+    "link": "https://www.reuters.com/markets/europe/taiwan-stock-exchange-says-it-will-take-stabilisation-measures-if-needed-2026-11-16/",
+    "source": "Reuters",
+    "site": "www.reuters.com",
+    "date": "2026-11-16T15:19:00+00:00",
+    "lang": "en",
+    "summary": "The Taiwan Stock Exchange will take necessary stabilisation measures to maintain orderly trading if there ​are irrational, sustained declines or abnormal volatility, it ‌said late on Monday after the ...",
+    "src": "reuters",
+    "src_name": "Reuters Markets",
+    "ai": {
+     "summary": "台湾证券交易所表示，若市场出现不合理的持续下跌或异常剧烈波动，将采取必要的稳定措施，以维持交易秩序。这项表态是在周一晚间发布的，内容主要来自路透社的摘要。",
+     "points": [
+      "台交所称会在出现不合理持续下跌或异常波动时出手",
+      "目标是维持有秩序的交易",
+      "消息于周一晚间发布（来源：路透社）"
+     ],
+     "why": "",
+     "title_zh": "台湾证券交易所称若有需要将采取稳定市场措施"
+    }
+   },
+   {
+    "id": "6bcb0afa25",
+    "title": "US to curb China's access to AI chips as Trump heads to Asia",
+    "link": "https://theedgemalaysia.com/node/826021",
+    "source": "The Edge Malaysia",
+    "site": "theedgemalaysia.com",
+    "date": "2026-11-16T14:23:00+00:00",
+    "lang": "en",
+    "summary": "The Trump administration on Monday issued a rule establishing new restrictions on chip exports to overseas data centres that allow Chinese companies to access advanced AI chips to train their ...",
+    "src": "edge",
+    "src_name": "The Edge",
+    "ai": {
+     "summary": "美国政府周一发布新规则，限制向海外数据中心出口先进AI芯片，防止中国企业通过这些中心取得芯片来训练人工智能模型。规则也要求新加坡、泰国、马来西亚、印尼和巴西的公司，购买最先进芯片时须向美国申请出口许可证，以减少芯片被非法转运。此举正值特朗普准备出访亚洲，包括与中国国家主席习近平会面。",
+     "points": [
+      "美国商务部周一发布新规，针对海外数据中心的芯片出口设限",
+      "新加坡、泰国、马来西亚、印尼、巴西的公司购买最先进芯片需申请美国出口许可证",
+      "商务部长卢特尼克近来因对华芯片出口管制的处理受到更多批评"
+     ],
+     "why": "马来西亚企业若涉及海外算力或先进AI芯片的采购与租用，未来可能需要申请美国出口许可，相关项目的时间与成本需提前留意。",
+     "title_zh": "美国将在特朗普访亚之际收紧中国获取AI芯片的渠道"
     }
    },
    {
@@ -357,25 +445,25 @@
     }
    },
    {
-    "id": "f76b0342f4",
-    "title": "One-off charge weighs on Pos Malaysia's 3Q result",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/one-off-charge-weighs-on-pos-malaysia039s-3q-result",
+    "id": "d45a5eb817",
+    "title": "Ringgit opens marginally higher ahead of 3Q GDP data",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/ringgit-opens-marginally-higher-ahead-of-3q-gdp-data",
     "source": "The Star",
     "site": "www.thestar.com.my",
-    "date": "2026-11-16T10:59:00+00:00",
+    "date": "2026-11-16T10:50:00+00:00",
     "lang": "en",
-    "summary": "Pos Malaysia Bhd's third quarter net loss widened to RM62.25mil from RM45.23mil in the year-ago quarter after a one-off charge relating to the impairment of vessels and the write-off of assets ...",
+    "summary": "The ringgit opened marginally higher against the US dollar ahead of the gross domestic product (GDP) data for the third quarter of 2026 (3Q 2026), which is scheduled for release tomorrow.",
     "src": "star",
     "src_name": "The Star Business",
     "ai": {
-     "summary": "邮政服务商Pos Malaysia第三季净亏损扩大至6225万令吉，去年同期为4523万令吉。扩大的主要原因是关闭Pos Shop后，船只减值与资产注销产生一次性费用。扣除这些项目后，税前基础亏损收窄20.9%至3100万令吉。",
+     "summary": "马来西亚令吉在周二早盘对美元微幅走强，市场正等待明天公布的2026年第三季国内生产总值（GDP）数据。GDP就是全国经济总产值，用来衡量经济增长快慢。",
      "points": [
-      "第三季营收5.0122亿令吉，去年同期为4.6277亿令吉，主要因包裹快递量增加",
-      "九个月净利润为1.2526亿令吉，去年同期为1.3217亿令吉；九个月营收为14.8亿令吉",
-      "集团行政总裁表示，董事会预计2026财年业绩仍具挑战，复苏速度取决于可持续的USO资金框架能否落实"
+      "8点时令吉报4.0910/0970兑1美元，周一收盘为4.0915/0960",
+      "大马联昌银行首席经济师预估第三季经济增长5.4%至5.5%，高于初步估计的5.3%",
+      "若数据强劲，可能增加2027年隔夜政策利率（OPR）加息的机会；市场也在关注12月8至9日联储FOMC会议可能加息50个基点"
      ],
-     "why": "对企业主而言，这份报告显示邮政物流行业的成本与营运调整仍在持续，若公司依赖快递或邮递服务，未来的运费与配送安排可能受到影响。",
-     "title_zh": "一次性费用拖累Pos Malaysia第三季业绩"
+     "why": "若经济增长强劲且利率环境改变，贷款成本和外币支出的价格可能随之变动，企业主可留意汇率与借贷成本的走向。",
+     "title_zh": "令吉在第三季GDP数据公布前微幅高开"
     }
    },
    {
@@ -398,40 +486,6 @@
      ],
      "why": "股市短期波动主要影响投资组合，对一般企业的营运成本和员工福利影响不大，无需因单日行情而改变经营安排。",
      "title_zh": "马股连跌五日后逢低买盘回升"
-    }
-   },
-   {
-    "id": "28dcf9c052",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "link": "https://www.reuters.com/markets/portfolio/",
-    "source": "Reuters",
-    "site": "www.reuters.com",
-    "date": "2026-11-16T10:34:00+00:00",
-    "lang": "en",
-    "summary": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news ...",
-    "src": "reuters",
-    "src_name": "Reuters Markets"
-   },
-   {
-    "id": "766229d371",
-    "title": "LAC Med secures RM28.1mil contract to provide full suite diagnostic imaging solution",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/lac-med-secures-rm281mil-contract-to-provide-full-suite-diagnostic-imaging-solution",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-16T10:22:00+00:00",
-    "lang": "en",
-    "summary": "LAC Med Bhd has secured a RM28.1mil contract to provide a full suite diagnostic imaging solution for a private hospital in the northern region of Peninsular Malaysia.",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "LAC Med Bhd（医疗科技公司）获得一份价值2810万令吉的合约，为北马一家私立医院提供全套影像诊断设备与方案。其全资子公司LAC Medical Supplies负责供应并整合放射科及妇女影像等多种设备，包括软件、系统整合、临床应用和培训，预计2027年8月前交付。交付后公司还将提供定期保养和技术协助。",
-     "points": [
-      "合约金额为2810万令吉，客户是北马半岛一家私立医院",
-      "交付时间预计在2027年8月前完成",
-      "截至2026年11月15日，公司订单总额增至2.881亿令吉，高于2026年9月30日的2.305亿令吉"
-     ],
-     "why": "这类大型医疗设备合约显示医疗机构对先进影像技术的需求在增长，对从事医疗器材或相关服务的企业来说，可能代表行业发展的方向，但对一般企业主的日常成本影响不大。",
-     "title_zh": "LAC Med 获得2810万令吉全套诊断影像方案合约"
     }
    },
    {
@@ -476,28 +530,6 @@
      ],
      "why": "",
      "title_zh": "公共开支保障必须超越政治周期——阿米尔·哈姆扎"
-    }
-   },
-   {
-    "id": "8dabf1df5e",
-    "title": "BAuto ceases to be distributor of XPeng",
-    "link": "https://www.thestar.com.my/business/business-news/2026/11/16/bauto-ceases-to-be-distributor-of-xpeng",
-    "source": "The Star",
-    "site": "www.thestar.com.my",
-    "date": "2026-11-16T09:51:00+00:00",
-    "lang": "en",
-    "summary": "Bermaz Auto Bhd (BAuto) has ceased to be the distributor of XPeng electric vehicles in Malaysia, following plans by the Chinese marque's owner to reorganise its distribution network in the country.",
-    "src": "star",
-    "src_name": "The Star Business",
-    "ai": {
-     "summary": "马来西亚上市公司Bermaz Auto（BAuto）已不再是小鹏电动车在国内的代理商。原因是小鹏母公司计划重组在马来西亚的分销网络。BAuto向交易所提交的文件显示，其持股85%的子公司即刻停止小鹏业务，双方正在敲定终止现有协议的条款。",
-     "points": [
-      "BAuto子公司Bermaz Xpeng持股85%，已即刻停止小鹏业务",
-      "原有代理及保修等协议原定2027年3月到期，目前仍在协商终止条款",
-      "BAuto表示，本财政年度对集团财务和运营影响不会太大"
-     ],
-     "why": "如果你的公司涉及汽车代理、售后服务或零件供应，可留意上游厂商的分销安排变动，但对本报道所述的企业影响，文中称本财政年度影响不大。",
-     "title_zh": "BAuto不再担任小鹏汽车代理商"
     }
    },
    {
@@ -609,28 +641,6 @@
      "why": "对企业主而言，这可能意味着招聘时更需关注实际技能与培训，而不只看学历。",
      "title_zh": "通的投资组合：毕业生更多了，但他们究竟学到了什么？"
     }
-   },
-   {
-    "id": "6cca909d10",
-    "title": "EVENING 5: Govt wants living cost index",
-    "link": "https://theedgemalaysia.com/edge-tv-detail?id=content/evening-5-govt-wants-living-cost-index-1",
-    "source": "The Edge Malaysia",
-    "site": "theedgemalaysia.com",
-    "date": "2026-11-15T16:00:00+00:00",
-    "lang": "en",
-    "summary": "Putrajaya wants a new index to accurately measure the cost of living to help firms to decide salary increases. Meanwhile, the MACC is investigating the Penang undersea tunnel project; and the wife of ...",
-    "src": "edge",
-    "src_name": "The Edge",
-    "ai": {
-     "summary": "政府希望推出一套新的生活成本指数，更准确地衡量民众的生活开销，让企业在决定加薪时有更可靠的参考。同时，反贪污委员会（MACC）正在调查槟城海底隧道项目。此外，摘要还提到另一则新闻，但内容不完整。",
-     "points": [
-      "政府计划推出新的生活成本指数",
-      "该指数旨在协助企业决定薪资调整",
-      "反贪污委员会正调查槟城海底隧道项目"
-     ],
-     "why": "如果新指数推出，企业主在制定员工薪资调整方案时，或许会多一项参考依据。",
-     "title_zh": "晚间五则：政府拟推生活成本指数"
-    }
    }
   ],
   "policy": [
@@ -701,9 +711,9 @@
     }
    },
    {
-    "id": "feb6474e55",
+    "id": "56e3b3c815",
     "title": "通胀可控 经济表现强劲 第二财长：暂无升息压力",
-    "link": "https://www.klsescreener.com/v2/news/view/1827713/%E9%80%9A%E8%83%80%E5%8F%AF%E6%8E%A7-%E7%BB%8F%E6%B5%8E%E8%A1%A8%E7%8E%B0%E5%BC%BA%E5%8A%B2-%E7%AC%AC%E4%BA%8C%E8%B4%A2%E9%95%BF-%E6%9A%82%E6%97%A0%E5%8D%87%E6%81%AF%E5%8E%8B%E5%8A%9B",
+    "link": "https://www.klsescreener.com/v2/news/view/1827713/%E9%80%9A%E8%83%80%E5%8F%AF%E6%8E%A7_%E7%BB%8F%E6%B5%8E%E8%A1%A8%E7%8E%B0%E5%BC%BA%E5%8A%B2_%E7%AC%AC%E4%BA%8C%E8%B4%A2%E9%95%BF_%E6%9A%82%E6%97%A0%E5%8D%87%E6%81%AF%E5%8E%8B%E5%8A%9B",
     "source": "KLSE Screener",
     "site": "www.klsescreener.com",
     "date": "2026-11-15T04:41:00+00:00",
@@ -712,13 +722,13 @@
     "src": "bnm",
     "src_name": "BNM",
     "ai": {
-     "summary": "第二财长阿米尔韩查表示，大马经济持续强劲增长，通胀维持在可控水平，也没有经济过热或供应链中断等压力。因此国家银行有条件把隔夜政策利率（OPR，即央行基准利率）维持在2.75%，企业融资环境保持稳定。国行的决定依据货币政策委员会的评估。",
+     "summary": "第二财长阿米尔韩查表示，大马经济持续强劲增长，通胀保持受控，也没有经济过热或供应链中断的压力。因此国家银行有条件把隔夜政策利率（OPR，即央行的基准利率）维持在2.75%，让企业继续拥有稳定的融资环境。",
      "points": [
-      "隔夜政策利率维持在2.75%",
-      "经济持续强劲增长，通胀受控",
-      "决定依据货币政策委员会（MPC）的评估"
+      "第二财长拿督斯里阿米尔韩查发表上述看法（布城15日讯）",
+      "隔夜政策利率（OPR）维持在2.75%",
+      "经济增长强劲、通胀受控，暂无经济过热及供应链中断压力"
      ],
-     "why": "利率维持不变，企业的借贷成本短期内相对稳定，有助于老板们规划资金与开支。",
+     "why": "OPR维持不变意味着企业的贷款与融资成本暂时保持稳定，便于老板规划资金与扩展业务。",
      "title_zh": ""
     }
    },
@@ -764,6 +774,72 @@
      ],
      "why": "若房贷利率上升，购房者的每月还款负担会增加，家庭预算和购屋计划可能需要重新考虑。",
      "title_zh": ""
+    }
+   },
+   {
+    "id": "1cbf4efa50",
+    "title": "Tax cuts, expanded reliefs mooted for Finance Bill 2026",
+    "link": "https://www.thestar.com.my/news/nation/2026/11/17/tax-cuts-expanded-reliefs-mooted-forfinance-bill2026",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T14:32:00+00:00",
+    "lang": "en",
+    "summary": "INDIVIDUALS and eligible small businesses are among those set to benefit from proposed amendments under the Finance Bill 2026 with expanded tax reliefs and lower tax rates for certain companies and ...",
+    "src": "lhdn",
+    "src_name": "LHDN",
+    "ai": {
+     "summary": "马来西亚政府提出《2026年财政法案》修正案，拟放宽个人所得税减免，并为部分符合条件的小型企业降低税率。这些修正是为了落实2027年预算案中宣布的税务措施。",
+     "points": [
+      "个人入息税减免（第46(1)(a)条）从9000令吉提高到12000令吉",
+      "符合条件的本地公司首15万令吉应税收入税率由15%降至14%，次45万令吉由17%降至16%",
+      "外国人及非公民、非永久居民购买住宅的印花税拟定为8%，适用于2026年1月1日起签署的买卖协议"
+     ],
+     "why": "若企业属于小型公司并符合条件，所得税税率调整可能影响公司的税务负担；另外，外国买家购房的印花税变化也值得关注。",
+     "title_zh": "《2026年财政法案》拟放宽税务减免、降低部分企业税率"
+    }
+   },
+   {
+    "id": "a55d42de18",
+    "title": "EPF treads cautiously towards higher dividends",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/epftreads-cautiously-towards-higher-dividends",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T10:02:00+00:00",
+    "lang": "en",
+    "summary": "Despite recording a jump in income investment for the first nine months of 2026 (9M26), there is no guarantee that the Employees Provident Fund (EPF) will be able to post higher figures for the full ...",
+    "src": "kwsp",
+    "src_name": "KWSP / EPF",
+    "ai": {
+     "summary": "公积金局（EPF）前九个月的投资收益大涨约30%，达832.3亿令吉，但分析师认为全年表现不一定能同样亮眼。第三季度增幅放缓至3%，受全球股市波动、AI相关股票估值担忧及中东局势影响。",
+     "points": [
+      "2026年前九个月投资收益达832.3亿令吉，比去年同期的639.9亿令吉增长约30%",
+      "2026年第三季度投资收益为258.2亿令吉，增幅放缓至3%",
+      "自愿储蓄增至182.7亿令吉，显示会员持续为退休储备额外存钱"
+     ],
+     "why": "对于企业主而言，员工的公积金回报和退休储蓄意识与人力资源福利安排相关，可留意员工的退休规划需求。",
+     "title_zh": "公积金局谨慎面对更高股息前景"
+    }
+   },
+   {
+    "id": "967c88870a",
+    "title": "Court rejects Mukhriz’s RM5mil tax challenge",
+    "link": "https://www.thestar.com.my/news/nation/2026/11/17/court-rejects-mukhrizs-rm5mil-tax-challenge",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T10:02:00+00:00",
+    "lang": "en",
+    "summary": "The High Court has dismissed a judicial review filed by Datuk Seri Mukhriz Mahathir in his legal challenge against the Inland Revenue Board's (LHDN) claim of more than RM5mil in additional tax arrears ...",
+    "src": "lhdn",
+    "src_name": "LHDN",
+    "ai": {
+     "summary": "马来西亚高等法院驳回了前吉打州务大臣慕克里兹·马哈迪对税务局的司法复审申请。税务局要求他补缴逾500万令吉的额外税款，法官认为这些争议应先经由所得税法规定的上诉机制处理。法官强调这只是程序上的裁决，并未审理税款评估是否合理。法院另判他向税务局支付5000令吉讼费。",
+     "points": [
+      "法院裁定争议应先经所得税特别专员处理，无特殊情况可进行司法复审",
+      "税务局要求补缴的额外税款涉及2017至2019课税年度，金额约502万令吉",
+      "法院另判慕克里兹支付5000令吉讼费，案件实质问题仍可日后再提出"
+     ],
+     "why": "此案显示税务争议应先走法定上诉程序，企业主若收到税务评估通知，宜及早按程序处理并咨询专业人士。",
+     "title_zh": "法院驳回慕克里兹的500万令吉税务挑战"
     }
    },
    {
@@ -943,28 +1019,6 @@
     }
    },
    {
-    "id": "4cf1e6ffaf",
-    "title": "MediAsas to balance affordable coverage with long-term sustainability — BNM deputy governor",
-    "link": "https://www.klsescreener.com/v2/news/view/1828093/MediAsas_to_balance_affordable_coverage_with_long_term_sustainability_BNM_deputy_governor",
-    "source": "KLSE Screener",
-    "site": "www.klsescreener.com",
-    "date": "2026-11-16T03:41:00+00:00",
-    "lang": "en",
-    "summary": "MediAsas is also intended to serve as a benchmark for innovation and reform within the broader MHIT market. By demonstrating how these features can support affordability, transparency and long-term ...",
-    "src": "bnm",
-    "src_name": "BNM",
-    "ai": {
-     "summary": "马来西亚国行副行长阿兹南接受访问,介绍了MediAsas医疗保险计划。该计划旨在为缺乏保障或难以负担保费的人提供价格合理的私人医疗保险或伊斯兰保险(takaful)入门选择,并通过标准化设计、共同承保和医疗改革,希望减缓未来保费的涨幅。",
-     "points": [
-      "MediAsas Teras在私立医院的年度上限为10万令吉,投保人年满60岁时自动提高至15万令吉。",
-      "在合作医院就诊,每次病况(disability)需付500令吉自付额(59岁以下),60岁及以上为1000令吉;在非合作医院则需付20%共付额,设有上限。",
-      "政府医院就诊、急诊及门诊癌症治疗免共付额;官方称99%的已赔付索赔金额低于6万令吉。"
-     ],
-     "why": "对企业主而言,若员工或家人的医疗保险保费持续上涨,公司的员工福利成本可能会受影响,因此可留意此类标准化产品的保费与条款变化。",
-     "title_zh": "MediAsas要兼顾价格可负担与长期可持续 国行副行长谈"
-    }
-   },
-   {
     "id": "d483144e94",
     "title": "EPF records slower investment income growth in the third quarter",
     "link": "https://tradersunion.com/news/institutions/show/4262635-epf-slower-investment-growth-q3/",
@@ -1009,28 +1063,6 @@
     }
    },
    {
-    "id": "69fe20cce4",
-    "title": "Bank Negara’s 80 Personal Loan Rules: Flat Rate Ban From 1 Jan 2027",
-    "link": "https://www.businesstoday.com.my/2026/11/15/bank-negaras-80-personal-loan-rules-flat-rate-ban-from-1-jan-2027/",
-    "source": "BusinessToday",
-    "site": "www.businesstoday.com.my",
-    "date": "2026-11-14T20:23:00+00:00",
-    "lang": "en",
-    "summary": "A flat-rate personal loan charges interest on the full amount you borrowed, for the whole tenure, even after you have repaid half of it.",
-    "src": "bnm",
-    "src_name": "BNM",
-    "ai": {
-     "summary": "国行（Bank Negara，马来西亚central bank）公布了80项个人贷款规则，其中一项是禁止“平息利率”（flat rate）贷款，从2027年1月1日起生效。平息利率是按借款总额计息，即使已经还了一半，利息仍按全额计算，直到还款期结束。",
-     "points": [
-      "国行公布的个人贷款新规共80项",
-      "平息利率贷款将从2027年1月1日起被禁止",
-      "平息利率按借款全额计息，整个还款期间都不会因已还款而减少"
-     ],
-     "why": "如果公司或业主有以个人名义借贷的安排，未来可能需要留意新规下的计息方式，以便比较不同贷款的实际成本。",
-     "title_zh": "国行个人贷款新规：2027年1月1日起禁止平息利率计息"
-    }
-   },
-   {
     "id": "b191afdfd9",
     "title": "Ahli Parlimen gesa KWSP dedah nilai semasa pegangan saham dalam Nvidia",
     "link": "https://www.freemalaysiatoday.com/videos/GdxgKVe-x60",
@@ -1053,47 +1085,25 @@
     }
    },
    {
-    "id": "b4070dad19",
-    "title": "EPF Owns Nearly 6.85 Million NVIDIA Shares. Here’s How The Jensen Huang Scandal Affects Malaysians",
-    "link": "https://says.com/my/news/epf-nvidia-shares-investment-malaysia-savings",
-    "source": "SAYS",
-    "site": "says.com",
-    "date": "2026-11-13T09:05:00+00:00",
+    "id": "fb58ad5c32",
+    "title": "Malaysia Interbank Rates Remain Stable as Bank Negara Manages RM64.4 Billion in Banking Liquidity",
+    "link": "https://wilayah.com.my/malaysia-interbank-rates-remain-stable-as-bank-negara-manages-rm64-4-billion-in-banking-liquidity/",
+    "source": "wilayah.com.my",
+    "site": "wilayah.com.my",
+    "date": "2026-11-12T01:25:00+00:00",
     "lang": "en",
-    "summary": "A decline in Nvidia's share price would reduce the market value of EPF's holdings in the company. For perspective, based on EPF's USD1.37 billion position, these are the hypothetical reductions in its ...",
-    "src": "kwsp",
-    "src_name": "KWSP / EPF",
+    "summary": "MYOR-i serves as a benchmark for overnight Islamic money market transactions in Malaysia. The reported figure was the latest available benchmark in the statement and did not represent a newly ...",
+    "src": "bnm",
+    "src_name": "BNM",
     "ai": {
-     "summary": "英伟达首席执行官黄仁勋12日辞职，公司陷入领导层危机。公积金局持有约56.2亿令吉（约13.7亿美元）英伟达股票，只占其1.54万亿令吉投资组合的一小部分。若股价下跌，持股市值会缩水，但对整体退休储蓄影响有限。",
+     "summary": "马来西亚短期同业利率周四收盘保持不变。国行（央行）通过货币市场操作调节常规银行与伊斯兰银行的资金流动。常规银行资金增至371亿令吉，伊斯兰银行资金减至273亿令吉，两者合计644亿令吉。",
      "points": [
-      "截至6月30日，公积金局持有约684万股英伟达，约占其披露美股持股的7.86%，是第二大持股。",
-      "若英伟达股价下跌40%，持股价值约减少22.5亿令吉，约占整体投资组合的0.15%。",
-      "公积金股息由整体投资表现决定，未变现的账面损益不作为股息分配。"
+      "常规银行资金增至371亿令吉，较早前增加30.6亿令吉",
+      "伊斯兰银行资金减至273亿令吉，较早前减少27.8亿令吉",
+      "伊斯兰隔夜市场基准MYOR-i在11月11日为2.75%，并非12日新公布的利率"
      ],
-     "why": "企业若涉及数据中心或AI芯片进出口，可能需要留意马来西亚更严格的出口许可和合规审查要求。",
-     "title_zh": "公积金持有大量英伟达股票，马来西亚人的储蓄需要担心吗？"
-    }
-   },
-   {
-    "id": "28f0e6e949",
-    "title": "Abdul Azeez Gets Leave To Challenge Hasil's RM4.8 Million Tax Settlement",
-    "link": "https://www.bernama.com/tv/news.php?id=2632730",
-    "source": "BERNAMA",
-    "site": "www.bernama.com",
-    "date": "2026-11-11T06:10:00+00:00",
-    "lang": "en",
-    "summary": "The High Court today granted former Lembaga Tabung Haji (TH) chairman Datuk Seri Abdul Azeez Abdul Rahim leave to commence judicial review proceedings against the Inland Revenue Board (HASiL) over its ...",
-    "src": "lhdn",
-    "src_name": "LHDN",
-    "ai": {
-     "summary": "马来西亚高等法院批准前公积金局（Tabung Haji）主席阿卜杜勒·阿兹兹提出司法审查，挑战税务局（HASiL）单方面取消与他达成的税务和解协议。该和解涉及2011至2020年课税年度共480万令吉的税款与罚款，他称已依约分期缴付。法院同时暂时禁止税务局在审理期间采取进一步行动。",
-     "points": [
-      "法院批准司法审查申请，案件将于11月16日进行案件管理，确定听证日期",
-      "2022年2月9日的和解协议涉及480万令吉税款及罚款，2011至2020年课税年度",
-      "当事人申请撤销税务局取消和解协议及2022年3月22日综合评税通知的决定"
-     ],
-     "why": "此案涉及税务和解协议是否具有约束力，提醒企业主在与税务局达成任何和解安排时，应保留完整的书面文件与缴付记录。",
-     "title_zh": "阿兹兹获准挑战税务局480万令吉税务和解取消决定"
+     "why": "",
+     "title_zh": "马来西亚同业利率保持稳定，国行管理644亿令吉银行资金"
     }
    }
   ],
@@ -1189,6 +1199,26 @@
     "summary": "Click to enlarge The current monsoon season we’re facing, and its dangers, should need no explanation. Now that everyone’s a citizen journalist on social media, our feeds have been full of instances ..."
    },
    {
+    "id": "5b953f98a7",
+    "title": "Takaful Ikhlas Pays RM105,000 In Claims To ASNB COVR Beneficiary",
+    "link": "https://www.bernama.com/en/general/news.php?id=2635026",
+    "source": "BERNAMA",
+    "site": "www.bernama.com",
+    "date": "2026-11-16T07:11:00+00:00",
+    "lang": "en",
+    "summary": "KUALA LUMPUR, Nov 16 (Bernama) -- Takaful Ikhlas Family Berhad (Takaful IKHLAS Family), a wholly-owned subsidiary of MNRB Holdings Berhad, has paid RM105,000 in claims to the beneficiary of a ...",
+    "ai": {
+     "summary": "马来西亚伊斯兰保险公司Takaful IKHLAS Family（Takaful Ikhlas，伊斯兰互助保险）向ASNB COVR计划的一名受保人受益人支付了10万5000令吉的理赔。其中包括10万令吉身故保障和5000令吉的即时丧葬费用保障，用于减轻家属的经济负担。COVR是结合单位信托投资与家庭伊斯兰互助保险的混合计划，每月供款，其中75%用于投资，25%用于保障。",
+     "points": [
+      "理赔总额10万5000令吉，含10万令吉身故保障和5000令吉即时丧葬费用保障",
+      "理赔由Takaful IKHLAS总裁兼行政总裁递交，由ASNB行政总裁代表受益人接收",
+      "截至9月30日，ASNB COVR共有5062名单位持有人，累计供款250万令吉"
+     ],
+     "why": "对于企业主而言，这则新闻主要说明伊斯兰保险与投资结合的计划如何为家庭提供保障，可作为了解员工或家人保障选项的背景资料。",
+     "title_zh": "Takaful Ikhlas 向 ASNB COVR 受益人支付10万5000令吉理赔"
+    }
+   },
+   {
     "id": "40e2f8d58b",
     "title": "MediAsas To Reshape Private Healthcare Financing Through Insurance, Healthcare Reforms – BNM Deputy Governor",
     "link": "https://www.bernama.com/en/region/news.php?id=2634977",
@@ -1211,23 +1241,23 @@
     }
    },
    {
-    "id": "4befd4ede0",
+    "id": "26f4e6d687",
     "title": "Beyond Malaysia: How FWD Malaysia Draws Strength from a Pan-Asian Network",
-    "link": "https://www.klsescreener.com/v2/news/view/1828069/Beyond_Malaysia_How_FWD_Malaysia_Draws_Strength_from_a_Pan_Asian_Network",
+    "link": "https://www.klsescreener.com/v2/news/view/1828069/beyond-malaysia-how-fwd-malaysia-draws-strength-from-a-pan-asian-network",
     "source": "KLSE Screener",
     "site": "www.klsescreener.com",
     "date": "2026-11-16T03:12:00+00:00",
     "lang": "en",
     "summary": "When it comes to protecting and growing wealth across generations, many affluent Malaysian families seek financial institutions that combine strong local expertise with regional scale, financial ...",
     "ai": {
-     "summary": "FWD Malaysia, a life insurance and family takaful (Shariah-compliant family protection) provider, promotes how its link to the wider FWD Group in Asia helps affluent Malaysian families. The article is a company-written piece highlighting the group's listing, asset size and credit ratings, and its regional expertise in products and digital services.",
+     "summary": "这是FWD马来西亚的一篇公司宣传稿，介绍其依托母公司FWD集团（泛亚寿险与健康保险集团）的区域实力。FWD集团2019年通过家庭伊斯兰保险（takaful）进入马来西亚市场，2023年扩展到人寿保险。文章称集团在香港上市，截至2026年6月30日总资产为645亿美元。",
      "points": [
-      "FWD Group entered Malaysia via family takaful in 2019 and added life insurance in 2023",
-      "FWD Group was listed in Hong Kong in 2025 under stock code 1828, with total assets of US$64.5 billion as of 30 June 2026",
-      "FWD Malaysia is regulated by Bank Negara Malaysia"
+      "FWD马来西亚于2019年进入市场，2023年扩展到人寿保险业务",
+      "FWD集团2025年在香港联交所上市，股票代码1828",
+      "截至2026年6月30日，集团总资产为645亿美元，并获国际信用评级机构给予投资级评级"
      ],
-     "why": "The article is mainly marketing and gives no costs or policy changes that would affect business owners directly, so readers should check the original source before acting.",
-     "title_zh": "超越马来西亚：FWD马来西亚如何借助泛亚网络赢得实力"
+     "why": "",
+     "title_zh": ""
     }
    },
    {
@@ -1328,26 +1358,6 @@
      ],
      "why": "如果公司目前没有为员工提供医疗保险，这项较低成本的基本方案可能成为考虑员工福利时的参考选项，但最终保费仍需等待正式公布。",
      "title_zh": "MediAsas：马来西亚人需要知道的新基本医疗保险计划"
-    }
-   },
-   {
-    "id": "101710f6f2",
-    "title": "Can an ageing Malaysia take inspiration from super-aged Japan’s LTC insurance?",
-    "link": "https://www.malaymail.com/news/malaysia/2026/11/13/can-an-ageing-malaysia-take-inspiration-from-super-aged-japans-ltc-insurance/242209",
-    "source": "Malay Mail",
-    "site": "www.malaymail.com",
-    "date": "2026-11-12T23:00:00+00:00",
-    "lang": "en",
-    "summary": "It is very likely that a significant proportion of Malaysians will need long-term care as Malaysia becomes an aged nation in 2048 — just 22 years ...",
-    "ai": {
-     "summary": "文章探讨马来西亚在2048年成为老龄化国家前，能否借鉴日本的长期护理保险。日本2000年推出强制性社会保险，40岁起居民即需缴费，护理时再按收入自付10%至30%的费用。",
-     "points": [
-      "马来西亚预计2048年每七人中就有一人年满65岁。",
-      "日本2000年推出长期护理保险，40至64岁者只有因16种与年龄相关疾病而需护理时才享有保障。",
-      "日本护理费用上涨与护理人手短缺仍是持续问题，政府正研究提高高收入长者的保费。"
-     ],
-     "why": "如果马来西亚未来推出类似的长期护理保险，企业主可能需要关注员工与家人在护理方面的费用负担和保障安排。",
-     "title_zh": "超老龄化的日本长期护理保险，马来西亚能借鉴吗？"
     }
    },
    {
@@ -1775,6 +1785,46 @@
   ],
   "energy": [
    {
+    "id": "cccfb270c3",
+    "title": "马斯克会卖吗？美国改装商想接盘Cybertruck产线！特斯拉不掏钱还能收 ...",
+    "link": "https://www.stnn.cc/detail/6afb98b28f9d2b19dd9239e6.html",
+    "source": "星岛环球网",
+    "site": "www.stnn.cc",
+    "date": "2026-11-16T17:29:00+00:00",
+    "lang": "zh",
+    "summary": "11月17日消息，特斯拉宣布Cybertruck将于2027年年中停产后，美国特斯拉改装配件商Unplugged Performance（下称UP）公开提议自筹资金接手Cybertruck生产线，并扩展SUV和无人驾驶货运车两款新车型。 特斯拉无需投入任何资金即可获得授权费、软件收入和股权，但市场对Cybertruck的需求困境能否因此解决仍存疑虑。 11月10日，UP在社交平台X上向特斯拉发出公 ...",
+    "ai": {
+     "summary": "特斯拉宣布Cybertruck将于2027年年中停产，改装配件商UP提议出资接手生产线，并计划推出三排座SUV和无人驾驶货运车。UP称已接触到能提供巨额资金的投资者，但这些意向需待特斯拉同意后才具约束力。",
+     "points": [
+      "UP于11月10日在X平台公开提出方案，11月15日披露细节，称已接触到“九位数规模”资金的投资者",
+      "特斯拉可从每辆车收取授权费，并获得FSD软件及Robotaxi运营相关收入，同时无偿获得新公司股权",
+      "据媒体估算，Cybertruck第三季度销量约7000至8000辆，折合年销量约3万辆，仅为规划年产量25万辆的约12%"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "3562e7571b",
+    "title": "【桃色风暴间谍疑云】特朗普马斯克等力挺也无用 英伟达董事会拒让 ...",
+    "link": "https://www.orientaldaily.com.my/news/international/2026/11/17/863540",
+    "source": "东方网",
+    "site": "www.orientaldaily.com.my",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "zh",
+    "summary": "（三藩市17日讯）英伟达（Nvidia）驳斥了要求公司让黄仁勋重返首席执行员职位的请愿运动，而包括美国总统特朗普在内的盟友则支持这项运动。英国广播公司（BBC）报导，特朗普当地时间周一表示，如果黄仁勋能够复职，他“当然不会介意”，这使得支持“让黄仁勋回归”运动的人士名单又添一人。其他科技巨头，包括SpaceX的马斯克和《Fortnite》开发商Epic Games的首席执行员史威尼，也都支持黄仁勋 ...",
+    "ai": {
+     "summary": "英伟达董事会拒绝了要求黄仁勋重返首席执行员职位的请愿运动，但美国总统特朗普表示“当然不介意”他回来。黄仁勋因被揭露两段婚外情（其中一段涉及疑似中国间谍）于上周辞职，公司目前由财务长暂时领导。",
+     "points": [
+      "超过17万5000人签署公开信，呼吁董事会在内部调查期间恢复黄仁勋职务",
+      "特朗普政府周一宣布进一步限制中国取得英伟达等公司的先进人工智能晶片",
+      "英伟达市值虽大幅蒸发，仍约3兆8700亿美元"
+     ],
+     "why": "英伟达事件和晶片出口新规主要牵动科技供应链与人工智能相关业务，对一般马来西亚企业的直接影响目前尚不明朗。",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "2064c786b0",
     "title": "担惊受怕的马斯克",
     "link": "https://www.sohu.com/a/1102362700_616701",
@@ -1815,6 +1865,46 @@
     }
    },
    {
+    "id": "b33c0ce480",
+    "title": "新浪马斯克热点小时报丨2026年11月17日00时_今日实时马斯克热点速递",
+    "link": "https://auto.sina.cn/2026-11-17/detail-iniyyeux8054215.d.html?vt=4",
+    "source": "手机新浪汽车",
+    "site": "auto.sina.cn",
+    "date": "2026-11-16T10:48:00+00:00",
+    "lang": "zh",
+    "summary": "1、紫牛后续︱上海高架特斯拉“路怒”引发事故后续来了，其中一名驾驶员涉嫌寻衅滋事罪被移送审查起诉 转自：扬子晚报扬子晚报网11月16日讯（记者 郭一鹏） 扬子晚报/紫牛新闻10月10日刊登了《上海高架上特斯拉“路怒”引发事故，一名司机被采取刑事强制措施！交警：随意变道极易诱发此类事故》一文，讲述了两辆特斯拉在上海高架上因为变道引发了“开斗气车”行为，结果发生了碰擦事故。紫牛新闻记者今天（16日）获 ...",
+    "ai": {
+     "summary": "这是一份汇总多条马斯克及特斯拉相关新闻的小时速递。内容包括上海一起特斯拉“路怒”事故的后续处理、摩根大通维持特斯拉目标价、Cybercab私人购车条件，以及特斯拉停产Cybertruck后有人提议接手生产线等。",
+     "points": [
+      "上海浦东交警称，一名驾驶员涉嫌寻衅滋事罪已被移送审查起诉，另一名被处以罚款。",
+      "摩根大通维持特斯拉430美元目标价，评级为“中性”。",
+      "Cybercab私人版售价29990美元，每月订阅299美元，仅限受邀客户。"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "1ba4e1a86e",
+    "title": "01 马斯克嘲笑英伟达董事会",
+    "link": "https://m.sohu.com/a/1102316721_100243585",
+    "source": "手机搜狐网",
+    "site": "m.sohu.com",
+    "date": "2026-11-16T10:06:00+00:00",
+    "lang": "zh",
+    "summary": "他在社交平台X上转发有关英伟达董事会成员构成的帖子，留下了一句极具讽刺意味的话：“这就是那个为曾经是地球上最有价值的公司做决策的董事会！？”后面还附上了一个捂脸表情。",
+    "ai": {
+     "summary": "马斯克在社交平台X上转发了一条关于英伟达董事会成员构成的帖子，并配文讽刺，问这是否就是为地球上曾经最有价值的公司做决策的董事会，还附上了捂脸表情。文章还提到，董事会成员背景多为快餐、饮料、投行和风险投资等领域，也有少数人具备芯片或工程背景。",
+     "points": [
+      "马斯克转发帖子并附讽刺评论，配有捂脸表情",
+      "文章提到部分董事有塔可钟、百事可乐、高盛等跨行业背景",
+      "文章also提到有董事具备芯片设计软件、英特尔及工程学背景"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "7d112cb497",
     "title": "深情挽留黄仁勋的马斯克，忙着“背刺”英伟达",
     "link": "https://news.qq.com/rain/a/20261116A0BW7U00",
@@ -1835,60 +1925,20 @@
     }
    },
    {
-    "id": "d96c5f3a76",
-    "title": "马斯克旗下AI团队大规模裁撤Grok视频生成项目",
-    "link": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxpwx1134073.d.html?vt=4",
-    "source": "新浪财经",
-    "site": "finance.sina.cn",
-    "date": "2026-11-16T09:16:00+00:00",
-    "lang": "zh",
-    "summary": "中国企业正领跑 AI 视频生成模型赛道 作者：艾伦・蒂利、克劳迪娅・庄、大泽次郎 据知情人士透露，SpaceX 人工智能部门裁撤了旗下图像视频生成 AI 工具 Grok Imagine 的绝大部分研发团队。 过去一周，SpaceX 超级智能部门大约 60 名 ...",
-    "ai": {
-     "summary": "据知情人士透露，SpaceX人工智能部门裁撤了Grok Imagine图像视频生成工具的绝大部分研发团队，只留下少数人维持产品基本运行。该工具仍对用户开放，但未来发展充满不确定性。业内分析认为，这与OpenAI此前停掉Sora视频项目的做法相似，公司业务重心正转向AI编程工具和智能体产品。",
-     "points": [
-      "过去一周约60名Grok Imagine项目员工被裁",
-      "SpaceX在今年2月以2500亿美元股票收购xAI，8月斥资600亿美元收购Cursor",
-      "多项独立榜单显示，Grok Imagine在视频生成排行中的名次低于多家中国竞品"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "a64fee66d0",
+    "id": "f4563761fc",
     "title": "马斯克，被盯上了！",
-    "link": "https://news.qq.com/rain/a/20261116A03PZC00?adChannelId=news",
+    "link": "https://news.qq.com/rain/a/20261116A03PZC00?adChannelId=news_news_top",
     "source": "腾讯网",
     "site": "news.qq.com",
     "date": "2026-11-16T09:07:00+00:00",
     "lang": "zh",
     "summary": "美国又一位科技大佬被盯上了。两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求其保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。欧美媒体提到，在赢得中期选举后，民主党承诺将对特朗普政府和与特朗普关系密切的知名商业高管展开全面调查，其中包括马斯克。《纽约时报》称，民主党人已开始制定一项针对特朗普政府的强硬监督议程。随着美国总统的商业伙伴和盟友在法庭上对 ...",
     "ai": {
-     "summary": "两名美国民主党参议员正式致信SpaceX首席执行官马斯克，要求他保留与乌克兰使用“星链”(Starlink)和“星盾”(Starshield)卫星系统限速相关的所有记录。在赢得中期选举后，民主党表示将全面调查特朗普政府及与特朗普关系密切的商界人士，马斯克也在其列。",
+     "summary": "两名美国民主党参议员正式致信SpaceX首席执行官马斯克，要求他保留与乌克兰“星链”“星盾”系统使用限制相关的全部记录。民主党在中期选举后承诺加强对特朗普政府及其密切商业人士的监督调查，马斯克也在其中。双方对限速是谁下令的说法不一。",
      "points": [
-      "两名参议员指“星链”在10月13日至24日及11月12日出现中断，影响乌克兰军事行动",
-      "马斯克与白宫对限速由谁决定各执一词，双方说法相互矛盾",
-      "民主党在新国会可能掌握多数席位及传唤权，马斯克被列为调查对象之一"
-     ],
-     "why": "这类政治调查可能让大型科技企业的政府合作、供应链和合规要求变得更受关注，中小企业主可留意相关规范是否会有变化。",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "7b3294b2b9",
-    "title": "马斯克会卖吗? 美国改装商想接盘Cybertruck产线! 特斯拉不掏钱还能收 ...",
-    "link": "https://www.msn.cn/zh-cn/autos/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%9A%E5%8D%96%E5%90%97-%E7%BE%8E%E5%9B%BD%E6%94%B9%E8%A3%85%E5%95%86%E6%83%B3%E6%8E%A5%E7%9B%98cybertruck%E4%BA%A7%E7%BA%BF-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8D%E6%8E%8F%E9%92%B1%E8%BF%98%E8%83%BD%E6%94%B6%E6%8E%88%E6%9D%83%E8%B4%B9/ar-AA2hyR8U",
-    "source": "快科技",
-    "site": "www.msn.cn",
-    "date": "2026-11-16T08:33:20+00:00",
-    "lang": "zh",
-    "summary": "快科技11月17日消息，特斯拉宣布Cybertruck将于2027年年中停产后，美国特斯拉改装配件商Unplugged Performance（下称UP）公开提议自筹资金接手Cybertruck生产线，并扩展SUV和无人驾驶货运车两款新车型。 特斯拉无需投入任何资金即可获得授权费、软件收入和股权，但市场对Cybertruck的需求困境能否因此解决仍存疑虑。 11月10日，UP在社交平台X上向特斯拉 ...",
-    "ai": {
-     "summary": "特斯拉宣布Cybertruck将于2027年年中停产。美国改装配件商Unplugged Performance（UP）提议自筹资金接手这条生产线，并扩展SUV和无人驾驶货运车等新车型。",
-     "points": [
-      "特斯拉宣布Cybertruck将于2027年年中停产",
-      "UP公开提议自筹资金接手生产线",
-      "特斯拉据称无需投入资金，可获授权费、软件收入和股权"
+      "两名参议员指出10月13日至24日及11月12日出现“星链”服务中断，影响乌克兰军事行动",
+      "马斯克与白宫对限速决定权各执一词，特朗普政府否认参与",
+      "新一届国会明年1月就职后，民主党或将以传票和调查推进监督"
      ],
      "why": "",
      "title_zh": ""
@@ -1995,26 +2045,6 @@
     }
    },
    {
-    "id": "d81c6c38ad",
-    "title": "利刃劈向马斯克",
-    "link": "https://huacheng.gz-cmc.com/pages/2026/11/16/84129fd6b1fd49db932acde043cb62e8.html",
-    "source": "huacheng.gz-cmc",
-    "site": "huacheng.gz-cmc.com",
-    "date": "2026-11-16T05:41:00+00:00",
-    "lang": "zh",
-    "summary": "美国中期选举这场“烧钱大战”，马斯克被认为是除总统特朗普之外的“最大输家”。 作为共和党头号“金主”，他豪掷的近5亿美元选举捐款，几乎“打了水漂”；其商业大本营、传统“深红”州得克萨斯州，历史性“翻蓝”；国会山监管利刃，更将直指其万亿商业帝国的新支柱——AI基建。 民主党将在特朗普本届任期的剩余两年，主导国会参众两院。随着政治风向突变，与特朗普政府的深度绑定正成为马斯克的“回旋镖”。 马斯克的事业 ...",
-    "ai": {
-     "summary": "美国中期选举后，马斯克被认为是除特朗普外的最大输家。他在共和党候选人身上投入近5亿美元，但得州等地的结果并不理想，民主党将主导国会两院剩余任期。外界也预计国会调查和监管会更多针对他的企业，包括AI基础设施业务。",
-     "points": [
-      "马斯克本选举周期向共和党捐款近5亿美元，据报道是单一周期公开记录中个人捐款最多的",
-      "民主党候选人在得州赢得参议院席位，并当选首位民主党籍州长（近30年来首次）",
-      "民主党将在特朗普剩余任期内主导国会参众两院，并计划调查马斯克在政府效率部的角色"
-     ],
-     "why": "若监管趋严，依赖AI、数据中心或跨州业务的企业，未来在土地、电力和审批方面可能面临更多不确定性。",
-     "title_zh": ""
-    }
-   },
-   {
     "id": "42926a4958",
     "title": "新浪马斯克热点小时报丨2026年11月17日02时_今日实时马斯克热点速递",
     "link": "https://auto.sina.cn/2026-11-17/detail-iniyymar2076848.d.html?vt=4",
@@ -2035,333 +2065,333 @@
     }
    },
    {
-    "id": "9fa4de2bbf",
-    "title": "T早报｜SpaceX首次成功回收轨道返回的星舰飞船；香港迪士尼疑遭网络 ...",
-    "link": "https://www.caixin.com/2026-11-16/102505153.html",
-    "source": "财新网",
-    "site": "www.caixin.com",
-    "date": "2026-11-16T02:22:00+00:00",
+    "id": "2153fdde8b",
+    "title": "星舰塔捕后迎来体检官，马斯克登上吊篮：近距离查看S42太空战痕",
+    "link": "https://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzf1319428.shtml",
+    "source": "新浪财经",
+    "site": "finance.sina.com.cn",
+    "date": "2026-11-16T03:27:00+00:00",
     "lang": "zh",
-    "summary": "11月14日，SpaceX星舰第15次试飞首次实现飞船从地球轨道返回发射场，并由发射塔机械臂成功捕获。飞船飞行约22.5小时，绕地球运行14圈，其间部署26颗第三代星链卫星。不过，超级重型助推器未能按计划回收，SpaceX称异常原因仍在调查中。",
+    "summary": "美国当地时间11月15日，S42实现历史性塔捕的第二天，SpaceX创始人兼首席执行官马斯克与星舰团队乘坐高空作业车，来到飞船鼻锥旁，近距离检查热防护系统。马斯克身穿黑色T恤，系着安全带，举起手机拍摄面前的隔热瓦。身旁的工程师俯身查看鼻锥，黑色六边形瓦片与他们几乎只有一臂之距。",
     "ai": {
-     "summary": "SpaceX的星舰第15次试飞中，飞船首次从地球轨道返回发射场，并被发射塔上的机械臂成功抓住。飞船飞行约22.5小时，绕地球14圈，途中放出26颗第三代星链卫星。不过超级重型助推器没有按计划回收，SpaceX表示异常原因仍在调查。另有报道指香港迪士尼乐园发现网络安全事件，约1.7万个电子门票二维码疑似被盗，园方已报警并暂停官网门票销售和酒店预订。",
+     "summary": "美国当地时间11月15日，SpaceX首席执行官马斯克登上高空作业车，近距离检查刚从太空返回的星舰飞船S42的隔热瓦（热防护系统）。他认为热防护与发动机总体看起来良好，经过几周翻修或许能再次飞行，但这仍是现场初步评价。",
      "points": [
-      "11月14日，星舰第15次试飞，飞船首次从轨道返回并被机械臂捕获",
-      "飞船飞行约22.5小时，绕地球14圈，部署26颗第三代星链卫星",
-      "香港迪士尼约1.7万个电子门票二维码疑似被盗，园方13日报警"
+      "S42在11月13日发射，返回后被发射塔机械臂接住，完成首次塔捕",
+      "检查发现局部隔热瓦缺损、烧蚀和变色，但大部分隔热瓦仍在原位",
+      "马斯克称要实现像飞机一样快速复用，还需要许多小改进"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "2a96d44b77",
-    "title": "人类巨星闪耀时：马斯克与黄仁勋之间的 9 个历史切片",
-    "link": "https://eu.36kr.com/zh/p/4069408535172995",
-    "source": "eu.36kr",
-    "site": "eu.36kr.com",
-    "date": "2026-11-16T02:08:00+00:00",
-    "lang": "zh",
-    "summary": "有些东西是永恒的。 你将被永远铭记，因为有些东西是永恒的（You're gonna be remembered forever because some things are eternal）。 2026年 11 月 13 日，在黄仁勋宣布辞任英伟达 CEO 的第二天，马斯克在 X 平台上转发了美国风险投资公司 a16z 官方账号发布的一段视频，这段视频引述了上面这句话。 然后，马斯克给出了一个简 ...",
-    "ai": {
-     "summary": "文章回顾了英伟达创始人黄仁勋与特斯拉、SpaceX马斯克多年的业务往来，包括自动驾驶芯片合作、向OpenAI交付超级计算机、以及为xAI集群建设提供支持等。文章还提到，黄仁勋在2026年11月宣布辞去英伟达CEO职务后，马斯克公开表达了支持。内容以个人评论和历史梳理为主，部分说法来自作者观点，并非新闻事件的权威报道。",
-     "points": [
-      "2016年8月，黄仁勋向OpenAI交付首台DGX-1超级计算机，马斯克在场见证。",
-      "2015年至2018年间，英伟达与特斯拉在自动驾驶芯片方面合作，其后特斯拉转向自研车端芯片。",
-      "2024年7月，xAI在孟菲斯用10万块英伟达H100 GPU建成Colossus超级计算机，文中称从装机到训练仅用19天。"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "5841e84b4a",
-    "title": "Tesla opens Cybercab orders with strict ownership rules",
-    "link": "https://www.ttnews.com/articles/tesla-opens-cybercab-orders",
-    "source": "Transport Topics",
-    "site": "www.ttnews.com",
-    "date": "2026-11-16T13:43:00+00:00",
+    "id": "97a84867df",
+    "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+    "source": "The Guardian",
+    "site": "www.theguardian.com",
+    "date": "2026-11-16T17:01:00+00:00",
     "lang": "en",
-    "summary": "Among the strict rules and stipulations: no modifications or reselling, and Tesla may buy the vehicle back at any time (at the buyer’s cost to ship it).",
+    "summary": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’ ...",
     "ai": {
-     "summary": "特斯拉开始接受 Cybercab 无人驾驶出租车的订购，但附带严格的拥有条款。买家不得改装或转售车辆，特斯拉还可在任何时候把车买回，运费由买家负担。",
+     "summary": "英伟达前首席执行官黄仁勋因被曝与一名涉嫌为中国充当间谍的女子有婚外情而辞职。据报道他正在争取复职，马斯克等科技界人士已联名公开信支持。美国财政部长贝森特则主张英伟达应从外部另选新帅，并要求公司说明是否让最先进的AI芯片流入中国。",
      "points": [
-      "订购附带严格条款，包括禁止改装和转售",
-      "特斯拉可随时回购车辆",
-      "回购的运输费用由买家承担"
+      "公开信签署人超过16.5万人，其中包括7500多名自称是英伟达员工的人。",
+      "黄仁勋在任33年，辞职后据报道已与身边人讨论复职可能。",
+      "美国财政部长贝森特要求英伟达在10天内给出答复，并要求说明芯片出口管控执行情况。"
      ],
-     "why": "如果公司未来考虑购买这类车辆用于运营，应留意转售受限和回购条款对资产安排的影响。",
-     "title_zh": "特斯拉开放 Cybercab 订购，附严格拥有条款"
+     "why": "",
+     "title_zh": "马斯克等16.5万人联名公开信，呼吁英伟达请回黄仁勋"
     }
    },
    {
-    "id": "5ba48a5ef2",
-    "title": "Tesla's Cybertruck exit reveals an expensive gamble",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-cybertruck-exit-reveals-expensive-213300163.html",
+    "id": "fe3e468c16",
+    "title": "SpaceX’s historic Starship catch could impact the future of space travel",
+    "link": "https://www.hindustantimes.com/editorials/spacexs-historic-starship-catch-could-impact-the-future-of-space-travel-101794854837713.html",
+    "source": "Hindustan Times",
+    "site": "www.hindustantimes.com",
+    "date": "2026-11-16T16:50:00+00:00",
+    "lang": "en",
+    "summary": "A spaceship that returns as a whole opens up a universe of possibilities. Those who build the ships will set the terms of the new frontier ...",
+    "ai": {
+     "summary": "SpaceX的星舰飞船绕地球14圈后返回，在得州发射塔上被机械臂成功抓住，这是首次有飞船在返回时被捕获。飞船途中还释放了26颗星链卫星，并挺过了再入大气层的高温。",
+     "points": [
+      "飞船绕地球14圈，历时约22小时",
+      "释放了26颗星链卫星",
+      "机械臂在得州南部的发射塔上完成捕获"
+     ],
+     "why": "星舰若能整体重复使用，未来太空发射成本可能下降，但目前相关技术仍需多次验证，短期内对企业的成本与员工影响不大。",
+     "title_zh": "SpaceX星舰历史性成功抓回，或将影响未来太空旅行"
+    }
+   },
+   {
+    "id": "3debd4a03f",
+    "title": "SpaceX Starship nails historic tower catch after 22-hour mission in orbit",
+    "link": "https://www.msn.com/en-us/news/other/spacex-starship-nails-historic-tower-catch-after-22-hour-mission-in-orbit/vi-AA2hzNyf",
+    "source": "CBS19.tv",
+    "site": "www.msn.com",
+    "date": "2026-11-16T16:28:47+00:00",
+    "lang": "en",
+    "summary": "SpaceX's Starship completed a first-of-its-kind landing, returning to the launch tower after orbiting Earth and deploying satellites.",
+    "ai": {
+     "summary": "SpaceX的星舰（Starship）完成了一次史上首见的回收：飞船绕地球运行后，返回发射塔并被塔上的机械臂成功接住。任务全程约22小时，途中还释放了卫星。",
+     "points": [
+      "任务总时长约22小时，飞船在轨道上运行后返航",
+      "飞船被发射塔的机械臂在空中接住，属首次完成此类着陆",
+      "任务期间飞船释放了卫星"
+     ],
+     "why": "",
+     "title_zh": "星舰完成22小时轨道任务后，在发射塔上成功接住飞船"
+    }
+   },
+   {
+    "id": "82fcf86434",
+    "title": "Why Nvidia board isn't budging despite Trump, Elon Musk's push to bring Jensen Huang back",
+    "link": "https://www.firstpost.com/world/why-nvidia-board-isnt-budging-despite-trump-elon-musks-push-to-bring-jensen-huang-back-14060440.html",
+    "source": "Firstpost",
+    "site": "www.firstpost.com",
+    "date": "2026-11-16T16:27:00+00:00",
+    "lang": "en",
+    "summary": "From national security concerns to investor confidence, four factors explain why Nvidia's board is unwilling to reverse its decision on Huang ..."
+   },
+   {
+    "id": "96c3d1d4f9",
+    "title": "Elon Musk’s spectacular SpaceX feats leave the leftists more rabid than ever",
+    "link": "https://nypost.com/2026/11/16/opinion/musks-spectacular-spacex-feats-leave-the-leftists-more-rabid-than-ever/",
+    "source": "New York Post",
+    "site": "nypost.com",
+    "date": "2026-11-16T16:22:00+00:00",
+    "lang": "en",
+    "summary": "The left has nothing to offer but censorship, redistribution and stagnation — and Musk’s record of achievement highlights their hollowness.",
+    "ai": {
+     "summary": "SpaceX, the rocket company led by Elon Musk, launched its largest-ever spaceship, deployed new satellites, and brought the ship back to Earth with a catch by the launch tower's arms. The article, an opinion column, argues that Democrats and leftists are now pushing back against Musk, including threats to restrict Starship launches in Texas and congressional investigations.",
+     "points": [
+      "SpaceX orbited the largest spaceship ever launched and returned it to Earth for a tower-arm recovery",
+      "Texas Democrats reportedly plan to block beach closures needed for planned Starship launches at Boca Chica",
+      "Democrats in Congress are reportedly preparing investigations, hearings and subpoenas aimed at Musk"
+     ],
+     "why": "For business owners, the article's main point is about policy risk: possible limits on launch sites, data center plans and government probes could affect companies in space and tech sectors.",
+     "title_zh": "马斯克的SpaceX壮举让左翼更加愤怒"
+    }
+   },
+   {
+    "id": "86404a2a3f",
+    "title": "Elon Musk Wants Jensen Huang Back at Nvidia. Here’s What’s at Stake for SpaceX",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-wants-jensen-huang-005901121.html",
     "source": "Yahoo Finance",
     "site": "finance.yahoo.com",
-    "date": "2026-11-16T13:33:00+00:00",
+    "date": "2026-11-16T16:00:00+00:00",
     "lang": "en",
-    "summary": "Elon Musk is sacrificing his futuristic pickup to make room for a vehicle with a much bigger financial question.",
+    "summary": "Elon Musk wants Jensen Huang back at Nvidia and has real money on the line, since SpaceX builds its AI data centers on Nvidia chips and Nvidia owns a multibillion-dollar stake in SpaceX.",
     "ai": {
-     "summary": "特斯拉CEO马斯克计划在2027年停止生产Cybertruck电动皮卡，把德州工厂的产能转去生产无方向盘的无人驾驶出租车Cybercab。Cybertruck销量不理想，2025年美国销量同比下滑48%，只卖出约2万多辆。",
+     "summary": "英伟达（Nvidia）黄仁勋上周被董事会请下CEO职位，原因是董事会调查有外国情报机构针对他的报道。马斯克在X上表示自己签署了一份要求让他复职的请愿书，请愿书已有近20万人签名。SpaceX的AI数据中心完全使用英伟达芯片，英伟达也持有SpaceX约170亿美元的股份，因此两家公司的利益紧密相连。",
      "points": [
-      "2025年美国Cybertruck销量同比下降48%，只有20,237辆",
-      "生产将延长至2027年夏末，以完成尚未交付的订单",
-      "未能取车的客户将获退还订金"
+      "黄仁勋于11月12日被董事会要求离职，CFO Colette Kress暂任代理CEO",
+      "请愿书签名人数接近20万，包括马斯克等科技界人士",
+      "英伟达持有SpaceX约1.228亿股，市值约170亿美元"
      ],
-     "why": "这件事主要关乎特斯拉的投资方向与股东回报，对马来西亚企业主的直接影响有限，但可留意大型企业如何调整产能与投资重点。",
-     "title_zh": "特斯拉Cybertruck退场，暴露一场代价高昂的赌注"
+     "why": "对于马来西亚企业主而言，这件事主要反映的是AI芯片供应链的人事与融资变化，目前并不直接影响一般企业的成本或日常运营。",
+     "title_zh": "马斯克希望黄仁勋重返英伟达 SpaceX有哪些利害关系"
     }
    },
    {
-    "id": "d357f9d560",
-    "title": "Elon Musk Revisits 2014 ULA Dispute After 40 Amazon Satellites are Lost",
-    "link": "https://www.analyticsinsight.net/news/elon-musk-revisits-2014-ula-dispute-after-40-amazon-satellites-are-lost",
-    "source": "Analytics Insight",
-    "site": "www.analyticsinsight.net",
-    "date": "2026-11-16T13:30:00+00:00",
+    "id": "5a88118c20",
+    "title": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-brought-starship-back-011302905.html",
+    "source": "Yahoo Finance",
+    "site": "finance.yahoo.com",
+    "date": "2026-11-16T16:00:00+00:00",
     "lang": "en",
-    "summary": "Elon Musk has revisited a dispute dating back to 2014 after a United Launch Alliance (ULA) rocket failed to deliver 40 Amazon Leo satellites into orbit. Followi ...",
+    "summary": "SpaceX (NASDAQ:SPCX) got half its rocket home. On Saturday, Nov. 14, about 22.5 hours after Starship took off from Starbase, Texas, the launch tower's arms closed around the rocke ...",
     "ai": {
-     "summary": "联合发射联盟（ULA）的火箭Vulcan在发射后约10分钟出现异常，未能把40颗亚马逊Leo卫星送入预定轨道，等于整次任务失败。事发后马斯克转发了2014年的旧帖，回顾他当年在美国参议院反对ULA独揽国家安全发射合同的言论，但他本人在回应中只说了关心的话，没有直接批评ULA。",
+     "summary": "SpaceX caught the upper stage of its Starship rocket with the launch tower's arms on Saturday, Nov. 14, about 22.5 hours after liftoff from Texas. It was the first time SpaceX had caught a ship, though the lower booster was destroyed over the Gulf of Mexico after its catch was cancelled.",
      "points": [
-      "失败的发射日期为11月15日，火箭从美国佛罗里达州卡纳维拉尔角升空。",
-      "40颗卫星全部未能进入预定轨道，这是ULA约二十年营运史上首次完全任务失败。",
-      "亚马逊计划部署3200颗以上的Leo卫星提供宽带网络，已预订38次Vulcan发射，也与Blue Origin、Arianespace和SpaceX合作；ULA正与包括亚马逊在内的合作伙伴调查原因。"
+      "Starship's upper stage (the ship) was caught by the launch tower about 22.5 hours after takeoff from Starbase, Texas",
+      "The Super Heavy booster was steered into the Gulf of Mexico and destroyed by its flight termination system",
+      "The ship had delivered 26 Starlink V3 satellites before it came home"
      ],
-     "why": "",
-     "title_zh": "马斯克在40颗亚马逊卫星损失后重提2014年与ULA的争议"
+     "why": "For a Malaysian business owner, this mainly signals how SpaceX's satellite internet costs may change over time, which matters little for day-to-day operations of most local firms.",
+     "title_zh": "SpaceX 星舰从轨道返回并成功捕获，星链业务受益最大"
     }
    },
    {
-    "id": "14462dc4db",
-    "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
-    "link": "https://www.moneycontrol.com/news/business/tesla-plans-3-3-billion-cybercab-boost-for-germany-s-troubled-auto-sector-14081715.html",
-    "source": "Moneycontrol",
-    "site": "www.moneycontrol.com",
-    "date": "2026-11-16T13:23:00+00:00",
+    "id": "d23b60b620",
+    "title": "SpaceX’s Starship recovery could lower launch costs for Indian satellite companies",
+    "link": "https://economictimes.indiatimes.com/tech/technology/spacexs-starship-recovery-could-lower-launch-costs-for-indian-satellite-companies/articleshow/135896870.cms",
+    "source": "The Economic Times",
+    "site": "economictimes.indiatimes.com",
+    "date": "2026-11-16T16:00:00+00:00",
     "lang": "en",
-    "summary": "The planned construction of an additional production facility in Gruenheide on the outskirts of Berlin could make the US company's only European site Germany's largest auto plant by capacity, ...",
+    "summary": "SpaceX’s expected transition from Falcon 9 to potentially reusable Starship is expected to bring down launch costs, provided the Elon Musk-led company offers commercial rideshare services at ...",
     "ai": {
-     "summary": "特斯拉计划在德国柏林郊外的格吕恩海德工厂旁增建一座新生产设施,用于生产Cybercab(自动驾驶出租车)。据报道,投资规模约33亿美元。如果建成,这将是特斯拉在欧洲唯一的工厂,并可能成为德国产能最大的汽车工厂。",
+     "summary": "SpaceX 预计将从猎鹰9号火箭转向可能重复使用的星舰，若公司提供商业搭载发射服务，有望降低卫星发射成本。报道主要聚焦印度卫星公司可能受益。文章正文无法读取，以下内容仅依据标题和出版方摘要。",
      "points": [
-      "计划地点:柏林郊外格吕恩海德",
-      "投资规模:约33亿美元",
-      "若建成,或成为德国产能最大的汽车厂"
-     ],
-     "why": "德国汽车业近来面临困境,此类大型投资若落地,可能影响当地供应链和就业机会,对马来西亚企业的直接影响有限。",
-     "title_zh": "特斯拉计划投资33亿美元扩建Cybercab产能,助力陷入困境的德国汽车业"
-    }
-   },
-   {
-    "id": "711e873b27",
-    "title": "Tesla announces new Robotaxi services around Fort Worth",
-    "link": "https://tcu360.com/2026/11/16/tesla-announces-new-robotaxi-services-around-fort-worth/",
-    "source": "TCU 360",
-    "site": "tcu360.com",
-    "date": "2026-11-16T13:17:00+00:00",
-    "lang": "en",
-    "summary": "If you’ve noticed driverless cars cruising through the streets of Fort Worth, you’re not imagining things. Tesla announced the launch of its Robotaxi and Cybercab services in Fort Worth on Nov. 2, ...",
-    "ai": {
-     "summary": "特斯拉宣布在德州沃斯堡推出自动驾驶出租车Robotaxi，以及无方向盘、无踏板的Cybercab服务，乘客无需司机即可出行。目前沃斯堡主要使用Model Y车型，Cybercab则仍在测试中。",
-     "points": [
-      "特斯拉于11月2日宣布在沃斯堡启动Robotaxi和Cybercab服务",
-      "沃斯堡目前使用Model Y，最多可载四名乘客",
-      "文章称Model Y 15分钟车程约16.99美元，比Uber便宜约19%"
+      "SpaceX 计划从猎鹰9号转向可能可重复使用的星舰",
+      "前提是马斯克领导的公司提供商业搭载（rideshare）发射服务",
+      "报道对象是印度卫星公司的发射成本"
      ],
      "why": "",
-     "title_zh": "特斯拉在沃斯堡周边推出新的自动驾驶出租车服务"
+     "title_zh": "SpaceX星舰回收或可降低印度卫星公司的发射成本"
     }
    },
    {
-    "id": "0ef4e78655",
-    "title": "Elon Musk criticises Jeremy Culhane’s SNL impression: ‘They need to try harder’",
-    "link": "https://www.msn.com/en-au/entertainment/tv/elon-musk-criticises-jeremy-culhane-s-snl-impression-they-need-to-try-harder/ar-AA2hzEzA",
-    "source": "Variety Australia",
+    "id": "1dc310c5ea",
+    "title": "Ukraine claims its Starlink access has been restricted, again",
+    "link": "https://www.ft.com/content/494cf6a0-fb51-498a-bcf4-9389b58d063c",
+    "source": "Financial Times",
+    "site": "www.ft.com",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Your Moon is in conjunction with Pluto and Starlink’ ..."
+   },
+   {
+    "id": "632cbf2739",
+    "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
+    "link": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
+    "source": "TESLARATI",
+    "site": "www.teslarati.com",
+    "date": "2026-11-16T15:54:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk says the FAA declined free Starlink terminals before last week’s nationwide ground stop."
+   },
+   {
+    "id": "871b6f75bb",
+    "title": "Elon Musk among 175,000 to back reinstatement of Jensen Huang",
+    "link": "https://www.thetelegraphandargus.co.uk/news/national/26733330.elon-musk-among-175-000-back-reinstatement-jensen-huang/",
+    "source": "Bradford Telegraph & Argus",
+    "site": "www.thetelegraphandargus.co.uk",
+    "date": "2026-11-16T15:32:00+00:00",
+    "lang": "en",
+    "summary": "The calls come only four days after the former chief executive resigned from chip giant Nvidia over a scandal around extramarital affairs.",
+    "ai": {
+     "summary": "特斯拉和SpaceX首席执行官马斯克，以及多位科技界人士和投资者，呼吁英伟达前首席执行官黄仁勋复职。这发生在他因婚外情丑闻辞职四天后。美国总统特朗普也表示支持他复职。",
+     "points": [
+      "“Stand with Jensen”公开信签名人数超过17.5万，另有8000多名现职英伟达员工签署",
+      "英伟达宣布黄仁勋已辞去总裁兼首席执行官职务并退出董事会，财务总监Colette Kress暂代首席执行官",
+      "公开信要求董事会在独立调查进行期间让黄仁勋回任"
+     ],
+     "why": "",
+     "title_zh": "马斯克等科技界人士呼吁英伟达前首席执行官黄仁勋复职"
+    }
+   },
+   {
+    "id": "b391e59bec",
+    "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
+    "link": "https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month",
+    "source": "Not a Tesla App",
+    "site": "www.notateslaapp.com",
+    "date": "2026-11-16T15:29:00+00:00",
+    "lang": "en",
+    "summary": "Elon Musk says Tesla owners could join Robotaxi trials in December. Here's what we know about hardware, subscription costs, and revenue sharing.",
+    "ai": {
+     "summary": "特斯拉创始人马斯克在X平台上回应一名奥斯汀Uber司机时表示，车主有望最快在2026年12月把自己的私人特斯拉加入Robotaxi（自动驾驶出租车）网络，前提是筹备顺利。细节如哪些车型、哪些车主、在哪里试行，目前都未公布，但业界普遍认为可能先在德州奥斯汀试行。",
+     "points": [
+      "马斯克称试行最快2026年12月开始，前提是筹备顺利",
+      "此前特斯拉财报会议时间表是2027年第二季左右",
+      "Cybercab订购价2.999万美元，另需每月299美元自动驾驶订阅费，特斯拉未公布收入分成比例"
+     ],
+     "why": "如果未来私人车主可参与共享出租，对拥有车队或有车辆需求的企业来说，成本与收益模式仍不明朗，目前宜静待官方公布细则。",
+     "title_zh": "特斯拉车主最快下月或可把车辆加入Robotaxi网络"
+    }
+   },
+   {
+    "id": "0583450d5a",
+    "title": "Elon Musk says Tesla must refund Cybertruck deposits to a lot of people; he touted 250K reservations back in 2019",
+    "link": "https://www.msn.com/en-us/autos/general/elon-musk-says-tesla-must-refund-cybertruck-deposits-to-a-lot-of-people-he-touted-250k-reservations-back-in-2019/ar-AA2hzFvY",
+    "source": "Moneywise",
     "site": "www.msn.com",
-    "date": "2026-11-16T13:11:48+00:00",
+    "date": "2026-11-16T15:15:00+00:00",
     "lang": "en",
-    "summary": "Elon Musk criticized Jeremy Culhane's impression of him on 'Saturday Night Live,' writing, 'They need to try harder.' The post Elon Musk Criticises Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try ...",
+    "summary": "Order backlog is reportedly “far more” than the company can make before it halts production.",
     "ai": {
-     "summary": "马斯克在社交媒体上评论喜剧演员杰瑞米·卡尔恩（Jeremy Culhane）在《周六夜现场》（SNL）里模仿他的表演，写道对方“需要再努力一点”。这是他对这段模仿的直接反应。",
+     "summary": "特斯拉首席执行官马斯克表示，公司需要把Cybertruck的定金退还给不少人。据报道，订单积压量远超公司在停产前能够生产的数量。马斯克此前曾宣称，2019年时该车型有25万笔预订。",
      "points": [
-      "马斯克批评的对象是演员杰瑞米·卡尔恩在SNL中的模仿表演",
-      "马斯克的评论是一句简短留言：对方需要再努力一点",
-      "报道来源为Variety Australia，文章正文无法读取，内容主要依据标题与摘要"
+      "马斯克提到公司需要退还部分Cybertruck定金",
+      "据报道，待交付订单远多于公司停产前可生产的数量",
+      "2019年时曾有约25万笔预订的说法"
      ],
      "why": "",
-     "title_zh": "马斯克批评卡尔恩的SNL模仿秀：“他们需要再努力一点”"
+     "title_zh": "马斯克称特斯拉需向不少人退还Cybertruck定金；他曾在2019年称有25万笔预订"
     }
    },
    {
-    "id": "70e1d77a18",
-    "title": "Why SpaceX stock is down after its historic Starship catch",
-    "link": "https://www.msn.com/en-us/news/other/why-spacex-stock-is-down-after-its-historic-starship-catch/ar-AA2hxgvH",
-    "source": "Barron's",
-    "site": "www.msn.com",
-    "date": "2026-11-16T13:11:00+00:00",
+    "id": "e6315698dc",
+    "title": "Elon Musk Just Said the Cybercab Costs Too Much. That’s Not Even the Biggest Problem",
+    "link": "https://www.inc.com/jason-aten/elon-musk-just-said-the-cybercab-costs-too-much-thats-not-even-the-biggest-problem/91437811",
+    "source": "Inc.com",
+    "site": "www.inc.com",
+    "date": "2026-11-16T15:07:00+00:00",
     "lang": "en",
-    "summary": "Starship’s upper stage came back to Earth and was caught by the launch tower’s mechanical arms. It was an amazing feat of engineering.",
+    "summary": "Tesla's self-driving robotaxi comes with a lot of restrictions, including a monthly fee that owners have to pay for it to work at all.",
     "ai": {
-     "summary": "SpaceX's Starship upper stage returned to Earth and was caught by mechanical arms on the launch tower, a major engineering milestone. Even so, SpaceX's stock has fallen after the achievement. The article text could not be read, so this summary relies only on the headline and publisher summary.",
+     "summary": "特斯拉的自动驾驶无人出租车Cybercab据报道受到不少限制，其中包括车主必须每月付费，车子才能正常运作。马斯克近期表示这款车成本偏高，但文章认为，除了价格，还有其他更大的问题。",
      "points": [
-      "Starship's upper stage was caught by the launch tower's mechanical arms after returning to Earth",
-      "The publisher describes the catch as an amazing feat of engineering",
-      "The headline says SpaceX stock fell after the catch"
+      "特斯拉Cybercab是一款自动驾驶无人出租车",
+      "车主需要每月缴费，车辆才能运作",
+      "马斯克提到该车成本太高"
      ],
      "why": "",
-     "title_zh": "SpaceX股价在星舰历史性回收成功后下跌的原因"
+     "title_zh": "马斯克说Cybercab成本太高，但这还不是最大的问题"
     }
    },
    {
-    "id": "259e3d1df0",
-    "title": "SpaceX Starship Flight 5 splashdown and explosion captured by buoy camera",
-    "link": "https://www.msn.com/en-us/news/other/spacex-starship-flight-5-splashdown-and-explosion-captured-by-buoy-camera/vi-AA2hz3Ew",
-    "source": "Space",
-    "site": "www.msn.com",
-    "date": "2026-11-16T13:05:00+00:00",
+    "id": "2cf612bbe8",
+    "title": "Elon Musk says Larry Page’s ‘Five Nines’ AI prediction is right, despite their decade-long feud",
+    "link": "https://www.thestreet.com/investing/elon-musk-larry-page-five-nines-ai-data-center-compute-prediction",
+    "source": "TheStreet",
+    "site": "www.thestreet.com",
+    "date": "2026-11-16T15:04:00+00:00",
     "lang": "en",
-    "summary": "SpaceX's Starship splashed down in the Indian Ocean about an hour after launch. A camera on buoy captured the fireworks. Credit: Space.com | footage courtesy SpaceX | edited by Steve Spaleta ...",
+    "summary": "Musk and Page were once close enough that Page said he would sooner leave his fortune to Musk than to a charity, since Musk’s companies were chasing goals he believed in. That friendship fell apart ...",
     "ai": {
-     "summary": "SpaceX的星舰（Starship）第五次试飞后，在印度洋溅落，发射约一小时后出现。一个漂浮在海上的浮标摄像机拍下了溅落和爆炸的画面。",
+     "summary": "马斯克表示，佩奇（Larry Page）关于人工智能的“五个九”预测是对的，尽管两人多年来关系不和。两人曾经十分亲近，佩奇甚至说过宁愿把财产留给马斯克，也不愿捐给慈善机构，但后来友谊破裂。",
      "points": [
-      "星舰在印度洋溅落，发射约一小时后发生",
-      "浮标上的摄像机拍下了爆炸画面",
-      "画面由SpaceX提供，Space.com发布"
+      "马斯克认为佩奇的AI预测正确",
+      "两人交恶已有约十年",
+      "佩奇曾表示宁愿把财产留给马斯克而非慈善机构"
      ],
      "why": "",
-     "title_zh": "SpaceX星舰第五次试飞溅落与爆炸画面被浮标摄像机拍下"
+     "title_zh": "马斯克称佩奇的“五个九”AI预测正确，尽管两人交恶十年"
     }
    },
    {
-    "id": "3f88dbf8a0",
-    "title": "Elon Musk’s policy difficulty prevents Starlink’s South Africa entry",
-    "link": "https://www.semafor.com/article/11/16/2026/musks-policy-difficulty-prevents-starlinks-south-africa-entry",
-    "source": "Semafor",
-    "site": "www.semafor.com",
-    "date": "2026-11-16T13:00:00+00:00",
-    "lang": "en",
-    "summary": "President Cyril Ramaphosa said Elon Musk failed to understand the impact of apartheid on Black South Africans.",
+    "id": "5214d56a18",
+    "title": "全球首个人工硐室型压气储能电站在甘肃首次并网",
+    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BA%BA%E5%B7%A5%E7%A1%90%E5%AE%A4%E5%9E%8B%E5%8E%8B%E6%B0%94%E5%82%A8%E8%83%BD%E7%94%B5%E7%AB%99%E5%9C%A8%E7%94%98%E8%82%83%E9%A6%96%E6%AC%A1%E5%B9%B6%E7%BD%91/ar-AA2hAa9p",
+    "source": "人民网",
+    "site": "www.msn.cn",
+    "date": "2026-11-16T16:32:44+00:00",
+    "lang": "zh",
+    "summary": "本报兰州11月16日电 (记者曾亦辰)11月16日，世界首台(套)“源储一号”300兆瓦人工硐室型压缩空气储能电站示范工程在甘肃酒泉玉门市首次并网 ...",
     "ai": {
-     "summary": "南非总统拉马福萨接受Semafor访问时表示，马斯克对南非一项关键政策“理解有困难”，是星链卫星网络无法在南非落地的主要问题。南非的黑人经济赋权政策（BEE）旨在纠正种族隔离遗留的不平等，要求外资公司在南非的业务至少30%须卖给本地黑人。马斯克曾称该政策“公开的种族主义”，并以此作为星链不在南非运营的原因。",
+     "summary": "11月16日，全球首台（套）“源储一号”300兆瓦人工硐室型压缩空气储能电站示范工程在甘肃酒泉玉门市首次并网。压缩空气储能是用电力把空气压进地下洞室，需要用电时再放气推动发电，用来在用电低谷时存电、高峰时供电。",
      "points": [
-      "南非黑人经济赋权政策要求外资公司在南非业务至少30%卖给本地黑人",
-      "马斯克称该政策“公开种族主义”，并以此解释星链未能进入南非",
-      "拉马福萨表示，各国都有准入政策，公司必须遵守当地规定"
-     ],
-     "why": "这反映南非对外资准入规则的立场，对在南非有业务或考虑进入当地市场的马来西亚企业来说，了解目标市场的本地持股要求很重要。",
-     "title_zh": "马斯克的政策理解困难阻碍星链进入南非"
-    }
-   },
-   {
-    "id": "4497ce357b",
-    "title": "“Maybe don’t be so easy to mock”: Kara Swisher reacts to report Elon Musk was not amused by SNL sketch",
-    "link": "https://www.soapcentral.com/entertainment/news-maybe-don-t-easy-mock-kara-swisher-reacts-report-elon-musk-amused-snl-sketch",
-    "source": "Soap Central",
-    "site": "www.soapcentral.com",
-    "date": "2026-11-16T12:55:00+00:00",
-    "lang": "en",
-    "summary": "Tech billionaire and SpaceX owner, Elon Musk, has taken a shot at NBC's sketch comedy show, Saturday Night Live, after Musk, along with several other billionaire tech CEOs, was made fun of on the Nove ...",
-    "ai": {
-     "summary": "特斯拉和SpaceX老板马斯克不满美国喜剧节目《周六夜现场》(SNL)把他和其他科技富豪拿来讽刺。他在X上回复节目的帖文，用一张文氏图暗示该节目与幽默几乎没有交集，并附上“Lol”。记者Kara Swisher也转发相关帖文讨论此事。",
-     "points": [
-      "讽刺短剧出现在2026年11月14日播出的一集节目中",
-      "马斯克由喜剧演员Jeremy Culhane扮演",
-      "马斯克以文氏图回击，并配上“Lol”字样"
+      "项目为300兆瓦规模的人工硐室型压缩空气储能电站",
+      "并网地点在甘肃酒泉玉门市",
+      "并网日期为11月16日，由人民网报道"
      ],
      "why": "",
-     "title_zh": "“别这么容易被取笑”：Kara Swisher回应报道称马斯克对SNL讽刺短剧并不高兴"
+     "title_zh": ""
     }
    },
    {
-    "id": "bd12588e96",
-    "title": "China’s tech bosses and Elon Musk head to Shenzhen for APEC CEO summit",
-    "link": "https://thenextweb.com/news/apec-ceo-summit-shenzhen-catl-baidu-unitree-musk",
-    "source": "The Next Web",
-    "site": "thenextweb.com",
-    "date": "2026-11-16T12:46:00+00:00",
-    "lang": "en",
-    "summary": "We do not negotiate American export controls,’ a US official says, as China’s tech bosses and Musk head to the APEC CEO summit in Shenzhen.",
+    "id": "881721822f",
+    "title": "四川能源投资集团拟投1.4亿美元建格鲁吉亚100MW风电项目",
+    "link": "https://news.goalfore.cn/latest/detail/108503.html",
+    "source": "news.goalfore.cn",
+    "site": "news.goalfore.cn",
+    "date": "2026-11-16T14:32:00+00:00",
+    "lang": "zh",
+    "summary": "四川省能源投资集团有限责任公司通过其在格鲁吉亚注册的子公司Iberia Capital Limited，计划在格鲁吉亚伊梅列季大区投资建设100兆瓦风电场，项目总投资额预计为1.3亿至1.4亿美元。 项目规划安装17台大功率风电机组，分布于萨奇赫雷和奇阿图拉两个市镇下辖的村庄区域，目前已全面进入现场建设及前期施工阶段，预计2027年完成绝大部分主体工程，并于2028年初实现全容量并网投运。",
     "ai": {
-     "summary": "APEC（亚太经合组织）工商领袖峰会将于周二在深圳开幕，中国多家大型科技企业负责人及美国企业高管受邀出席，习近平将发表主旨演讲。据报道，特斯拉与SpaceX的马斯克将随美国总统特朗普前往深圳，美方官员称他可能以顾问身份随行。",
+     "summary": "四川省能源投资集团通过其格鲁吉亚子公司Iberia Capital Limited，计划在格鲁吉亚伊梅列季大区建设一座100兆瓦风电场，总投资约1.3亿至1.4亿美元。项目已进入现场建设和前期施工阶段，同时还要新建一座500千伏变电站，把风电场接入国家电网，变电站建成后将无偿移交给格鲁吉亚国有电力系统公司。",
      "points": [
-      "峰会为期两天，17至18日举行，随后APEC领导人会议于18至19日进行，特朗普届时将与习近平会面",
-      "宁德时代、百度、宇树科技等中国企业代表将发言，比亚迪、小米负责人也将出席小组讨论",
-      "预计有2000多名政商领袖出席，其中美国企业约占境外参会者近20%"
-     ],
-     "why": "对马来西亚企业主而言，中美科技与贸易关系的走向可能影响供应链、零部件采购及相关行业的成本与合作机会，但目前尚无明确的直接影响。",
-     "title_zh": "中国科技巨头与马斯克将赴深圳出席APEC工商领袖峰会"
-    }
-   },
-   {
-    "id": "871572327f",
-    "title": "SpaceX's Starship program advances as Amazon Leo suffers another setback",
-    "link": "https://www.lightreading.com/satellite/spacex-s-starship-program-advances-as-amazon-leo-suffers-another-setback",
-    "source": "Light Reading",
-    "site": "www.lightreading.com",
-    "date": "2026-11-16T12:30:00+00:00",
-    "lang": "en",
-    "summary": "SpaceX achieved its first-ever Starship upper-stage catch, a key reusability win, while Amazon Leo lost 40 satellites in a Vulcan rocket 'anomaly.' ...",
-    "ai": {
-     "summary": "SpaceX successfully caught a Starship upper stage for the first time, a step toward reusable rockets. The same weekend, ULA's Vulcan rocket had an in-flight anomaly about ten minutes after liftoff and lost 40 Amazon Leo satellites, raising doubts about Amazon's 2026 service timing.",
-     "points": [
-      "SpaceX's Starship upper stage was caught by the launch tower on Saturday, its first such catch",
-      "Vulcan's first Amazon Leo launch on Sunday lost 40 satellites",
-      "Amazon Leo has about 1,500 satellites contracted on 38 Vulcan flights"
+      "项目规划安装17台大功率风电机组，位于萨奇赫雷和奇阿图拉两个市镇的村庄区域",
+      "预计2027年完成绝大部分主体工程，2028年初实现全容量并网投运",
+      "配套500千伏变电站的投资已计入总预算，且该变电站不产生直接商业收入"
      ],
      "why": "",
-     "title_zh": "SpaceX星舰上级首次被塔架成功回收，亚马逊Leo卫星却因火箭故障损失40颗"
-    }
-   },
-   {
-    "id": "11e1a85c33",
-    "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-    "source": "Space.com",
-    "site": "www.space.com",
-    "date": "2026-11-16T12:04:00+00:00",
-    "lang": "en",
-    "summary": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
-    "ai": {
-     "summary": "SpaceX caught the upper stage of its Starship rocket with the launch tower's arms for the first time, a key step toward reusing rockets. Elon Musk then said the next version, V4, will be about 70 metres long, roughly 40% longer, with 9 engines instead of 6.",
-     "points": [
-      "Upper stage (Ship) caught on Nov 14, after the Nov 13 test flight, its 15th",
-      "Musk says V4 Ship will be about 70 m long and carry over 60% more propellant",
-      "V4 engine count rises to 9, with 3 more higher-thrust Raptor-Vacuum engines; debut expected in 2027"
-     ],
-     "why": "For a Malaysian business owner, this is a space-industry milestone with no direct effect on local costs, staff or family matters.",
-     "title_zh": "马斯克称SpaceX星舰将在下一代V4型号上变得更大"
-    }
-   },
-   {
-    "id": "da24c4c53b",
-    "title": "Elon Musk among major tech voices calling for ex-Nvidia CEO Jensen Huang to be reinstated",
-    "link": "https://www.ctvnews.ca/video/2026/11/16/elon-musk-among-major-tech-voices-calling-for-ex-nvidia-ceo-jensen-huang-to-be-reinstated/",
-    "source": "CTV News",
-    "site": "www.ctvnews.ca",
-    "date": "2026-11-16T11:59:00+00:00",
-    "lang": "en",
-    "summary": "Tech analyst Carmi Levy says it’s ‘hard to say’ if tech leaders speaking out will help bring Huang back in the wake of ongoing affair and alleged spy scandals."
-   },
-   {
-    "id": "0a8e8d07ac",
-    "title": "Elon Musk Doesn’t Think ‘SNL’ Is Very Funny When He’s the Joke",
-    "link": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-doesn-t-think-193328434.html",
-    "source": "Yahoo",
-    "site": "www.yahoo.com",
-    "date": "2026-11-16T11:34:00+00:00",
-    "lang": "en",
-    "summary": "Elon Musk slammed Saturday Night Live after the show turned its attention to some of the tech world’s most powerful figures. The 55-year-old billionaire wasn’t amused by Jeremy Culhane‘s portrayal of ...",
-    "ai": {
-     "summary": "特斯拉和SpaceX创办人马斯克在社交平台X上批评美国综艺节目《周六夜现场》(SNL)把他和其他科技大亨搬上舞台的讽刺短剧。该节目11月14日一集中,演员Jeremy Culhane扮演马斯克,他对此不满并回击,说这些演员只能打5分,还发了一张嘲讽节目幽默感的文氏图。",
-     "points": [
-      "11月14日那一集的短剧中,Jeremy Culhane扮演马斯克,其他演员分别扮演扎克伯格、Sam Altman、Peter Thiel等科技人物。",
-      "马斯克在X上给演员打了5分,并附上嘲讽SNL幽默感的文氏图,只有少数好笑的短剧落在重叠的小部分。",
-      "马斯克也转发并赞同一则批评节目近年转向政治讽刺的留言。"
-     ],
-     "why": "",
-     "title_zh": "马斯克不觉得《周六夜现场》拿他开玩笑很好笑"
+     "title_zh": ""
     }
    },
    {
@@ -2381,6 +2411,26 @@
       "该电站2023年3月并网运行，是公开资料中全球最大的铅碳储能电站"
      ],
      "why": "此案提醒企业在采购大型设备或承包工程时，应留意合同中对设备性能和责任划分的约定。",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "9e7c4b19e7",
+    "title": "世界首台（套）300兆瓦人工硐室型压气储能电站并网发电",
+    "link": "https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90/%E4%B8%96%E7%95%8C%E9%A6%96%E5%8F%B0-%E5%A5%97-300%E5%85%86%E7%93%A6%E4%BA%BA%E5%B7%A5%E7%A1%90%E5%AE%A4%E5%9E%8B%E5%8E%8B%E6%B0%94%E5%82%A8%E8%83%BD%E7%94%B5%E7%AB%99%E5%B9%B6%E7%BD%91%E5%8F%91%E7%94%B5/ar-AA2hyI7E",
+    "source": "人民网",
+    "site": "www.msn.cn",
+    "date": "2026-11-16T11:49:30+00:00",
+    "lang": "zh",
+    "summary": "这是世界首台（套）依托人工硐室储气库的非补燃式300兆瓦压气储能工程示范项目。",
+    "ai": {
+     "summary": "据人民网报道，全球首台（套）300兆瓦级人工硐室型压气储能电站已经并网发电。该项目利用人工开挖的硐室作为储气库，属于非补燃式压气储能工程，是一项示范项目。压气储能是一种把电能转化为压缩空气内能并储存起来、需要时再释放发电的储能方式。",
+     "points": [
+      "项目规模为300兆瓦，据称为世界首台（套）同类工程",
+      "依托人工硐室作为储气库，采用非补燃式技术",
+      "项目已正式并网发电，属示范工程"
+     ],
+     "why": "",
      "title_zh": ""
     }
    },
@@ -2475,6 +2525,26 @@
     }
    },
    {
+    "id": "91c3d4f3b0",
+    "title": "电气风电预中标华宁县大龙山风电项目 将提供9台机组",
+    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E7%94%B5%E6%B0%94%E9%A3%8E%E7%94%B5%E9%A2%84%E4%B8%AD%E6%A0%87%E5%8D%8E%E5%AE%81%E5%8E%BF%E5%A4%A7%E9%BE%99%E5%B1%B1%E9%A3%8E%E7%94%B5%E9%A1%B9%E7%9B%AE-%E5%B0%86%E6%8F%90%E4%BE%9B9%E5%8F%B0%E6%9C%BA%E7%BB%84/ar-AA2hyR6x",
+    "source": "观点网",
+    "site": "www.msn.cn",
+    "date": "2026-11-16T06:27:39+00:00",
+    "lang": "zh",
+    "summary": "云南能源集团发布华宁县大龙山风电场项目风力发电机组及附属设备采购中标候选人公示，电气风电为第一中标候选人，将提供9台陆上卓越平台机组及相关服务。",
+    "ai": {
+     "summary": "云南能源集团公示了华宁县大龙山风电场项目风力发电机组及附属设备的采购中标候选人名单。电气风电排名第一，预计供应9台陆上风电机组及相关服务。这还只是候选阶段，并非最终签约结果。",
+     "points": [
+      "项目为云南华宁县大龙山风电场",
+      "电气风电为第一中标候选人",
+      "拟供应9台陆上卓越平台机组及相关服务"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
     "id": "c383c493a3",
     "title": "一周风电项目汇总（11.9-11.13）",
     "link": "https://news.bjx.com.cn/html/20261116/1520295.shtml",
@@ -2489,6 +2559,26 @@
       "11月5日：青岛西海岸新区政务网公示项目规划及建筑方案",
       "项目规模3000兆瓦，拟布置214台单机14兆瓦风电机组",
       "海上部分2024年11月获核准，陆上配套工程另有安排"
+     ],
+     "why": "",
+     "title_zh": ""
+    }
+   },
+   {
+    "id": "28791b11de",
+    "title": "国能山东175MW风电项目获核准",
+    "link": "https://news.bjx.com.cn/html/20261116/1520285.shtml",
+    "source": "北极星电力网新闻",
+    "site": "news.bjx.com.cn",
+    "date": "2026-11-16T05:03:00+00:00",
+    "lang": "zh",
+    "summary": "北极星风力发电网获悉，近日，国家能源集团博兴公司175MW风电项目获得滨州市行政审批服务局核准批复。 该项目位于滨州市博兴县乔庄镇，是山东省第三批陆上风电竞配重点项目。项目核准标志着该地区的新能源产业布局与绿色发展道路迈出实质性步伐，为区域能源结构转型注入强劲动力。该项目计划投资10.34亿元，依托博兴县丰富的风能资源禀赋，建设安装28台单机容量6.25MW风电机组，规划总装机容量175MW，同步 ...",
+    "ai": {
+     "summary": "国家能源集团博兴公司的一个175兆瓦风电项目，近日获得山东滨州市行政审批服务局的核准批复。项目位于博兴县乔庄镇，是山东第三批陆上风电竞配重点项目，计划投资10.34亿元，用当地风力资源建设28台单机6.25兆瓦的风机。",
+     "points": [
+      "项目总装机容量175兆瓦，位于滨州市博兴县乔庄镇",
+      "计划投资10.34亿元，安装28台单机容量6.25兆瓦的风电机组",
+      "属于山东省第三批陆上风电竞配重点项目"
      ],
      "why": "",
      "title_zh": ""
@@ -2535,133 +2625,203 @@
     }
    },
    {
-    "id": "d6e5807fb7",
-    "title": "国内首例沙漠腹地风电项目并网发电",
-    "link": "https://news.bjx.com.cn/html/20261116/1520198.shtml",
-    "source": "北极星电力网新闻",
-    "site": "news.bjx.com.cn",
-    "date": "2026-11-16T01:06:00+00:00",
-    "lang": "zh",
-    "summary": "近日，国内首例沙漠腹地 风电项目 ..."
-   },
-   {
-    "id": "d32728b734",
-    "title": "金牛化工：金牛化工承德隆化200MW风电项目已完成项目核准，拟2027 ...",
-    "link": "https://www.msn.cn/zh-cn/news/other/%E9%87%91%E7%89%9B%E5%8C%96%E5%B7%A5-%E9%87%91%E7%89%9B%E5%8C%96%E5%B7%A5%E6%89%BF%E5%BE%B7%E9%9A%86%E5%8C%96200mw%E9%A3%8E%E7%94%B5%E9%A1%B9%E7%9B%AE%E5%B7%B2%E5%AE%8C%E6%88%90%E9%A1%B9%E7%9B%AE%E6%A0%B8%E5%87%86-%E6%8B%9F2027%E5%B9%B4%E5%BA%95%E5%89%8D%E5%BB%BA%E6%88%90%E5%B9%B6%E7%BD%91%E6%8A%95%E4%BA%A7/ar-AA2hwSZM",
-    "source": "财闻",
-    "site": "www.msn.cn",
-    "date": "2026-11-16T00:33:44+00:00",
-    "lang": "zh",
-    "summary": "有投资者向金牛化工（600722.SH）提问，公司200MW风电项目，目前进展程度如何，何时并网发电？",
-    "ai": {
-     "summary": "金牛化工在投资者互动平台上回应提问，表示其位于河北承德隆化的200MW风电项目已完成项目核准，并计划在2027年并网发电。文章内容无法读取，以上信息仅依据标题与摘要。",
-     "points": [
-      "项目为承德隆化200MW风电项目",
-      "公司已完成项目核准",
-      "拟于2027年并网发电（以标题为准）"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "881721822f",
-    "title": "四川能源投资集团拟投1.4亿美元建格鲁吉亚100MW风电项目",
-    "link": "https://news.goalfore.cn/latest/detail/108503.html",
-    "source": "news.goalfore.cn",
-    "site": "news.goalfore.cn",
-    "date": "2026-11-16T00:32:00+00:00",
-    "lang": "zh",
-    "summary": "四川省能源投资集团有限责任公司通过其在格鲁吉亚注册的子公司Iberia Capital Limited，计划在格鲁吉亚伊梅列季大区投资建设100兆瓦风电场，项目总投资额预计为1.3亿至1.4亿美元。 项目规划安装17台大功率风电机组，分布于萨奇赫雷和奇阿图拉两个市镇下辖的村庄区域，目前已全面进入现场建设及前期施工阶段，预计2027年完成绝大部分主体工程，并于2028年初实现全容量并网投运。",
-    "ai": {
-     "summary": "四川省能源投资集团通过其格鲁吉亚子公司Iberia Capital Limited，计划在格鲁吉亚伊梅列季大区建设一座100兆瓦风电场，总投资约1.3亿至1.4亿美元。项目已进入现场建设和前期施工阶段，同时还要新建一座500千伏变电站，把风电场接入国家电网，变电站建成后将无偿移交给格鲁吉亚国有电力系统公司。",
-     "points": [
-      "项目规划安装17台大功率风电机组，位于萨奇赫雷和奇阿图拉两个市镇的村庄区域",
-      "预计2027年完成绝大部分主体工程，2028年初实现全容量并网投运",
-      "配套500千伏变电站的投资已计入总预算，且该变电站不产生直接商业收入"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "433acc6563",
+    "id": "e343e14f0a",
     "title": "电气风电（688660）：中标中广核（赣县）高峰山风力发电有限公司 ...",
-    "link": "https://www.msn.cn/zh-cn/money/other/%E7%94%B5%E6%B0%94%E9%A3%8E%E7%94%B5-688660-%E4%B8%AD%E6%A0%87%E4%B8%AD%E5%B9%BF%E6%A0%B8-%E8%B5%A3%E5%8E%BF-%E9%AB%98%E5%B3%B0%E5%B1%B1%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%87%87%E8%B4%AD%E9%A1%B9%E7%9B%AE-%E4%B8%AD%E6%A0%87%E9%87%91%E9%A2%9D%E4%B8%BA3-45%E4%BA%BF%E5%85%83/ar-AA2hweFR",
+    "link": "https://www.msn.cn/zh-cn/news/other/%E7%94%B5%E6%B0%94%E9%A3%8E%E7%94%B5-688660-%E4%B8%AD%E6%A0%87%E4%B8%AD%E5%B9%BF%E6%A0%B8-%E8%B5%A3%E5%8E%BF-%E9%AB%98%E5%B3%B0%E5%B1%B1%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%87%87%E8%B4%AD%E9%A1%B9%E7%9B%AE-%E4%B8%AD%E6%A0%87%E9%87%91%E9%A2%9D%E4%B8%BA345%E4%BA%BF%E5%85%83/ar-AA2hweFR",
     "source": "商业新知",
     "site": "www.msn.cn",
     "date": "2026-11-15T23:00:46+00:00",
     "lang": "zh",
     "summary": "同壁财经讯，企查查数据显示，根据《中广核新能源江西赣县螺田、五龙200MW陆上风电项目风力发电机组采购中标公告》，上海电气风电集团股份有限公司于2026年11月16日公告中标中广核（赣县）高峰山风力发电有限公司采购项目，中标金额为3.45亿元。 相关上市公司：电气风电(688660.SH) 同壁财经小贴士： ...",
     "ai": {
-     "summary": "上海电气风电集团（电气风电，688660）公告，中标中广核（赣县）高峰山风力发电有限公司的采购项目。该项目属于江西赣县螺田、五龙200MW陆上风电项目，采购内容为风力发电机组。",
+     "summary": "上海电气风电集团股份有限公司（电气风电，688660）公告，已中标中广核（赣县）高峰山风力发电有限公司的风力发电机组采购项目。该项目属于中广核在江西赣县的200兆瓦陆上风电工程，中标金额为3.45亿元（人民币）。",
      "points": [
-      "中标金额为3.45亿元",
       "公告日期为2026年11月16日",
-      "项目为江西赣县螺田、五龙200MW陆上风电项目的风力发电机组采购"
+      "中标方为电气风电，买方为中广核旗下项目公司",
+      "中标金额约3.45亿元，项目为江西赣县200兆瓦陆上风电"
      ],
      "why": "",
      "title_zh": ""
     }
    },
    {
-    "id": "ce99abd9de",
-    "title": "前三季度全国光伏新增并网1.10亿千瓦，分布式占比近六成",
-    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%85%89%E4%BC%8F%E6%96%B0%E5%A2%9E%E5%B9%B6%E7%BD%911-10%E4%BA%BF%E5%8D%83%E7%93%A6-%E5%88%86%E5%B8%83%E5%BC%8F%E5%8D%A0%E6%AF%94%E8%BF%91%E5%85%AD%E6%88%90/ar-AA2hvwpm",
-    "source": "睿思网官方",
-    "site": "www.msn.cn",
-    "date": "2026-11-15T20:48:56+00:00",
-    "lang": "zh",
-    "summary": "截至9月底，全国光伏累计并网容量13.11亿千瓦，前三季度新增并网1.10亿千瓦。",
-    "ai": {
-     "summary": "据报道，截至今年9月底，中国全国光伏发电累计并网容量达13.11亿千瓦。前三季度全国新增光伏并网1.10亿千瓦，其中分布式光伏占比接近六成。",
-     "points": [
-      "截至9月底，全国光伏累计并网容量13.11亿千瓦",
-      "前三季度新增光伏并网1.10亿千瓦",
-      "分布式光伏占新增并网比例近六成"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "ed2af477ee",
-    "title": "花都首个水务光伏项目并网，5座厂站年发电量超400万度",
-    "link": "https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E8%8A%B1%E9%83%BD%E9%A6%96%E4%B8%AA%E6%B0%B4%E5%8A%A1%E5%85%89%E4%BC%8F%E9%A1%B9%E7%9B%AE%E5%B9%B6%E7%BD%91-5%E5%BA%A7%E5%8E%82%E7%AB%99%E5%B9%B4%E5%8F%91%E7%94%B5%E9%87%8F%E8%B6%85400%E4%B8%87%E5%BA%A6/ar-AA2hw7WP",
-    "source": "睿思网官方",
-    "site": "www.msn.cn",
-    "date": "2026-11-15T19:55:54+00:00",
-    "lang": "zh",
-    "summary": "项目利用供水厂站的池顶和屋面闲置空间铺设光伏，所发绿电就地生产、就近消纳，用于降低供水生产能耗。",
-    "ai": {
-     "summary": "广州花都首个水务光伏项目已成功并网发电。项目利用供水厂站池顶和屋面的闲置空间铺设光伏板，发出的绿色电力就地使用，用来降低供水生产的能耗。",
-     "points": [
-      "项目覆盖5座水厂站",
-      "利用池顶和屋面闲置空间建设光伏",
-      "预计年发电量超过400万度"
-     ],
-     "why": "",
-     "title_zh": ""
-    }
-   },
-   {
-    "id": "c00007a930",
-    "title": "NC approves Duke Energy plan to extend coal use, add natural gas",
-    "link": "https://www.wral.com/news/local/nc-approves-duke-energy-plan-to-extend-coal-use-add-natural-gas-november-2026/",
-    "source": "WRAL",
-    "site": "www.wral.com",
-    "date": "2026-11-16T13:54:00+00:00",
+    "id": "ac4ba435dd",
+    "title": "Adani Green Energy Says Tarali Pumped Storage Project Has Secured Required Approvals",
+    "link": "https://www.oneindia.com/india/tarali-pumped-storage-project-approval-status-2025-012-8261571.html",
+    "source": "Oneindia",
+    "site": "www.oneindia.com",
+    "date": "2026-11-16T16:31:00+00:00",
     "lang": "en",
-    "summary": "The state's latest Carbon Plan also calls for new solar generation, battery storage, and continued investment in potential nuclear power plants as electricity demand grows.",
+    "summary": "AGEL confirms EC and CTE for Tarali Pumped Storage Project in Maharashtra, with wildlife clearance process underway and all land-use permissions secured.",
     "ai": {
-     "summary": "北卡罗来纳州公用事业监管委员会周一批准了杜克能源（Duke Energy）的新长期能源计划。该计划延长部分燃煤电厂的运营年限，增加约3850兆瓦的天然气发电，并为未来新建核电站保留空间。",
+     "summary": "印度阿达尼绿色能源公司（AGEL）表示，其位于马哈拉施特拉邦的Tarali抽水蓄能项目不在任何已公告的保护区内，也不涉及林地，所需的土地使用许可和无异议证明均已取得。公司称，项目于2025年2月11日获得环境许可，并于2025年4月7日获得邦污染控制局的建设许可后才开工。野生动物许可申请仍在审理中。",
      "points": [
-      "计划批准新增约3850兆瓦天然气发电",
-      "部分燃煤电厂运营年限被延长",
-      "委员会将于2027年召开技术会议，再决定是否推进核电建设"
+      "项目于2025年2月11日获得环境许可（EC）",
+      "邦污染控制局于2025年4月7日发出建设许可（CTE）",
+      "向国家野生动物委员会提交的野生动物许可申请仍在审理中"
      ],
-     "why": "若电力需求持续增长，电费与供电稳定性可能受影响，企业在用电成本规划上可留意相关变化。",
-     "title_zh": "北卡批准杜克能源延长燃煤发电并增加天然气发电计划"
+     "why": "",
+     "title_zh": "阿达尼绿色能源称Tarali抽水蓄能项目已取得所需审批"
+    }
+   },
+   {
+    "id": "319da2b0aa",
+    "title": "Illinois regulators propose delaying closure of 11 gas- and oil-fired power plants",
+    "link": "https://www.chicagotribune.com/2026/11/16/electric-grid-data-centers-illinois/",
+    "source": "Chicago Tribune",
+    "site": "www.chicagotribune.com",
+    "date": "2026-11-16T16:30:00+00:00",
+    "lang": "en",
+    "summary": "Reports find energy challenges regionally and nationally are being driven primarily by the growth in data centers.",
+    "ai": {
+     "summary": "伊利诺伊州监管机构提议，把11座烧天然气或燃油的发电厂的关闭时间推迟最多三年，至2033年。推动原因是数据中心用电激增，州内可能出现电力短缺、电价上涨。",
+     "points": [
+      "拟推迟关闭的发电厂共11座，包括9座天然气电厂和2座燃油电厂，时间最长延至2033年",
+      "报告预测，北伊利诺伊ComEd供电区最早2030年出现供应不足，中南部Ameren供电区最早2027年出现",
+      "2025年9月，ComEd用户平均月电费为119.60美元，比2021年上涨31%"
+     ],
+     "why": "",
+     "title_zh": "伊利诺伊州监管机构提议推迟关闭11座燃气及燃油发电厂"
+    }
+   },
+   {
+    "id": "1770273797",
+    "title": "Energy World Corporation to Target Pagbilao LNG Hub after US$350m Turbine Sale",
+    "link": "https://smallcaps.com.au/article/energy-world-corporation-to-target-pagbilao-lng-hub-after-usdollar350m-turbine-sale",
+    "source": "Small Caps",
+    "site": "smallcaps.com.au",
+    "date": "2026-11-16T16:16:00+00:00",
+    "lang": "en",
+    "summary": "Energy World targets a Pagbilao LNG hub after receiving US$60m from its US$350m turbine sale, with another US$265m held in escrow.",
+    "ai": {
+     "summary": "Energy World Corporation(ASX上市)正把菲律宾Pagbilao项目打造成独立的液化天然气(LNG)储存与交易枢纽。公司已收到3亿5000万美元涡轮机出售案中的6000万美元,另有2亿6500万美元由第三方托管(escrow,即暂存待释放的款项)。",
+     "points": [
+      "已直接收到6000万美元,另2亿6500万美元托管中",
+      "出售的是3台从未安装或点火使用的涡轮机,买方为美国Hallador Energy",
+      "Pagbilao项目预计2028年可能迎来首批货物,目前尚未开始正式商业谈判"
+     ],
+     "why": "",
+     "title_zh": "Energy World在3.5亿美元涡轮机出售后瞄准Pagbilao LNG枢纽"
+    }
+   },
+   {
+    "id": "ed2535a7d2",
+    "title": "Energy storage firms raise $16.7 billion in corporate funding in Jan-Sept 2026: Report",
+    "link": "https://energy.economictimes.indiatimes.com/news/power/energy-storage-firms-raise-16-7-billion-in-corporate-funding-in-jan-sept-2026-report/135896938",
+    "source": "ET EnergyWorld",
+    "site": "energy.economictimes.indiatimes.com",
+    "date": "2026-11-16T16:09:00+00:00",
+    "lang": "en",
+    "summary": "Corporate funding for global energy storage firms skyrocketed by 49% year-on-year, reaching $16.7 billion in the first nine months of 2026, driven by increasing electricity demand and the need for ...",
+    "ai": {
+     "summary": "据一份报告显示，全球储能企业在2026年1月至9月期间获得的企业融资达167亿美元，比去年同期增长49%。增长主要受电力需求上升，以及电网和能源系统需要更多储电设施所推动。文章正文缺失，以下内容主要依据标题和摘要整理。",
+     "points": [
+      "融资总额：约167亿美元（2026年1月至9月）",
+      "同比增长：49%",
+      "主要驱动因素：电力需求增加，对储能的需求上升"
+     ],
+     "why": "",
+     "title_zh": "储能企业2026年1至9月企业融资达167亿美元：报告"
+    }
+   },
+   {
+    "id": "c7a7c2104e",
+    "title": "220MW solar power plant planned in Feni at Tk 1,900cr",
+    "link": "https://www.thedailystar.net/business/economy/news/220mw-solar-power-plant-planned-feni-tk-1900cr-4325716",
+    "source": "The Daily Star",
+    "site": "www.thedailystar.net",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "The government plans to set up a 220-megawatt solar power plant in Sonagazi, Feni, by June 2028 at an estimated cost of Tk 1,900 crore.",
+    "ai": {
+     "summary": "孟加拉政府计划在菲尼县索纳加齐建设一座220兆瓦的太阳能发电厂，预计2028年6月前完成，估计造价为1900千万塔卡。项目由孟加拉电力发电公司负责，资金来自政府、伊斯兰开发银行及公司自有资金。",
+     "points": [
+      "装机容量220兆瓦，预计每年向全国电网供电约441吉瓦时",
+      "预计2028年6月前完成，估计成本1900千万塔卡",
+      "伊斯兰开发银行与经济关系司已于今年8月3日签署融资协议"
+     ],
+     "why": "",
+     "title_zh": "菲尼县计划建设220兆瓦太阳能电站，造价1900千万塔卡"
+    }
+   },
+   {
+    "id": "bb72180e76",
+    "title": "Energy Storage Funding Hit US$16.7B, but the Money Is Not Even",
+    "link": "https://discoveryalert.com/analysis/energy-storage-funding-venture-capital-november-2026/",
+    "source": "discoveryalert.com",
+    "site": "discoveryalert.com",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Energy storage funding hit US$16.7B in 9 months, but VC jumped 93% and downstream developers won the most. See where investors are placing bets.",
+    "ai": {
+     "summary": "据Mercom Capital Group统计，2026年头九个月全球储能企业融资总额达167亿美元，比去年同期的112亿美元高出49%。风险投资增长93%至54亿美元，但资金分布并不平均，下游项目开发商拿到最多。",
+     "points": [
+      "融资总额167亿美元，共120笔交易，交易数为五年来同期最高",
+      "风险投资（VC）达54亿美元，增长93%",
+      "下游公司获得约18亿美元风险投资，并参与27宗并购中的14宗"
+     ],
+     "why": "对于马来西亚企业主而言，这反映资金更青睐有稳定合约收入的储能项目营运商，而非只靠硬件卖价的制造商；若涉及能源相关采购或投资，可留意收入模式与价格变动风险。",
+     "title_zh": "储能融资达167亿美元，但资金分配并不均衡"
+    }
+   },
+   {
+    "id": "4f106c6fc8",
+    "title": "Samaiden and Parkland Team Up to Explore Up to 1,000 MWac of Renewables",
+    "link": "https://energynews.pro/en/samaiden-and-parkland-team-up-to-explore-up-to-1000-mwac-of-renewables",
+    "source": "energynews",
+    "site": "energynews.pro",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "Samaiden and Parkland Renewable Energy sign an MOU to explore up to 1,000 MWac of renewable energy projects under Malaysia's CRESS scheme.",
+    "ai": {
+     "summary": "马来西亚企业Samaiden与加拿大的Parkland Renewable Energy签署谅解备忘录，双方将探讨最多1000兆瓦（MWac）的可再生能源项目。这些项目将依据马来西亚的CRESS计划进行。原文网页显示的是浏览器安全验证页面，未提供更多细节。",
+     "points": [
+      "双方签署谅解备忘录（MOU），即意向合作文件",
+      "探讨规模最多1000 MWac可再生能源项目",
+      "项目依据马来西亚CRESS计划进行"
+     ],
+     "why": "",
+     "title_zh": "Samaiden与Parkland携手探讨最多1000兆瓦可再生能源项目"
+    }
+   },
+   {
+    "id": "2118c36e80",
+    "title": "China targets 100GW offshore wind capacity",
+    "link": "https://www.thestar.com.my/business/business-news/2026/11/17/china-targets-100gw-offshore-wind-capacity",
+    "source": "The Star",
+    "site": "www.thestar.com.my",
+    "date": "2026-11-16T16:00:00+00:00",
+    "lang": "en",
+    "summary": "BEIJING: China is set to double its cumulative offshore wind capacity to over 100 gigawatts by 2030 during the 15th Five-Year Plan period (2026 to 2030), pivoting aggressively toward deep-sea ...",
+    "ai": {
+     "summary": "中国计划在十五五规划期间（2026至2030年）把海上风电累计装机容量翻一番，超过1亿千瓦（100吉瓦），重点转向深远海和多产业融合发展。国家能源局官员梁昌新表示，中国已从跟随者变成全球领跑者。",
+     "points": [
+      "目标：2030年前海上风电累计装机超过100吉瓦",
+      "截至2026年9月底，并网海上风电累计超过4984万千瓦",
+      "中国连续五年在新增和累计装机上全球排名第一，占全球总量一半以上"
+     ],
+     "why": "海上风电大型项目多、产业链长，若中国企业在设备和服务上扩张，相关的供应链与贸易环境可能随之变化，马来西亚企业可留意相关行业动态。",
+     "title_zh": "中国目标海上风电装机达100吉瓦"
+    }
+   },
+   {
+    "id": "9fd8308da7",
+    "title": "Ghanaian waste tycoon Joseph Siaw Agyepong's Jospong advances solar partnership at COP31",
+    "link": "https://www.billionaires.africa/2026/11/16/ghanaian-waste-tycoon-joseph-siaw-agyepongs-jospong-advances-solar-partnership-at-cop31/",
+    "source": "billionaires",
+    "site": "www.billionaires.africa",
+    "date": "2026-11-16T15:05:00+00:00",
+    "lang": "en",
+    "summary": "Jospong Group, the Ghanaian waste conglomerate built by Joseph Siaw Agyepong, is in talks with the International Solar Alliance on solar energy and green jobs.",
+    "ai": {
+     "summary": "加纳废物管理集团Jospong正与国际太阳能联盟洽谈合作，内容涵盖太阳能、绿色就业和气候智能型农业。双方在土耳其安塔利亚的COP31联合国气候大会上会面，讨论在非洲市场开发太阳能等项目，但目前尚未宣布任何资金承诺或签约。",
+     "points": [
+      "Jospong计划把约1,000辆柴油收集车改为电动车，并建设太阳能充电网络",
+      "2023年5月与美国电动车技术公司Zeronox签署的项目曾预计五年减排约40万吨二氧化碳、节省3.23亿美元",
+      "国际太阳能联盟由印度和法国于2015年巴黎气候谈判时发起，加纳是成员国"
+     ],
+     "why": "",
+     "title_zh": "加纳富商阿加延蓬的Jospong在COP31推进太阳能合作"
     }
    },
    {
@@ -2685,43 +2845,23 @@
     }
    },
    {
-    "id": "40116b73f5",
-    "title": "enSights Brings AI-Powered Business Management to Solar and Storage Operations",
-    "link": "https://www.solarpowerworldonline.com/2026/11/ensights-brings-ai-powered-business-management-to-solar-and-storage-operations/",
-    "source": "Solar Power World",
-    "site": "www.solarpowerworldonline.com",
-    "date": "2026-11-16T13:16:00+00:00",
+    "id": "4faf3f48f5",
+    "title": "State Farm agrees to $45M Oklahoma homeowners claims settlement",
+    "link": "https://finance-commerce.com/2026/11/state-farm-oklahoma-homeowners-claims-settlement/",
+    "source": "Finance & Commerce",
+    "site": "finance-commerce.com",
+    "date": "2026-11-16T13:41:00+00:00",
     "lang": "en",
-    "summary": "Sights launches AI Studio, adding AI-powered asset, financial, and contract management tools for solar and energy storage portfolios.",
+    "summary": "State Farm agreed to a $45 million-plus Oklahoma settlement after an investigation found errors in wind and hail claims, creating a homeowner review process.",
     "ai": {
-     "summary": "enSights推出了名为AI Studio的新功能，加入其能源业务管理平台（EBM）。它提供一组可定制的AI助手，帮助太阳能和储能项目的业主与营运方处理业务与运营流程，并可用日常语言创建报表与仪表板，同时保留用户对权限与审批的控制。",
+     "summary": "美国保险公司State Farm与俄克拉荷马州保险厅达成监管和解，总值超过4500万美元。调查发现该公司在处理房主的风暴与冰雹理赔时出现错误。",
      "points": [
-      "该产品于11月10日宣布推出",
-      "AI Studio涵盖监测、营运、收益、保修、许可、贷款方、保险及资产管理等领域的AI代理",
-      "平台据称已部署于全球超过10万个站点，资产规模超过5吉瓦（GW），并计划于RE+ 2026展示"
+      "至少3500万美元用于对符合条件的理赔进行独立复审",
+      "1000万美元用于抗风灾等防灾韧性计划",
+      "286万美元为罚款及相关费用"
      ],
-     "why": "对于拥有太阳能或储能资产的马来西亚企业而言，这类工具若能整合合约、收益与营运数据，或有助于减少人工对账时间，但是否适用仍需视项目规模与实际需求而定。",
-     "title_zh": "enSights为太阳能与储能营运带来AI驱动的业务管理"
-    }
-   },
-   {
-    "id": "91a7f7281b",
-    "title": "Stem and Copec Expand Partnership to Advance Energy Storage and Intelligent Energy Management Across Latin America",
-    "link": "https://finance.yahoo.com/energy/articles/stem-copec-expand-partnership-advance-211200423.html",
-    "source": "Yahoo Finance",
-    "site": "finance.yahoo.com",
-    "date": "2026-11-16T13:12:00+00:00",
-    "lang": "en",
-    "summary": "Stem, Inc. (NYSE: STEM), a global leader in AI-enabled clean energy software and services, today announced a partnership agreement with Copec Flux, the renewable energy subsidiary of Copec S.A., to ...",
-    "ai": {
-     "summary": "美国储能软件公司Stem与智利能源公司Copec旗下的Copec Flux扩大合作，共同提供储能和能源管理方案，首先聚焦智利，并计划探索哥伦比亚等拉丁美洲市场。双方此前已在智利Granja太阳能项目合作，Stem提供控制软件，Copec Flux负责本地工程与项目运营。",
-     "points": [
-      "合作以智利Granja太阳能项目为基础，该项目为135兆瓦太阳能电站加装420兆瓦时电池储能系统",
-      "Stem提供PowerTrack软件与控制技术，Copec Flux负责本地工程、项目交付和运营服务",
-      "服务对象包括大型公用事业开发商，以及工商业客户"
-     ],
-     "why": "",
-     "title_zh": "Stem与Copec扩大合作，推动拉丁美洲储能与智能能源管理"
+     "why": "此新闻主要涉及美国保险公司与当地房屋理赔，与马来西亚企业的直接关联较少，暂无明确影响。",
+     "title_zh": "State Farm同意以4500万美元与俄克拉荷马州房主理赔案达成和解"
     }
    },
    {
@@ -2765,26 +2905,6 @@
     }
    },
    {
-    "id": "b123ca1633",
-    "title": "Clean energy companies bat for duty cuts, export relief",
-    "link": "https://economictimes.indiatimes.com/industry/renewables/clean-energy-companies-bat-for-duty-cuts-export-relief/articleshow/135900916.cms",
-    "source": "The Economic Times",
-    "site": "economictimes.indiatimes.com",
-    "date": "2026-11-16T11:03:00+00:00",
-    "lang": "en",
-    "summary": "The green energy industry is seeking customs duty concessions on manufacturing inputs and easing export obligations. Key inputs such as polysilicon and wafers do not have adequate local availability.",
-    "ai": {
-     "summary": "印度的绿色能源行业正在向政府争取两项优惠：一是降低制造所需原材料的海关关税，二是放宽出口义务。多晶硅和硅片等关键原料在当地供应不足，因此业界希望获得支持。此外，业界还希望延长锂电池相关资本设备的关税豁免期，并要求调整影响储能系统的税务分类及利息税。",
-     "points": [
-      "请求降低多晶硅、硅片等制造原料的海关关税",
-      "希望延长锂离子电池相关资本设备的关税豁免",
-      "要求调整储能系统的税务分类并检讨利息课税"
-     ],
-     "why": "",
-     "title_zh": "清洁能源企业争取关税减免与出口纾困"
-    }
-   },
-   {
     "id": "7a9922f75a",
     "title": "Malaysia Aims To Become Leader, Technology Owner In Green Energy – Fadillah",
     "link": "https://www.bernama.com/en/general/news.php?id=2635208",
@@ -2823,165 +2943,45 @@
      "why": "",
      "title_zh": "EnBW计划在德国抽水蓄能水电站建设41兆瓦电池储能项目"
     }
-   },
-   {
-    "id": "d19fee38eb",
-    "title": "PM: Malaysia, Laos to strengthen bilateral cooperation across key sectors",
-    "link": "https://www.malaymail.com/news/malaysia/2026/11/16/pm-malaysia-laos-to-strengthen-bilateral-cooperation-across-key-sectors/243520",
-    "source": "Malay Mail",
-    "site": "www.malaymail.com",
-    "date": "2026-11-16T10:22:00+00:00",
-    "lang": "en",
-    "summary": "Malaysia and Laos have agreed to step up bilateral economic and trade cooperation, particularly in the fields of renewable energy, ...",
-    "ai": {
-     "summary": "马来西亚与老挝同意加强双边经贸合作，重点包括再生能源、基础设施、交通和物流，以纪念两国建交60周年。首相安华在东盟峰会期间与老挝新任总理会面后，在脸书发文说明此事。",
-     "points": [
-      "双方同意在再生能源、基建、交通和物流领域深化合作",
-      "2025年1月至8月双边贸易额按年增长28.7%，达5590万美元（约2.29亿令吉）",
-      "双方将于2027年在万象举行第4届双边合作联合委员会会议，并推进高等教育和旅游领域的合作"
-     ],
-     "why": "",
-     "title_zh": "首相：马来西亚与老挝将在多个重点领域加强双边合作"
-    }
-   },
-   {
-    "id": "bec7d83b54",
-    "title": "SolaREIT Supports Over $8.5 Billion In Clean Energy Project Value",
-    "link": "https://pulse2.com/solareit-supports-over-8-5-billion-in-clean-energy-project-value/",
-    "source": "Pulse 2.0",
-    "site": "pulse2.com",
-    "date": "2026-11-16T09:56:00+00:00",
-    "lang": "en",
-    "summary": "SolaREIT has surpassed $8.5 billion in project value supported through its real estate financing, covering approximately 4.6 gigawatts of solar and battery storage capacity.",
-    "ai": {
-     "summary": "美国弗吉尼亚州的SolaREIT公司表示，通过其房地产融资支持的项目总价值已超过85亿美元，涉及约4.6吉瓦的太阳能和储能电池容量。这一数字衡量的是相关能源项目的价值，并非公司直接提供的融资金额。公司提供土地购买、租赁购买和土地贷款等服务，服务范围覆盖美国50个州。",
-     "points": [
-      "项目价值较2025年11月以来增加超过35亿美元",
-      "涉及约4.6吉瓦太阳能与储能容量",
-      "交易签约后30至45天内可完成，服务覆盖美国全部50州"
-     ],
-     "why": "这类土地融资属于美国的清洁能源项目资金安排，与马来西亚企业的日常成本、员工或家庭直接关联不大，暂无明确影响。",
-     "title_zh": "SolaREIT支持的清洁能源项目价值超过85亿美元"
-    }
-   },
-   {
-    "id": "372af0ecd3",
-    "title": "State building energy storage capacity to meet rising peak-hour demand: Nagar",
-    "link": "https://www.msn.com/en-in/money/general/state-building-energy-storage-capacity-to-meet-rising-peak-hour-demand-nagar/ar-AA2hyZob",
-    "source": "The Times of India",
-    "site": "www.msn.com",
-    "date": "2026-11-16T09:55:00+00:00",
-    "lang": "en",
-    "summary": "As Rajasthan rapidly expands its renewable energy capacity, govt is focusing on battery storage, pumped storage projects and grid-level interventions to ensure electricity is available during peak ...",
-    "ai": {
-     "summary": "印度拉贾斯坦邦的可再生能源发展很快，邦政府正把重点放在电池储能、抽水蓄能项目和电网层面的调节措施上，目的是确保用电高峰时段也有足够电力供应。文章主要依据标题与摘要，原文未能读取。",
-     "points": [
-      "拉贾斯坦邦正快速扩大可再生能源装机容量",
-      "政府重点推动电池储能与抽水蓄能项目",
-      "措施目标是保障用电高峰时段的电力供应"
-     ],
-     "why": "这则新闻主要关于印度的电力政策，与马来西亚企业的直接关联不大。",
-     "title_zh": "邦政府加强储能能力以应对用电高峰需求上升：Nagar"
-    }
-   },
-   {
-    "id": "fbeaf98f76",
-    "title": "ACME Solar signs PPA for 220 MW solar project with battery storage in Madhya Pradesh",
-    "link": "https://www.cnbctv18.com/business/companies/acme-solar-signs-ppa-for-220-mw-solar-project-with-battery-storage-in-madhya-pradesh-20035345.htm",
-    "source": "CNBCTV18",
-    "site": "www.cnbctv18.com",
-    "date": "2026-11-16T09:55:00+00:00",
-    "lang": "en",
-    "summary": "The project at Morena Solar Park will have a tariff of ₹2.764 per unit and is scheduled to begin commercial operations by December 2027. ACME Solar has also raised its FY27 battery storage ...",
-    "ai": {
-     "summary": "ACME Solar Holdings 的全资子公司与 Rewa Ultra Mega Solar 签下为期25年的购电协议（PPA，即长期售电合约），在中央邦 Morena 太阳能园区建设一个220兆瓦的太阳能项目，并配备电池储能系统。项目电价为每单位2.764卢比，预计2027年12月31日前开始商业运营。公司同时把2027财年的电池储能投运目标从10吉瓦时上调至12吉瓦时。",
-     "points": [
-      "项目为220兆瓦太阳能加电池储能，合约期25年",
-      "电价每单位2.764卢比，预定2027年12月31日商业运营",
-      "储能业务占第二季度营收32%，公司预计未来两年占营收30%至50%"
-     ],
-     "why": "这则新闻主要反映印度可再生能源与储能市场的发展，与马来西亚企业的直接关联有限，暂无明确影响。",
-     "title_zh": "ACME Solar 与中央邦签下220兆瓦太阳能加储能购电协议"
-    }
-   },
-   {
-    "id": "66a7424cda",
-    "title": "Startup workshop on Sonagazi Solar Power Project held",
-    "link": "https://www.bssnews.net/others/446440",
-    "source": "Bangladesh Sangbad Sangstha (BSS)",
-    "site": "www.bssnews.net",
-    "date": "2026-11-16T09:34:00+00:00",
-    "lang": "en",
-    "summary": "The 220MW Sonagazi solar power project would play a role to achieve the goal, he said while inaugurating the start-up workshop of the 220MW Sonagazi Solar Power Project at Bidyut Bhaban in the capital ...",
-    "ai": {
-     "summary": "孟加拉国国营通讯社报道，当局在首都的电力大厦举行了220兆瓦Sonagazi太阳能发电项目的启动研讨会。据报道，该项目将在实现国家目标方面发挥作用。由于原文无法读取，内容仅根据标题和摘要整理。",
-     "points": [
-      "项目规模为220兆瓦太阳能发电",
-      "启动研讨会在首都的电力大厦举行",
-      "消息来源为孟加拉国国营通讯社BSS"
-     ],
-     "why": "",
-     "title_zh": "Sonagazi太阳能发电项目启动研讨会举行"
-    }
-   },
-   {
-    "id": "42c3ae4c3d",
-    "title": "Winds weaken, farm fires rise: Delhi's air quality likely to slip into 'very poor' category on Tuesday",
-    "link": "https://www.msn.com/en-in/weather/meteorology/winds-weaken-farm-fires-rise-delhi-s-air-quality-likely-to-slip-into-very-poor-category-on-tuesday/ar-AA2hyZab",
-    "source": "News18",
-    "site": "www.msn.com",
-    "date": "2026-11-16T09:29:03+00:00",
-    "lang": "en",
-    "summary": "Air quality in the national capital is expected to slip into the “Very Poor” category on Tuesday, with weakening winds, falling temperatures and morning fog likely to play a major role in restricting ...",
-    "ai": {
-     "summary": "德里的空气质量预计周二将恶化至“非常差”等级，原因是风力减弱、气温下降，加上清晨大雾，可能让污染物难以扩散。",
-     "points": [
-      "来源为印度News18，报道对象是印度首都德里",
-      "预计周二空气质量跌入“非常差”类别",
-      "风力减弱、气温下降及晨雾被认为是主要因素"
-     ],
-     "why": "",
-     "title_zh": "风力减弱、农田焚烧增加：德里空气质量周二或降至“非常差”等级"
-    }
    }
   ]
  },
  "markets": {
-  "updated": "2026-11-17T06:05+08:00",
+  "updated": "2026-11-17T09:33+08:00",
   "items": {
    "klci": {
-    "value": 1588.03,
-    "asof": "2026-11-16T16:59:45+08:00",
-    "change": 2.07,
-    "pct": 0.13
+    "value": 1584.44,
+    "asof": "2026-11-17T09:18:15+08:00",
+    "change": 1.85,
+    "pct": 0.12
    },
    "usdmyr": {
-    "value": 4.093,
-    "asof": "2026-11-17T05:05:36+08:00",
-    "change": 0.0156,
-    "pct": 0.38
+    "value": 4.09,
+    "asof": "2026-11-17T09:24:07+08:00",
+    "change": 0.0064,
+    "pct": 0.16
    },
    "brent": {
-    "value": 91.86,
-    "asof": "2026-11-17T05:54:55+08:00",
-    "change": -3.98,
-    "pct": -4.15
+    "value": 91.9,
+    "asof": "2026-11-17T09:22:22+08:00",
+    "change": -3.94,
+    "pct": -4.11
    },
    "spx": {
     "value": 7416.59,
-    "asof": "2026-11-17T05:20:01+08:00",
+    "asof": "2026-11-17T06:22:10+08:00",
     "change": -145.08,
     "pct": -1.92
    },
    "ndx": {
     "value": 24509.76,
-    "asof": "2026-11-17T06:05:01+08:00",
+    "asof": "2026-11-17T06:15:59+08:00",
     "change": -626.51,
     "pct": -2.49
    },
    "dji": {
     "value": 51608.17,
-    "asof": "2026-11-17T05:20:01+08:00",
+    "asof": "2026-11-17T06:28:10+08:00",
     "change": -739.38,
     "pct": -1.41
    },
@@ -2992,10 +2992,10 @@
     "pct": -0.64
    },
    "dxy": {
-    "value": 103.58,
-    "asof": "2026-11-17T05:54:59+08:00",
-    "change": 0.17,
-    "pct": 0.17
+    "value": 103.69,
+    "asof": "2026-11-17T09:23:18+08:00",
+    "change": 0.28,
+    "pct": 0.27
    },
    "vix": {
     "value": 22.91,
